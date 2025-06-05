@@ -1,0 +1,19 @@
+{
+  "providers": {
+    "gemini": {
+      "base_url": "https://generativelanguage.googleapis.com/v1beta",
+      "model_url": "https://generativelanguage.googleapis.com/v1beta/models?key={api_key}",
+      "filters": {
+        "min_input_token_limit": 1000000,
+        "min_output_token_limit": 32000,
+        "exclude_keywords_in_name": [
+          "vision",
+          "embeddings",
+          "thinking",
+          "image",
+          "learnlm"
+        ]
+      }
+    }
+  }
+}
