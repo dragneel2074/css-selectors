@@ -14,6 +14,22 @@
           "learnlm"
         ]
       }
-    }
+    },
+        "groq": {
+      "base_url": "https://api.groq.com/openai/v1",
+      "model_url": "https://api.groq.com/openai/v1/models",
+      "chat_url": "https://api.groq.com/openai/v1/chat/completions",
+      "filters": {
+        "min_input_token_limit": 4096,
+        "min_output_token_limit": 4096,
+        "exclude_keywords_in_name": [
+          "guard",
+          "whisper",
+          "tts",
+          "audio",
+          "compound"
+        ]
+      }
+    },
   }
 }
