@@ -13,6 +13,14 @@
           "image",
           "learnlm"
         ]
+      },
+      "response_config": {
+        "type": "textInJson",
+        "text_in_json_config": {
+          "text_path": "candidates[0].content.parts[0].text",
+          "json_in_markdown": true,
+          "json_markdown_regex": "```json\\n([\\s\\S]*?)\\n```"
+        }
       }
     },
     "groq": {
@@ -28,6 +36,13 @@
           "audio",
           "compound"
         ]
+      },
+      "response_config": {
+        "type": "textInJson",
+        "text_in_json_config": {
+          "text_path": "choices[0].message.content",
+          "json_in_markdown": false
+        }
       }
     }
   }
