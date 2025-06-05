@@ -1,7 +1,7 @@
 {
   "providers": {
     "gemini": {
-      "base_url": "https://generativelanguage.googleapis.com/v1beta",
+      "chat_url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
       "model_url": "https://generativelanguage.googleapis.com/v1beta/models?key={api_key}",
       "filters": {
         "min_input_token_limit": 1000000,
@@ -16,7 +16,6 @@
       }
     },
         "groq": {
-      "base_url": "https://api.groq.com/openai/v1",
       "model_url": "https://api.groq.com/openai/v1/models",
       "chat_url": "https://api.groq.com/openai/v1/chat/completions",
       "filters": {
