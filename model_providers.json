@@ -15,7 +15,7 @@
         ]
       }
     },
-        "groq": {
+    "groq": {
       "model_url": "https://api.groq.com/openai/v1/models",
       "chat_url": "https://api.groq.com/openai/v1/chat/completions",
       "filters": {
@@ -29,6 +29,6 @@
           "compound"
         ]
       }
-    },
+    }
   }
 }
