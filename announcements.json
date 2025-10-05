@@ -1,5 +1,6 @@
 {
     "announcements": {
-      
+        "announcement_1": "Welcome! If you encounter any issues, feel free to join our Discord community for support.",
+        "announcement_2": "For faster translations, use the latest Gemini Flash Lite model. For uncensored models, access them through OpenRouter."
     }
 }
