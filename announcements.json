@@ -3,5 +3,11 @@
         "announcement_1": "Welcome! Noyaku has been updated. Please Update the App. Do Review Us on Playstore.",
         "announcement_2": "By Default, Text Mode has been enabled. If you want to translate Manga, you need to change to Image Mode by clicking on Book Icon.",
         "announcement_3": "Ads have been enabled. Full Screen Ads are shown once every half an hour."
+    },
+    "tutorial_videos": {
+        "link 1" :"https://files.catbox.moe/s9ru7i.mp4",
+    },
+    "default_model":{
+    "model_name":"chickytutor"
     }
 }
