@@ -5,7 +5,8 @@
         "announcement_3": "Ads have been enabled. Full Screen Ads are shown once every half an hour."
     },
     "tutorial_videos": {
-        "link 1" :"https://files.catbox.moe/s9ru7i.mp4",
+        "link_1" :"https://files.catbox.moe/s9ru7i.mp4",
+        "metadata_1":"Learn How to Translate Manhwa/Webtoons"
     },
     "default_model":{
     "model_name":"chickytutor"
