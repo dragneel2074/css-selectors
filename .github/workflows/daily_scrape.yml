@@ -1,0 +1,54 @@
+name: Daily Trending Scrape
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Connectivity smoke test
+        run: |
+          curl -sS --retry 4 --retry-all-errors --max-time 30 https://graphql.anilist.co > /dev/null
+          curl -sS --retry 4 --retry-all-errors --max-time 30 https://api.jikan.moe/v4/seasons/now?limit=1 > /dev/null
+
+      - name: Run scraper
+        run: python src/scraper.py
+
+      - name: Validate output schema
+        run: |
+          python - << 'PY'
+          import json
+          from pathlib import Path
+          p = Path("data/trending.json")
+          d = json.loads(p.read_text(encoding="utf-8"))
+          required = ["generated_at_utc", "date", "item_count", "errors", "items"]
+          missing = [k for k in required if k not in d]
+          if missing:
+              raise SystemExit(f"Missing keys in trending.json: {missing}")
+          print("Output valid. item_count=", d.get("item_count"))
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "noyaku-trend-bot"
+          git config user.email "noreply@users.noreply.github.com"
+          git add data/trending.json data/history.json
+          git diff --staged --quiet || git commit -m "chore(data): update trending snapshot"
+          git push
