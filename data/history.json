@@ -1,191 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-05-23",
-      "items": [
-        {
-          "id": "jikan-anime-59983",
-          "score": 17398.0
-        },
-        {
-          "id": "jikan-anime-56734",
-          "score": 16646.0
-        },
-        {
-          "id": "anilist-anime-182483",
-          "score": 37534.0
-        },
-        {
-          "id": "jikan-anime-60852",
-          "score": 12312.0
-        },
-        {
-          "id": "jikan-anime-60028",
-          "score": 8392.0
-        },
-        {
-          "id": "jikan-anime-62604",
-          "score": 11985.0
-        },
-        {
-          "id": "jikan-anime-62568",
-          "score": 15505.0
-        },
-        {
-          "id": "jikan-anime-62568",
-          "score": 15505.0
-        },
-        {
-          "id": "anilist-anime-186497",
-          "score": 42517.0
-        },
-        {
-          "id": "anilist-anime-199588",
-          "score": 45082.0
-        },
-        {
-          "id": "jikan-anime-51553",
-          "score": 47185.0
-        },
-        {
-          "id": "jikan-anime-62601",
-          "score": 13168.0
-        },
-        {
-          "id": "jikan-anime-61316",
-          "score": 34576.0
-        },
-        {
-          "id": "jikan-anime-59970",
-          "score": 18503.0
-        },
-        {
-          "id": "jikan-anime-59708",
-          "score": 24109.0
-        },
-        {
-          "id": "jikan-anime-62001",
-          "score": 22197.0
-        },
-        {
-          "id": "anilist-anime-169580",
-          "score": 58358.0
-        },
-        {
-          "id": "anilist-anime-199221",
-          "score": 57646.0
-        },
-        {
-          "id": "jikan-anime-56876",
-          "score": 15501.0
-        },
-        {
-          "id": "jikan-anime-57466",
-          "score": 6510.0
-        },
-        {
-          "id": "anilist-anime-147105",
-          "score": 152857.0
-        },
-        {
-          "id": "anilist-anime-182300",
-          "score": 78687.0
-        },
-        {
-          "id": "anilist-anime-189046",
-          "score": 94688.0
-        },
-        {
-          "id": "anilist-anime-180745",
-          "score": 88004.0
-        },
-        {
-          "id": "jikan-manga-133431",
-          "score": 11411.0
-        },
-        {
-          "id": "jikan-manga-147272",
-          "score": 85879.0
-        },
-        {
-          "id": "anilist-anime-269",
-          "score": 480156.0
-        },
-        {
-          "id": "anilist-anime-21",
-          "score": 703496.0
-        },
-        {
-          "id": "jikan-manga-162032",
-          "score": 23818.0
-        },
-        {
-          "id": "jikan-manga-34053",
-          "score": 24804.0
-        },
-        {
-          "id": "jikan-manga-1706",
-          "score": 325366.0
-        },
-        {
-          "id": "jikan-manga-642",
-          "score": 361524.0
-        },
-        {
-          "id": "jikan-manga-656",
-          "score": 459714.0
-        },
-        {
-          "id": "jikan-manga-2",
-          "score": 798201.0
-        },
-        {
-          "id": "jikan-manga-1",
-          "score": 290594.0
-        },
-        {
-          "id": "jikan-manga-51",
-          "score": 201342.0
-        },
-        {
-          "id": "jikan-manga-70345",
-          "score": 202483.0
-        },
-        {
-          "id": "jikan-manga-25",
-          "score": 323768.0
-        },
-        {
-          "id": "jikan-manga-16765",
-          "score": 201815.0
-        },
-        {
-          "id": "jikan-manga-13",
-          "score": 699301.0
-        },
-        {
-          "id": "jikan-manga-657",
-          "score": 111888.0
-        },
-        {
-          "id": "anilist-anime-182205",
-          "score": 89133.0
-        },
-        {
-          "id": "anilist-anime-170019",
-          "score": 61486.0
-        },
-        {
-          "id": "anilist-anime-187869",
-          "score": 23967.0
-        },
-        {
-          "id": "anilist-anime-192808",
-          "score": 19728.0
-        }
-      ]
-    },
-    {
       "date": "2026-05-24",
       "items": [
         {
@@ -1172,6 +987,191 @@
         {
           "id": "jikan-anime-57466",
           "score": 6823.0
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "items": [
+        {
+          "id": "jikan-anime-61316",
+          "score": 37778.0
+        },
+        {
+          "id": "jikan-anime-56734",
+          "score": 18059.0
+        },
+        {
+          "id": "jikan-anime-60852",
+          "score": 13298.0
+        },
+        {
+          "id": "jikan-anime-62604",
+          "score": 12853.0
+        },
+        {
+          "id": "anilist-anime-186497",
+          "score": 44935.0
+        },
+        {
+          "id": "jikan-anime-59983",
+          "score": 19428.0
+        },
+        {
+          "id": "jikan-anime-59708",
+          "score": 25830.0
+        },
+        {
+          "id": "jikan-anime-62568",
+          "score": 16703.0
+        },
+        {
+          "id": "jikan-anime-62568",
+          "score": 16703.0
+        },
+        {
+          "id": "jikan-anime-62601",
+          "score": 14314.0
+        },
+        {
+          "id": "jikan-anime-51553",
+          "score": 51339.0
+        },
+        {
+          "id": "jikan-anime-60028",
+          "score": 8888.0
+        },
+        {
+          "id": "anilist-anime-199588",
+          "score": 48021.0
+        },
+        {
+          "id": "jikan-anime-62001",
+          "score": 23908.0
+        },
+        {
+          "id": "anilist-anime-169580",
+          "score": 62701.0
+        },
+        {
+          "id": "jikan-anime-59970",
+          "score": 19926.0
+        },
+        {
+          "id": "anilist-anime-199547",
+          "score": 60207.0
+        },
+        {
+          "id": "anilist-anime-199221",
+          "score": 59764.0
+        },
+        {
+          "id": "jikan-anime-56876",
+          "score": 16378.0
+        },
+        {
+          "id": "jikan-anime-57466",
+          "score": 6867.0
+        },
+        {
+          "id": "anilist-anime-189046",
+          "score": 98587.0
+        },
+        {
+          "id": "anilist-anime-147105",
+          "score": 160946.0
+        },
+        {
+          "id": "anilist-anime-180745",
+          "score": 91106.0
+        },
+        {
+          "id": "jikan-manga-162032",
+          "score": 23972.0
+        },
+        {
+          "id": "anilist-anime-269",
+          "score": 482756.0
+        },
+        {
+          "id": "anilist-anime-21",
+          "score": 707086.0
+        },
+        {
+          "id": "jikan-manga-657",
+          "score": 112046.0
+        },
+        {
+          "id": "jikan-manga-1706",
+          "score": 325823.0
+        },
+        {
+          "id": "jikan-manga-656",
+          "score": 460300.0
+        },
+        {
+          "id": "jikan-manga-34053",
+          "score": 24851.0
+        },
+        {
+          "id": "jikan-manga-642",
+          "score": 361965.0
+        },
+        {
+          "id": "jikan-manga-51",
+          "score": 201519.0
+        },
+        {
+          "id": "jikan-manga-2",
+          "score": 798923.0
+        },
+        {
+          "id": "jikan-manga-16765",
+          "score": 202076.0
+        },
+        {
+          "id": "jikan-manga-70345",
+          "score": 202649.0
+        },
+        {
+          "id": "jikan-manga-13",
+          "score": 699886.0
+        },
+        {
+          "id": "jikan-manga-25",
+          "score": 323973.0
+        },
+        {
+          "id": "jikan-manga-147272",
+          "score": 86450.0
+        },
+        {
+          "id": "jikan-manga-1",
+          "score": 290531.0
+        },
+        {
+          "id": "jikan-manga-133431",
+          "score": 11389.0
+        },
+        {
+          "id": "anilist-anime-182205",
+          "score": 92954.0
+        },
+        {
+          "id": "anilist-anime-170019",
+          "score": 63215.0
+        },
+        {
+          "id": "anilist-anime-187869",
+          "score": 24914.0
+        },
+        {
+          "id": "anilist-anime-192808",
+          "score": 20841.0
+        },
+        {
+          "id": "anilist-anime-196144",
+          "score": 10502.0
         }
       ]
     }
