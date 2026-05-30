@@ -1053,6 +1053,27 @@ def fetch_reddit_discussed(limit: int = MAX_ITEMS) -> list[Item]:
     return deduped
 
 
+_CATEGORY_GENRES: dict[str, list[str]] = {
+    "anime": ["Anime"],
+    "donghua": ["Anime", "Chinese"],
+    "manga": ["Manga"],
+    "manhwa": ["Manhwa"],
+    "manhua": ["Manhua"],
+    "web_novel": ["Web Novel"],
+    "light_novel": ["Light Novel"],
+    "romance": ["Romance"],
+    "discussed": [],
+}
+
+
+def _backfill_genres(row: dict[str, Any]) -> None:
+    """Fill genres from category when the scraper couldn't extract them."""
+    if row.get("genres"):
+        return
+    category = row.get("category") or ""
+    row["genres"] = _CATEGORY_GENRES.get(category, [])
+
+
 def _compute_velocity(current_score: float, previous_score: float | None) -> float | None:
     if previous_score is None or previous_score <= 0:
         return None
@@ -1125,10 +1146,13 @@ def build_snapshot() -> dict[str, Any]:
         ("jikan_top_novels", fetch_jikan_top_novels),
         ("webnovel_best_sellers", fetch_webnovel_best_sellers),
         ("novelfire_home", fetch_novelfire_home),
-        ("ranobes_home", fetch_ranobes_home),
+        # ranobes_home: blocked by bot protection — returns no image or description
+        # ("ranobes_home", fetch_ranobes_home),
         ("manhuaplus_manhua", fetch_manhuaplus_manhua),
         ("reddit_discussed", fetch_reddit_discussed),
-        ("dreame_romance", fetch_dreame_romance),
+        # dreame_romance: JS SPA with bot protection — title bleeds into description,
+        #                 og:image is a site-wide SVG placeholder for all stories
+        # ("dreame_romance", fetch_dreame_romance),
         ("joyread_romance", fetch_joyread_romance),
         ("goodnovel_romance", fetch_goodnovel_romance),
     ]
@@ -1169,6 +1193,7 @@ def build_snapshot() -> dict[str, Any]:
         row.setdefault("image", None)
         row.setdefault("description", None)
         row.setdefault("genres", [])
+        _backfill_genres(row)
 
     previous_snapshot_items: list[dict[str, Any]] = []
     if TRENDING_FILE.exists():
@@ -1195,6 +1220,7 @@ def build_snapshot() -> dict[str, Any]:
             row.setdefault("image", None)
             row.setdefault("description", None)
             row.setdefault("genres", [])
+            _backfill_genres(row)
 
     snapshot = {
         "generated_at_utc": now.isoformat().replace("+00:00", "Z"),
