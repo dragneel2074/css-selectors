@@ -1,10 +1,249 @@
 {
-  "generated_at_utc": "2026-05-10T10:38:36Z",
-  "date": "2026-05-10",
+  "generated_at_utc": "2026-05-30T13:24:40Z",
+  "date": "2026-05-30",
   "category": "romance",
-  "item_count": 15,
-  "errors": [],
+  "item_count": 30,
+  "errors": [
+    {
+      "provider": "reddit_discussed",
+      "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
+    }
+  ],
   "items": [
+    {
+      "id": "dreame-1646404864",
+      "title": "True Luna",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 16.0,
+      "url": "https://www.dreame.com/story/1646404864",
+      "image": "https://files.dreame.com/images/2023/03/12/1635059837492846592640e5fc146a99.png@208w_300h_2e_53287592837a",
+      "description": "I wanted to run to him, but I stopped myself when I saw how cold his stare was. What was going on?",
+      "genres": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "bid": 1646404864
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+      "title": "The Alpha’s Contract",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
+      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1231429376",
+      "title": "Her Triplet Alphas",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 15.0,
+      "url": "https://www.dreame.com/story/1231429376",
+      "image": "https://files.dreame.com/images/2020/11/09/13256427573642977285fa8b8a5add51.png@208w_300h_2e_53287592837a",
+      "description": "I had never even had one boyfriend, now I had 3 mates?!",
+      "genres": [
+        "Paranormal"
+      ],
+      "metadata": {
+        "bid": 1231429376
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-I-Quit-Being-a-Stepmother_31001089435",
+      "title": "I Quit Being a Stepmother",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/I-Quit-Being-a-Stepmother_31001089435",
+      "image": "https://acf.goodnovel.com/book/202509/871f0928a37848afab870234211bdabf7c416a6efd8e68ed8ccc17d1cc2bdb99.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Rhea Ravelle, heiress of a powerful and influential family, goes against her family's wishes and cuts ties with them.\n\nShe chooses to marry Carter Jamison, a man with a failing career and two children born out of wedlock.\n\nFor six years, she raises his children as if they were her own and helps Carter rebuild his crumbling business.\n\nUnder her care, the kids grow into kind, well-mannered little stars, and Carter's company finally makes it big and goes public.\n\nBut right at the celebration marking his entry into high society, the biological mother of his two children suddenly shows up.\n\nAnd Carter, who is usually so calm, completely loses it. He begs the woman to stay, making Rhea the laughingstock of the entire city.\n\nThat night, he doesn't come home. Instead, he takes the children and runs straight back to his old flame, playing house as a happy family.\n\nSoon after, Carter files for divorce. \"Thanks for everything, Rhea. But the kids need their birth mother.\"\n\nThe children's mother also says, \"Thank you for taking care of them all these years. But a stepmother will never compare to a birth mother.\"\n\nSo blood beats love?\n\nIf that's how it is, then she's done playing stepmother.\n\nHowever, the children reject their birth mother flat-out, and they don't want Carter either.\n\nThey declare, \"Rhea is our only mom! If you're getting divorced, then we're going wherever she goes!\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-742663424",
+      "title": "The Rejected Luna's Prince",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.dreame.com/story/742663424",
+      "image": "https://assets.dreame.com/cover/2024/07/01/180772480422979174466828689f1651.png",
+      "description": "That day he made me his in every way possible...But I ended up with pregnant and rejected.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 742663424
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Jilted-Alpha_31001166955",
+      "title": "The Jilted Alpha",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/The-Jilted-Alpha_31001166955",
+      "image": "https://acf.goodnovel.com/book/202510/62b38eb95984f7f6d7efd54e324a1f785a96e94631b6b6cdec0cebab5fd9e6d4.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "“You know what,” she started, “I’ve had enough of this farce. Alpha Jasper of Bloodlust is the strongest, richest and most powerful Alpha of the Eastern Region. He wants me and fucks me way better than you ever did. He wants me as his Luna and I am leaving this hell hole today.”  \r\n\r\nShe stands and squares her shoulders at me. With a spiteful glare, “I, Giselle Breyer, Luna of Winter Moon, reject Jaxon Docker, Alpha of Winter Moon, as my fated mate and Alpha!” \r\n\r\nI feel the impact of her words hit me. Drax is howling in pain, again. I grab my chest and stare at her. I square my shoulders and look her dead in the eyes, “I, Jaxon Docker, Alpha of Winter Moon, accept your rejection.\r\n******************************************************************\r\n\r\nFive years later, Jaxon still remembers the rejection of his fated mate. He has no desire to have another mate, fated, chosen or otherwise, Until he meets his second chance mate, Sable Embers. She is a warrior from an enemy pack and is nearly killed by Jaxon during battle. \r\n\r\nJaxon needs to learn how to open his heart again and Sable has to learn to trust her mate and learn the truth on her own.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-2880119808",
+      "title": "The Defiant Mate",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.dreame.com/story/2880119808",
+      "image": "https://assets.dreame.com/cover/2024/08/08/182147560613974835266b48cf860d3d.png",
+      "description": "I'm pregnant?! No, moon goddess, no! PREGNANCY TEST:POSITIVE  RESULT: 3 WEEKS PREGNANT",
+      "genres": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "bid": 2880119808
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
+      "title": "Meet My Brothers",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
+      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1570579456",
+      "title": "The Rejected Wolf",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.dreame.com/story/1570579456",
+      "image": "https://files.dreame.com/images/2022/07/05/154421336222391910462c3e062ed4c0.png@208w_300h_2e_53287592837a",
+      "description": "Her mate rejected her when she fell pregnant with his child.",
+      "genres": [
+        "Paranormal"
+      ],
+      "metadata": {
+        "bid": 1570579456
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Billionaire-s-Fight-For-Redemption_31001092545",
+      "title": "The Billionaire’s Fight For Redemption",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/The-Billionaire-s-Fight-For-Redemption_31001092545",
+      "image": "https://acf.goodnovel.com/book/202507/84fd16ecd0181a911b1607618f387bf348f7a97ce5affc9fa48950ef9f33c255.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "She loved him first. He chose her best friend.\n\nSierra: I'm sure that being in love with my dead friend’s husband is a sin. It doesn't matter that I knew him first or that I fell in love with him first, way before she came along. I've always loved Noah Woods, but he hates me, so how the hell did I end up in bed with him on the death anniversary of his dead wife? I thought it was the start of something, but I was wrong. Very wrong. I should have seen it coming, but hindsight is a bitch like that.\n\n\nNoah: I’ve always hated her. Everyone knows that I can't stand Sierra Meyers, so how the fuck did I end up in bed with her on the death anniversary of my beloved wife? I thought I could forget about the night I made my biggest mistake, but Sierra flips my life when she gives me unexpected news. Now I am torn between keeping my promise to the woman I swore and believed I’d love forever and the woman I swore to hate.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-20390912",
+      "title": "The Unwanted Bride Of Atticus Fawn",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.dreame.com/story/20390912",
+      "image": "https://files.dreame.com/images/2022/07/22/155038237210369638462da51b8f3dcf.png@208w_300h_2e_53287592837a",
+      "description": "And he didn't know how much I loved him. I've hidden it well.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 20390912
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
+      "title": "Once a Doormat, Now Untouchable",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
+      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1411916544",
+      "title": "Her Inner Power",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 10.0,
+      "url": "https://www.dreame.com/story/1411916544",
+      "image": "https://files.dreame.com/images/2022/06/22/153945276692854784062b28ebbe8bae.png@208w_300h_2e_53287592837a",
+      "description": "Her soulmate is also her biggest enemy. What will she do?",
+      "genres": [
+        "Paranormal"
+      ],
+      "metadata": {
+        "bid": 1411916544
+      },
+      "previous_score": null,
+      "velocity": null
+    },
     {
       "id": "goodnovel-book-The-Heartless-Alpha-s-Beloved-Luna_31001165452",
       "title": "The Heartless Alpha’s Beloved Luna",
@@ -20,8 +259,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 10.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1737958400",
+      "title": "Surprising the Bully (True Love Series Book 1)",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 9.0,
+      "url": "https://www.dreame.com/story/1737958400",
+      "image": "https://assets.dreame.com/cover/2025/09/04/196363845830397952068b9bc71a1797.png",
+      "description": "This gorgeous lady is that bullied girl? How can‘t I realize before!",
+      "genres": [
+        "YA&Teenfiction"
+      ],
+      "metadata": {
+        "bid": 1737958400
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
@@ -38,8 +295,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 9.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-3391824640",
+      "title": "My Mate is an Omega",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 8.0,
+      "url": "https://www.dreame.com/story/3391824640",
+      "image": "https://files.dreame.com/images/2022/08/30/1564736567288070144630e8a1b46c5d.png@208w_300h_2e_53287592837a",
+      "description": "Can an Omega couple prove how powerful they can become, or will the twists and turns of life tear them apart?",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 3391824640
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
@@ -56,8 +331,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 8.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-696460032",
+      "title": "Seven Days Before Divorce",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 7.0,
+      "url": "https://www.dreame.com/story/696460032",
+      "image": "https://files.dreame.com/images/2022/06/13/153630161370117324862a717fec55a9.png@208w_300h_2e_53287592837a",
+      "description": "\"Ah... Too deep, honey. Cirrus, slow down, you are hurting me.\"“Cirrus? But my name isn’t Cirrus...”",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 696460032
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-His-Plump-Mate_31001222962",
@@ -74,8 +367,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 7.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1094329344",
+      "title": "Big, Bold, And Beautiful.",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 6.0,
+      "url": "https://www.dreame.com/story/1094329344",
+      "image": "https://files.dreame.com/images/2022/08/04/155507799528128921662eb66dc471a3.png@208w_300h_2e_53287592837a",
+      "description": "When pluz-size girl meets her billionaire Alpha",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 1094329344
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-Billionaire-s-Match_31001148338",
@@ -92,8 +403,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 6.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-2235114496",
+      "title": "His Silent Temptation",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 5.0,
+      "url": "https://www.dreame.com/story/2235114496",
+      "image": "https://files.dreame.com/images/2022/07/22/155029417127186841662d9ff94a9af0.png@208w_300h_2e_53287592837a",
+      "description": "I’m jealous of your heart pumping inside of you and I’m not",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "bid": 2235114496
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-Married-at-First-Sight_31000384431",
@@ -110,8 +439,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 5.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-1317150208",
+      "title": "Enslaved By The Alpha",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 4.0,
+      "url": "https://www.dreame.com/story/1317150208",
+      "image": "https://assets.dreame.com/cover/2023/09/15/170260495091342950465041a0bb531f.png",
+      "description": "The woman he had planned to kidnap and kill was his very own mate !",
+      "genres": [
+        "Paranormal"
+      ],
+      "metadata": {
+        "bid": 1317150208
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-CLAIMED-BY-THE-MAFIA-DON_31001293897",
@@ -128,8 +475,26 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 4.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "dreame-850797312",
+      "title": "Sky's Rejection",
+      "source": "Dreame",
+      "category": "romance",
+      "score": 3.0,
+      "url": "https://www.dreame.com/story/850797312",
+      "image": "https://files.dreame.com/images/2022/01/03/147784537540583014461d26e5a4bdf2.png@208w_300h_2e_53287592837a",
+      "description": "Until she met her second chance, the Royal Alpha King",
+      "genres": [
+        "Paranormal"
+      ],
+      "metadata": {
+        "bid": 850797312
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
@@ -146,126 +511,36 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 3.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
-      "title": "Meet My Brothers",
-      "source": "GoodNovel",
+      "id": "dreame-1147428608",
+      "title": "Rejected Luna: Pregnant By The Ruthless Alpha Ceo After One Night",
+      "source": "Dreame",
       "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
-      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
+      "score": 2.0,
+      "url": "https://www.dreame.com/story/1147428608",
+      "image": "https://assets.dreame.com/cover/2026/02/26/202694251924556185669a008f23b0cc.png@350w_500h.webp",
+      "description": "Remi Cole's life implodes when her boyfriend Flynn publicly rejects her at their engagement party, calling her \"bland like oatmeal\" in front of the entire pack. To make it worse, her best friend Bree ...",
       "genres": [
         "Romance"
       ],
       "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 16.0,
-      "velocity": -0.0625
-    },
-    {
-      "id": "goodnovel-book-The-Omega-and-The-Arrogant-Alpha_31000725727",
-      "title": "The Omega and The Arrogant Alpha",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Omega-and-The-Arrogant-Alpha_31000725727",
-      "image": "https://acf.goodnovel.com/book/202512/5a3d6072768dc02e93e3527920ec2dec2483e2a3979eff084a6b1cc119b474e1.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "When you have status in a wolf pack then your life is set. You have privilege, you have pretty much everything you can ask for. I used to have that. Until my father, the head warrior, died protecting the Alpha and then all of a sudden we were nothing to the top pack leaders.  \r\nThat was 5 years ago now. I still wonder how my mother managed to live through the death of her mate. \r\nShe’s the strongest woman I know. Especially after having our house taken off of us, our car, our entire life taken away. \r\nWhen I got to school, I was pretty soaked from the rain and I went inside and went straight to my locker. \r\nI could hear a bunch of kids coming down the hallway towards me, and I turned my head slightly to look at them. They were friends that I used to have, and friends that I always refused to have because they were spoiled assholes. \r\nOne of the guys that was closest to me elbowed me and shoved me into the locker and the rest of his friends started laughing. \r\n“Dickhead.” I yelled. And they all stopped. But he slowly turned around to look at me. \r\n“What did you just say, trash?” He asked. \r\n“You heard me.” I said, turning to face him head on.\r\n“I outrank you bitch. You don’t walk away from me. Never forget that.” He yelled. \r\n“Fine.” I said, without changing my facial expression at all. \r\nSo he relaxed a little and pulled back away from me to look at his friends. But then one of his friends yelled at him to look out and when he turned back around to look at me, I punched him straight in the nose.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
+        "bid": 1147428608
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
-      "title": "The Alpha’s Contract",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 14.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
-      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Hired-a-Gigolo-Got-a-Billionaire_31001058616",
-      "title": "Hired a Gigolo, Got a Billionaire",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Hired-a-Gigolo-Got-a-Billionaire_31001058616",
-      "image": "https://acf.goodnovel.com/book/202601/831ac37e5b0e551b70df475e9c5bef56e594c78854888718f66a391acafc2c30.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Zoey Bennett only wanted revenge on her ex. After being humiliated and left at the altar, all she wanted was to walk into that ballroom as an irresistible woman, with the perfect date on her arm.\n\nBut how on earth did her hired gigolo turn out to be a billionaire?\n\nStanding before her was Christian Kensington, the maddeningly arrogant and devastatingly gorgeous CEO of Kensington Winery, one of the richest men in the country. In that moment, Zoey felt the ground slip right out from under her feet.\n\nNo problem? Oh, there was definitely a problem. The entire internet now believed they were a couple. And the biggest problem of all? So did Christian's grandfather.\n\nNow Christian would need to keep up the charade if he wanted to inherit the family business. Zoey just wanted to get out of this mess without being sued. But when the line between lies and reality started to blur, Zoey realized she might be stumbling into the most dangerous trap of all: falling in love again.\n\n\"I've been left before, Christian. I won't make that mistake again.\"\n\n\"Who said this time you'd be the only one to lose?\"\n\nThis is a romantic comedy full of twists, buried secrets, and a passion too irresistible to ignore. Will Zoey find the courage to open her heart again?",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Ex-Husband-s-Regret_31000657155",
-      "title": "Ex-Husband's Regret",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Ex-Husband-s-Regret_31000657155",
-      "image": "https://acf.goodnovel.com/book/202309/Ex-Husband-s-Regret/f7c3f3b5a311ea1b6324681fe244b3576ab84ba66839667827ebd33e879a567e.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Ava: Nine years ago I did something terrible. it wasn't one of my best moments but I saw an opportunity to have the guy I've loved since I was a young girl and I took it. Fast forward to years later and I'm tired of living in a loveless marriage. I want to free both of us from a marriage that should never have taken place. They say if you love something.... It was time to let him go. I know he'll never love me and that I'll never be his choice. His heart will always belong to Her and despite my sins, I deserve to be loved.Rowan: Nine years ago, I was so in love I could barely see right. I ruined it when I made the worst mistake of my life and in the process I lost the love of my life. I knew I had to step up in my responsibility and so I did, with an unwanted wife. With the wrong woman. Now she has once again flipped my life by divorcing me. To make matters even more complicated, the love of my life is back in town. Now the only question is, who is the right woman? Is it the girl I fell head over heels in love with years ago? or is it my ex wife, the woman I never wanted but had to marry?",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
-      "title": "HIS REGRET (Ex-Husband wants Me Back)",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
-      "image": "https://acf.goodnovel.com/book/202508/0ed1f25214c536829cc8930834e8d9d307748b862f0b3fd50c3bdcd623171491.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“Let me be your real wife for just one month, Daven.”\r\nIt was a simple request—one that sounded like the last plea of a heartbroken woman. But to Althea Grayson, it was her pride. The price she asked for the love she had given, yet never once received in return.\r\nShe had known from the start: their marriage was never about love. Daven Callister had married her out of duty, pressured by his grandmother. There were no tender embraces, no loving glances—only cold silence and an empty house that never felt like home.\r\nStill, Althea held on. She tried to be a good wife, clinging to the hope that one day, Daven’s heart might soften. But her hope was shattered by betrayal—Daven wanted to marry someone else. The woman he truly loved. With or without Althea’s consent. And his entire family stood behind his decision.\r\nHeartbroken and disillusioned, Althea made one final request: one month of being loved like a real wife. One month... before she walked away forever.\r\nDaven thought it was a desperate move—pathetic, even. But that single month changed everything. The way Althea smiled, the way she loved so fully. Even the way she left—left something behind that lingered in Daven’s heart.\r\nAnd now, Daven was lost.\r\nWhen the love he had never once recognized finally revealed itself... was it already too late?\r\nOr should he fight against everything—just for one more chance?",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-The-Lycan-s-Rejected-Mate_31000666028",
-      "title": "The Lycan's Rejected Mate",
+      "id": "goodnovel-book-My-Professor-Is-My-Alpha-Mate_31000656036",
+      "title": "My Professor Is My Alpha Mate",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/The-Lycan-s-Rejected-Mate_31000666028",
-      "image": "https://acf.goodnovel.com/book/202310/The-Lycan-s-Rejected-Mate/09e6be09017670c244674b09f8fa7983120e9bcb8ff00b047d8d6f7c38440553.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The Lycan's Rejected Mate is a Werewolf novel written by Sunshine Princess that covers Reject, Werewolf, Luna. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/My-Professor-Is-My-Alpha-Mate_31000656036",
+      "image": "https://acf.goodnovel.com/book/202311/My-Professor-Is-My-Alpha-Mate/51e6fb5722020f6bdfa5e77ce8ebeea7c6ff4398ffe17015ef5c26a8d363dab7.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "My Professor Is My Alpha Mate  is a Werewolf novel written by Caroline Above Story that covers Professor, Forbidden Love, Campus. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],

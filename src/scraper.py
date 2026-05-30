@@ -768,12 +768,90 @@ def fetch_novelfire_home(limit: int = MAX_ITEMS) -> list[Item]:
 
 
 def fetch_ranobes_home(limit: int = MAX_ITEMS) -> list[Item]:
-    return _extract_site_novel_items(
-        source_name="Ranobes",
-        ranking_url="https://ranobes.top/",
-        allowed_path_prefixes=("book/", "novels/", "ranobe/"),
-        limit=limit,
-    )
+    """
+    Ranobes uses CSS background-image for covers and plain div for description —
+    the generic _extract_site_novel_items misses both. Parse cards directly.
+    """
+    browser_headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/126.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    base_url = "https://ranobes.top/"
+    try:
+        html = safe_get_text_with_headers(base_url, extra_headers=browser_headers)
+    except Exception as exc:
+        logging.warning("Ranobes fetch failed: %s", exc)
+        return []
+
+    soup = BeautifulSoup(html, "html.parser")
+    results: list[Item] = []
+    rank_score = float(limit + 1)
+
+    for article in soup.select("article.shortstory"):
+        a = article.select_one("h2.title a[href]")
+        if not a:
+            continue
+        href = _absolute_url(base_url, a.get("href"))
+        if not href:
+            continue
+        title = _clean_novel_title(a.get_text(" ", strip=True))
+        if not title or len(title) < 2:
+            continue
+
+        # Cover is a CSS background-image on the <figure> tag
+        figure = article.select_one("figure.cover")
+        image_url: str | None = None
+        if figure:
+            style = figure.get("style", "")
+            m = re.search(r"url\(['\"]?(https?://[^'\")\s]+)['\"]?\)", style)
+            if m:
+                image_url = m.group(1)
+
+        # Description is in the plain div inside .cont-in (after the poster link)
+        description: str | None = None
+        cont_in = article.select_one(".cont-in")
+        if cont_in:
+            for child in cont_in.children:
+                from bs4 import NavigableString, Tag
+                if isinstance(child, Tag) and child.name == "div" and not child.get("class"):
+                    text = child.get_text(" ", strip=True)
+                    if text:
+                        description = text
+                        break
+
+        # Genres are comma-separated in .grey.ellipses.small
+        genres: list[str] = []
+        genre_div = article.select_one(".grey.ellipses.small")
+        if genre_div:
+            raw = genre_div.get_text(",", strip=True)
+            genres = [g.strip() for g in raw.split(",") if g.strip()]
+
+        results.append(
+            Item(
+                id=f"ranobes-{_slug_from_url(href)}",
+                title=title,
+                source="Ranobes",
+                category="web_novel",
+                score=rank_score,
+                url=href,
+                image=image_url,
+                description=description,
+                genres=genres,
+                metadata={"ranking_page": base_url},
+            )
+        )
+        rank_score -= 1.0
+        if len(results) >= limit:
+            break
+
+    if not results:
+        logging.warning("Ranobes: no items parsed — site structure may have changed.")
+    return results
 
 
 def _extract_romance_site_items(
@@ -870,16 +948,107 @@ def _extract_romance_site_items(
 
 
 def fetch_dreame_romance(limit: int = MAX_ITEMS) -> list[Item]:
-    return _extract_romance_site_items(
-        source_name="Dreame",
-        candidate_urls=[
-            "https://www.dreame.com/",
-            "https://www.dreame.com/discover",
-            "https://www.dreame.com/discover/romance",
-        ],
-        allowed_path_prefixes=("novel/", "story/", "book/"),
-        limit=limit,
-    )
+    """
+    Dreame embeds all page data in a __NEXT_DATA__ JSON script tag.
+    The <img> tags on cards use a generic SVG placeholder; real cover URLs
+    are only in the JSON blob under `cover_url`.
+    """
+    browser_headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/126.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    base_url = "https://www.dreame.com/"
+    try:
+        html = safe_get_text_with_headers(base_url, extra_headers=browser_headers)
+    except Exception as exc:
+        logging.warning("Dreame fetch failed: %s", exc)
+        return []
+
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL)
+    if not m:
+        logging.warning("Dreame: __NEXT_DATA__ not found in page.")
+        return []
+
+    try:
+        next_data = json.loads(m.group(1))
+    except json.JSONDecodeError as exc:
+        logging.warning("Dreame: failed to parse __NEXT_DATA__: %s", exc)
+        return []
+
+    # Walk the props tree to collect all book dicts that have bid + name + cover_url
+    books: list[dict[str, Any]] = []
+
+    def _collect_books(obj: Any, depth: int = 0) -> None:
+        if depth > 8 or len(books) >= limit * 3:
+            return
+        if isinstance(obj, list):
+            for item in obj:
+                if (
+                    isinstance(item, dict)
+                    and "bid" in item
+                    and "name" in item
+                    and "cover_url" in item
+                ):
+                    books.append(item)
+                else:
+                    _collect_books(item, depth + 1)
+        elif isinstance(obj, dict):
+            for v in obj.values():
+                _collect_books(v, depth + 1)
+
+    _collect_books(next_data.get("props", {}).get("pageProps", {}))
+
+    seen: set[int] = set()
+    results: list[Item] = []
+    rank_score = float(limit + 1)
+
+    for book in books:
+        bid = book.get("bid")
+        if not bid or bid in seen:
+            continue
+        seen.add(bid)
+
+        title = (book.get("name") or "").strip()
+        if not title:
+            continue
+
+        # cover_url is the real per-book image (not the generic SVG placeholder)
+        image_url = (book.get("cover_url") or "").strip() or None
+
+        description = (book.get("descr") or "").strip() or None
+
+        # category_name is the genre on Dreame (e.g. "Fantasy", "Romance")
+        category_name = (book.get("category_name") or "").strip()
+        genres = [category_name] if category_name else ["Romance"]
+
+        url = f"https://www.dreame.com/story/{bid}"
+
+        results.append(
+            Item(
+                id=f"dreame-{bid}",
+                title=title,
+                source="Dreame",
+                category="romance",
+                score=rank_score,
+                url=url,
+                image=image_url,
+                description=description,
+                genres=genres,
+                metadata={"bid": bid},
+            )
+        )
+        rank_score -= 1.0
+        if len(results) >= limit:
+            break
+
+    if not results:
+        logging.warning("Dreame: no books extracted from __NEXT_DATA__ — structure may have changed.")
+    return results
 
 
 def fetch_joyread_romance(limit: int = MAX_ITEMS) -> list[Item]:
@@ -1146,13 +1315,10 @@ def build_snapshot() -> dict[str, Any]:
         ("jikan_top_novels", fetch_jikan_top_novels),
         ("webnovel_best_sellers", fetch_webnovel_best_sellers),
         ("novelfire_home", fetch_novelfire_home),
-        # ranobes_home: blocked by bot protection — returns no image or description
-        # ("ranobes_home", fetch_ranobes_home),
+        ("ranobes_home", fetch_ranobes_home),
         ("manhuaplus_manhua", fetch_manhuaplus_manhua),
         ("reddit_discussed", fetch_reddit_discussed),
-        # dreame_romance: JS SPA with bot protection — title bleeds into description,
-        #                 og:image is a site-wide SVG placeholder for all stories
-        # ("dreame_romance", fetch_dreame_romance),
+        ("dreame_romance", fetch_dreame_romance),
         ("joyread_romance", fetch_joyread_romance),
         ("goodnovel_romance", fetch_goodnovel_romance),
     ]

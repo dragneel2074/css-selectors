@@ -1,16 +1,21 @@
 {
-  "generated_at_utc": "2026-05-10T10:38:36Z",
-  "date": "2026-05-10",
+  "generated_at_utc": "2026-05-30T13:24:40Z",
+  "date": "2026-05-30",
   "category": "manhua",
   "item_count": 17,
-  "errors": [],
+  "errors": [
+    {
+      "provider": "reddit_discussed",
+      "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
+    }
+  ],
   "items": [
     {
       "id": "anilist-manga-116353",
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 25493.0,
+      "score": 25757.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -23,30 +28,30 @@
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": 25493.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-160980",
-      "title": "Log Into The Future",
+      "id": "anilist-manga-154258",
+      "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
       "source": "AniList",
       "category": "manhua",
-      "score": 13413.0,
-      "url": "https://anilist.co/manga/160980",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg",
-      "description": "300 years after mutated beasts ravaged the world, humanity began to lose ground, with only martial arts as their last line of defense. Lu Sheng mysteriously gains the power to journey 10,000 years into the future, only to find humanity has disappeared. However, he acquires the culminated martial arts wisdom to fight back against these monsters, honing his skills to the pinnacle. Armed with this new-found knowledge, can Lu Sheng emerge as the final beacon of hope for humanity's survival?\n<BR><BR>\n(Source: Tapas, edited)",
+      "score": 9205.0,
+      "url": "https://anilist.co/manga/154258",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg",
+      "description": "Reborn into a world of immortal cultivation, Han Jue found himself blessed with the Gacha System, able to re-roll for stats in cultivation and luck. To stay out of trouble, Han Jue cultivated on his own, and kept quiet about his special abilities. But when his sect faced destruction, he stepped up to defend it. A thousand years later, after many generations of cultivation, the immortals were planning to cleanse the mortal realm, and Han Jue was finally forced to act. That was when he discovered that even gods and immortals were not as powerful as he had imagined…\n<BR><BR>\n(Source: Tencent, translated)",
       "genres": [
         "Action",
-        "Drama",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 72,
+        "average_score": 79,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": 13413.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-martial-peak",
@@ -63,8 +68,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 16.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-martial-peak-chapter-3862",
@@ -81,8 +86,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 15.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-martial-peak-chapter-3861",
@@ -99,8 +104,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 14.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-demon-magic-emperor01",
@@ -117,16 +122,16 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 13.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "manhuaplus-manga-demon-magic-emperor01-chapter-854",
-      "title": "Chapter 854",
+      "id": "manhuaplus-manga-demon-magic-emperor01-chapter-862",
+      "title": "Chapter 862",
       "source": "ManhuaPlus",
       "category": "manhua",
       "score": 12.0,
-      "url": "https://manhuaplus.com/manga/demon-magic-emperor01/chapter-854/",
+      "url": "https://manhuaplus.com/manga/demon-magic-emperor01/chapter-862/",
       "image": "https://manhuaplus.com/wp-content/uploads/2020/07/unnamed.jpg",
       "description": "Demon Magic Emperor - manhuaplus.com - Because he had the heritage of the ancient Magic Emperor, Magic Emperor Zhuo Yifan met the misfortune of being betrayed and killed by his trusted disciple. After being reborn, his cultivation went back to zero and he was trapped by a heart demon, given no choice but to become the housekeeper of the Luo Family's lone eldest miss. From being a Magic Emperor to being an insignificant housekeeper, how would he get along with his \"heart demon eldest miss\" and what power would he gain in order to lead himself and the declining family to rise back to the peak of the continent!",
       "genres": [
@@ -135,16 +140,16 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 12.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "manhuaplus-manga-demon-magic-emperor01-chapter-853",
-      "title": "Chapter 853",
+      "id": "manhuaplus-manga-demon-magic-emperor01-chapter-861",
+      "title": "Chapter 861",
       "source": "ManhuaPlus",
       "category": "manhua",
       "score": 11.0,
-      "url": "https://manhuaplus.com/manga/demon-magic-emperor01/chapter-853/",
+      "url": "https://manhuaplus.com/manga/demon-magic-emperor01/chapter-861/",
       "image": "https://manhuaplus.com/wp-content/uploads/2020/07/unnamed.jpg",
       "description": "Demon Magic Emperor - manhuaplus.com - Because he had the heritage of the ancient Magic Emperor, Magic Emperor Zhuo Yifan met the misfortune of being betrayed and killed by his trusted disciple. After being reborn, his cultivation went back to zero and he was trapped by a heart demon, given no choice but to become the housekeeper of the Luo Family's lone eldest miss. From being a Magic Emperor to being an insignificant housekeeper, how would he get along with his \"heart demon eldest miss\" and what power would he gain in order to lead himself and the declining family to rise back to the peak of the continent!",
       "genres": [
@@ -153,8 +158,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 11.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-apotheosis",
@@ -171,8 +176,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 10.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-apotheosis-chapter-1301",
@@ -189,8 +194,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 9.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-apotheosis-chapter-1300",
@@ -207,8 +212,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 8.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-tales-of-demons-and-gods01",
@@ -225,16 +230,16 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 7.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "manhuaplus-manga-tales-of-demons-and-gods01-chapter-517-6",
-      "title": "Chapter 517.6",
+      "id": "manhuaplus-manga-tales-of-demons-and-gods01-chapter-519-1",
+      "title": "Chapter 519.1",
       "source": "ManhuaPlus",
       "category": "manhua",
       "score": 6.0,
-      "url": "https://manhuaplus.com/manga/tales-of-demons-and-gods01/chapter-517-6/",
+      "url": "https://manhuaplus.com/manga/tales-of-demons-and-gods01/chapter-519-1/",
       "image": "https://manhuaplus.com/wp-content/uploads/2020/07/thumbbb.jpg",
       "description": "Tales Of Demons And Gods - manhuaplus.com - Nie Li, one of the strongest Demon Spiritist in his past life standing at the pinnacle of the martial world , however he lost his life during the battle with Sage Emperor and the six deity ranked beast, his soul was then reborn back in time back to when he is still 13. Although he’s the weakest in his class with the lowest talent at only Red soul realm, with the aid of the vast knowledge which he accumulated in his previous life, he trained faster then anyone. Trying to protect the city which in the coming future was being assaulted by beast and ended up being destroyed as well as protecting his lover, friends and family who died by the beast assault. and to destroy the Sacred family whom abandon their duty and betrayed the city in his past life.",
       "genres": [
@@ -243,16 +248,16 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 6.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "manhuaplus-manga-tales-of-demons-and-gods01-chapter-517-1",
-      "title": "Chapter 517.1",
+      "id": "manhuaplus-manga-tales-of-demons-and-gods01-chapter-518-6",
+      "title": "Chapter 518.6",
       "source": "ManhuaPlus",
       "category": "manhua",
       "score": 5.0,
-      "url": "https://manhuaplus.com/manga/tales-of-demons-and-gods01/chapter-517-1/",
+      "url": "https://manhuaplus.com/manga/tales-of-demons-and-gods01/chapter-518-6/",
       "image": "https://manhuaplus.com/wp-content/uploads/2020/07/thumbbb.jpg",
       "description": "Tales Of Demons And Gods - manhuaplus.com - Nie Li, one of the strongest Demon Spiritist in his past life standing at the pinnacle of the martial world , however he lost his life during the battle with Sage Emperor and the six deity ranked beast, his soul was then reborn back in time back to when he is still 13. Although he’s the weakest in his class with the lowest talent at only Red soul realm, with the aid of the vast knowledge which he accumulated in his previous life, he trained faster then anyone. Trying to protect the city which in the coming future was being assaulted by beast and ended up being destroyed as well as protecting his lover, friends and family who died by the beast assault. and to destroy the Sacred family whom abandon their duty and betrayed the city in his past life.",
       "genres": [
@@ -261,8 +266,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 5.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-yuan-zun01",
@@ -279,8 +284,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 4.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-yuan-zun01-chapter-652-5",
@@ -297,8 +302,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 3.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "manhuaplus-manga-yuan-zun01-chapter-652",
@@ -315,8 +320,8 @@
       "metadata": {
         "ranking_page": "https://manhuaplus.com/genre/manhua/"
       },
-      "previous_score": 2.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }
