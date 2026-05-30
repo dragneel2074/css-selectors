@@ -8,12 +8,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-trending-scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,6 +55,11 @@ jobs:
         run: |
           git config user.name "noyaku-trend-bot"
           git config user.email "noreply@users.noreply.github.com"
-          git add data/trending.json data/history.json
-          git diff --staged --quiet || git commit -m "chore(data): update trending snapshot"
-          git push
+          git add data/trending.json data/history.json data/trending_*.json
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(data): update trending snapshot"
+          git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
