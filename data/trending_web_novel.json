@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-05-30T13:24:40Z",
-  "date": "2026-05-30",
+  "generated_at_utc": "2026-05-31T03:26:42Z",
+  "date": "2026-05-31",
   "category": "web_novel",
-  "item_count": 34,
+  "item_count": 16,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -10,6 +10,60 @@
     }
   ],
   "items": [
+    {
+      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
+      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 2.0,
+      "velocity": 2.0
+    },
+    {
+      "id": "webnovel-book-i-stepped-on-a-bug-and-the-system-says-i-slayed-a-dragon_34628001200913905",
+      "title": "I Stepped on a Bug, and the System Says I Slayed a Dragon?",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/i-stepped-on-a-bug-and-the-system-says-i-slayed-a-dragon_34628001200913905",
+      "image": "https://book-pic.webnovel.com/bookcover/34628001200913905?imageMogr2/thumbnail/600x&imageId=1773048800372",
+      "description": "# SYSTEM # COMEDY # OVERPOWERED # CULTIVATION # LEVELUP # APOCALYPSE # URBAN # INVINCIBLE # HIDDENIDENTITIES # MARTIALARTS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
+      "velocity": 0.16666666666666666
+    },
+    {
+      "id": "webnovel-book-apocalypse-rebirth-crazy-from-day-one_35479981200689405",
+      "title": "Apocalypse Rebirth: Crazy from Day One",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-crazy-from-day-one_35479981200689405",
+      "image": "https://book-pic.webnovel.com/bookcover/35479981200689405?imageMogr2/thumbnail/600x&imageId=1776999426705",
+      "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # FACESLAPPING # STORAGESPACE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 10.0,
+      "velocity": 0.1
+    },
     {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
@@ -29,8 +83,8 @@
         "mal_score": 9.05,
         "type": "novels"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 35133.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-betrayed-by-my-ex-marked-by-his-alpha-emperor-brother_35393754900224005",
@@ -47,53 +101,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-the-editor-is-an-extra",
-      "title": "The Editor Is An Extra",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 16.0,
-      "url": "https://novelfire.net/book/the-editor-is-an-extra",
-      "image": "https://novelfire.net/server-1/the-editor-is-an-extra.jpg",
-      "description": "Read The Editor Is An Extra novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "ranobes-novels-1207150-the-eighteen-levels-of-hell.html",
-      "title": "The Eighteen Levels of Hell: Lying is Forbidden Here",
-      "source": "Ranobes",
-      "category": "web_novel",
-      "score": 16.0,
-      "url": "https://ranobes.top/novels/1207150-the-eighteen-levels-of-hell.html",
-      "image": "https://ranobes.top/uploads/posts/2026-05/thumbs/1777855270_the-eighteen-levels-of-hell-lying-is-forbidden-here.webp",
-      "description": "Chen Ran is a good man; he went to Hell. This is the Hell of Tongue-Ripping (a Buddhist hell for liars). Here, lying is forbidden, and as a result, everyone is engaging in deceit. Due to conflicting philosophies on deceit, two great alliances were born: The Liar-Killers Alliance: Lie, and you are...",
-      "genres": [
-        "Mystery",
-        "Psychological",
-        "Seinen",
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Supernatural",
-        "Tragedy",
-        "Xuanhuan",
-        "Game"
-      ],
-      "metadata": {
-        "ranking_page": "https://ranobes.top/"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 16.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-greymoor-academy-i-accidentally-bonded-with-four-lycan-royals!_35396013508215305",
@@ -110,54 +119,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-death-game-starting-as-a-trickster-pretending-to-be-a-god",
-      "title": "Death Game: Starting as a Trickster, Pretending to Be a God",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://novelfire.net/book/death-game-starting-as-a-trickster-pretending-to-be-a-god",
-      "image": "https://novelfire.net/server-1/death-game-starting-as-a-trickster-pretending-to-be-a-god.jpg",
-      "description": "Read Death Game: Starting as a Trickster, Pretending to Be a God novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "ranobes-novels-1207155-loopshard.html",
-      "title": "Loopshard",
-      "source": "Ranobes",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://ranobes.top/novels/1207155-loopshard.html",
-      "image": "https://ranobes.top/uploads/posts/2026-05/thumbs/1777660352_loopshard.webp",
-      "description": "Adam is no one special. He’s just an accountant standing in line at a bakery one early Saturday morning, because his craving for Jameson’s croissants finally broke him. Unfortunately, fate has other plans for him, as the black cubes show up before he can get his pastries. The cubes are the heralds...",
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Mystery",
-        "Drama",
-        "Psychological",
-        "Adventure",
-        "Comedy",
-        "Horror",
-        "Tragedy",
-        "Seinen",
-        "Mature"
-      ],
-      "metadata": {
-        "ranking_page": "https://ranobes.top/"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 15.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
@@ -174,49 +137,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-diary-of-a-dead-wizard",
-      "title": "Diary of a Dead Wizard",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://novelfire.net/book/diary-of-a-dead-wizard",
-      "image": "https://novelfire.net/server-1/diary-of-a-dead-wizard.jpg",
-      "description": "Read Diary of a Dead Wizard novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "ranobes-novels-1207149-this-alchemist-is-breaking-bad.html",
-      "title": "What Witch? This Alchemist is Breaking Bad!",
-      "source": "Ranobes",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://ranobes.top/novels/1207149-this-alchemist-is-breaking-bad.html",
-      "image": "https://ranobes.top/uploads/posts/2026-04/thumbs/1777573505_what-witch-this-alchemist-is-breaking-bad.webp",
-      "description": "【The Isekai Version of Breaking Bad】 After transmigrating to this world and scraping by for many years, Leon finally realized that some paths, once taken, offer no way back. The stairway paved with countless white bones leads only to a throne—or to a grave. Because the Imperial Church explicitly...",
-      "genres": [
-        "Fantasy",
-        "Supernatural",
-        "Harem",
-        "Adventure",
-        "Action",
-        "Mystery"
-      ],
-      "metadata": {
-        "ranking_page": "https://ranobes.top/"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 14.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-after-i-fully-prepared-for-the-apocalypse-the-ungrateful-cried-with-regret_35243563900464105",
@@ -233,26 +155,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-creating-heavenly-laws",
-      "title": "Creating Heavenly Laws",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://novelfire.net/book/creating-heavenly-laws",
-      "image": "https://novelfire.net/server-1/creating-heavenly-laws.jpg",
-      "description": "Read Creating Heavenly Laws novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 13.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-you-promised-to-be-an-idle-son-in-law-how-could-you-become-a-land-immortal_34992196100605405",
@@ -269,98 +173,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-incompatible-interspecies-wives",
-      "title": "Incompatible Interspecies Wives",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://novelfire.net/book/incompatible-interspecies-wives",
-      "image": "https://novelfire.net/server-1/incompatible-interspecies-wives.jpg",
-      "description": "Read Incompatible Interspecies Wives novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-gacha-harem-system_35385385708000905",
-      "title": "Gacha Harem System",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
-      "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1777914543407",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-invisible-dragon",
-      "title": "Invisible Dragon",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://novelfire.net/book/invisible-dragon",
-      "image": "https://novelfire.net/server-1/invisible-dragon.jpg",
-      "description": "Read Invisible Dragon novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-apocalypse-rebirth-crazy-from-day-one_35479981200689405",
-      "title": "Apocalypse Rebirth: Crazy from Day One",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/apocalypse-rebirth-crazy-from-day-one_35479981200689405",
-      "image": "https://book-pic.webnovel.com/bookcover/35479981200689405?imageMogr2/thumbnail/600x&imageId=1776999426705",
-      "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # FACESLAPPING # STORAGESPACE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-a-regressors-tale-of-cultivation",
-      "title": "A Regressor’s Tale of Cultivation",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://novelfire.net/book/a-regressors-tale-of-cultivation",
-      "image": "https://novelfire.net/server-1/a-regressors-tale-of-cultivation.jpg",
-      "description": "Read A Regressor’s Tale of Cultivation novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 12.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
@@ -377,26 +191,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-my-longevity-simulation",
-      "title": "My Longevity Simulation",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://novelfire.net/book/my-longevity-simulation",
-      "image": "https://novelfire.net/server-1/my-longevity-simulation.jpg",
-      "description": "Read My Longevity Simulation novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 9.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
@@ -413,98 +209,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-advent-of-the-three-calamities",
-      "title": "Advent of the Three Calamities",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://novelfire.net/book/advent-of-the-three-calamities",
-      "image": "https://novelfire.net/server-1/advent-of-the-three-calamities.jpg",
-      "description": "Read Advent of the Three Calamities novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-i-can-get-1-000-000x-returns-from-selling-anything!_35230503808186405",
-      "title": "I Can Get 1,000,000x Returns from Selling Anything!",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/i-can-get-1-000-000x-returns-from-selling-anything!_35230503808186405",
-      "image": "https://book-pic.webnovel.com/bookcover/35230503808186405?imageMogr2/thumbnail/600x&imageId=1772383186528",
-      "description": "# ADVENTURE # SYSTEM # MAGIC # R18 # WEAKTOSTRONG # HAREM # SUPERPOWERS # OVERPOWERED # TRANSMIGRATION # CULTIVATION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-tribulation-of-myriad-races",
-      "title": "Tribulation of Myriad Races",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://novelfire.net/book/tribulation-of-myriad-races",
-      "image": "https://novelfire.net/server-1/tribulation-of-myriad-races.jpg",
-      "description": "Read Tribulation of Myriad Races novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-i-stepped-on-a-bug-and-the-system-says-i-slayed-a-dragon_34628001200913905",
-      "title": "I Stepped on a Bug, and the System Says I Slayed a Dragon?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/i-stepped-on-a-bug-and-the-system-says-i-slayed-a-dragon_34628001200913905",
-      "image": "https://book-pic.webnovel.com/bookcover/34628001200913905?imageMogr2/thumbnail/600x&imageId=1773048800372",
-      "description": "# SYSTEM # COMEDY # OVERPOWERED # CULTIVATION # LEVELUP # APOCALYPSE # URBAN # INVINCIBLE # HIDDENIDENTITIES # MARTIALARTS",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-ending-maker",
-      "title": "Ending Maker",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://novelfire.net/book/ending-maker",
-      "image": "https://novelfire.net/server-1/ending-maker.jpg",
-      "description": "Read Ending Maker novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 8.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
@@ -521,36 +227,36 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 5.0,
+      "velocity": 0.0
     },
     {
-      "id": "novelfire-book-my-vampire-system",
-      "title": "My Vampire System",
-      "source": "NovelFire",
+      "id": "webnovel-book-gacha-harem-system_35385385708000905",
+      "title": "Gacha Harem System",
+      "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
-      "url": "https://novelfire.net/book/my-vampire-system",
-      "image": "https://novelfire.net/server-1/my-vampire-system.jpg",
-      "description": "Read My Vampire System novel online free from your Mobile, Table, PC...",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
+      "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1777914543407",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
-        "ranking_page": "https://novelfire.net/home"
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 11.0,
+      "velocity": -0.09090909090909091
     },
     {
-      "id": "webnovel-book-second-genesis_35232994000274005",
-      "title": "Second Genesis",
+      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "title": "Martial Dao: I Can Enhance My Talents",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 4.0,
-      "url": "https://www.webnovel.com/book/second-genesis_35232994000274005",
-      "image": "https://book-pic.webnovel.com/bookcover/35232994000274005?imageMogr2/thumbnail/600x&imageId=1779973444673",
-      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # GENIUS # REVENGE # LEVELUP # APOCALYPSE # EVOLUTION # VIDEOGAME",
+      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
+      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
       "genres": [
         "Web Novel"
       ],
@@ -561,32 +267,14 @@
       "velocity": null
     },
     {
-      "id": "novelfire-book-shadow-slave",
-      "title": "Shadow Slave",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://novelfire.net/book/shadow-slave",
-      "image": "https://novelfire.net/server-1/shadow-slave.jpg",
-      "description": "Read Shadow Slave novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-contract-marriage-after-a-crazy-night_35324280200601305",
-      "title": "Contract Marriage After a Crazy Night",
+      "id": "webnovel-book-my-second-marriage-with-the-mafia-kingpin_35270173400871805",
+      "title": "My Second Marriage with the Mafia Kingpin",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/contract-marriage-after-a-crazy-night_35324280200601305",
-      "image": "https://book-pic.webnovel.com/bookcover/35324280200601305?imageMogr2/thumbnail/600x&imageId=1776507021030",
-      "description": "# ROMANCE # WEAKTOSTRONG # SURVIVAL # REVENGE # BETRAYAL # POSSESSIVE # CEO # FASTPACED # ENEMIESTOLOVERS # FAMILY",
+      "url": "https://www.webnovel.com/book/my-second-marriage-with-the-mafia-kingpin_35270173400871805",
+      "image": "https://book-pic.webnovel.com/bookcover/35270173400871805?imageMogr2/thumbnail/600x&imageId=1772809757008",
+      "description": "# R18 # DARK # TRANSMIGRATION # GENIUS # POSSESSIVE # FASTPACED # REBIRTH # POWERFULCOUPLE # STRONGFL # MAFIA",
       "genres": [
         "Web Novel"
       ],
@@ -597,55 +285,19 @@
       "velocity": null
     },
     {
-      "id": "novelfire-book-reverend-insanity",
-      "title": "Reverend Insanity",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 3.0,
-      "url": "https://novelfire.net/book/reverend-insanity",
-      "image": "https://novelfire.net/server-1/reverend-insanity.jpg",
-      "description": "Read Reverend Insanity novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
+      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "title": "My Apocalypse System Arrives 10 Years Early",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
-      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
+      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
+      "description": "# SYSTEM # KINGDOMBUILDING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "novelfire-book-lord-of-the-mysteries",
-      "title": "Lord of the Mysteries",
-      "source": "NovelFire",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://novelfire.net/book/lord-of-the-mysteries",
-      "image": "https://novelfire.net/server-1/lord-of-the-mysteries.jpg",
-      "description": "Read Lord of the Mysteries novel online free from your Mobile, Table, PC...",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://novelfire.net/home"
       },
       "previous_score": null,
       "velocity": null
