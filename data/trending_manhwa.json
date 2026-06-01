@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-05-31T03:26:42Z",
-  "date": "2026-05-31",
+  "generated_at_utc": "2026-06-01T03:39:22Z",
+  "date": "2026-06-01",
   "category": "manhwa",
-  "item_count": 8,
+  "item_count": 4,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -15,7 +15,7 @@
       "title": "The Lazy Lord Masters the Sword",
       "source": "AniList",
       "category": "manhwa",
-      "score": 29988.0,
+      "score": 30083.0,
       "url": "https://anilist.co/manga/135325",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
       "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
@@ -30,45 +30,23 @@
         "format": "MANGA"
       },
       "previous_score": 29988.0,
-      "velocity": 0.0
+      "velocity": 0.0031679338402027476
     },
     {
-      "id": "anilist-manga-137304",
-      "title": "Return of the Mad Demon",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 25034.0,
-      "url": "https://anilist.co/manga/137304",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
-      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
+      "score": 40763.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 25034.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "anilist-manga-178379",
-      "title": "Blink Master of the Magic Academy",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 18175.0,
-      "url": "https://anilist.co/manga/178379",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178379-dokda9kEw3Ns.jpg",
-      "description": "In the game Aether World, Baek Yuseol is considered the most useless character because he can't use magic like everyone else. His only skill, Blink, is a short-range teleportation ability most players consider worthless. But when he’s tasked with reaching the game's true ending, Baek Yuseol decides to use his unconventional skill to achieve this impossible goal. Can this so-called \"trash\" character outsmart his powerful peers, form unlikely alliances, and ultimately master the game?<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 76,
+        "average_score": 80,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -76,56 +54,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-166154",
-      "title": "The Player Hides His Past",
+      "id": "anilist-manga-175262",
+      "title": "The Reborn Young Lord is an Assassin",
       "source": "AniList",
       "category": "manhwa",
-      "score": 14478.0,
-      "url": "https://anilist.co/manga/166154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
-      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-185979",
-      "title": "The Legendary Hero is an Academy Honors Student",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 8039.0,
-      "url": "https://anilist.co/manga/185979",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185979-0PIJkgbfPZhZ.jpg",
-      "description": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 69,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-194523",
-      "title": "Reincarnation of the Fist King",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 4724.0,
-      "url": "https://anilist.co/manga/194523",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
-      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
+      "score": 21389.0,
+      "url": "https://anilist.co/manga/175262",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
+      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -139,41 +75,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-211365",
-      "title": "Bultan Samagui Moraesulsa",
+      "id": "anilist-manga-185978",
+      "title": "The Dragon Slayer's Regression on Another Level",
       "source": "AniList",
       "category": "manhwa",
-      "score": 1704.0,
-      "url": "https://anilist.co/manga/211365",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211365-CIuEfNvrisPg.png",
-      "description": "<i>\"My name is Zeon, and the entire desert is my weapon.\"</i><br><br>\nEarth has been terraformed. As as side effect, the oceans evaporated, and the land turned into endless sand. Zeon is the only Sand Mage left on the desolated planet. The world calls him the Sand Wraith.<br><br>(Source: KakaoPage, translated)",
+      "score": 6871.0,
+      "url": "https://anilist.co/manga/185978",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
+      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 66,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-208154",
-      "title": "Hoegwijaga Da Mandeureojum",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 1377.0,
-      "url": "https://anilist.co/manga/208154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208154-7YZT9MFcq1q9.jpg",
-      "description": "Lee Saehoon, the blacksmith of humanity’s last desperate united force, fought against the demons until the very end. However, the result was mutual destruction, with the world coming to an end. The moment he took his own life over that futile conclusion<br><br>\n<i>“…What is this?”</i><br><br>\nHe had regressed to his days as a candidate at the hero training institution, Babel Academy. Having obtained a second chance, he swore to use anything as material to gain victory this time. Anything at all!<br><br>(Source: KakaoPage, translated)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 63,
+        "average_score": 69,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
