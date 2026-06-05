@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-04T03:38:46Z",
-  "date": "2026-06-04",
+  "generated_at_utc": "2026-06-05T03:25:34Z",
+  "date": "2026-06-05",
   "category": "web_novel",
   "item_count": 16,
   "errors": [
@@ -11,11 +11,47 @@
   ],
   "items": [
     {
+      "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
+      "title": "Grinding to Become the Master of the Universe",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/grinding-to-become-the-master-of-the-universe_34992461400610505",
+      "image": "https://book-pic.webnovel.com/bookcover/34992461400610505?imageMogr2/thumbnail/600x&imageId=1775033372131",
+      "description": "# LEVELUP # HOT-BLOODED",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 5.0,
+      "velocity": 1.2
+    },
+    {
+      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
+      "title": "Last Born Of The Desdemona",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
+      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 2.0,
+      "velocity": 0.5
+    },
+    {
       "id": "webnovel-book-endless-extraction-in-a-game-like-world_35291048000217505",
       "title": "Endless Extraction in a Game-Like World",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
+      "score": 8.0,
       "url": "https://www.webnovel.com/book/endless-extraction-in-a-game-like-world_35291048000217505",
       "image": "https://book-pic.webnovel.com/bookcover/35291048000217505?imageMogr2/thumbnail/600x&imageId=1777578170448",
       "description": "# ACTION # ROMANCE # SYSTEM # WEAKTOSTRONG # MYSTERY # SUPERPOWERS # OVERPOWERED # VIDEOGAME # FACESLAPPING # NO-HAREM",
@@ -25,87 +61,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": 0.4
-    },
-    {
-      "id": "webnovel-book-gacha-harem-system_35385385708000905",
-      "title": "Gacha Harem System",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
-      "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1777914543407",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 3.0,
-      "velocity": 0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "title": "My Apocalypse System Arrives 10 Years Early",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
-      "description": "# SYSTEM # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": 0.2222222222222222
-    },
-    {
-      "id": "webnovel-book-my-kingdom-building-done-right!_35334326400869605",
-      "title": "My Kingdom Building Done Right!",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/my-kingdom-building-done-right!_35334326400869605",
-      "image": "https://book-pic.webnovel.com/bookcover/35334326400869605?imageMogr2/thumbnail/600x&imageId=1773657987227",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # HAREM # SUPERPOWERS # KINGDOMBUILDING # BEASTTAMING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 8.0,
-      "velocity": 0.125
-    },
-    {
-      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
-      "title": "Her Food Livestream Broke the Galaxy",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
-      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
-      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": 0.08333333333333333
+      "previous_score": 7.0,
+      "velocity": 0.14285714285714285
     },
     {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "web_novel",
-      "score": 35215.0,
+      "score": 35233.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -119,8 +83,8 @@
         "mal_score": 9.05,
         "type": "novels"
       },
-      "previous_score": 35196.0,
-      "velocity": 0.0005398340720536425
+      "previous_score": 35215.0,
+      "velocity": 0.0005111458185432345
     },
     {
       "id": "webnovel-book-greymoor-academy-i-accidentally-bonded-with-four-lycan-royals!_35396013508215305",
@@ -177,39 +141,21 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
-      "title": "Alpha's Regret: Marked By The Lycan King",
+      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
+      "title": "Her Food Livestream Broke the Galaxy",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/alpha's-regret-marked-by-the-lycan-king_35679982508496305",
-      "image": "https://book-pic.webnovel.com/bookcover/35679982508496305?imageMogr2/thumbnail/600x&imageId=1776844242390",
-      "description": "# GENIUS # REVENGE # WEREWOLF # STRONGFL # ALPHA # THESTRONGACTINGWEAK # FATEDMATE # BETRAYED",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
+      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
+      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 10.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
-      "title": "Last Born Of The Desdemona",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
-      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 2.0,
+      "previous_score": 13.0,
       "velocity": 0.0
     },
     {
@@ -227,36 +173,72 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 13.0,
-      "velocity": -0.07692307692307693
+      "previous_score": 12.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "title": "Global Deities: Rising as Wood Elves' God",
+      "id": "webnovel-book-gacha-harem-system_35385385708000905",
+      "title": "Gacha Harem System",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
-      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
+      "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1777914543407",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 7.0,
-      "velocity": -0.14285714285714285
+      "previous_score": 4.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
-      "title": "Grinding to Become the Master of the Universe",
+      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "title": "My Apocalypse System Arrives 10 Years Early",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
+      "description": "# SYSTEM # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": -0.09090909090909091
+    },
+    {
+      "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
+      "title": "Alpha's Regret: Marked By The Lycan King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/alpha's-regret-marked-by-the-lycan-king_35679982508496305",
+      "image": "https://book-pic.webnovel.com/bookcover/35679982508496305?imageMogr2/thumbnail/600x&imageId=1776844242390",
+      "description": "# GENIUS # REVENGE # WEREWOLF # STRONGFL # ALPHA # THESTRONGACTINGWEAK # FATEDMATE # BETRAYED",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 10.0,
+      "velocity": -0.1
+    },
+    {
+      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "title": "Global Deities: Rising as Wood Elves' God",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 5.0,
-      "url": "https://www.webnovel.com/book/grinding-to-become-the-master-of-the-universe_34992461400610505",
-      "image": "https://book-pic.webnovel.com/bookcover/34992461400610505?imageMogr2/thumbnail/600x&imageId=1775033372131",
-      "description": "# LEVELUP # HOT-BLOODED",
+      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
+      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
       "genres": [
         "Web Novel"
       ],
@@ -267,29 +249,29 @@
       "velocity": -0.16666666666666666
     },
     {
-      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "title": "Martial Dao: I Can Enhance My Talents",
+      "id": "webnovel-book-my-kingdom-building-done-right!_35334326400869605",
+      "title": "My Kingdom Building Done Right!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
-      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/my-kingdom-building-done-right!_35334326400869605",
+      "image": "https://book-pic.webnovel.com/bookcover/35334326400869605?imageMogr2/thumbnail/600x&imageId=1773657987227",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # HAREM # SUPERPOWERS # KINGDOMBUILDING # BEASTTAMING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 4.0,
-      "velocity": -0.25
+      "previous_score": 9.0,
+      "velocity": -0.2222222222222222
     },
     {
       "id": "webnovel-book-you-promised-to-be-an-idle-son-in-law-how-could-you-become-a-land-immortal_34992196100605405",
       "title": "You Promised to Be an Idle Son-in-Law, How Could You Become a Land Immortal?",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 8.0,
+      "score": 6.0,
       "url": "https://www.webnovel.com/book/you-promised-to-be-an-idle-son-in-law-how-could-you-become-a-land-immortal_34992196100605405",
       "image": "https://book-pic.webnovel.com/bookcover/34992196100605405?imageMogr2/thumbnail/600x&imageId=1774334754001",
       "description": "# COMEDY # TRANSMIGRATION # CULTIVATION",
@@ -299,8 +281,26 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 11.0,
-      "velocity": -0.2727272727272727
+      "previous_score": 8.0,
+      "velocity": -0.25
+    },
+    {
+      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "title": "Martial Dao: I Can Enhance My Talents",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
+      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": -0.3333333333333333
     }
   ]
 }
