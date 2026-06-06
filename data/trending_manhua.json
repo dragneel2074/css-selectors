@@ -1,9 +1,17 @@
 {
-  "generated_at_utc": "2026-06-05T03:25:34Z",
-  "date": "2026-06-05",
+  "generated_at_utc": "2026-06-06T02:50:32Z",
+  "date": "2026-06-06",
   "category": "manhua",
-  "item_count": 1,
+  "item_count": 2,
   "errors": [
+    {
+      "provider": "jikan_top_manga",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
+    },
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -15,7 +23,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 25817.0,
+      "score": 25830.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -25,6 +33,28 @@
       ],
       "metadata": {
         "average_score": 82,
+        "country_of_origin": "CN",
+        "format": "MANGA"
+      },
+      "previous_score": 25817.0,
+      "velocity": 0.0005035441763179301
+    },
+    {
+      "id": "anilist-manga-154258",
+      "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
+      "source": "AniList",
+      "category": "manhua",
+      "score": 9243.0,
+      "url": "https://anilist.co/manga/154258",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg",
+      "description": "Reborn into a world of immortal cultivation, Han Jue found himself blessed with the Gacha System, able to re-roll for stats in cultivation and luck. To stay out of trouble, Han Jue cultivated on his own, and kept quiet about his special abilities. But when his sect faced destruction, he stepped up to defend it. A thousand years later, after many generations of cultivation, the immortals were planning to cleanse the mortal realm, and Han Jue was finally forced to act. That was when he discovered that even gods and immortals were not as powerful as he had imagined…\n<BR><BR>\n(Source: Tencent, translated)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
