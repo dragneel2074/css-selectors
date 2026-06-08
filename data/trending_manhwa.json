@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-07T03:31:25Z",
-  "date": "2026-06-07",
+  "generated_at_utc": "2026-06-08T03:37:03Z",
+  "date": "2026-06-08",
   "category": "manhwa",
-  "item_count": 7,
+  "item_count": 8,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,64 +11,20 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-212562",
-      "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 821.0,
-      "url": "https://anilist.co/manga/212562",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212562-huzVxCEUCcfM.jpg",
-      "description": "A pop-up event for some ‘modern fantasy’ media I loved so much that I even took a precious day off work to attend. On that day, I ended up transmigrating as a character in that very fantasy world. As none other than a newly hired employee at a famous large corporation! A dream job with great benefits, an excellent salary, and even kind and competent bosses. I’m using the information I know about the world to rise through the ranks at lightning speed! Am I happy, you ask? Please, just let me go home. I’m begging you.<br><br>(Source: KakaoPage, translated)",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ],
-      "metadata": {
-        "average_score": 65,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 563.0,
-      "velocity": 0.458259325044405
-    },
-    {
-      "id": "anilist-manga-159441",
-      "title": "Pick Me Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 39995.0,
-      "url": "https://anilist.co/manga/159441",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
-      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
+      "score": 41034.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
-        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 83,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 39964.0,
-      "velocity": 0.0007756981283154839
-    },
-    {
-      "id": "anilist-manga-187944",
-      "title": "My Bias Gets on the Last Train",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 15687.0,
-      "url": "https://anilist.co/manga/187944",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187944-gzNbL7zeY7Ma.jpg",
-      "description": "Every night, Yeo-Un takes the last train home—same route, same time, same routine. But one thing keeps catching his eye: a girl with a guitar and a presence that lingers in his mind. When a shared love for the indie band Long Afternoon sparks a conversation, their late-night encounters begin to turn into something more. But Hae-In isn’t just another fan—she’s the voice behind the band, a secret she can’t afford to reveal. As music draws them closer, the truth may threaten to pull them apart. When the final note plays, will their story end in harmony… or heartbreak?<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 86,
+        "average_score": 80,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -76,36 +32,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-173233",
-      "title": "A Flame Reborn",
+      "id": "anilist-manga-143056",
+      "title": "The Return of the Disaster-Class Hero",
       "source": "AniList",
       "category": "manhwa",
-      "score": 10415.0,
-      "url": "https://anilist.co/manga/173233",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173233-sSWxsYy8oXFK.png",
-      "description": "Logan MacLine, a middle-aged knight fighting for the independence army, is intent on getting revenge against the empire which took over the kingdom and executed his brother when he ends up dying in battle. But when he wakes, he is a young man again, and has yet to be disowned for his terrible behavior. Using his experience and knowledge from his past life, Logan recruits a few talented individuals to develop new weapons, build an army, and make enough money to fund it all. But will he be able to make amends with his family and stop the empire's march?\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-183285",
-      "title": "Absolute Reign",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 6998.0,
-      "url": "https://anilist.co/manga/183285",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183285-ZfemXvC1AHGk.jpg",
-      "description": "Twenty years have passed since the Great War, but petty theft and exploitation have taken root during times of peace. The once dazzling world of Murim is a mere shadow of its former self, but one young enigmatic swordsman has sworn to restore Jianghu to its former glory. Will the noble principles of justice and loyalty prevail over corruption and greed?<br><br>(Source: WEBTOON)",
+      "score": 36185.0,
+      "url": "https://anilist.co/manga/143056",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg",
+      "description": "Humans call them “calamities”—the unknown, destructive creatures that suddenly appeared on earth. To challenge these calamities, the zodiac gods awakened 12 humans known as saints. But there was one more that awoke—unchosen but the greatest hero of all: Geon Lee. His allies betrayed him and left him for dead, but now, 20 years later, he’s more powerful than ever and ready to teach his fellow “saints” a lesson they’ll never forget. <br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
@@ -119,20 +53,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-206766",
-      "title": "There's No Such Thing as a Bad Lady",
+      "id": "anilist-manga-135325",
+      "title": "The Lazy Lord Masters the Sword",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3142.0,
-      "url": "https://anilist.co/manga/206766",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
-      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
+      "score": 30410.0,
+      "url": "https://anilist.co/manga/135325",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -140,20 +75,104 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-203958",
-      "title": "A Wimp’s Tower Strategy Guide",
+      "id": "anilist-manga-167649",
+      "title": "The Academy's Genius Swordsman",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2182.0,
-      "url": "https://anilist.co/manga/203958",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203958-AZVqS2yRXfiN.jpg",
-      "description": "Mysterious black towers have appeared all over the world. Inside them are monsters, danger, and the promise of power and fame. Only a select few are chosen to enter as players. Everyone calls it a once-in-a-lifetime opportunity, but 25-year-old Ju-Hyeok Bong calls it a death sentence. He is a timid, anxious self-proclaimed “wimp,” perfectly content with staying under the radar… That is, until he is named as a player. Will he risk everything by entering the tower, or keep running from the one chance that could change his life?<br><br>(Source: WEBTOON)",
+      "score": 26598.0,
+      "url": "https://anilist.co/manga/167649",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
+      "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 71,
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-137304",
+      "title": "Return of the Mad Demon",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 25189.0,
+      "url": "https://anilist.co/manga/137304",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
+      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-151460",
+      "title": "Absolute Sword Sense",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 14702.0,
+      "url": "https://anilist.co/manga/151460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
+      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-186019",
+      "title": "Ultimate Shut-in",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 7369.0,
+      "url": "https://anilist.co/manga/186019",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186019-IPT6Xoej9pgt.jpg",
+      "description": "Kill monsters, save your neighbors, and expand your domain, all from the comfort of your couch. When his city becomes infested with monsters, Jae-Hyeon discovers an ability that makes him the absolute master of his apartment building. But his ability comes with a catch -- he cannot leave his apartment. Now, he must arm his neighbors and lead them beyond their building to survive the post-apocalyptic world they find themselves in.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 74,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-176790",
+      "title": "Reincarnated Murim Lord",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 7155.0,
+      "url": "https://anilist.co/manga/176790",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176790-qR0AhWd6xxWC.png",
+      "description": "Regret is the bane of old men. When aging Alliance Lord Hajin Cheon of the Grand Martial Alliance reflects on his immense legacy, he finds that he recalls little of his deeds or even the lives of his closest advisors. Stricken by a mysterious ailment, Hajin suddenly passes away only to wake up in the body of Ridan Byeok, heir to the Byeok Clan of swordsmen. The only problem is, Ridan is a well-known wastrel, the polar opposite of the virtuous and stern Hajin. Righting the wrongs of his predecessor, Hajin begins to uncover the truth behind his death…<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 74,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

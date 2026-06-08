@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-07T03:31:25Z",
-  "date": "2026-06-07",
+  "generated_at_utc": "2026-06-08T03:37:03Z",
+  "date": "2026-06-08",
   "category": "anime",
   "item_count": 30,
   "errors": [
@@ -11,11 +11,30 @@
   ],
   "items": [
     {
+      "id": "anilist-anime-198113",
+      "title": "KILL BLUE",
+      "source": "AniList",
+      "category": "anime",
+      "score": 31253.0,
+      "url": "https://anilist.co/anime/198113",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+      "description": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br>\n\nBefore he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br>\n\nWhat awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br>\n(Source: Official Site)",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "metadata": {
+        "average_score": 73
+      },
+      "previous_score": 30811.0,
+      "velocity": 0.014345525948524878
+    },
+    {
       "id": "jikan-anime-61316",
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
       "source": "Jikan",
       "category": "anime",
-      "score": 42567.0,
+      "score": 43140.0,
       "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season",
       "image": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
       "description": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"Sage\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to the Sage, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa, edited)",
@@ -25,57 +44,38 @@
         "Suspense"
       ],
       "metadata": {
-        "mal_score": 8.98,
-        "members": 242416
+        "mal_score": 8.99,
+        "members": 243390
       },
-      "previous_score": 41978.0,
-      "velocity": 0.01403115917861737
+      "previous_score": 42567.0,
+      "velocity": 0.01346113186271055
     },
     {
-      "id": "jikan-anime-56734",
-      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "id": "jikan-anime-59983",
+      "title": "Tsue to Tsurugi no Wistoria Season 2",
       "source": "Jikan",
       "category": "anime",
-      "score": 20109.0,
-      "url": "https://myanimelist.net/anime/56734/Class_de_2-banme_ni_Kawaii_Onnanoko_to_Tomodachi_ni_Natta",
-      "image": "https://cdn.myanimelist.net/images/anime/1423/155713l.jpg",
-      "description": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
+      "score": 21624.0,
+      "url": "https://myanimelist.net/anime/59983/Tsue_to_Tsurugi_no_Wistoria_Season_2",
+      "image": "https://cdn.myanimelist.net/images/anime/1190/155788l.jpg",
+      "description": "As the year nears its end, the time for final exams arrives at Rigarden Magical Academy. Despite being the only student without any magic aptitude, Will Serfort aims to score perfect grades in every subject, which would allow him to ascend to the Wizard's Tower and reunite with his childhood friend, Elfaria Albis Serfort. However, Will's hard work comes tumbling down when he fails the very last, biased exam, disqualifying him from entering the Wizard's Tower.\n\nMeanwhile, Elfaria and the other Magia Vander—the five most powerful mages—perform the annual ritual that protects their world from the dangerous Celestial Hosts. As the ritual temporarily leaves the Magia Vander drained of magic, a large army of monsters suddenly appears and begins attacking mages and civilians alike. To make matters worse, the mages are unable to hold off the invasion due to the monsters' special weaponry that nullifies their magic. Refusing to let the world end in despair, Will and his masterful swordsmanship quickly become a cornerstone in stopping the attack.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Romance"
+        "Action",
+        "Fantasy"
       ],
       "metadata": {
-        "mal_score": 7.93,
-        "members": 115047
+        "mal_score": 8.23,
+        "members": 157972
       },
-      "previous_score": 19835.0,
-      "velocity": 0.01381396521300731
-    },
-    {
-      "id": "jikan-anime-60852",
-      "title": "Koori no Jouheki",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 14612.0,
-      "url": "https://myanimelist.net/anime/60852/Koori_no_Jouheki",
-      "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
-      "description": "On the surface, high school student Koyuki \"Koyun\" Hikawa seems unapproachable and terrifying to most other students. In reality, Koyun is just insecure and prone to overthinking due to her uncomfortable experiences in middle school. However, her chance encounter with two boys in school—Minato Amamiya and Youta Hino—sparks a change in her. Like her friend Miki Azumi, the boys are never afraid to approach Koyun and see her for who she really is.\n\nAlthough Koyun starts spending more time with Miki, Minato, and Youta, she finds herself torn between her newfound bliss and her fear of getting too attached to others. Meanwhile, each of her friends quietly struggles with their own challenges. But as the new friend group continues to navigate high school together, Koyun and the others start to break out of their shells and enjoy their adolescence to the fullest.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 7.89,
-        "members": 89817
-      },
-      "previous_score": 14429.0,
-      "velocity": 0.012682791600249498
+      "previous_score": 21381.0,
+      "velocity": 0.011365230812403536
     },
     {
       "id": "jikan-anime-59970",
       "title": "Tensei shitara Slime Datta Ken 4th Season",
       "source": "Jikan",
       "category": "anime",
-      "score": 21341.0,
+      "score": 21581.0,
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "image": "https://cdn.myanimelist.net/images/anime/1695/156389l.jpg",
       "description": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
@@ -86,78 +86,56 @@
       ],
       "metadata": {
         "mal_score": 8.12,
-        "members": 203010
+        "members": 203592
       },
-      "previous_score": 21087.0,
-      "velocity": 0.01204533598899796
+      "previous_score": 21341.0,
+      "velocity": 0.01124595848366993
     },
     {
-      "id": "jikan-anime-60028",
-      "title": "Himekishi wa Barbaroi no Yome",
+      "id": "jikan-anime-60852",
+      "title": "Koori no Jouheki",
       "source": "Jikan",
       "category": "anime",
-      "score": 9622.0,
-      "url": "https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome",
-      "image": "https://cdn.myanimelist.net/images/anime/1229/155022l.jpg",
-      "description": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!\n\n(Source: Kodansha)",
+      "score": 14773.0,
+      "url": "https://myanimelist.net/anime/60852/Koori_no_Jouheki",
+      "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+      "description": "On the surface, high school student Koyuki \"Koyun\" Hikawa seems unapproachable and terrifying to most other students. In reality, Koyun is just insecure and prone to overthinking due to her uncomfortable experiences in middle school. However, her chance encounter with two boys in school—Minato Amamiya and Youta Hino—sparks a change in her. Like her friend Miki Azumi, the boys are never afraid to approach Koyun and see her for who she really is.\n\nAlthough Koyun starts spending more time with Miki, Minato, and Youta, she finds herself torn between her newfound bliss and her fear of getting too attached to others. Meanwhile, each of her friends quietly struggles with their own challenges. But as the new friend group continues to navigate high school together, Koyun and the others start to break out of their shells and enjoy their adolescence to the fullest.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Comedy",
-        "Fantasy",
+        "Drama",
         "Romance"
       ],
       "metadata": {
-        "mal_score": 6.84,
-        "members": 80780
+        "mal_score": 7.9,
+        "members": 90350
       },
-      "previous_score": 9508.0,
-      "velocity": 0.011989903239377367
+      "previous_score": 14612.0,
+      "velocity": 0.011018341089515467
     },
     {
-      "id": "jikan-anime-62568",
-      "title": "Dr. Stone: Science Future Part 3",
+      "id": "jikan-anime-56734",
+      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "source": "Jikan",
       "category": "anime",
-      "score": 18126.0,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1773/155779l.jpg",
-      "description": "After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.\n\nMeanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.\n\n[Written by MAL Rewrite]",
+      "score": 20325.0,
+      "url": "https://myanimelist.net/anime/56734/Class_de_2-banme_ni_Kawaii_Onnanoko_to_Tomodachi_ni_Natta",
+      "image": "https://cdn.myanimelist.net/images/anime/1423/155713l.jpg",
+      "description": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
       "genres": [
-        "Adventure",
-        "Comedy"
+        "Romance"
       ],
       "metadata": {
-        "mal_score": 8.28,
-        "members": 148162
+        "mal_score": 7.94,
+        "members": 115742
       },
-      "previous_score": 17927.0,
-      "velocity": 0.011100574552351201
-    },
-    {
-      "id": "jikan-anime-62568",
-      "title": "Dr. Stone: Science Future Part 3",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 18126.0,
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1773/155779l.jpg",
-      "description": "After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.\n\nMeanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": 8.28,
-        "members": 148162
-      },
-      "previous_score": 17927.0,
-      "velocity": 0.011100574552351201
+      "previous_score": 20109.0,
+      "velocity": 0.01074145904818738
     },
     {
       "id": "jikan-anime-62601",
       "title": "Marriagetoxin",
       "source": "Jikan",
       "category": "anime",
-      "score": 15591.0,
+      "score": 15751.0,
       "url": "https://myanimelist.net/anime/62601/Marriagetoxin",
       "image": "https://cdn.myanimelist.net/images/anime/1927/154309l.jpg",
       "description": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.\n\nHowever, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.\n\n\"...That's the first time anyone's ever proposed like that.\"\n\nAnd so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!\n\n(Source: Official site)",
@@ -167,36 +145,78 @@
       ],
       "metadata": {
         "mal_score": 7.54,
-        "members": 112596
+        "members": 113178
       },
-      "previous_score": 15440.0,
-      "velocity": 0.009779792746113989
+      "previous_score": 15591.0,
+      "velocity": 0.010262330831890192
     },
     {
-      "id": "jikan-anime-63375",
-      "title": "Nippon Sangoku",
+      "id": "jikan-anime-62568",
+      "title": "Dr. Stone: Science Future Part 3",
       "source": "Jikan",
       "category": "anime",
-      "score": 11900.0,
-      "url": "https://myanimelist.net/anime/63375/Nippon_Sangoku",
-      "image": "https://cdn.myanimelist.net/images/anime/1623/156387l.jpg",
-      "description": "The pinnacle of modern civilization known as Japan is now long forgotten. Ravaged by civil war and technological collapse, Japan has regressed into a post-Meiji era society and is now divided into three imperial territories known as Yamato, Buo, and Seii.\n\nHowever, Aoteru Misumi, a 15-year-old literature enthusiast, dreams to bring back the culture and technology that once made the pride of his country. Although unwilling to turn his theoretical knowledge into concrete action at first, a tragic turn of events drives Aoteru to head to Osaka in hopes of enlisting in the army and eventually uniting the country under his own banner.\n\nOsaka—once one of the three jewels of Kansai—has become a crime-ridden city where Aoteru almost loses his life. Luckily, he encounters a fellow ambitious young man named Yoshitsune Asama who pursues the same dream. With Aoteru's strategic prowess and Yoshitsune's masterful swordsmanship, the two now embark on a journey to restore the former glory of Japan.\n\n[Written by MAL Rewrite]",
+      "score": 18311.0,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "image": "https://cdn.myanimelist.net/images/anime/1773/155779l.jpg",
+      "description": "After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.\n\nMeanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Drama"
+        "Adventure",
+        "Comedy"
       ],
       "metadata": {
-        "mal_score": 8.49,
-        "members": 80578
+        "mal_score": 8.28,
+        "members": 148598
       },
-      "previous_score": 11788.0,
-      "velocity": 0.009501187648456057
+      "previous_score": 18126.0,
+      "velocity": 0.010206333443672073
+    },
+    {
+      "id": "jikan-anime-62568",
+      "title": "Dr. Stone: Science Future Part 3",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 18311.0,
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "image": "https://cdn.myanimelist.net/images/anime/1773/155779l.jpg",
+      "description": "After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.\n\nMeanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "metadata": {
+        "mal_score": 8.28,
+        "members": 148598
+      },
+      "previous_score": 18126.0,
+      "velocity": 0.010206333443672073
+    },
+    {
+      "id": "jikan-anime-60028",
+      "title": "Himekishi wa Barbaroi no Yome",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 9720.0,
+      "url": "https://myanimelist.net/anime/60028/Himekishi_wa_Barbaroi_no_Yome",
+      "image": "https://cdn.myanimelist.net/images/anime/1229/155022l.jpg",
+      "description": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!\n\n(Source: Kodansha)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": 6.83,
+        "members": 81110
+      },
+      "previous_score": 9622.0,
+      "velocity": 0.010184992725005197
     },
     {
       "id": "jikan-anime-51553",
       "title": "Tongari Boushi no Atelier",
       "source": "Jikan",
       "category": "anime",
-      "score": 56089.0,
+      "score": 56652.0,
       "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
       "image": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg",
       "description": "In a world where witches wield breathtaking magic, Coco, coming from a humble background, often wishes she were born one herself. After all, the secret behind casting magic is strictly guarded from non-witches. But when Coco manages to catch a glimpse of the witch Qifrey casting a spell, her revelation on the truth behind magic drastically alters the course of her life.\n\nHowever, Coco's curiosity pays a steep price when a disastrous spell cast in ignorance brings a tragic fate upon her beloved mother. Qifrey takes the shaken girl in, recognizing both her resolve to save her mother and her link to a group of forbidden magic heretics. Secrets are a heavy burden, and between navigating a society that views her as an uninvited guest and mastering the art of magic, Coco must give her all to prove her worth as a witch.\n\n[Written by MAL Rewrite]",
@@ -205,96 +225,36 @@
       ],
       "metadata": {
         "mal_score": 8.72,
-        "members": 321277
+        "members": 323020
       },
-      "previous_score": 55564.0,
-      "velocity": 0.00944856381829962
+      "previous_score": 56089.0,
+      "velocity": 0.010037618784431886
     },
     {
-      "id": "jikan-anime-59983",
-      "title": "Tsue to Tsurugi no Wistoria Season 2",
+      "id": "jikan-anime-63375",
+      "title": "Nippon Sangoku",
       "source": "Jikan",
       "category": "anime",
-      "score": 21381.0,
-      "url": "https://myanimelist.net/anime/59983/Tsue_to_Tsurugi_no_Wistoria_Season_2",
-      "image": "https://cdn.myanimelist.net/images/anime/1190/155788l.jpg",
-      "description": "As the year nears its end, the time for final exams arrives at Rigarden Magical Academy. Despite being the only student without any magic aptitude, Will Serfort aims to score perfect grades in every subject, which would allow him to ascend to the Wizard's Tower and reunite with his childhood friend, Elfaria Albis Serfort. However, Will's hard work comes tumbling down when he fails the very last, biased exam, disqualifying him from entering the Wizard's Tower.\n\nMeanwhile, Elfaria and the other Magia Vander—the five most powerful mages—perform the annual ritual that protects their world from the dangerous Celestial Hosts. As the ritual temporarily leaves the Magia Vander drained of magic, a large army of monsters suddenly appears and begins attacking mages and civilians alike. To make matters worse, the mages are unable to hold off the invasion due to the monsters' special weaponry that nullifies their magic. Refusing to let the world end in despair, Will and his masterful swordsmanship quickly become a cornerstone in stopping the attack.\n\n[Written by MAL Rewrite]",
+      "score": 12018.0,
+      "url": "https://myanimelist.net/anime/63375/Nippon_Sangoku",
+      "image": "https://cdn.myanimelist.net/images/anime/1623/156387l.jpg",
+      "description": "The pinnacle of modern civilization known as Japan is now long forgotten. Ravaged by civil war and technological collapse, Japan has regressed into a post-Meiji era society and is now divided into three imperial territories known as Yamato, Buo, and Seii.\n\nHowever, Aoteru Misumi, a 15-year-old literature enthusiast, dreams to bring back the culture and technology that once made the pride of his country. Although unwilling to turn his theoretical knowledge into concrete action at first, a tragic turn of events drives Aoteru to head to Osaka in hopes of enlisting in the army and eventually uniting the country under his own banner.\n\nOsaka—once one of the three jewels of Kansai—has become a crime-ridden city where Aoteru almost loses his life. Luckily, he encounters a fellow ambitious young man named Yoshitsune Asama who pursues the same dream. With Aoteru's strategic prowess and Yoshitsune's masterful swordsmanship, the two now embark on a journey to restore the former glory of Japan.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Action",
-        "Fantasy"
+        "Drama"
       ],
       "metadata": {
-        "mal_score": 8.23,
-        "members": 157365
+        "mal_score": 8.49,
+        "members": 81047
       },
-      "previous_score": 21183.0,
-      "velocity": 0.009347117971958646
-    },
-    {
-      "id": "jikan-anime-62604",
-      "title": "Otaku ni Yasashii Gal wa Inai!?",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 13896.0,
-      "url": "https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai",
-      "image": "https://cdn.myanimelist.net/images/anime/1956/155456l.jpg",
-      "description": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n\n(Source: Yen Press)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 7.59,
-        "members": 90524
-      },
-      "previous_score": 13770.0,
-      "velocity": 0.009150326797385621
-    },
-    {
-      "id": "jikan-anime-56876",
-      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 17162.0,
-      "url": "https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2",
-      "image": "https://cdn.myanimelist.net/images/anime/1989/154843l.jpg",
-      "description": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 7.49,
-        "members": 142161
-      },
-      "previous_score": 17010.0,
-      "velocity": 0.008935920047031158
-    },
-    {
-      "id": "jikan-anime-59708",
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 27797.0,
-      "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
-      "image": "https://cdn.myanimelist.net/images/anime/1176/153626l.jpg",
-      "description": "As soon as Kiyotaka Ayanokouji and the rest of Class D officially enter their second year at Tokyo Metropolitan Advanced Nurturing High School, they face their next special test: each second-year student will have to team up with a first-year student to take a written exam. Although the test seems simple enough, every pair must achieve a specific number of points to avoid a harsh penalty, raising the demand for academically proficient individuals.\n\nWithout a break, Class D scouts for potential partners. However, Ayanokouji also faces a serious threat since the secret first-rate institution called White Room has enrolled another prodigy at the school to get him expelled. As Ayanokouji begins his masterful schemes once more, he must stay vigilant for new and old enemies alike.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "metadata": {
-        "mal_score": 8.03,
-        "members": 208126
-      },
-      "previous_score": 27558.0,
-      "velocity": 0.008672617751651063
+      "previous_score": 11900.0,
+      "velocity": 0.009915966386554622
     },
     {
       "id": "jikan-anime-62001",
       "title": "Yomi no Tsugai",
       "source": "Jikan",
       "category": "anime",
-      "score": 25641.0,
+      "score": 25893.0,
       "url": "https://myanimelist.net/anime/62001/Yomi_no_Tsugai",
       "image": "https://cdn.myanimelist.net/images/anime/1171/156397l.jpg",
       "description": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Ryuu \"Dera\" Tadera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
@@ -304,18 +264,138 @@
         "Supernatural"
       ],
       "metadata": {
-        "mal_score": 7.97,
-        "members": 186556
+        "mal_score": 7.96,
+        "members": 187362
       },
-      "previous_score": 25442.0,
-      "velocity": 0.007821712129549564
+      "previous_score": 25641.0,
+      "velocity": 0.009828009828009828
+    },
+    {
+      "id": "jikan-anime-62604",
+      "title": "Otaku ni Yasashii Gal wa Inai!?",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 14028.0,
+      "url": "https://myanimelist.net/anime/62604/Otaku_ni_Yasashii_Gal_wa_Inai",
+      "image": "https://cdn.myanimelist.net/images/anime/1956/155456l.jpg",
+      "description": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n\n(Source: Yen Press)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": 7.59,
+        "members": 90956
+      },
+      "previous_score": 13896.0,
+      "velocity": 0.009499136442141624
+    },
+    {
+      "id": "jikan-anime-59708",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 28045.0,
+      "url": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki",
+      "image": "https://cdn.myanimelist.net/images/anime/1176/153626l.jpg",
+      "description": "As soon as Kiyotaka Ayanokouji and the rest of Class D officially enter their second year at Tokyo Metropolitan Advanced Nurturing High School, they face their next special test: each second-year student will have to team up with a first-year student to take a written exam. Although the test seems simple enough, every pair must achieve a specific number of points to avoid a harsh penalty, raising the demand for academically proficient individuals.\n\nWithout a break, Class D scouts for potential partners. However, Ayanokouji also faces a serious threat since the secret first-rate institution called White Room has enrolled another prodigy at the school to get him expelled. As Ayanokouji begins his masterful schemes once more, he must stay vigilant for new and old enemies alike.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metadata": {
+        "mal_score": 8.02,
+        "members": 208677
+      },
+      "previous_score": 27797.0,
+      "velocity": 0.008921826096341332
+    },
+    {
+      "id": "jikan-anime-56876",
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 17310.0,
+      "url": "https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2",
+      "image": "https://cdn.myanimelist.net/images/anime/1989/154843l.jpg",
+      "description": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": 7.48,
+        "members": 142451
+      },
+      "previous_score": 17162.0,
+      "velocity": 0.008623703531056987
+    },
+    {
+      "id": "anilist-anime-190704",
+      "title": "Mistress Kanan is Devilishly Easy",
+      "source": "AniList",
+      "category": "anime",
+      "score": 37750.0,
+      "url": "https://anilist.co/anime/190704",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
+      "description": "Kanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 67
+      },
+      "previous_score": 37439.0,
+      "velocity": 0.00830684580250541
+    },
+    {
+      "id": "anilist-anime-195600",
+      "title": "Daemons of the Shadow Realm",
+      "source": "AniList",
+      "category": "anime",
+      "score": 99812.0,
+      "url": "https://anilist.co/anime/195600",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 78
+      },
+      "previous_score": 99153.0,
+      "velocity": 0.006646294111121197
+    },
+    {
+      "id": "anilist-anime-196935",
+      "title": "Akane-banashi",
+      "source": "AniList",
+      "category": "anime",
+      "score": 33023.0,
+      "url": "https://anilist.co/anime/196935",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+      "description": "<i>\"With only your voice and body—master the art.\"</i><br><br>\n\nAkane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br>\n\nSix years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br>\nA passionate and authentic rakugo drama begins now!\n<br><br>\n(Source: TV Asahi, edited)",
+      "genres": [
+        "Drama"
+      ],
+      "metadata": {
+        "average_score": 76
+      },
+      "previous_score": 32815.0,
+      "velocity": 0.006338564680786226
     },
     {
       "id": "anilist-anime-182205",
       "title": "That Time I Got Reincarnated as a Slime Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 97097.0,
+      "score": 97680.0,
       "url": "https://anilist.co/anime/182205",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
       "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
@@ -328,15 +408,15 @@
       "metadata": {
         "average_score": 81
       },
-      "previous_score": 96396.0,
-      "velocity": 0.007272085978671314
+      "previous_score": 97097.0,
+      "velocity": 0.006004304973377139
     },
     {
       "id": "anilist-anime-147105",
       "title": "Witch Hat Atelier",
       "source": "AniList",
       "category": "anime",
-      "score": 169286.0,
+      "score": 170239.0,
       "url": "https://anilist.co/anime/147105",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
       "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
@@ -348,15 +428,15 @@
       "metadata": {
         "average_score": 86
       },
-      "previous_score": 168428.0,
-      "velocity": 0.00509416486569929
+      "previous_score": 169286.0,
+      "velocity": 0.005629526363668584
     },
     {
       "id": "anilist-anime-189046",
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 103498.0,
+      "score": 104009.0,
       "url": "https://anilist.co/anime/189046",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
       "description": "The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br>\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br>\n\n(Source: Crunchyroll News)\n\n<br><br>\n<i>Note: Episode 1 pre-screened at Lucca Comics & Games on November 1, 2025, before the Japanese television broadcast.",
@@ -371,15 +451,15 @@
       "metadata": {
         "average_score": 88
       },
-      "previous_score": 102991.0,
-      "velocity": 0.004922760241186123
+      "previous_score": 103498.0,
+      "velocity": 0.004937293474270034
     },
     {
       "id": "anilist-anime-199221",
       "title": "Dr. STONE SCIENCE FUTURE Cour 3",
       "source": "AniList",
       "category": "anime",
-      "score": 61938.0,
+      "score": 62177.0,
       "url": "https://anilist.co/anime/199221",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
       "description": "The third and final cour of the fourth season of <i>Dr.STONE</i>.",
@@ -392,15 +472,15 @@
       "metadata": {
         "average_score": 82
       },
-      "previous_score": 61660.0,
-      "velocity": 0.004508595523840415
+      "previous_score": 61938.0,
+      "velocity": 0.003858697407084504
     },
     {
       "id": "anilist-anime-180745",
       "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
       "source": "AniList",
       "category": "anime",
-      "score": 94478.0,
+      "score": 94833.0,
       "url": "https://anilist.co/anime/180745",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
       "description": "The fourth season of <i> Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br>\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n<br><br>\n(Source: Seven Seas)",
@@ -411,8 +491,8 @@
       "metadata": {
         "average_score": 79
       },
-      "previous_score": 94086.0,
-      "velocity": 0.004166400952320217
+      "previous_score": 94478.0,
+      "velocity": 0.0037574885158449586
     },
     {
       "id": "anilist-anime-21",
@@ -433,103 +513,62 @@
       "metadata": {
         "average_score": 87
       },
-      "previous_score": 710896.0,
-      "velocity": 0.000561263532218496
+      "previous_score": 711295.0,
+      "velocity": 0.0
     },
     {
-      "id": "anilist-anime-195600",
-      "title": "Daemons of the Shadow Realm",
+      "id": "anilist-anime-269",
+      "title": "Bleach",
       "source": "AniList",
       "category": "anime",
-      "score": 99153.0,
-      "url": "https://anilist.co/anime/195600",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "score": 485881.0,
+      "url": "https://anilist.co/anime/269",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
-        "Fantasy",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 78
+        "average_score": 79
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-190704",
-      "title": "Mistress Kanan is Devilishly Easy",
+      "id": "anilist-anime-182300",
+      "title": "Wistoria: Wand and Sword Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 37439.0,
-      "url": "https://anilist.co/anime/190704",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
-      "description": "Kanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br>\n<br>\n(Source: Crunchyroll)",
+      "score": 87730.0,
+      "url": "https://anilist.co/anime/182300",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
+      "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)",
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 67
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-190143",
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "source": "AniList",
-      "category": "anime",
-      "score": 36346.0,
-      "url": "https://anilist.co/anime/190143",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
-      "description": "When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.\n<br><br>\n(Source: Crunchyroll)",
-      "genres": [
+        "Action",
+        "Adventure",
         "Drama",
-        "Fantasy",
-        "Romance"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 75
+        "average_score": 82
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-196935",
-      "title": "Akane-banashi",
+      "id": "anilist-anime-169580",
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
       "source": "AniList",
       "category": "anime",
-      "score": 32815.0,
-      "url": "https://anilist.co/anime/196935",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
-      "description": "<i>\"With only your voice and body—master the art.\"</i><br><br>\n\nAkane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br>\n\nSix years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br>\nA passionate and authentic rakugo drama begins now!\n<br><br>\n(Source: TV Asahi, edited)",
-      "genres": [
-        "Drama"
-      ],
-      "metadata": {
-        "average_score": 76
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-184492",
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 31860.0,
-      "url": "https://anilist.co/anime/184492",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
-      "description": "The fourth season of <i>Mairimashita! Iruma-kun.</i>\n<br><br>\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br>\n(Source: Crunchyroll News)",
+      "score": 67978.0,
+      "url": "https://anilist.co/anime/169580",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+      "description": "Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br>\n<br>\n(Source: Crunchyroll)",
       "genres": [
         "Comedy",
-        "Fantasy",
-        "Supernatural"
+        "Romance"
       ],
       "metadata": {
         "average_score": 80
@@ -538,81 +577,39 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-198113",
-      "title": "KILL BLUE",
+      "id": "anilist-anime-206914",
+      "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
       "source": "AniList",
       "category": "anime",
-      "score": 30811.0,
-      "url": "https://anilist.co/anime/198113",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-      "description": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br>\n\nBefore he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br>\n\nWhat awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br>\n(Source: Official Site)",
+      "score": 40593.0,
+      "url": "https://anilist.co/anime/206914",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+      "description": "A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.\n<br><br>\n(Source: Amazon Prime Video)",
       "genres": [
         "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 73
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-171110",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "source": "AniList",
-      "category": "anime",
-      "score": 30795.0,
-      "url": "https://anilist.co/anime/171110",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-      "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club) ",
-      "genres": [
         "Drama",
-        "Fantasy",
-        "Slice of Life"
+        "Sci-Fi"
       ],
       "metadata": {
-        "average_score": 76
+        "average_score": 81
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-200769",
-      "title": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "id": "anilist-anime-196974",
+      "title": "The Classroom of the Black Cat and a Witch",
       "source": "AniList",
       "category": "anime",
-      "score": 28611.0,
-      "url": "https://anilist.co/anime/200769",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
-      "description": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!\n<br><br>\n(Source: Alpha Manga)\n<br><br>\n<i>Note: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? was streamed a week in advance of the TV broadcast on dAnimestore, and ABEMA starting with episode 2. The first episode was released on April 2, 2026. Regular broadcasting began on April 4, 2026.</i>",
+      "score": 17815.0,
+      "url": "https://anilist.co/anime/196974",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+      "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 57
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-196029",
-      "title": "Kusunoki's Garden of Gods",
-      "source": "AniList",
-      "category": "anime",
-      "score": 14671.0,
-      "url": "https://anilist.co/anime/196029",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
-      "description": "Minato Kusunoki is assigned to manage his family’s haunted, abandoned countryside estate. However, thanks to his overwhelming spiritual power, Minato accidentally purifies the entire place, turning the once-cursed property into a peaceful haven for wandering gods and deities! As Minato settles in, he finds himself surrounded by quirky divine neighbors and the lively chaos of life among the gods.\n<br><br>\n (Source: Crunchyroll)",
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 70
+        "average_score": 63
       },
       "previous_score": null,
       "velocity": null
