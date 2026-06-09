@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-08T03:37:03Z",
-  "date": "2026-06-08",
+  "generated_at_utc": "2026-06-09T02:46:56Z",
+  "date": "2026-06-09",
   "category": "manga",
-  "item_count": 22,
+  "item_count": 19,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,11 +11,34 @@
   ],
   "items": [
     {
+      "id": "anilist-manga-180752",
+      "title": "Ichi the Witch",
+      "source": "AniList",
+      "category": "manga",
+      "score": 25859.0,
+      "url": "https://anilist.co/manga/180752",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
+      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 25796.0,
+      "velocity": 0.0024422391068382697
+    },
+    {
       "id": "jikan-manga-162032",
       "title": "Guimi Zhi Zhu",
       "source": "Jikan",
       "category": "manga",
-      "score": 24183.0,
+      "score": 24215.0,
       "url": "https://myanimelist.net/manga/162032/Guimi_Zhi_Zhu",
       "image": "https://cdn.myanimelist.net/images/manga/2/287344l.jpg",
       "description": "Through the storm of steam and machinery, who can achieve the extraordinary? In the mist of history and darkness, who whispers to me? When I woke up from the haze of mystery, I found myself in a world of guns, cannons, giant ships, airships, difference engines; potions, divination, curses, hanged men, and sealed artifacts. But the light still shines between it all, and the mystery is never more than two steps away. This is the legend of the Fool.\n\n(Source: Yen Press)",
@@ -29,15 +52,15 @@
         "rank": 5,
         "mal_score": 9.19
       },
-      "previous_score": 24155.0,
-      "velocity": 0.0011591802939350032
+      "previous_score": 24183.0,
+      "velocity": 0.001323243600876649
     },
     {
       "id": "jikan-manga-147272",
       "title": "The Greatest Estate Developer",
       "source": "Jikan",
       "category": "manga",
-      "score": 87192.0,
+      "score": 87293.0,
       "url": "https://myanimelist.net/manga/147272/The_Greatest_Estate_Developer",
       "image": "https://cdn.myanimelist.net/images/manga/1/290131l.jpg",
       "description": "There is no bigger scum of the earth than Lloyd Frontera. He is the eldest son, yet all he does is drink and intimidate others, depleting what little is left of his family's wealth. The Fronteras' knight, Javier Asrahan, is destined to become a renowned swordmaster, and Lloyd's family will face pitiful deaths as their entire land falls to ruin under insurmountable debt.\n\nThough at some point Kim Suho was an average civil engineering student in Korea, he suddenly wakes up on a dirt road as none other than Lloyd, an ungrateful hooligan from the beginning of a book following Javier, the protagonist. While a sassy status window offers some clarity about his new identity, Suho is rather worried about his imminent downfall.\n\nTo avoid becoming a beggar—and ultimately lead a sweet and comfortable life—Suho decides to fix Lloyd's scumbag image. With his engineering expertise and magical construction skills boost, Suho introduces modern innovations and city developments to this medieval-like world, drastically improving the people's quality of life—all for a nice sum of money.\n\n[Written by MAL Rewrite]",
@@ -50,15 +73,15 @@
         "rank": 9,
         "mal_score": 9.09
       },
-      "previous_score": 87101.0,
-      "velocity": 0.0010447641244072973
+      "previous_score": 87192.0,
+      "velocity": 0.0011583631525828057
     },
     {
       "id": "jikan-manga-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "manga",
-      "score": 35301.0,
+      "score": 35327.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -71,15 +94,15 @@
         "rank": 10,
         "mal_score": 9.05
       },
-      "previous_score": 35279.0,
-      "velocity": 0.0006236004421894044
+      "previous_score": 35301.0,
+      "velocity": 0.0007365230446729554
     },
     {
       "id": "jikan-manga-130826",
       "title": "Tian Guan Cifu",
       "source": "Jikan",
       "category": "manga",
-      "score": 22492.0,
+      "score": 22503.0,
       "url": "https://myanimelist.net/manga/130826/Tian_Guan_Cifu",
       "image": "https://cdn.myanimelist.net/images/manga/3/258775l.jpg",
       "description": "Born the crown prince of a prosperous kingdom, Xie Lian was renowned for his beauty, strength, and purity. His years of dedication and noble deeds allowed him to ascend to godhood. But those who rise, can also fall...and fall he does, cast from the Heavens again and again and banished to the mortal realm.\n\nEight hundred years after his mortal life, Xie Lian has ascended to godhood for the third time. Now only a lowly scrap collector, he is dispatched to wander the earthly realm to take on tasks appointed by the heavens to pay back debts and maintain his divinity. Aided by old friends and foes alike, and graced with the company of a mysterious young man with whom he feels an instant connection, Xie Lian must confront the horrors of his past in order to dispel the curse of his present.\n\n(Source: Seven Seas Entertainment)",
@@ -93,15 +116,38 @@
         "rank": 13,
         "mal_score": 9.03
       },
-      "previous_score": 22484.0,
-      "velocity": 0.0003558085749866572
+      "previous_score": 22492.0,
+      "velocity": 0.0004890627778765783
+    },
+    {
+      "id": "anilist-manga-108556",
+      "title": "SPY x FAMILY",
+      "source": "AniList",
+      "category": "manga",
+      "score": 156017.0,
+      "url": "https://anilist.co/manga/108556",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
+      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 155966.0,
+      "velocity": 0.000326994344921329
     },
     {
       "id": "jikan-manga-44489",
       "title": "Houseki no Kuni",
       "source": "Jikan",
       "category": "manga",
-      "score": 174327.0,
+      "score": 174375.0,
       "url": "https://myanimelist.net/manga/44489/Houseki_no_Kuni",
       "image": "https://cdn.myanimelist.net/images/manga/1/115443l.jpg",
       "description": "Long ago, Earth was struck by six meteorites, creating six moons and leaving a lone island in their wake. Those who could not make it to the island sank to the bottom of the ocean, where, over time, they slowly turned to crystal. As countless millennia passed, 28 of these crystallized lifeforms, known as the Lustrous, rose from the depths and resided on the island. Led by the wise Kongou-sensei, they must defend themselves against the seemingly infinite number of Lunarians, inhabitants of the moons who seek to harvest their valuable bodies for crafting weapons and jewelry. \n\nHouseki no Kuni centers around Phosphophyllite, a young gem about to turn three hundred years old. Clumsy, extremely fragile, and having no visible talent, they are one of the weakest gems around, unable to help in the fight against the Lunarians in any meaningful way. But as the battle with the otherworldly invaders rages on, they soon learn that power comes at a cost that no one should have to pay.\n\n[Written by MAL Rewrite]",
@@ -114,37 +160,97 @@
         "rank": 15,
         "mal_score": 9
       },
-      "previous_score": 174266.0,
-      "velocity": 0.0003500395946426727
+      "previous_score": 174327.0,
+      "velocity": 0.0002753446109896918
     },
     {
-      "id": "jikan-manga-1706",
-      "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+      "id": "jikan-manga-16765",
+      "title": "Kingdom",
       "source": "Jikan",
       "category": "manga",
-      "score": 326043.0,
-      "url": "https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run",
-      "image": "https://cdn.myanimelist.net/images/manga/3/179882l.jpg",
-      "description": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+      "score": 202384.0,
+      "url": "https://myanimelist.net/manga/16765/Kingdom",
+      "image": "https://cdn.myanimelist.net/images/manga/2/171872l.jpg",
+      "description": "During the Warring States period in China, Xin and Piao are two brother-like youngsters who dream of becoming Great Generals, despite their low status as orphaned slaves. One day, they encounter a man of nobility, who gives Piao an opportunity to undertake an important duty within the state of Qin's royal palace. Parting ways, Xin and Piao promise each other to one day become the greatest generals in the world. However, after a fierce coup d'état occurs in the palace, Xin meets with a dying Piao, whose last words spur him into action and lead him to encounter the young and soon-to-be king of Qin, Zheng Ying.\n\nAlthough initially on bad terms, Xin and Zheng become comrades and start on a path filled with trials and bloodshed. Zheng's objective is to bring all the warring states under Qin, and Xin seeks to climb to the very top of the army ranks. Against a backdrop of constant tactical battle between states and great political unrest, both outside and within the palace, the two endeavor towards their monumental ambitions that will change history forever.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Action",
+        "Award Winning"
+      ],
+      "metadata": {
+        "rank": 14,
+        "mal_score": 9.02
+      },
+      "previous_score": 202331.0,
+      "velocity": 0.0002619470076261176
+    },
+    {
+      "id": "jikan-manga-1",
+      "title": "Monster",
+      "source": "Jikan",
+      "category": "manga",
+      "score": 290709.0,
+      "url": "https://myanimelist.net/manga/1/Monster",
+      "image": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg",
+      "description": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead.\n\nAs a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance.\n\nNine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Award Winning",
+        "Drama",
+        "Mystery"
+      ],
+      "metadata": {
+        "rank": 6,
+        "mal_score": 9.16
+      },
+      "previous_score": 290642.0,
+      "velocity": 0.00023052414998520515
+    },
+    {
+      "id": "jikan-manga-51",
+      "title": "Slam Dunk",
+      "source": "Jikan",
+      "category": "manga",
+      "score": 201120.0,
+      "url": "https://myanimelist.net/manga/51/Slam_Dunk",
+      "image": "https://cdn.myanimelist.net/images/manga/2/258749l.jpg",
+      "description": "Hanamichi Sakuragi, a tall, boisterous teenager with flame-red hair and physical strength beyond his years, is eager to put an end to his rejection streak of 50 and finally score a girlfriend as he begins his first year of Shohoku High. However, his reputation for delinquency and destructiveness precedes him, and most of his fellow students subsequently avoid him like the plague. As his first day of school ends, he is left with two strong thoughts: \"I hate basketball\" and \"I need a girlfriend.\"\n\nHaruko Akagi, ignorant of Hanamichi's history of misbehavior, notices his immense height and unwittingly approaches him, asking whether or not he likes basketball. Overcome by the fact that a girl is speaking to him, the red-haired giant blurts out a yes despite his true feelings. At the gym, Haruko asks if he can do a slam dunk. Though a complete novice, Hanamachi palms the ball and makes the leap...but overshoots, slamming his head into the backboard. Amazed by his near-inhuman physical abilities, Haruko quickly notifies the school's basketball captain of his feat. With this, Hanamichi is unexpectedly thrust into a world of competition for a girl he barely knows, but he soon discovers that there is perhaps more to basketball than he once thought.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Award Winning",
+        "Sports"
+      ],
+      "metadata": {
+        "rank": 7,
+        "mal_score": 9.09
+      },
+      "previous_score": 201076.0,
+      "velocity": 0.0002188227336927331
+    },
+    {
+      "id": "jikan-manga-656",
+      "title": "Vagabond",
+      "source": "Jikan",
+      "category": "manga",
+      "score": 460426.0,
+      "url": "https://myanimelist.net/manga/656/Vagabond",
+      "image": "https://cdn.myanimelist.net/images/manga/1/259070l.jpg",
+      "description": "In 16th-century Japan, Shinmen Takezou is a wild, rough young man in both his appearance and his actions. His aggressive nature has won him the collective reproach and fear of his village, leading him and his best friend, Matahachi Honiden, to run away in search of something grander than provincial life. The pair enlist in the Toyotomi army, yearning for glory—but when the Toyotomi suffer a crushing defeat at the hands of the Tokugawa Clan at the Battle of Sekigahara, the friends barely make it out alive.\n\nAfter the two are separated, Shinmen returns home on a self-appointed mission to notify the Hon'iden family of Matahachi's survival. He instead finds himself a wanted criminal, framed for his friend's supposed murder based on his history of violence. Upon being captured, he is strung up on a tree and left to die. An itinerant monk, the distinguished Takuan Soho, takes pity on the \"devil child,\" secretly freeing Shinmen and christening him with a new name to avoid pursuit by the authorities: Musashi Miyamoto.\n\nVagabond is the fictitious retelling of the life of one of Japan's most renowned swordsmen, the \"Sword Saint\" Musashi Miyamoto—his rise from a swordsman with no desire other than to become \"Invincible Under the Heavens\" to an enlightened warrior who slowly learns of the importance of close friends, self-reflection, and life itself.\n\n[Written by MAL Rewrite]",
       "genres": [
         "Action",
         "Adventure",
-        "Mystery",
-        "Supernatural"
+        "Award Winning"
       ],
       "metadata": {
-        "rank": 2,
-        "mal_score": 9.34
+        "rank": 3,
+        "mal_score": 9.27
       },
-      "previous_score": 325958.0,
-      "velocity": 0.00026076979242724524
+      "previous_score": 460328.0,
+      "velocity": 0.0002128916772388384
     },
     {
       "id": "jikan-manga-642",
       "title": "Vinland Saga",
       "source": "Jikan",
       "category": "manga",
-      "score": 361969.0,
+      "score": 362038.0,
       "url": "https://myanimelist.net/manga/642/Vinland_Saga",
       "image": "https://cdn.myanimelist.net/images/manga/2/188925l.jpg",
       "description": "Thorfinn, son of one of the Vikings' greatest warriors, is among the finest fighters in the merry band of mercenaries run by the cunning Askeladd, an impressive feat for a person his age. However, Thorfinn is not part of the group for the plunder it entails—instead, for having caused his family great tragedy, the boy has vowed to kill Askeladd in a fair duel. Not yet skilled enough to defeat him, but unable to abandon his vengeance, Thorfinn spends his boyhood with the mercenary crew, honing his skills on the battlefield among the war-loving Danes, where killing is just another pleasure of life.\n\nOne day, when Askeladd receives word that Danish prince Canute has been taken hostage, he hatches an ambitious plot—one that will decide the next King of England and drastically alter the lives of Thorfinn, Canute, and himself. Set in 11th-century Europe, Vinland Saga tells a bloody epic in an era where violence, madness, and injustice are inescapable, providing a paradise for the battle-crazed and utter hell for the rest who live in it.\n\n[Written by MAL Rewrite]\n\nIncluded one-shots:\nVolume 23: Sayounara ga Chikai node (For Our Farewell Is Near)\nVolume 25: \"Assassin's Creed Valhalla\" Collab Bangai-hen (Assassin's Creed x Vinland Saga)",
@@ -158,36 +264,15 @@
         "rank": 8,
         "mal_score": 9.09
       },
-      "previous_score": 361895.0,
-      "velocity": 0.0002044791997678885
-    },
-    {
-      "id": "jikan-manga-656",
-      "title": "Vagabond",
-      "source": "Jikan",
-      "category": "manga",
-      "score": 460328.0,
-      "url": "https://myanimelist.net/manga/656/Vagabond",
-      "image": "https://cdn.myanimelist.net/images/manga/1/259070l.jpg",
-      "description": "In 16th-century Japan, Shinmen Takezou is a wild, rough young man in both his appearance and his actions. His aggressive nature has won him the collective reproach and fear of his village, leading him and his best friend, Matahachi Honiden, to run away in search of something grander than provincial life. The pair enlist in the Toyotomi army, yearning for glory—but when the Toyotomi suffer a crushing defeat at the hands of the Tokugawa Clan at the Battle of Sekigahara, the friends barely make it out alive.\n\nAfter the two are separated, Shinmen returns home on a self-appointed mission to notify the Hon'iden family of Matahachi's survival. He instead finds himself a wanted criminal, framed for his friend's supposed murder based on his history of violence. Upon being captured, he is strung up on a tree and left to die. An itinerant monk, the distinguished Takuan Soho, takes pity on the \"devil child,\" secretly freeing Shinmen and christening him with a new name to avoid pursuit by the authorities: Musashi Miyamoto.\n\nVagabond is the fictitious retelling of the life of one of Japan's most renowned swordsmen, the \"Sword Saint\" Musashi Miyamoto—his rise from a swordsman with no desire other than to become \"Invincible Under the Heavens\" to an enlightened warrior who slowly learns of the importance of close friends, self-reflection, and life itself.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Award Winning"
-      ],
-      "metadata": {
-        "rank": 3,
-        "mal_score": 9.27
-      },
-      "previous_score": 460240.0,
-      "velocity": 0.00019120458891013384
+      "previous_score": 361969.0,
+      "velocity": 0.00019062405896637556
     },
     {
       "id": "jikan-manga-2",
       "title": "Berserk",
       "source": "Jikan",
       "category": "manga",
-      "score": 799145.0,
+      "score": 799296.0,
       "url": "https://myanimelist.net/manga/2/Berserk",
       "image": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg",
       "description": "Guts, a former mercenary now known as the Black Swordsman, is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.\n\nSetting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Berserk: The Prototype",
@@ -203,15 +288,56 @@
         "rank": 1,
         "mal_score": 9.46
       },
-      "previous_score": 799043.0,
-      "velocity": 0.00012765270454781532
+      "previous_score": 799145.0,
+      "velocity": 0.00018895194238842763
+    },
+    {
+      "id": "jikan-manga-1706",
+      "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+      "source": "Jikan",
+      "category": "manga",
+      "score": 326104.0,
+      "url": "https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run",
+      "image": "https://cdn.myanimelist.net/images/manga/3/179882l.jpg",
+      "description": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
+      "metadata": {
+        "rank": 2,
+        "mal_score": 9.34
+      },
+      "previous_score": 326043.0,
+      "velocity": 0.00018709188665298748
+    },
+    {
+      "id": "jikan-manga-70345",
+      "title": "Grand Blue",
+      "source": "Jikan",
+      "category": "manga",
+      "score": 202386.0,
+      "url": "https://myanimelist.net/manga/70345/Grand_Blue",
+      "image": "https://cdn.myanimelist.net/images/manga/2/166124l.jpg",
+      "description": "Among the seaside town of Izu's ocean waves and rays of shining sun, Iori Kitahara is just beginning his freshman year at Izu University. As he moves into his uncle's scuba diving shop, Grand Blue, he eagerly anticipates his dream college life, filled with beautiful girls and good friends.\n\nBut things don't exactly go according to plan. Upon entering the shop, he encounters a group of rowdy, naked upperclassmen, who immediately coerce him into participating in their alcoholic activities. Though unwilling at first, Iori quickly gives in and becomes the heart and soul of the party. Unfortunately, this earns him the scorn of his cousin, Chisa Kotegawa, who walks in at precisely the wrong time. Undeterred, Iori still vows to realize his ideal college life, but will things go according to plan this time, or will his situation take yet another dive?\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Comedy"
+      ],
+      "metadata": {
+        "rank": 12,
+        "mal_score": 9.04
+      },
+      "previous_score": 202355.0,
+      "velocity": 0.00015319611573719454
     },
     {
       "id": "jikan-manga-25",
       "title": "Fullmetal Alchemist",
       "source": "Jikan",
       "category": "manga",
-      "score": 324237.0,
+      "score": 324278.0,
       "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
       "image": "https://cdn.myanimelist.net/images/manga/3/243675l.jpg",
       "description": "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor.\n\nYears later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine.\n\n[Written by MAL Rewrite]",
@@ -226,95 +352,15 @@
         "rank": 11,
         "mal_score": 9.04
       },
-      "previous_score": 324196.0,
-      "velocity": 0.0001264667053264075
-    },
-    {
-      "id": "jikan-manga-51",
-      "title": "Slam Dunk",
-      "source": "Jikan",
-      "category": "manga",
-      "score": 201076.0,
-      "url": "https://myanimelist.net/manga/51/Slam_Dunk",
-      "image": "https://cdn.myanimelist.net/images/manga/2/258749l.jpg",
-      "description": "Hanamichi Sakuragi, a tall, boisterous teenager with flame-red hair and physical strength beyond his years, is eager to put an end to his rejection streak of 50 and finally score a girlfriend as he begins his first year of Shohoku High. However, his reputation for delinquency and destructiveness precedes him, and most of his fellow students subsequently avoid him like the plague. As his first day of school ends, he is left with two strong thoughts: \"I hate basketball\" and \"I need a girlfriend.\"\n\nHaruko Akagi, ignorant of Hanamichi's history of misbehavior, notices his immense height and unwittingly approaches him, asking whether or not he likes basketball. Overcome by the fact that a girl is speaking to him, the red-haired giant blurts out a yes despite his true feelings. At the gym, Haruko asks if he can do a slam dunk. Though a complete novice, Hanamachi palms the ball and makes the leap...but overshoots, slamming his head into the backboard. Amazed by his near-inhuman physical abilities, Haruko quickly notifies the school's basketball captain of his feat. With this, Hanamichi is unexpectedly thrust into a world of competition for a girl he barely knows, but he soon discovers that there is perhaps more to basketball than he once thought.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Award Winning",
-        "Sports"
-      ],
-      "metadata": {
-        "rank": 7,
-        "mal_score": 9.09
-      },
-      "previous_score": 201052.0,
-      "velocity": 0.00011937210273958975
-    },
-    {
-      "id": "jikan-manga-16765",
-      "title": "Kingdom",
-      "source": "Jikan",
-      "category": "manga",
-      "score": 202331.0,
-      "url": "https://myanimelist.net/manga/16765/Kingdom",
-      "image": "https://cdn.myanimelist.net/images/manga/2/171872l.jpg",
-      "description": "During the Warring States period in China, Xin and Piao are two brother-like youngsters who dream of becoming Great Generals, despite their low status as orphaned slaves. One day, they encounter a man of nobility, who gives Piao an opportunity to undertake an important duty within the state of Qin's royal palace. Parting ways, Xin and Piao promise each other to one day become the greatest generals in the world. However, after a fierce coup d'état occurs in the palace, Xin meets with a dying Piao, whose last words spur him into action and lead him to encounter the young and soon-to-be king of Qin, Zheng Ying.\n\nAlthough initially on bad terms, Xin and Zheng become comrades and start on a path filled with trials and bloodshed. Zheng's objective is to bring all the warring states under Qin, and Xin seeks to climb to the very top of the army ranks. Against a backdrop of constant tactical battle between states and great political unrest, both outside and within the palace, the two endeavor towards their monumental ambitions that will change history forever.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Action",
-        "Award Winning"
-      ],
-      "metadata": {
-        "rank": 14,
-        "mal_score": 9.02
-      },
-      "previous_score": 202308.0,
-      "velocity": 0.00011368804001819008
-    },
-    {
-      "id": "jikan-manga-70345",
-      "title": "Grand Blue",
-      "source": "Jikan",
-      "category": "manga",
-      "score": 202355.0,
-      "url": "https://myanimelist.net/manga/70345/Grand_Blue",
-      "image": "https://cdn.myanimelist.net/images/manga/2/166124l.jpg",
-      "description": "Among the seaside town of Izu's ocean waves and rays of shining sun, Iori Kitahara is just beginning his freshman year at Izu University. As he moves into his uncle's scuba diving shop, Grand Blue, he eagerly anticipates his dream college life, filled with beautiful girls and good friends.\n\nBut things don't exactly go according to plan. Upon entering the shop, he encounters a group of rowdy, naked upperclassmen, who immediately coerce him into participating in their alcoholic activities. Though unwilling at first, Iori quickly gives in and becomes the heart and soul of the party. Unfortunately, this earns him the scorn of his cousin, Chisa Kotegawa, who walks in at precisely the wrong time. Undeterred, Iori still vows to realize his ideal college life, but will things go according to plan this time, or will his situation take yet another dive?\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "rank": 12,
-        "mal_score": 9.04
-      },
-      "previous_score": 202332.0,
-      "velocity": 0.00011367455469228792
-    },
-    {
-      "id": "jikan-manga-1",
-      "title": "Monster",
-      "source": "Jikan",
-      "category": "manga",
-      "score": 290642.0,
-      "url": "https://myanimelist.net/manga/1/Monster",
-      "image": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg",
-      "description": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead.\n\nAs a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance.\n\nNine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Award Winning",
-        "Drama",
-        "Mystery"
-      ],
-      "metadata": {
-        "rank": 6,
-        "mal_score": 9.16
-      },
-      "previous_score": 290609.0,
-      "velocity": 0.00011355463870699118
+      "previous_score": 324237.0,
+      "velocity": 0.00012645071352128227
     },
     {
       "id": "jikan-manga-13",
       "title": "One Piece",
       "source": "Jikan",
       "category": "manga",
-      "score": 699844.0,
+      "score": 699929.0,
       "url": "https://myanimelist.net/manga/13/One_Piece",
       "image": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg",
       "description": "Gol D. Roger, a man referred to as the King of the Pirates, is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the King of the Pirates is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new King of the Pirates. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\n\n[Written by MAL Rewrite]",
@@ -327,26 +373,28 @@
         "rank": 4,
         "mal_score": 9.21
       },
-      "previous_score": 699767.0,
-      "velocity": 0.00011003662647709881
+      "previous_score": 699844.0,
+      "velocity": 0.0001214556386851927
     },
     {
-      "id": "anilist-manga-108556",
-      "title": "SPY x FAMILY",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 155966.0,
-      "url": "https://anilist.co/manga/108556",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
-      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
+      "score": 111798.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
         "Comedy",
-        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -354,131 +402,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-125828",
-      "title": "Sakamoto Days",
+      "id": "anilist-manga-101315",
+      "title": "Anjo the Mischievous Gal",
       "source": "AniList",
       "category": "manga",
-      "score": 85776.0,
-      "url": "https://anilist.co/manga/125828",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
-      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 80,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-132182",
-      "title": "Blue Box",
-      "source": "AniList",
-      "category": "manga",
-      "score": 52554.0,
-      "url": "https://anilist.co/manga/132182",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg",
-      "description": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Slice of Life",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
-      "source": "AniList",
-      "category": "manga",
-      "score": 25796.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-178202",
-      "title": "Hima-Ten!",
-      "source": "AniList",
-      "category": "manga",
-      "score": 10665.0,
-      "url": "https://anilist.co/manga/178202",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178202-DChIIiw57fRG.jpg",
-      "description": "High school home ec expert Tenichi earns extra money with a part-time job cleaning houses. But one day, Himari, the owner and model of the popular cosmetics brand Hima Riz, transfers into his class. Say hello to some company president girl x house-cleaner boy romantic comedy hijinks!\n<br><br>\n(Source: MANGA Plus)",
+      "score": 28695.0,
+      "url": "https://anilist.co/manga/101315",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101315-8qNFN4mJRYO2.jpg",
+      "description": "Seto, a studious but unremarkable student, constantly finds himself in provocative situations with Anjo, the popular girl in his class who can't seem to stop teasing him. A heart-pounding teen rom-com bursting with youthful passion!\n<br><br>\n(Source: Emaqi)\n<br><br>\n<i>Note: This is a serialisation of the web comic originally self-published on Pixiv.</i>",
       "genres": [
         "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 71,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-174315",
-      "title": "Ane no Tomodachi ",
-      "source": "AniList",
-      "category": "manga",
-      "score": 9643.0,
-      "url": "https://anilist.co/manga/174315",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174315-ww59pBzOsNrM.jpg",
-      "description": "Hii-chan is my sister's friend, who likes to come by our house where my sister and I live together. She's absolutely gorgeous, but she has a strange sense of personal space, and it's got me, Asahi, all flustered. Is she just teasing me…? \n <br><br> (Source: Tonari no Young Jump, translated)",
-      "genres": [
-        "Comedy",
+        "Ecchi",
         "Romance",
         "Slice of Life"
       ],
       "metadata": {
         "average_score": 74,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-167423",
-      "title": "Noa-senpai wa Tomodachi.",
-      "source": "AniList",
-      "category": "manga",
-      "score": 8637.0,
-      "url": "https://anilist.co/manga/167423",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
-      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 69,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

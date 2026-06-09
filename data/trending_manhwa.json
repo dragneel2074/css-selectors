@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-08T03:37:03Z",
-  "date": "2026-06-08",
+  "generated_at_utc": "2026-06-09T02:46:56Z",
+  "date": "2026-06-09",
   "category": "manhwa",
-  "item_count": 8,
+  "item_count": 11,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,53 +11,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-163824",
-      "title": "Revenge of the Baskerville Bloodhound",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 41034.0,
-      "url": "https://anilist.co/manga/163824",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
-      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 80,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-143056",
-      "title": "The Return of the Disaster-Class Hero",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 36185.0,
-      "url": "https://anilist.co/manga/143056",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg",
-      "description": "Humans call them “calamities”—the unknown, destructive creatures that suddenly appeared on earth. To challenge these calamities, the zodiac gods awakened 12 humans known as saints. But there was one more that awoke—unchosen but the greatest hero of all: Geon Lee. His allies betrayed him and left him for dead, but now, 20 years later, he’s more powerful than ever and ready to teach his fellow “saints” a lesson they’ll never forget. <br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-135325",
       "title": "The Lazy Lord Masters the Sword",
       "source": "AniList",
       "category": "manhwa",
-      "score": 30410.0,
+      "score": 30464.0,
       "url": "https://anilist.co/manga/135325",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
       "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
@@ -71,24 +29,47 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 30410.0,
+      "velocity": 0.001775731667214732
     },
     {
-      "id": "anilist-manga-167649",
-      "title": "The Academy's Genius Swordsman",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 26598.0,
-      "url": "https://anilist.co/manga/167649",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
-      "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
+      "score": 41072.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 80,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 41034.0,
+      "velocity": 0.0009260613150070674
+    },
+    {
+      "id": "anilist-manga-123573",
+      "title": "Lout of Count’s Family",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 42308.0,
+      "url": "https://anilist.co/manga/123573",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123573-LKoCKwRouEMW.png",
+      "description": "Kim Rok-Su has one life motto: “Let’s not get beat up.” But after dozing off somewhere midway through the novel “Birth of a Hero,” he wakes up as Cale Henituse - one of the minor villains in the novel who gets the beating of a lifetime from soon-to-be hero Choi Han. Only time will tell how much longer he has before that dreadful encounter. Can Kim Rok-Su change the course of this story so he can enjoy a long and lavish life free of the soon-to-be hero?\n<br><br>\n(Source: Tappytoon)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -96,20 +77,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-137304",
-      "title": "Return of the Mad Demon",
+      "id": "anilist-manga-117460",
+      "title": "Overgeared",
       "source": "AniList",
       "category": "manhwa",
-      "score": 25189.0,
-      "url": "https://anilist.co/manga/137304",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
-      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
+      "score": 36333.0,
+      "url": "https://anilist.co/manga/117460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
+      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
+        "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -117,14 +100,79 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-151460",
-      "title": "Absolute Sword Sense",
+      "id": "anilist-manga-152128",
+      "title": "The Novel's Extra",
       "source": "AniList",
       "category": "manhwa",
-      "score": 14702.0,
-      "url": "https://anilist.co/manga/151460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
-      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
+      "score": 27300.0,
+      "url": "https://anilist.co/manga/152128",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png",
+      "description": "Wouldn’t it be a dream to wake up in a world of your own creation? For Kim Hajin, it’s nothing short of a nightmare. With no clue how or why he’s been transported into his web novel — as a mere extra, no less! — Hajin has little choice but to see his story through until the end. Lucky for him, as the author, he knows this perilous world like the back of his hand. But when discrepancies in the plot begin popping up left and right, Hajin soon realizes that things aren’t quite so simple, after all…<br><br>(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-182066",
+      "title": "The Regressed Mercenary Has a Plan",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 20047.0,
+      "url": "https://anilist.co/manga/182066",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
+      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 80,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-173020",
+      "title": "I Killed the Main Player",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 19856.0,
+      "url": "https://anilist.co/manga/173020",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png",
+      "description": "Being a character of your favorite game is great! Sure, he’s just a minor NPC, but Corin knows this game like the back of his hand. With his knowledge and the main player Sihu’s abilities, everything’s going smoothly - until Corin discovers Sihu’s been murdering innocent NPCs and stealing their items. Horrified but powerless to stop him, Corin awaits the end of the game - only for Sihu to mysteriously fail at the last mission. Instantly, Corin travels three years back in time. Now, he’s determined to kill Sihu and take on his role - defeat the final boss and save the world.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 75,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-136204",
+      "title": "Descended from Divinity",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 18928.0,
+      "url": "https://anilist.co/manga/136204",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136204-D4ON9gggIHeX.jpg",
+      "description": "<i>“Is this a mission I was sent on by the gods? Or is this just divine punishment?”</i><br><br>\nJung-Hyeok Baek, divine demon overlord of Murim, finds that he’s been reincarnated into the body of Roman Dimitri, the dim-witted son of a baron who’s obsessed with the luxuries of the aristocratic lifestyle. But with his new status, Jung-Hyeok is ready to shake things up on the continent of Salamander. Will the divine demon accomplish what he’s set out to do? And will he finally get the answers to this mysterious reincarnation?\n<br><br>(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Fantasy"
@@ -138,20 +186,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-186019",
-      "title": "Ultimate Shut-in",
+      "id": "anilist-manga-180891",
+      "title": "Absolute Regression",
       "source": "AniList",
       "category": "manhwa",
-      "score": 7369.0,
-      "url": "https://anilist.co/manga/186019",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186019-IPT6Xoej9pgt.jpg",
-      "description": "Kill monsters, save your neighbors, and expand your domain, all from the comfort of your couch. When his city becomes infested with monsters, Jae-Hyeon discovers an ability that makes him the absolute master of his apartment building. But his ability comes with a catch -- he cannot leave his apartment. Now, he must arm his neighbors and lead them beyond their building to survive the post-apocalyptic world they find themselves in.<br><br>(Source: WEBTOON)",
+      "score": 14886.0,
+      "url": "https://anilist.co/manga/180891",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg",
+      "description": "The past has changed, but like a fiery comet, he still comes. Mugi Hwa, the one without equal, slashed through Murim's skies with his sword, toppling every lord who dared to face him–even Cheonma, Mugeuk Geom’s father. But Mugeuk didn’t accept defeat. Instead, he turned to the forbidden: a time-bending ritual that hurled him into his own past. Now, retracing his steps, he races against the clock until Mugi emerges once again. But this time, it's not just about power, but mending old wounds and forging new bonds to unite his people and prepare for the bloodtide to come.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 81,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -159,20 +207,40 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-176790",
-      "title": "Reincarnated Murim Lord",
+      "id": "anilist-manga-189051",
+      "title": "What a Bountiful Harvest, Demon Lord!",
       "source": "AniList",
       "category": "manhwa",
-      "score": 7155.0,
-      "url": "https://anilist.co/manga/176790",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176790-qR0AhWd6xxWC.png",
-      "description": "Regret is the bane of old men. When aging Alliance Lord Hajin Cheon of the Grand Martial Alliance reflects on his immense legacy, he finds that he recalls little of his deeds or even the lives of his closest advisors. Stricken by a mysterious ailment, Hajin suddenly passes away only to wake up in the body of Ridan Byeok, heir to the Byeok Clan of swordsmen. The only problem is, Ridan is a well-known wastrel, the polar opposite of the virtuous and stern Hajin. Righting the wrongs of his predecessor, Hajin begins to uncover the truth behind his death…<br><br>(Source: WEBTOON)",
+      "score": 6988.0,
+      "url": "https://anilist.co/manga/189051",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189051-ORxxDJZvMHxj.jpg",
+      "description": "Who was that guy that once said, “An army marches on its stomach”? When hapless agricultural science student Jangcheol Kim starts playing the fantasy MMORPG “Paladins of Blood” to escape the stress of school life, he never imagined he would end up inside the game, much less as its final boss. How can a ruthless demon overlord win over his subjects? Perhaps with potatoes.<br><br>(Source: WEBTOON)",
       "genres": [
-        "Action",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-208208",
+      "title": "The Shepherd Wizard",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 3432.0,
+      "url": "https://anilist.co/manga/208208",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208208-azuHfUiSOUSZ.jpg",
+      "description": "Born into a world where divine power defines status, Turan hides his true strength to live as a simple shepherd. Descended from a line of wizards yet raised in secrecy, he avoids the attention of powerful nobles who would exploit him. But when a wandering knight recognizes his extraordinary potential, Turan is faced with a life-changing choice. Will he remain in hiding, or journey to the capital and embrace the destiny he was meant for?<Br><br>(Source: WEBTOON)",
+      "genres": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 75,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
