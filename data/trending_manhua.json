@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-07T03:31:25Z",
-  "date": "2026-06-07",
+  "generated_at_utc": "2026-06-11T03:35:19Z",
+  "date": "2026-06-11",
   "category": "manhua",
   "item_count": 1,
   "errors": [
@@ -11,25 +11,26 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-116353",
-      "title": "The Devil Butler",
+      "id": "anilist-manga-160980",
+      "title": "Log Into The Future",
       "source": "AniList",
       "category": "manhua",
-      "score": 25831.0,
-      "url": "https://anilist.co/manga/116353",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
-      "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
+      "score": 13734.0,
+      "url": "https://anilist.co/manga/160980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg",
+      "description": "300 years after mutated beasts ravaged the world, humanity began to lose ground, with only martial arts as their last line of defense. Lu Sheng mysteriously gains the power to journey 10,000 years into the future, only to find humanity has disappeared. However, he acquires the culminated martial arts wisdom to fight back against these monsters, honing his skills to the pinnacle. Armed with this new-found knowledge, can Lu Sheng emerge as the final beacon of hope for humanity's survival?\n<BR><BR>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 72,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": 25830.0,
-      "velocity": 3.8714672861014324e-05
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }
