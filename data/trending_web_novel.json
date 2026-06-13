@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-12T03:35:05Z",
-  "date": "2026-06-12",
+  "generated_at_utc": "2026-06-13T02:59:30Z",
+  "date": "2026-06-13",
   "category": "web_novel",
   "item_count": 16,
   "errors": [
@@ -11,14 +11,32 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-apocalypse-ground-zero-refusing-to-leave-home_35213820200915105",
-      "title": "Apocalypse Ground Zero: Refusing To Leave Home",
+      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "title": "Wizard: Building a Golem Legion From Zero",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
+      "description": "# MECHA # WIZARD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 0.6666666666666666
+    },
+    {
+      "id": "webnovel-book-grinding-exp-from-fireball-skill_34992616208565605",
+      "title": "Grinding EXP From Fireball Skill",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 7.0,
-      "url": "https://www.webnovel.com/book/apocalypse-ground-zero-refusing-to-leave-home_35213820200915105",
-      "image": "https://book-pic.webnovel.com/bookcover/35213820200915105?imageMogr2/thumbnail/600x&imageId=1772940166737",
-      "description": "# REINCARNATION # DARK # SUPERPOWERS # POSSESSIVE # CEO # APOCALYPSE # REVERSE HAREM",
+      "url": "https://www.webnovel.com/book/grinding-exp-from-fireball-skill_34992616208565605",
+      "image": "https://book-pic.webnovel.com/bookcover/34992616208565605?imageMogr2/thumbnail/600x&imageId=1773713586713",
+      "description": "# SYSTEM # MAGIC # WEAKTOSTRONG # MAGE",
       "genres": [
         "Web Novel"
       ],
@@ -29,83 +47,11 @@
       "velocity": 0.4
     },
     {
-      "id": "webnovel-book-summoners-one-golden-term-per-level_33330890900597505",
-      "title": "Summoners: One Golden Term per Level",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/summoners-one-golden-term-per-level_33330890900597505",
-      "image": "https://book-pic.webnovel.com/bookcover/33330890900597505?imageMogr2/thumbnail/600x&imageId=1773823863518",
-      "description": "# SYSTEM # WEAKTOSTRONG",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 3.0,
-      "velocity": 0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-grinding-exp-from-fireball-skill_34992616208565605",
-      "title": "Grinding EXP From Fireball Skill",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/grinding-exp-from-fireball-skill_34992616208565605",
-      "image": "https://book-pic.webnovel.com/bookcover/34992616208565605?imageMogr2/thumbnail/600x&imageId=1773713586713",
-      "description": "# SYSTEM # MAGIC # WEAKTOSTRONG # MAGE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 4.0,
-      "velocity": 0.25
-    },
-    {
-      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "title": "Global Deities: Rising as Wood Elves' God",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
-      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 8.0,
-      "velocity": 0.125
-    },
-    {
-      "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
-      "title": "Grinding to Become the Master of the Universe",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/grinding-to-become-the-master-of-the-universe_34992461400610505",
-      "image": "https://book-pic.webnovel.com/bookcover/34992461400610505?imageMogr2/thumbnail/600x&imageId=1775033372131",
-      "description": "# LEVELUP # HOT-BLOODED",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 10.0,
-      "velocity": 0.1
-    },
-    {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "web_novel",
-      "score": 35406.0,
+      "score": 35426.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -119,8 +65,8 @@
         "mal_score": 9.05,
         "type": "novels"
       },
-      "previous_score": 35384.0,
-      "velocity": 0.0006217499434772779
+      "previous_score": 35406.0,
+      "velocity": 0.0005648760097158674
     },
     {
       "id": "webnovel-book-greymoor-academy-i-accidentally-bonded-with-four-lycan-royals!_35396013508215305",
@@ -213,6 +159,78 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
+      "title": "Grinding to Become the Master of the Universe",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/grinding-to-become-the-master-of-the-universe_34992461400610505",
+      "image": "https://book-pic.webnovel.com/bookcover/34992461400610505?imageMogr2/thumbnail/600x&imageId=1775033372131",
+      "description": "# LEVELUP # HOT-BLOODED",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
+      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 10.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "title": "Global Deities: Rising as Wood Elves' God",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
+      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "title": "Martial Dao: I Can Enhance My Talents",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
+      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
       "title": "Reborn with a Space: Hoarding Food and Raising My Kid",
       "source": "WebNovel",
@@ -231,58 +249,22 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
+      "id": "webnovel-book-summoners-one-golden-term-per-level_33330890900597505",
+      "title": "Summoners: One Golden Term per Level",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
-      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/summoners-one-golden-term-per-level_33330890900597505",
+      "image": "https://book-pic.webnovel.com/bookcover/33330890900597505?imageMogr2/thumbnail/600x&imageId=1773823863518",
+      "description": "# SYSTEM # WEAKTOSTRONG",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 11.0,
-      "velocity": -0.09090909090909091
-    },
-    {
-      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "title": "Martial Dao: I Can Enhance My Talents",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
-      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": -0.1111111111111111
-    },
-    {
-      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "title": "Wizard: Building a Golem Legion From Zero",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
-      "description": "# MECHA # WIZARD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 4.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
@@ -293,6 +275,24 @@
       "url": "https://www.webnovel.com/book/the-villainess-is-my-cute-daughter_35757269408712905",
       "image": "https://book-pic.webnovel.com/bookcover/35757269408712905?imageMogr2/thumbnail/600x&imageId=1777659437666",
       "description": "# ROMANCE # SYSTEM # MAGIC # WEAKTOSTRONG # COMEDY # TRANSMIGRATION # SLICEOFLIFE # KINGDOMBUILDING # THESTRONGACTINGWEAK # STRONGFEMALELEAD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 2.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
+      "title": "Last Born Of The Desdemona",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
+      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
       "genres": [
         "Web Novel"
       ],
