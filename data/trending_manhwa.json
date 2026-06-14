@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-13T02:59:30Z",
-  "date": "2026-06-13",
+  "generated_at_utc": "2026-06-14T03:38:03Z",
+  "date": "2026-06-14",
   "category": "manhwa",
-  "item_count": 10,
+  "item_count": 9,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,63 +11,21 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-172619",
-      "title": "The Extra’s Academy Survival Guide",
+      "id": "anilist-manga-135325",
+      "title": "The Lazy Lord Masters the Sword",
       "source": "AniList",
       "category": "manhwa",
-      "score": 26882.0,
-      "url": "https://anilist.co/manga/172619",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
-      "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 26849.0,
-      "velocity": 0.0012290960557190212
-    },
-    {
-      "id": "anilist-manga-159441",
-      "title": "Pick Me Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 40242.0,
-      "url": "https://anilist.co/manga/159441",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
-      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
+      "score": 30643.0,
+      "url": "https://anilist.co/manga/135325",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 83,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 40194.0,
-      "velocity": 0.0011942080907598148
-    },
-    {
-      "id": "anilist-manga-137304",
-      "title": "Return of the Mad Demon",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 25279.0,
-      "url": "https://anilist.co/manga/137304",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
-      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -75,20 +33,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-164222",
-      "title": "Chronicles of the Demon Faction",
+      "id": "anilist-manga-167649",
+      "title": "The Academy's Genius Swordsman",
       "source": "AniList",
       "category": "manhwa",
-      "score": 12558.0,
-      "url": "https://anilist.co/manga/164222",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164222-9wzDZENmjYtc.jpg",
-      "description": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.<br><br>(Source: WEBTOON, edited)",
+      "score": 26739.0,
+      "url": "https://anilist.co/manga/167649",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
+      "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 73,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -96,20 +54,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-187427",
-      "title": "The Villain's Survival Route",
+      "id": "anilist-manga-153880",
+      "title": "The Art of Reincarnation",
       "source": "AniList",
       "category": "manhwa",
-      "score": 12092.0,
-      "url": "https://anilist.co/manga/187427",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187427-7A225QIPaIU3.png",
-      "description": "Fresh out of a breakup, game developer Woo-Jin has little going for him. So when he hears that the middle boss of their game is based on him, he can't resist adding a few traits to make his virtual alter ego a tad more noble. Little did he know, he would soon end up trapped in said villain's skin! With a 1 in 1,000 chance of survival, Woo-Jin now has to navigate the countless variables leading him to his impending doom. Will the tweaks he made to the character tip the scales in his favor?<br><br>(Source: Tapas)",
+      "score": 19075.0,
+      "url": "https://anilist.co/manga/153880",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153880-60zEJbCK4yQL.png",
+      "description": "Despite having only one arm, Daven had finally proven his worth after defeating his cousin Kazin in honorable combat. But Kazin took advantage of Daven’s mercy, stabbing him in the back and imprisoning him for life. 500 years later, the minor god Yulian is reborn and unknowingly summons Daven’s soul into the body of a young boy named Vincent Adenka. As the pair work to reveal the truth of Daven and Kazin, Vincent must relearn the art of combat while Yulian discovers the art of reincarnation.\n<br><br>\n(Source: Tapas)",
       "genres": [
+        "Action",
+        "Adventure",
         "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 78,
+        "average_score": 72,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -117,105 +77,128 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-166658",
-      "title": "The Top Dungeon Farmer",
+      "id": "anilist-manga-187944",
+      "title": "My Bias Gets on the Last Train",
       "source": "AniList",
       "category": "manhwa",
-      "score": 12043.0,
-      "url": "https://anilist.co/manga/166658",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166658-jbtqReVgxdqH.jpg",
-      "description": "Se-Jun, your average Seoul underdog, didn’t expect to grow tomatoes full-time when he stumbled into the mysterious dungeon full of monster quests and extravagant rewards. Yet, there he was, as a farmer growing and selling cash crops while clearing numerous quests that came his way. Will Se-Jun make it out of the dungeon with the plush rewards he hoped for? At least he has what it takes: optimism, resourcefulness, and a group of loyal furry friends.\n<br><br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-172623",
-      "title": "Act Like a Boss Monster, Mr. Swallow!",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 9604.0,
-      "url": "https://anilist.co/manga/172623",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172623-4D3HwWTk9okk.png",
-      "description": "The Primordial Core’s an unconquerable dungeon, the lair of the most powerful monster ever to exist, the Original Monster, the incarnation of evil—Swallow... who happens to be a lazy boss monster who just wants to sleep. Taking care of this lazy bum is Renee, a homunculus maid whose obsession with Swallow knows no bounds. At this point, the only one keeping the dungeon running is Patrick, the last brain cell of the bunch—and he’s a skeleton! Will Mr. Swallow get any rest amid all this chaos?\n<br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 71,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-202986",
-      "title": "Too Many Heroes for the Demon Lord",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 4344.0,
-      "url": "https://anilist.co/manga/202986",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202986-0wn84aV9jlHq.jpg",
-      "description": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-203471",
-      "title": "Reincarnated as the Grand Duke’s Third Son",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 2096.0,
-      "url": "https://anilist.co/manga/203471",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203471-dCqKXpXikvqE.jpg",
-      "description": "Born at the bottom of society, Jake survives by leading Sabertooth, a mercenary group loyal to him. Yet he is ultimately betrayed and killed by the nobles he served. But instead of death, he awakens to a new life with soft, frail hands and the title of the third son of House Valdek, the most powerful family in the empire, rivaling even the crown. Surrounded by wealth and splendor, Jake realizes he has been granted a second chance to fulfill his ambition. So he sets off, determined to rise as high as possible. Look out, world, here comes Lucian Valdek!<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 66,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-212562",
-      "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 1695.0,
-      "url": "https://anilist.co/manga/212562",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212562-huzVxCEUCcfM.jpg",
-      "description": "I sacrificed my precious vacation to attend a pop-up event of a certain modern fantasy I loved so much. And on that very day, I got transported into that fantasy world. As none other than a newly hired employee at a renowned major corporation! A dream workplace with tons of benefits, a high salary, and kind, competent supervisors. Using my knowledge of the world, I quickly climb the corporate ladder!\n<br><br>\nBut am I happy, you ask? Please, let me go back home.\n<br><br>\n(Source: KakaoPage, translated)",
+      "score": 15960.0,
+      "url": "https://anilist.co/manga/187944",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187944-gzNbL7zeY7Ma.jpg",
+      "description": "Every night, Yeo-Un takes the last train home—same route, same time, same routine. But one thing keeps catching his eye: a girl with a guitar and a presence that lingers in his mind. When a shared love for the indie band Long Afternoon sparks a conversation, their late-night encounters begin to turn into something more. But Hae-In isn’t just another fan—she’s the voice behind the band, a secret she can’t afford to reveal. As music draws them closer, the truth may threaten to pull them apart. When the final note plays, will their story end in harmony… or heartbreak?<br><br>(Source: WEBTOON)",
       "genres": [
         "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 86,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-150170",
+      "title": "Ending Maker",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 13521.0,
+      "url": "https://anilist.co/manga/150170",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150170-90fcXGkCcfZ1.png",
+      "description": "After \"outboxer009\" wakes up in the body of Jude Bayer from Legend of Heroes 2, he soon discovers that his rival \"sandstorm\" has also entered the game world as Cordelia Chace. These top-two-ranked old pros come to realize that navigating this game world is much harder than just pointing and clicking. With the apocalyptic conclusion of the game looming before them, they'll have to combine his quick wit, her foul mouth, and both their gamer mindsets to make a new, less cataclysmic ending. <br><br>(Source: Tapas, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
         "Fantasy",
-        "Horror",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-186019",
+      "title": "Ultimate Shut-in",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 7476.0,
+      "url": "https://anilist.co/manga/186019",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186019-IPT6Xoej9pgt.jpg",
+      "description": "Kill monsters, save your neighbors, and expand your domain, all from the comfort of your couch. When his city becomes infested with monsters, Jae-Hyeon discovers an ability that makes him the absolute master of his apartment building. But his ability comes with a catch -- he cannot leave his apartment. Now, he must arm his neighbors and lead them beyond their building to survive the post-apocalyptic world they find themselves in.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 74,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-194523",
+      "title": "Reincarnation of the Fist King",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 4913.0,
+      "url": "https://anilist.co/manga/194523",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
+      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-182000",
+      "title": "The Otherworldly Genius Method Actor",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 4157.0,
+      "url": "https://anilist.co/manga/182000",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182000-RJD0xmqnswQw.jpg",
+      "description": "Ujin Kang is an ordinary nobody—until one day, he gains a strange ability. Whenever he reads a script or screenplay, he’s pulled into a mysterious dimension where he can relive the character’s experiences. When he ends up showcasing a performance born from that dimension, his acting is so overwhelming that it leads to a massive misunderstanding. Mistaken for a once-in-a-generation acting prodigy, Ujin is suddenly thrust into a world of media and celebrities far beyond his quiet, insignificant life.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Drama",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 76,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-206766",
+      "title": "There's No Such Thing as a Bad Lady",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 3318.0,
+      "url": "https://anilist.co/manga/206766",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
+      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 70,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

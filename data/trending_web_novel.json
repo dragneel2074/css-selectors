@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-13T02:59:30Z",
-  "date": "2026-06-13",
+  "generated_at_utc": "2026-06-14T03:38:03Z",
+  "date": "2026-06-14",
   "category": "web_novel",
   "item_count": 16,
   "errors": [
@@ -11,14 +11,14 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "title": "Wizard: Building a Golem Legion From Zero",
+      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
+      "title": "Last Born Of The Desdemona",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
-      "description": "# MECHA # WIZARD",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
+      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
       "genres": [
         "Web Novel"
       ],
@@ -26,32 +26,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 3.0,
-      "velocity": 0.6666666666666666
-    },
-    {
-      "id": "webnovel-book-grinding-exp-from-fireball-skill_34992616208565605",
-      "title": "Grinding EXP From Fireball Skill",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/grinding-exp-from-fireball-skill_34992616208565605",
-      "image": "https://book-pic.webnovel.com/bookcover/34992616208565605?imageMogr2/thumbnail/600x&imageId=1773713586713",
-      "description": "# SYSTEM # MAGIC # WEAKTOSTRONG # MAGE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": 0.4
+      "velocity": 1.3333333333333333
     },
     {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "web_novel",
-      "score": 35426.0,
+      "score": 35443.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -65,8 +47,8 @@
         "mal_score": 9.05,
         "type": "novels"
       },
-      "previous_score": 35406.0,
-      "velocity": 0.0005648760097158674
+      "previous_score": 35426.0,
+      "velocity": 0.0004798735392084909
     },
     {
       "id": "webnovel-book-greymoor-academy-i-accidentally-bonded-with-four-lycan-royals!_35396013508215305",
@@ -231,11 +213,47 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "title": "Wizard: Building a Golem Legion From Zero",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
+      "description": "# MECHA # WIZARD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 5.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-grinding-exp-from-fireball-skill_34992616208565605",
+      "title": "Grinding EXP From Fireball Skill",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/grinding-exp-from-fireball-skill_34992616208565605",
+      "image": "https://book-pic.webnovel.com/bookcover/34992616208565605?imageMogr2/thumbnail/600x&imageId=1773713586713",
+      "description": "# SYSTEM # MAGIC # WEAKTOSTRONG # MAGE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": -0.14285714285714285
+    },
+    {
       "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
       "title": "Reborn with a Space: Hoarding Food and Raising My Kid",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
+      "score": 4.0,
       "url": "https://www.webnovel.com/book/reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
       "image": "https://book-pic.webnovel.com/bookcover/35479981200689605?imageMogr2/thumbnail/600x&imageId=1778213367628",
       "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # HEALING # FARMING # STORAGESPACE",
@@ -246,14 +264,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 6.0,
-      "velocity": 0.0
+      "velocity": -0.3333333333333333
     },
     {
       "id": "webnovel-book-summoners-one-golden-term-per-level_33330890900597505",
       "title": "Summoners: One Golden Term per Level",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
+      "score": 2.0,
       "url": "https://www.webnovel.com/book/summoners-one-golden-term-per-level_33330890900597505",
       "image": "https://book-pic.webnovel.com/bookcover/33330890900597505?imageMogr2/thumbnail/600x&imageId=1773823863518",
       "description": "# SYSTEM # WEAKTOSTRONG",
@@ -264,35 +282,17 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 4.0,
-      "velocity": 0.0
+      "velocity": -0.5
     },
     {
-      "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
-      "title": "The Villainess Is My Cute Daughter",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/the-villainess-is-my-cute-daughter_35757269408712905",
-      "image": "https://book-pic.webnovel.com/bookcover/35757269408712905?imageMogr2/thumbnail/600x&imageId=1777659437666",
-      "description": "# ROMANCE # SYSTEM # MAGIC # WEAKTOSTRONG # COMEDY # TRANSMIGRATION # SLICEOFLIFE # KINGDOMBUILDING # THESTRONGACTINGWEAK # STRONGFEMALELEAD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 2.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
-      "title": "Last Born Of The Desdemona",
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
-      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
       "genres": [
         "Web Novel"
       ],
