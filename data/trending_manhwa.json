@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-14T03:38:03Z",
-  "date": "2026-06-14",
+  "generated_at_utc": "2026-06-15T03:52:29Z",
+  "date": "2026-06-15",
   "category": "manhwa",
-  "item_count": 9,
+  "item_count": 5,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,42 +11,20 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-135325",
-      "title": "The Lazy Lord Masters the Sword",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 30643.0,
-      "url": "https://anilist.co/manga/135325",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
-      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-167649",
-      "title": "The Academy's Genius Swordsman",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 26739.0,
-      "url": "https://anilist.co/manga/167649",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
-      "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
+      "score": 41255.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 80,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -54,103 +32,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-153880",
-      "title": "The Art of Reincarnation",
+      "id": "anilist-manga-175262",
+      "title": "The Reborn Young Lord is an Assassin",
       "source": "AniList",
       "category": "manhwa",
-      "score": 19075.0,
-      "url": "https://anilist.co/manga/153880",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153880-60zEJbCK4yQL.png",
-      "description": "Despite having only one arm, Daven had finally proven his worth after defeating his cousin Kazin in honorable combat. But Kazin took advantage of Daven’s mercy, stabbing him in the back and imprisoning him for life. 500 years later, the minor god Yulian is reborn and unknowingly summons Daven’s soul into the body of a young boy named Vincent Adenka. As the pair work to reveal the truth of Daven and Kazin, Vincent must relearn the art of combat while Yulian discovers the art of reincarnation.\n<br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-187944",
-      "title": "My Bias Gets on the Last Train",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 15960.0,
-      "url": "https://anilist.co/manga/187944",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187944-gzNbL7zeY7Ma.jpg",
-      "description": "Every night, Yeo-Un takes the last train home—same route, same time, same routine. But one thing keeps catching his eye: a girl with a guitar and a presence that lingers in his mind. When a shared love for the indie band Long Afternoon sparks a conversation, their late-night encounters begin to turn into something more. But Hae-In isn’t just another fan—she’s the voice behind the band, a secret she can’t afford to reveal. As music draws them closer, the truth may threaten to pull them apart. When the final note plays, will their story end in harmony… or heartbreak?<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 86,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150170",
-      "title": "Ending Maker",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 13521.0,
-      "url": "https://anilist.co/manga/150170",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150170-90fcXGkCcfZ1.png",
-      "description": "After \"outboxer009\" wakes up in the body of Jude Bayer from Legend of Heroes 2, he soon discovers that his rival \"sandstorm\" has also entered the game world as Cordelia Chace. These top-two-ranked old pros come to realize that navigating this game world is much harder than just pointing and clicking. With the apocalyptic conclusion of the game looming before them, they'll have to combine his quick wit, her foul mouth, and both their gamer mindsets to make a new, less cataclysmic ending. <br><br>(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-186019",
-      "title": "Ultimate Shut-in",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 7476.0,
-      "url": "https://anilist.co/manga/186019",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186019-IPT6Xoej9pgt.jpg",
-      "description": "Kill monsters, save your neighbors, and expand your domain, all from the comfort of your couch. When his city becomes infested with monsters, Jae-Hyeon discovers an ability that makes him the absolute master of his apartment building. But his ability comes with a catch -- he cannot leave his apartment. Now, he must arm his neighbors and lead them beyond their building to survive the post-apocalyptic world they find themselves in.<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 74,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-194523",
-      "title": "Reincarnation of the Fist King",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 4913.0,
-      "url": "https://anilist.co/manga/194523",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
-      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
+      "score": 21658.0,
+      "url": "https://anilist.co/manga/175262",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
+      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -164,20 +53,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-182000",
-      "title": "The Otherworldly Genius Method Actor",
+      "id": "anilist-manga-129632",
+      "title": "The Tutorial Is Too Tough!",
       "source": "AniList",
       "category": "manhwa",
-      "score": 4157.0,
-      "url": "https://anilist.co/manga/182000",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182000-RJD0xmqnswQw.jpg",
-      "description": "Ujin Kang is an ordinary nobody—until one day, he gains a strange ability. Whenever he reads a script or screenplay, he’s pulled into a mysterious dimension where he can relive the character’s experiences. When he ends up showcasing a performance born from that dimension, his acting is so overwhelming that it leads to a massive misunderstanding. Mistaken for a once-in-a-generation acting prodigy, Ujin is suddenly thrust into a world of media and celebrities far beyond his quiet, insignificant life.<br><br>(Source: WEBTOON)",
+      "score": 17011.0,
+      "url": "https://anilist.co/manga/129632",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg",
+      "description": "Lee Ho-Jae had given up his life as a pro gamer, until one day he received a mysterious message:<br><br>\n<i>“Congratulations! You’ve been invited to the Tutorial World.”</i><br><br>\nIntrigued, he enters the game and confidently chooses “hell” difficulty, but soon learns that he is trapped there. With a mere 0.01% survival rate, Ho-Jae must somehow overcome the game’s agonizing challenges to figure out the real reason he was invited. This tutorial may be tough, but its secrets are what’s truly hellacious.<br><br>(Source: Tapas, edited)",
       "genres": [
-        "Drama",
-        "Supernatural"
+        "Action",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 71,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -185,20 +74,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-206766",
-      "title": "There's No Such Thing as a Bad Lady",
+      "id": "anilist-manga-185978",
+      "title": "The Dragon Slayer's Regression on Another Level",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3318.0,
-      "url": "https://anilist.co/manga/206766",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
-      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
+      "score": 7045.0,
+      "url": "https://anilist.co/manga/185978",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
+      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 69,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-204435",
+      "title": "The Sword-Eating Swordmaster",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 2220.0,
+      "url": "https://anilist.co/manga/204435",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
+      "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 65,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
