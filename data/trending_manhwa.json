@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-15T03:52:29Z",
-  "date": "2026-06-15",
+  "generated_at_utc": "2026-06-16T03:41:57Z",
+  "date": "2026-06-16",
   "category": "manhwa",
-  "item_count": 5,
+  "item_count": 10,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -15,10 +15,54 @@
       "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 41255.0,
+      "score": 41300.0,
       "url": "https://anilist.co/manga/163824",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
       "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 80,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 41255.0,
+      "velocity": 0.0010907768755302387
+    },
+    {
+      "id": "anilist-manga-152128",
+      "title": "The Novel's Extra",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 27451.0,
+      "url": "https://anilist.co/manga/152128",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png",
+      "description": "Wouldn’t it be a dream to wake up in a world of your own creation? For Kim Hajin, it’s nothing short of a nightmare. With no clue how or why he’s been transported into his web novel — as a mere extra, no less! — Hajin has little choice but to see his story through until the end. Lucky for him, as the author, he knows this perilous world like the back of his hand. But when discrepancies in the plot begin popping up left and right, Hajin soon realizes that things aren’t quite so simple, after all…<br><br>(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-182066",
+      "title": "The Regressed Mercenary Has a Plan",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 20318.0,
+      "url": "https://anilist.co/manga/182066",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
+      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -32,20 +76,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-175262",
-      "title": "The Reborn Young Lord is an Assassin",
+      "id": "anilist-manga-153513",
+      "title": "Tyrant of the Tower Defense Game",
       "source": "AniList",
       "category": "manhwa",
-      "score": 21658.0,
-      "url": "https://anilist.co/manga/175262",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
-      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
+      "score": 16643.0,
+      "url": "https://anilist.co/manga/153513",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153513-dzG6p5H2wrN2.jpg",
+      "description": "\"Protect the Empire\" was considered unbeatable for over a decade until streamer extraordinaire \"Mr. Gamer Geek\" comes along and defeats the game on its hardest mode. But just when he's about to rest on his laurels, he's sucked into the world of the game by some mysterious figure and thrust into Prince Ash's body! Ash now realizes that every click and command he had mindlessly sent out had real, gruesome costs - including his teammates' lives that he sacrificed for the sake of victory. To make up for his previous actions, Ash promises to keep his whole team alive this time while using his wits and knowledge to survive the hellish onslaught of monsters. But who brought him to this world in the first place, and why? Ash may soon find the answers to these questions - if he can survive the bloody battlefield first!\n<br><br>\n(Source: Tappytoon)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -53,20 +97,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-129632",
-      "title": "The Tutorial Is Too Tough!",
+      "id": "anilist-manga-180891",
+      "title": "Absolute Regression",
       "source": "AniList",
       "category": "manhwa",
-      "score": 17011.0,
-      "url": "https://anilist.co/manga/129632",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg",
-      "description": "Lee Ho-Jae had given up his life as a pro gamer, until one day he received a mysterious message:<br><br>\n<i>“Congratulations! You’ve been invited to the Tutorial World.”</i><br><br>\nIntrigued, he enters the game and confidently chooses “hell” difficulty, but soon learns that he is trapped there. With a mere 0.01% survival rate, Ho-Jae must somehow overcome the game’s agonizing challenges to figure out the real reason he was invited. This tutorial may be tough, but its secrets are what’s truly hellacious.<br><br>(Source: Tapas, edited)",
+      "score": 15055.0,
+      "url": "https://anilist.co/manga/180891",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg",
+      "description": "The past has changed, but like a fiery comet, he still comes. Mugi Hwa, the one without equal, slashed through Murim's skies with his sword, toppling every lord who dared to face him–even Cheonma, Mugeuk Geom’s father. But Mugeuk didn’t accept defeat. Instead, he turned to the forbidden: a time-bending ritual that hurled him into his own past. Now, retracing his steps, he races against the clock until Mugi emerges once again. But this time, it's not just about power, but mending old wounds and forging new bonds to unite his people and prepare for the bloodtide to come.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 71,
+        "average_score": 81,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -74,21 +118,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-185978",
-      "title": "The Dragon Slayer's Regression on Another Level",
+      "id": "anilist-manga-151460",
+      "title": "Absolute Sword Sense",
       "source": "AniList",
       "category": "manhwa",
-      "score": 7045.0,
-      "url": "https://anilist.co/manga/185978",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
-      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
+      "score": 14798.0,
+      "url": "https://anilist.co/manga/151460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
+      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-183376",
+      "title": "Chronicles of a Doomed Prodigy",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 6952.0,
+      "url": "https://anilist.co/manga/183376",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183376-Cw3VnZAItw2a.jpg",
+      "description": "Gifted by the heavens yet cursed by fate, Yeonshin was born with unimaginable talent in martial arts. But this very gift condemned him to a life that would end before adulthood. With the right opportunities, he had the potential to become a legendary hero, or the reincarnation of the Heavenly Demon. Yet fate cast him into the third-rate Jeong Clan, a family of no particular renown. Now, with time slipping through his fingers, Yeonshin must find a way to defy his doomed destiny.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 75,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -96,20 +161,61 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-204435",
-      "title": "The Sword-Eating Swordmaster",
+      "id": "anilist-manga-188155",
+      "title": "The Genius Swordsman of Mount Hua",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2220.0,
-      "url": "https://anilist.co/manga/204435",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
-      "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
+      "score": 3844.0,
+      "url": "https://anilist.co/manga/188155",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
+      "description": "After being ambushed by the Demonic Cult, Goheon Dok and Hyeonjo, his close friend from Mount Hua, are cornered and on the verge of losing their lives. Before they're both killed, Hyeonjo hands Goheon the Plum Blossom Spirit Beads, a sacred relic of Mount Hua that causes Goheon to take possession of the body of Muhwi, an apprentice of Hyeonjo. Now, as a Senior Disciple of Mount Hua, Goheon Dok must fight to protect Mount Hua and fulfill his friend's dying wish.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 65,
+        "average_score": 70,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-208208",
+      "title": "The Shepherd Wizard",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 3588.0,
+      "url": "https://anilist.co/manga/208208",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208208-azuHfUiSOUSZ.jpg",
+      "description": "Born into a world where divine power defines status, Turan hides his true strength to live as a simple shepherd. Descended from a line of wizards yet raised in secrecy, he avoids the attention of powerful nobles who would exploit him. But when a wandering knight recognizes his extraordinary potential, Turan is faced with a life-changing choice. Will he remain in hiding, or journey to the capital and embrace the destiny he was meant for?<Br><br>(Source: WEBTOON)",
+      "genres": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 75,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-202718",
+      "title": "Bangnanggisaro Saraganeun Beop",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 2477.0,
+      "url": "https://anilist.co/manga/202718",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202718-AkkO9OkIYbiw.jpg",
+      "description": "After dying due to an unexpected accident, Kim Yohan reincarnated as Johann Aitz of the prestigious Aitz Family. He may have been born a noble, but Johann Aitz ranks at the very bottom of the family hierarchy. To make matters worse, this world revolves around a ruthless medieval society. “The only person you can trust is yourself.” In a world ruled by the law of the strong, survival requires only two things: money and power. While training relentlessly using the knowledge he gained in his modern life, Johann ends up encountering Kaegal, the Master of Poison of the Empire’s greatest assassination guild, the Nesos Guild. This is the fierce struggle of Johann, who refuses to become just another prey of this brutal era.<br><br>(Source: Naver, translated)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 69,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
