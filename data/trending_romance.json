@@ -1,9 +1,21 @@
 {
-  "generated_at_utc": "2026-06-16T03:41:57Z",
-  "date": "2026-06-16",
+  "generated_at_utc": "2026-06-17T03:44:40Z",
+  "date": "2026-06-17",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
+    {
+      "provider": "jikan_top_manga",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
+    },
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -11,40 +23,22 @@
   ],
   "items": [
     {
-      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-      "title": "The Pack's Doctor",
+      "id": "goodnovel-book-The-Mafia-King-s-Unknown-Doctor-Wife_31001049746",
+      "title": "The Mafia King's Unknown Doctor Wife",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
-      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/The-Mafia-King-s-Unknown-Doctor-Wife_31001049746",
+      "image": "https://acf.goodnovel.com/book/202601/506a769afc2aa4309a9d731abc9510e50597d7b41fd77754529b43da1a523af5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Elena, the daughter of a notorious mafia family, was offered as a tribute to the leader of the Morello family by her father. In an attempt to escape an arranged marriage, Elena marries a complete stranger. What she doesn't know is that this mysterious husband of hers is none other than the legendary mafia king... and now, he’s also her new boss...",
       "genres": [
         "Romance"
       ],
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 2.0,
-      "velocity": 7.0
-    },
-    {
-      "id": "goodnovel-book-The-Heartbreak-Prescription_31000898396",
-      "title": "The Heartbreak Prescription",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 13.0,
-      "url": "https://www.goodnovel.com/book/The-Heartbreak-Prescription_31000898396",
-      "image": "https://acf.goodnovel.com/book/202506/33417baf7a79f5ba3aa2f40303d34b95e076924d98efb24695cb29b61540e433.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The richest man in Hovendale, Stanley Hawk, had been in a vegetative state for three years. His wife, Wendy Crone, took care of him during that time.\n\nAfter he awakened, Wendy caught him cheating through a message on his phone. It turned out his first love had returned to the country.\n\nHis friends, who once looked down on her, were now poking fun at her. “The swan has returned; it’s time to kick that ugly duckling to the curb.”\n\nIt was then that Wendy realized Stanley never loved her. She was nothing but a joke to him.\n\nOne night, Stanley received the divorce papers from Wendy. Her reason for wanting to get a divorce was due to his failing potency.\n\nStanley went to confront her with a gloomy expression on his face, only to find that she had transformed into a gorgeous doctor in a long dress that glistened under the dazzling lights.\n\nSeeing him approach, Wendy smiled gracefully and asked, “Stanley, are you here for an andrology consultation?”",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 12.0,
-      "velocity": 0.08333333333333333
+      "previous_score": 11.0,
+      "velocity": 0.36363636363636365
     },
     {
       "id": "dreame-1646404864",
@@ -461,32 +455,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-The-Mafia-King-s-Unknown-Doctor-Wife_31001049746",
-      "title": "The Mafia King's Unknown Doctor Wife",
+      "id": "goodnovel-book-The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
+      "title": "The Alpha Slipped Inside The Wrong Sister",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/The-Mafia-King-s-Unknown-Doctor-Wife_31001049746",
-      "image": "https://acf.goodnovel.com/book/202601/506a769afc2aa4309a9d731abc9510e50597d7b41fd77754529b43da1a523af5.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Elena, the daughter of a notorious mafia family, was offered as a tribute to the leader of the Morello family by her father. In an attempt to escape an arranged marriage, Elena marries a complete stranger. What she doesn't know is that this mysterious husband of hers is none other than the legendary mafia king... and now, he’s also her new boss...",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 13.0,
-      "velocity": -0.15384615384615385
-    },
-    {
-      "id": "goodnovel-book-When-Love-Finds-Its-Way-Back_31001221789",
-      "title": "When Love Finds Its Way Back",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/When-Love-Finds-Its-Way-Back_31001221789",
-      "image": "https://acf.goodnovel.com/book/202604/cc6b5a1d6372985b2286507b6b91216b99bbc46326bbe9c8347efc9d6249d9fc.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Isn’t it funny how love works?\r\n\r\nI have always loved Dreston, and he has always been the one for me—my first love. As a child, I loved him, as a teenager, nothing changed. And now, even as his wife, I still couldn’t love him any less. \r\n\r\nBut he only ever loved Tina—my teenage best friend. She came into our lives and didn’t just take him away from me. She took my happiness, my laughter, and even the girl I used to be.\r\n\r\nI still remember her words to me:\r\n\r\n“You knew he was mine, yet you married him.”\r\n\r\nShe made me feel like I was the villain. Maybe I was foolish to believe that love alone would bring him back to me. But nothing changed. He would always love her.\r\n\r\nI finally gave up the day I signed the divorce papers. I learned to let go, to move on, and to start fresh. And just when I had finally decided to start my life again—just when the universe rewarded me with a man who loved me unconditionally…\r\n\r\nDreston came running back.\r\n\r\nNow he wants a second chance.",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
+      "image": "https://acf.goodnovel.com/book/202604/9b7dc8042fbb49a32220b24faf50b6c8045408426824655a82fa674c53672efa.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The bed was wet beneath me, soaked by the juices that flowed from between my thighs. A grunt, one so husky brushed against my ear as he moved in and out of me.\r\n\r\n\"Don't tell Kimberly,\" Alpha Ryan groaned as he pushes his cock deeper until the tip brushed a tender spot. I shudder beneath him. Kimberly was his future Luna. She was also my sister.\r\n\r\nI looked up at him beneath my lashes. \"Don't tell my sister you slipped inside the wrong one?\"",
       "genres": [
         "Romance"
       ],
@@ -497,14 +473,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Let-Them-Kneel_31001323358",
-      "title": "Let Them Kneel",
+      "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "title": "Seducing My Ex's Father In Law",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/Let-Them-Kneel_31001323358",
-      "image": "https://acf.goodnovel.com/book/202512/4fa5778a116460d968ec913a15e2122e730959f80100252fbde46c0a51bb46c3.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Kaelani spent her life believing she was wolfless.\r\nCast out by her pack. Forgotten by the Lycans.\r\nShe lived among humans—quiet, invisible, tucked away in a town no one looked at twice.\r\n\r\nBut when her first heat comes without warning, everything changes.\r\n\r\nHer body ignites. Her instincts scream. And something primal stirs beneath her skin—\r\nsummoning a big, bad Alpha who knows exactly how to quench her fire.\r\n\r\nWhen he claims her, it’s ecstasy and ruin. \r\n\r\nFor the first time, she believes she’s been accepted.\r\nSeen.\r\nChosen.\r\n\r\nUntil he leaves her the next morning—\r\nlike a secret never to be spoken.\r\n\r\nBut Kaelani is not what they thought.\r\nNot wolfless. Not weak.\r\nThere is something ancient inside her. Something powerful. And it’s waking.\r\n\r\nAnd when it does—\r\nthey’ll all remember the girl they tried to erase.\r\n\r\nEspecially him.\r\n\r\nShe’ll be the dream he keeps chasing… the one thing that ever made him feel alive.\r\n\r\nBecause secrets never stay buried.\r\nAnd neither do dreams.",
+      "url": "https://www.goodnovel.com/book/Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "image": "https://acf.goodnovel.com/book/202409/d6033d607d3ece71d9e6744824c3ec4bc7d3adad788298c39183af28c6211c5f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Judy’s fated mate rejected her to marry the Lycan Chairman - Gavin’s daughter. As if that wasn’t bad enough, he ruined her family and tried to make her his secret mistress! \r\nJudy’s response? “I’d rather sleep with your father-in-law than ever be with you!”\r\nGavin is known for his power, wealth, and being the ultimate playboy who never sleeps with the same woman twice. \r\nBut Judy’s about to break all his rules… again and again.",
       "genres": [
         "Romance"
       ],
@@ -515,14 +491,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-I-Quit-Being-a-Stepmother_31001089435",
-      "title": "I Quit Being a Stepmother",
+      "id": "goodnovel-book-Ex-Husband-s-Regret_31000657155",
+      "title": "Ex-Husband's Regret",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.goodnovel.com/book/Ex-Husband-s-Regret_31000657155",
+      "image": "https://acf.goodnovel.com/book/202309/Ex-Husband-s-Regret/f7c3f3b5a311ea1b6324681fe244b3576ab84ba66839667827ebd33e879a567e.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Ava: Nine years ago I did something terrible. it wasn't one of my best moments but I saw an opportunity to have the guy I've loved since I was a young girl and I took it. Fast forward to years later and I'm tired of living in a loveless marriage. I want to free both of us from a marriage that should never have taken place. They say if you love something.... It was time to let him go. I know he'll never love me and that I'll never be his choice. His heart will always belong to Her and despite my sins, I deserve to be loved.Rowan: Nine years ago, I was so in love I could barely see right. I ruined it when I made the worst mistake of my life and in the process I lost the love of my life. I knew I had to step up in my responsibility and so I did, with an unwanted wife. With the wrong woman. Now she has once again flipped my life by divorcing me. To make matters even more complicated, the love of my life is back in town. Now the only question is, who is the right woman? Is it the girl I fell head over heels in love with years ago? or is it my ex wife, the woman I never wanted but had to marry?",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-CEO-s-Contractual-Wife_31001104597",
+      "title": "The CEO's Contractual Wife",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/I-Quit-Being-a-Stepmother_31001089435",
-      "image": "https://acf.goodnovel.com/book/202509/871f0928a37848afab870234211bdabf7c416a6efd8e68ed8ccc17d1cc2bdb99.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Rhea Ravelle, heiress of a powerful and influential family, goes against her family's wishes and cuts ties with them.\n\nShe chooses to marry Carter Jamison, a man with a failing career and two children born out of wedlock.\n\nFor six years, she raises his children as if they were her own and helps Carter rebuild his crumbling business.\n\nUnder her care, the kids grow into kind, well-mannered little stars, and Carter's company finally makes it big and goes public.\n\nBut right at the celebration marking his entry into high society, the biological mother of his two children suddenly shows up.\n\nAnd Carter, who is usually so calm, completely loses it. He begs the woman to stay, making Rhea the laughingstock of the entire city.\n\nThat night, he doesn't come home. Instead, he takes the children and runs straight back to his old flame, playing house as a happy family.\n\nSoon after, Carter files for divorce. \"Thanks for everything, Rhea. But the kids need their birth mother.\"\n\nThe children's mother also says, \"Thank you for taking care of them all these years. But a stepmother will never compare to a birth mother.\"\n\nSo blood beats love?\n\nIf that's how it is, then she's done playing stepmother.\n\nHowever, the children reject their birth mother flat-out, and they don't want Carter either.\n\nThey declare, \"Rhea is our only mom! If you're getting divorced, then we're going wherever she goes!\"",
+      "url": "https://www.goodnovel.com/book/The-CEO-s-Contractual-Wife_31001104597",
+      "image": "https://acf.goodnovel.com/book/202508/239f7a021b82982bc291f9c5dffdff43990cb0e2ba0a26eea7687a26fd8825b1.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Olivia Morgan’s world is turned upside down when she walks in on her boyfriend betraying her with her friend. Devastated and drowning in debt, she’s thrust into an unlikely arrangement with Alexander Carter, the cold and calculating CEO of Carter Enterprises. In exchange for a year-long marriage of convenience, Olivia receives the money she desperately needs—and a promotion she never expected. But as their fake relationship blurs the lines between business and pleasure, Olivia finds herself torn between the man who offers her everything and the business rival who wants her heart. In a world where betrayal is just a step away and desire burns hot, Olivia must navigate her emotions, her career, and a dangerous game of power, passion, and secrets. Can she keep her heart guarded while falling deeper into a billionaire’s web of lust and love? Or will Alexander’s cold heart melt in the heat of their undeniable chemistry?",
       "genres": [
         "Romance"
       ],
@@ -533,14 +527,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Alpha-King-s-Hated-Slave_31000021092",
-      "title": "The Alpha King's Hated Slave",
+      "id": "goodnovel-book-Tattooed-Luna_31000656745",
+      "title": "Tattooed Luna",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.goodnovel.com/book/Tattooed-Luna_31000656745",
+      "image": "https://acf.goodnovel.com/book/202310/Tattooed-Luna/0e76d14b6ddb45599d60aa3975e063fea6913b5007f8abc4a2e2c6285319f5fd.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "*There are three books in one! Since they need to be read in order, they are one right after another! * \n\nWith a genius IQ and her own tattoo shop, Kristen is about to become 18. After years of being abused by her stepmother, Kristen has decided to leave her pack with the money her tattoo shop has made. Regardless of who her mate is, Kristen will be on her own adventure. \n\nUnfortunately, more than one male has a problem with her independence. Kristen's fiery personality has placed her into a situation that is forcing her to face everything she has escaped. How much can one person endure before they give up?",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Alpha-King-s-Possession_31000225606",
+      "title": "The Alpha King's Possession",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-King-s-Hated-Slave_31000021092",
-      "image": "https://acf.goodnovel.com/book/202311/The-Alpha-King-s-Hated-Slave/d9ff499b0faf6ac972c2bfb546f29cfb5b995ef7683a950333117876e0d3ccd8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The novel The Alpha Kings Hated Slave is a Werewolf stories books, telling a story of WARNING!!Matured Contents here! Matured book! This book is rated 18+ there are lots of séxual gratifications, slavery, violence and hate that might make you uncomfortable at every turn. Read at your own risk.",
+      "url": "https://www.goodnovel.com/book/The-Alpha-King-s-Possession_31000225606",
+      "image": "https://acf.goodnovel.com/book/202206/ed5b182732b042c6204fabee8cad12612fa80c5149ad069557818570f134c036.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The Alpha King's Possession  is a Werewolf novel written by Moonlight Muse that covers Fast-Paced Plot, Steamy, Dark Romance. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
