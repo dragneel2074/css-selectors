@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-17T03:44:40Z",
-  "date": "2026-06-17",
+  "generated_at_utc": "2026-06-18T03:36:29Z",
+  "date": "2026-06-18",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,11 +23,47 @@
   ],
   "items": [
     {
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 2.0,
+      "velocity": 2.0
+    },
+    {
+      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "title": "My Apocalypse System Arrives 10 Years Early",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
+      "description": "# SYSTEM # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 1.3333333333333333
+    },
+    {
       "id": "webnovel-book-gacha-harem-system_35385385708000905",
       "title": "Gacha Harem System",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
       "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1781541166055",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
@@ -37,33 +73,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 2.0,
-      "velocity": 1.0
+      "previous_score": 4.0,
+      "velocity": 1.25
     },
     {
-      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
-      "title": "Last Born Of The Desdemona",
+      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
+      "title": "Her Food Livestream Broke the Galaxy",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
-      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
+      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
+      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 7.0,
-      "velocity": 0.7142857142857143
+      "previous_score": 5.0,
+      "velocity": 0.6
     },
     {
       "id": "webnovel-book-working-in-a-zoo-with-beast-taming-system_35475348608544705",
       "title": "Working in a Zoo with Beast Taming System",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
+      "score": 11.0,
       "url": "https://www.webnovel.com/book/working-in-a-zoo-with-beast-taming-system_35475348608544705",
       "image": "https://book-pic.webnovel.com/bookcover/35475348608544705?imageMogr2/thumbnail/600x&imageId=1778641179571",
       "description": "# SYSTEM # BEAST TAMING",
@@ -73,26 +109,26 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": 0.25
+      "previous_score": 10.0,
+      "velocity": 0.1
     },
     {
-      "id": "webnovel-book-infinite-cashback-system_35674644400458505",
-      "title": "Infinite Cashback System",
+      "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
+      "title": "Last Born Of The Desdemona",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/infinite-cashback-system_35674644400458505",
-      "image": "https://book-pic.webnovel.com/bookcover/35674644400458505?imageMogr2/thumbnail/600x&imageId=1780250189855",
-      "description": "# ROMANCE # ADVENTURE # R18 # HAREM # SLICEOFLIFE # CAMPUS # ACADEMY # URBAN # CEO # POORTORICH",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/last-born-of-the-desdemona_35438027108926505",
+      "image": "https://book-pic.webnovel.com/bookcover/35438027108926505?imageMogr2/thumbnail/600x&imageId=1774464813616",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # OVERPOWERED # VILLAIN # EVOLUTION # YANDERE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": 0.2
+      "previous_score": 12.0,
+      "velocity": 0.08333333333333333
     },
     {
       "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
@@ -120,7 +156,7 @@
       "score": 15.0,
       "url": "https://www.webnovel.com/book/greymoor-academy-i-accidentally-bonded-with-four-lycan-royals!_35396013508215305",
       "image": "https://book-pic.webnovel.com/bookcover/35396013508215305?imageMogr2/thumbnail/600x&imageId=1774058219314",
-      "description": "# REVENGE # CAMPUS # WEREWOLF # LOVETRIANGLE # ENEMIESTOLOVERS # FATEDLOVE # ABUSEDFL # FORBIDDENLOVE # REJECTED # REVERSE HAREM",
+      "description": "# REVENGE # CAMPUS # WEREWOLF # LOVETRIANGLE # ENEMIESTOLOVERS # FATEDLOVE # FORBIDDENLOVE # ABUSEDFL # REJECTED # REVERSE HAREM",
       "genres": [
         "Web Novel"
       ],
@@ -149,119 +185,11 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "title": "Global Deities: Rising as Wood Elves' God",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
-      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": -0.15384615384615385
-    },
-    {
-      "id": "webnovel-book-infinite-evolution-dominating-the-apocalypse-with-my-god-tier-items_35460563000367305",
-      "title": "Infinite Evolution: Dominating The Apocalypse With My God Tier Items",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/infinite-evolution-dominating-the-apocalypse-with-my-god-tier-items_35460563000367305",
-      "image": "https://book-pic.webnovel.com/bookcover/35460563000367305?imageMogr2/thumbnail/600x&imageId=1778661436014",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # DARK # SUPERPOWERS # OVERPOWERED # SURVIVAL # APOCALYPSE # GENES",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": -0.18181818181818182
-    },
-    {
-      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
-      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 10.0,
-      "velocity": -0.3
-    },
-    {
-      "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
-      "title": "Reborn with a Space: Hoarding Food and Raising My Kid",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
-      "image": "https://book-pic.webnovel.com/bookcover/35479981200689605?imageMogr2/thumbnail/600x&imageId=1778213367628",
-      "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # HEALING # FARMING # STORAGESPACE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": -0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
-      "title": "Her Food Livestream Broke the Galaxy",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
-      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
-      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": -0.4444444444444444
-    },
-    {
-      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "title": "My Apocalypse System Arrives 10 Years Early",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
-      "description": "# SYSTEM # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": -0.5
-    },
-    {
       "id": "webnovel-book-reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
       "title": "Reborn with Infinite System Points, I Gathered All SSS Classes!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 13.0,
+      "score": 12.0,
       "url": "https://www.webnovel.com/book/reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
       "image": "https://book-pic.webnovel.com/bookcover/35479981708644005?imageMogr2/thumbnail/600x&imageId=1774877509893",
       "description": "# ACTION # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # WEAKTOSTRONG # SUPERPOWERS # OVERPOWERED # TRANSMIGRATION # CULTIVATION",
@@ -271,26 +199,98 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 13.0,
+      "velocity": -0.07692307692307693
     },
     {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
+      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "title": "Global Deities: Rising as Wood Elves' God",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
+      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 11.0,
+      "velocity": -0.09090909090909091
+    },
+    {
+      "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "title": "Rebate King: Every Beauty I Spoil Makes Me a Billionaire",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
+      "image": "https://book-pic.webnovel.com/bookcover/35492500200946605?imageMogr2/thumbnail/600x&imageId=1779867926769",
+      "description": "# ROMANCE # SYSTEM # R18 # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # URBAN # FACESLAPPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": -0.2857142857142857
+    },
+    {
+      "id": "webnovel-book-infinite-cashback-system_35674644400458505",
+      "title": "Infinite Cashback System",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/infinite-cashback-system_35674644400458505",
+      "image": "https://book-pic.webnovel.com/bookcover/35674644400458505?imageMogr2/thumbnail/600x&imageId=1780250189855",
+      "description": "# ROMANCE # ADVENTURE # R18 # HAREM # SLICEOFLIFE # CAMPUS # ACADEMY # URBAN # CEO # POORTORICH",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
+      "velocity": -0.3333333333333333
+    },
+    {
+      "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
+      "title": "Reborn with a Space: Hoarding Food and Raising My Kid",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
+      "image": "https://book-pic.webnovel.com/bookcover/35479981200689605?imageMogr2/thumbnail/600x&imageId=1778213367628",
+      "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # HEALING # FARMING # STORAGESPACE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.625
+    },
+    {
+      "id": "webnovel-book-infinite-evolution-dominating-the-apocalypse-with-my-god-tier-items_35460563000367305",
+      "title": "Infinite Evolution: Dominating The Apocalypse With My God Tier Items",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/infinite-evolution-dominating-the-apocalypse-with-my-god-tier-items_35460563000367305",
+      "image": "https://book-pic.webnovel.com/bookcover/35460563000367305?imageMogr2/thumbnail/600x&imageId=1778661436014",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # DARK # SUPERPOWERS # OVERPOWERED # SURVIVAL # APOCALYPSE # GENES",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": -0.7777777777777778
     }
   ]
 }

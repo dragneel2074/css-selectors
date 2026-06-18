@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-17T03:44:40Z",
-  "date": "2026-06-17",
+  "generated_at_utc": "2026-06-18T03:36:29Z",
+  "date": "2026-06-18",
   "category": "manga",
-  "item_count": 7,
+  "item_count": 8,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,59 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-132029",
-      "title": "Dandadan",
-      "source": "AniList",
-      "category": "manga",
-      "score": 112154.0,
-      "url": "https://anilist.co/manga/132029",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
-      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 112082.0,
-      "velocity": 0.000642386823932478
-    },
-    {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 226082.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 226011.0,
-      "velocity": 0.0003141440018406184
-    },
-    {
       "id": "anilist-manga-106130",
       "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 119101.0,
+      "score": 119183.0,
       "url": "https://anilist.co/manga/106130",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
       "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
@@ -89,91 +41,156 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 119101.0,
+      "velocity": 0.0006884912805098194
     },
     {
-      "id": "anilist-manga-122063",
-      "title": "Shangri-La Frontier",
+      "id": "anilist-manga-74347",
+      "title": "One-Punch Man",
       "source": "AniList",
       "category": "manga",
-      "score": 20805.0,
-      "url": "https://anilist.co/manga/122063",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
-      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "score": 169523.0,
+      "url": "https://anilist.co/manga/74347",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
+      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
-        "Adventure",
         "Comedy",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-169272",
-      "title": "Tune In to the Midnight Heart",
-      "source": "AniList",
-      "category": "manga",
-      "score": 16664.0,
-      "url": "https://anilist.co/manga/169272",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-180422",
-      "title": "Akira Failing in Love",
-      "source": "AniList",
-      "category": "manga",
-      "score": 13550.0,
-      "url": "https://anilist.co/manga/180422",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
-      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-169904",
-      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
-      "source": "AniList",
-      "category": "manga",
-      "score": 13482.0,
-      "url": "https://anilist.co/manga/169904",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
-      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
+        "Sci-Fi",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 85,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-46765",
+      "title": "Kingdom",
+      "source": "AniList",
+      "category": "manga",
+      "score": 73758.0,
+      "url": "https://anilist.co/manga/46765",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png",
+      "description": "Xin is a war orphan in a poor village in the kingdom of Qin. He has big dreams of becoming a great general, and when his best friend’s life is cut short by political machinations, Xin sets off to find a deposed ruler and help restore his place on the throne, while working his way up through the ranks of the Qin kingdom’s army to do what no one has ever done before—unify China.\n<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "metadata": {
+        "average_score": 89,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-138072",
+      "title": "JoJo no Kimyou na Bouken: The JOJOLands",
+      "source": "AniList",
+      "category": "manga",
+      "score": 28126.0,
+      "url": "https://anilist.co/manga/138072",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138072-G9PrTnqb8CRI.jpg",
+      "description": "The stage is set on a volcanic island in the Pacific Ocean, Hawaii. Jodio Joestar, a young boy living on Oahu Island, harbors the ambition to become a great millionaire. The clue to his goal lies in reaching the pinnacle of the mechanisms of this world. What means will he choose to achieve his objective?",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201773",
+      "title": "Haimiya Is Scary Cute",
+      "source": "AniList",
+      "category": "manga",
+      "score": 12473.0,
+      "url": "https://anilist.co/manga/201773",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-199999",
+      "title": "WITCHRIV",
+      "source": "AniList",
+      "category": "manga",
+      "score": 6285.0,
+      "url": "https://anilist.co/manga/199999",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199999-O8TW8Ufc3sXv.png",
+      "description": "A girl named Nona lives in plain sight among humans, hiding her true identity as a mage as she spends her days in peace with her best friend Lovi. But one day, Nona uses magic to fix Lovi's glasses and subsequently catches the attention of the Bureau of Magic Surveillance. A simple good deed becomes the trigger that sets Nona's destiny in motion...\n<br><br>\n(Source: MANGA Plus)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "metadata": {
+        "average_score": 72,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-195083",
+      "title": "We're J-Just Childhood Friends",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3522.0,
+      "url": "https://anilist.co/manga/195083",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195083-hN45rN4kxdTi.jpg",
+      "description": "Yuichi and Sumi were childhood friends who were always together. However, as they grew up, they drifted apart, but a chance encounter brings them back into each other’s lives…\n<br><br>\n(Source: Manga Plus)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 71,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-202332",
+      "title": "Yotaka Futatabi",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3063.0,
+      "url": "https://anilist.co/manga/202332",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202332-pWJdpDEKY8KP.jpg",
+      "description": "That woman is \"Yotaka.\" Once famous in the underworld as the strongest assassin, she is now a 33-year-old (and very unlucky) drug addict and alcoholic. She's enjoying her unemployed life in a rundown apartment. ♪ With her mind and body completely slack, Yotaka receives an invitation from her assassin friend, \"Kohai,\" to return to active duty...!!<br><br>\nWill she return to the battlefield once again?! Yotaka!!!<br><br>(Source: Kodansha, translated)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi"
+      ],
+      "metadata": {
+        "average_score": 67,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
