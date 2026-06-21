@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-20T02:57:41Z",
-  "date": "2026-06-20",
+  "generated_at_utc": "2026-06-21T03:44:21Z",
+  "date": "2026-06-21",
   "category": "web_novel",
   "item_count": 16,
   "errors": [
@@ -15,7 +15,7 @@
       "title": "Grinding to Become the Master of the Universe",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/grinding-to-become-the-master-of-the-universe_34992461400610505",
       "image": "https://book-pic.webnovel.com/bookcover/34992461400610505?imageMogr2/thumbnail/600x&imageId=1775033372131",
       "description": "# LEVELUP # HOT-BLOODED",
@@ -25,51 +25,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
-      "velocity": 0.6666666666666666
+      "previous_score": 5.0,
+      "velocity": 0.8
     },
     {
-      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "title": "My Apocalypse System Arrives 10 Years Early",
+      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
+      "title": "Her Food Livestream Broke the Galaxy",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
-      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
-      "description": "# SYSTEM # KINGDOMBUILDING",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
+      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
+      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": 0.25
-    },
-    {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": 0.2222222222222222
+      "previous_score": 4.0,
+      "velocity": 0.5
     },
     {
       "id": "webnovel-book-infinite-cashback-system_35674644400458505",
       "title": "Infinite Cashback System",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
+      "score": 7.0,
       "url": "https://www.webnovel.com/book/infinite-cashback-system_35674644400458505",
       "image": "https://book-pic.webnovel.com/bookcover/35674644400458505?imageMogr2/thumbnail/600x&imageId=1780250189855",
       "description": "# ROMANCE # ADVENTURE # R18 # HAREM # SLICEOFLIFE # CAMPUS # ACADEMY # URBAN # CEO # POORTORICH",
@@ -79,33 +61,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": 0.2
+      "previous_score": 6.0,
+      "velocity": 0.16666666666666666
     },
     {
-      "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
-      "title": "Alpha's Regret: Marked By The Lycan King",
+      "id": "webnovel-book-my-swordsmanship-has-no-upper-limit_35233900008253705",
+      "title": "My Swordsmanship Has No Upper Limit",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/alpha's-regret-marked-by-the-lycan-king_35679982508496305",
-      "image": "https://book-pic.webnovel.com/bookcover/35679982508496305?imageMogr2/thumbnail/600x&imageId=1776844242390",
-      "description": "# GENIUS # REVENGE # WEREWOLF # STRONGFL # ALPHA # THESTRONGACTINGWEAK # FATEDMATE # BETRAYED",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/my-swordsmanship-has-no-upper-limit_35233900008253705",
+      "image": "https://book-pic.webnovel.com/bookcover/35233900008253705?imageMogr2/thumbnail/600x&imageId=1776306486889",
+      "description": "# WEAKTOSTRONG",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 13.0,
-      "velocity": 0.15384615384615385
+      "previous_score": 7.0,
+      "velocity": 0.14285714285714285
     },
     {
       "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
       "title": "Global Deities: Rising as Wood Elves' God",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
+      "score": 13.0,
       "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
       "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
       "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
@@ -115,15 +97,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 11.0,
-      "velocity": 0.09090909090909091
+      "previous_score": 12.0,
+      "velocity": 0.08333333333333333
     },
     {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "web_novel",
-      "score": 35561.0,
+      "score": 35590.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -137,8 +119,8 @@
         "mal_score": 9.05,
         "type": "novels"
       },
-      "previous_score": 35533.0,
-      "velocity": 0.0007879998874285875
+      "previous_score": 35561.0,
+      "velocity": 0.0008155001265431231
     },
     {
       "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
@@ -159,39 +141,21 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-my-swordsmanship-has-no-upper-limit_35233900008253705",
-      "title": "My Swordsmanship Has No Upper Limit",
+      "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
+      "title": "Alpha's Regret: Marked By The Lycan King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/my-swordsmanship-has-no-upper-limit_35233900008253705",
-      "image": "https://book-pic.webnovel.com/bookcover/35233900008253705?imageMogr2/thumbnail/600x&imageId=1776306486889",
-      "description": "# WEAKTOSTRONG",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/alpha's-regret-marked-by-the-lycan-king_35679982508496305",
+      "image": "https://book-pic.webnovel.com/bookcover/35679982508496305?imageMogr2/thumbnail/600x&imageId=1776844242390",
+      "description": "# GENIUS # REVENGE # WEREWOLF # STRONGFL # ALPHA # THESTRONGACTINGWEAK # FATEDMATE # BETRAYED",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 7.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
-      "title": "Reborn with a Space: Hoarding Food and Raising My Kid",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
-      "image": "https://book-pic.webnovel.com/bookcover/35479981200689605?imageMogr2/thumbnail/600x&imageId=1778213367628",
-      "description": "# WEAKTOSTRONG # APOCALYPSE # REBIRTH # HEALING # FARMING # STORAGESPACE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 2.0,
+      "previous_score": 15.0,
       "velocity": 0.0
     },
     {
@@ -209,36 +173,36 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 15.0,
-      "velocity": -0.06666666666666667
+      "previous_score": 14.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
-      "title": "Reborn with Infinite System Points, I Gathered All SSS Classes!",
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
-      "image": "https://book-pic.webnovel.com/bookcover/35479981708644005?imageMogr2/thumbnail/600x&imageId=1774877509893",
-      "description": "# ACTION # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # WEAKTOSTRONG # SUPERPOWERS # OVERPOWERED # TRANSMIGRATION # CULTIVATION",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 14.0,
-      "velocity": -0.07142857142857142
+      "previous_score": 11.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-working-in-a-zoo-with-beast-taming-system_35475348608544705",
-      "title": "Working in a Zoo with Beast Taming System",
+      "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "title": "My Apocalypse System Arrives 10 Years Early",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/working-in-a-zoo-with-beast-taming-system_35475348608544705",
-      "image": "https://book-pic.webnovel.com/bookcover/35475348608544705?imageMogr2/thumbnail/600x&imageId=1778641179571",
-      "description": "# SYSTEM # BEAST TAMING",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/my-apocalypse-system-arrives-10-years-early_35233954100293305",
+      "image": "https://book-pic.webnovel.com/bookcover/35233954100293305?imageMogr2/thumbnail/600x&imageId=1776306636823",
+      "description": "# SYSTEM # KINGDOMBUILDING",
       "genres": [
         "Web Novel"
       ],
@@ -246,25 +210,7 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 10.0,
-      "velocity": -0.2
-    },
-    {
-      "id": "webnovel-book-gacha-harem-system_35385385708000905",
-      "title": "Gacha Harem System",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/gacha-harem-system_35385385708000905",
-      "image": "https://book-pic.webnovel.com/bookcover/35385385708000905?imageMogr2/thumbnail/600x&imageId=1781541166055",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED # TRANSMIGRATION # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": -0.25
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
@@ -281,26 +227,80 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 4.0,
-      "velocity": -0.25
+      "previous_score": 3.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
-      "title": "Her Food Livestream Broke the Galaxy",
+      "id": "webnovel-book-reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
+      "title": "Reborn with Infinite System Points, I Gathered All SSS Classes!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/her-food-livestream-broke-the-galaxy_34992979700618405",
-      "image": "https://book-pic.webnovel.com/bookcover/34992979700618405?imageMogr2/thumbnail/600x&imageId=1775183955367",
-      "description": "# WEAKTOSTRONG # STRONGFL # SUPERSTAR # SPACE # FEELINGGOOD # GOURMET",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
+      "image": "https://book-pic.webnovel.com/bookcover/35479981708644005?imageMogr2/thumbnail/600x&imageId=1774877509893",
+      "description": "# ACTION # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # WEAKTOSTRONG # SUPERPOWERS # OVERPOWERED # TRANSMIGRATION # CULTIVATION",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 6.0,
-      "velocity": -0.3333333333333333
+      "previous_score": 13.0,
+      "velocity": -0.07692307692307693
+    },
+    {
+      "id": "webnovel-book-working-in-a-zoo-with-beast-taming-system_35475348608544705",
+      "title": "Working in a Zoo with Beast Taming System",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/working-in-a-zoo-with-beast-taming-system_35475348608544705",
+      "image": "https://book-pic.webnovel.com/bookcover/35475348608544705?imageMogr2/thumbnail/600x&imageId=1778641179571",
+      "description": "# SYSTEM # BEAST TAMING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.375
+    },
+    {
+      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
+      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
+      "title": "Carrying a Lucky Charm, I Thrive with My Husband on the Road to Exile",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
+      "image": "https://book-pic.webnovel.com/bookcover/34219742200640905?imageMogr2/thumbnail/600x&imageId=1776157213159",
+      "description": "# PREGNANCY # COUNTERATTACK # EASTERN # SIDECHARACTER # BOOKTRANSMIGRATION # STORAGESPACE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }
