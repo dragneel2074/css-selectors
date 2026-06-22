@@ -1,9 +1,21 @@
 {
-  "generated_at_utc": "2026-06-21T03:44:21Z",
-  "date": "2026-06-21",
+  "generated_at_utc": "2026-06-22T03:52:06Z",
+  "date": "2026-06-22",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
+    {
+      "provider": "jikan_top_manga",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
+    },
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -11,22 +23,22 @@
   ],
   "items": [
     {
-      "id": "goodnovel-book-The-Billionaire-s-Fight-For-Redemption_31001092545",
-      "title": "The Billionaire’s Fight For Redemption",
+      "id": "goodnovel-book-Let-Them-Kneel_31001323358",
+      "title": "Let Them Kneel",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Billionaire-s-Fight-For-Redemption_31001092545",
-      "image": "https://acf.goodnovel.com/book/202507/84fd16ecd0181a911b1607618f387bf348f7a97ce5affc9fa48950ef9f33c255.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "She loved him first. He chose her best friend.\r\n\r\nSierra: I'm sure that being in love with my dead friend’s husband is a sin. It doesn't matter that I knew him first or that I fell in love with him first, way before she came along. I've always loved Noah Woods, but he hates me, so how the hell did I end up in bed with him on the death anniversary of his dead wife? I thought it was the start of something, but I was wrong. Very wrong. I should have seen it coming, but hindsight is a bitch like that.\r\n\r\n\r\nNoah: I’ve always hated her. Everyone knows that I can't stand Sierra Meyers, so how the fuck did I end up in bed with her on the death anniversary of my beloved wife? I thought I could forget about the night I made my biggest mistake, but Sierra flips my life when she gives me unexpected news. Now I am torn between keeping my promise to the woman I swore and believed I’d love forever and the woman I swore to hate.",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/Let-Them-Kneel_31001323358",
+      "image": "https://acf.goodnovel.com/book/202512/4fa5778a116460d968ec913a15e2122e730959f80100252fbde46c0a51bb46c3.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Kaelani spent her life believing she was wolfless.\r\nCast out by her pack. Forgotten by the Lycans.\r\nShe lived among humans—quiet, invisible, tucked away in a town no one looked at twice.\r\n\r\nBut when her first heat comes without warning, everything changes.\r\n\r\nHer body ignites. Her instincts scream. And something primal stirs beneath her skin—\r\nsummoning a big, bad Alpha who knows exactly how to quench her fire.\r\n\r\nWhen he claims her, it’s ecstasy and ruin. \r\n\r\nFor the first time, she believes she’s been accepted.\r\nSeen.\r\nChosen.\r\n\r\nUntil he leaves her the next morning—\r\nlike a secret never to be spoken.\r\n\r\nBut Kaelani is not what they thought.\r\nNot wolfless. Not weak.\r\nThere is something ancient inside her. Something powerful. And it’s waking.\r\n\r\nAnd when it does—\r\nthey’ll all remember the girl they tried to erase.\r\n\r\nEspecially him.\r\n\r\nShe’ll be the dream he keeps chasing… the one thing that ever made him feel alive.\r\n\r\nBecause secrets never stay buried.\r\nAnd neither do dreams.",
       "genres": [
         "Romance"
       ],
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 11.0,
-      "velocity": 0.45454545454545453
+      "previous_score": 14.0,
+      "velocity": 0.07142857142857142
     },
     {
       "id": "dreame-1646404864",
@@ -42,6 +54,24 @@
       ],
       "metadata": {
         "bid": 1646404864
+      },
+      "previous_score": 16.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "goodnovel-book-The-Billionaire-s-Fight-For-Redemption_31001092545",
+      "title": "The Billionaire’s Fight For Redemption",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/The-Billionaire-s-Fight-For-Redemption_31001092545",
+      "image": "https://acf.goodnovel.com/book/202507/84fd16ecd0181a911b1607618f387bf348f7a97ce5affc9fa48950ef9f33c255.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "She loved him first. He chose her best friend.\r\n\r\nSierra: I'm sure that being in love with my dead friend’s husband is a sin. It doesn't matter that I knew him first or that I fell in love with him first, way before she came along. I've always loved Noah Woods, but he hates me, so how the hell did I end up in bed with him on the death anniversary of his dead wife? I thought it was the start of something, but I was wrong. Very wrong. I should have seen it coming, but hindsight is a bitch like that.\r\n\r\n\r\nNoah: I’ve always hated her. Everyone knows that I can't stand Sierra Meyers, so how the fuck did I end up in bed with her on the death anniversary of my beloved wife? I thought I could forget about the night I made my biggest mistake, but Sierra flips my life when she gives me unexpected news. Now I am torn between keeping my promise to the woman I swore and believed I’d love forever and the woman I swore to hate.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 16.0,
       "velocity": 0.0
@@ -96,24 +126,6 @@
       ],
       "metadata": {
         "bid": 2880119808
-      },
-      "previous_score": 13.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "goodnovel-book-Full-Moon-Curse_31001279887",
-      "title": "Full Moon Curse",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Full-Moon-Curse_31001279887",
-      "image": "https://acf.goodnovel.com/book/202502/8b4d9d69c3c072a92b0937df6612c9da59109552e4f70019d4fc867ca7078f64.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "As the only human inside a werewolf pack, Amy is counting the days until she can leave.  With all the kids in the pack shunning her after they started receiving their wolves, she is left with one friend.  Until the future gamma of the pack takes an interest in her, and she finds herself friends with all the future leaders of the pack.  Not trusting her new friends, she gets a wake-up call.  Family secrets are unearthed and her life as she knows it will never be the same.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 13.0,
       "velocity": 0.0
@@ -461,78 +473,6 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
-      "title": "Meet My Brothers",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
-      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Let-Them-Kneel_31001323358",
-      "title": "Let Them Kneel",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 14.0,
-      "url": "https://www.goodnovel.com/book/Let-Them-Kneel_31001323358",
-      "image": "https://acf.goodnovel.com/book/202512/4fa5778a116460d968ec913a15e2122e730959f80100252fbde46c0a51bb46c3.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Kaelani spent her life believing she was wolfless.\r\nCast out by her pack. Forgotten by the Lycans.\r\nShe lived among humans—quiet, invisible, tucked away in a town no one looked at twice.\r\n\r\nBut when her first heat comes without warning, everything changes.\r\n\r\nHer body ignites. Her instincts scream. And something primal stirs beneath her skin—\r\nsummoning a big, bad Alpha who knows exactly how to quench her fire.\r\n\r\nWhen he claims her, it’s ecstasy and ruin. \r\n\r\nFor the first time, she believes she’s been accepted.\r\nSeen.\r\nChosen.\r\n\r\nUntil he leaves her the next morning—\r\nlike a secret never to be spoken.\r\n\r\nBut Kaelani is not what they thought.\r\nNot wolfless. Not weak.\r\nThere is something ancient inside her. Something powerful. And it’s waking.\r\n\r\nAnd when it does—\r\nthey’ll all remember the girl they tried to erase.\r\n\r\nEspecially him.\r\n\r\nShe’ll be the dream he keeps chasing… the one thing that ever made him feel alive.\r\n\r\nBecause secrets never stay buried.\r\nAnd neither do dreams.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
-      "title": "Reclaimed by My Alpha",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Reclaimed-by-My-Alpha_31001020267",
-      "image": "https://acf.goodnovel.com/book/202606/0812c9dda57558534540644e25f9b8237a5541b39e47856c33c9db66cb9083a6.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Natalia and Andrei’s marriage was originally a three-year contract. With only 30 days left until the contract ends, Natalia discovered that she’s pregnant. \nJust when she thought Andrei would reconsider divorcing her because of this, his deceased first mate, Lilith, returned. Feeling hopeless, Natalia decided to initiate the divorce. \nHowever, at their engagement party, Andrei received the news of Natalia’s car accident, along with the shocking discovery of her pregnancy test results...",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
-      "title": "Once a Doormat, Now Untouchable",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
-      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "goodnovel-book-THE-LYCAN-KING-S-SECOND-CHANCE-MATE_31000724647",
       "title": "THE LYCAN KING’S SECOND CHANCE MATE",
       "source": "GoodNovel",
@@ -541,6 +481,78 @@
       "url": "https://www.goodnovel.com/book/THE-LYCAN-KING-S-SECOND-CHANCE-MATE_31000724647",
       "image": "https://acf.goodnovel.com/book/202406/THE-LYCAN-KING-S-SECOND-CHANCE-MATE/d5bf7b7af3c7c9b46545cd23b4ed0e3bb6fba0e1f97b13c2418b6a71b7948bf0.jpg?v=1&p=1&w=1080&a=webp",
       "description": "THE LYCAN KING’S SECOND CHANCE MATE is a Werewolf novel written by Sumi that covers Betrayal, Lycan, Drama. Read full chapters of this story online on GoodNovel.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 2.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "goodnovel-book-Alpha-s-Rue-His-Shunned-Luna_31001363078",
+      "title": "Alpha’s Rue: His Shunned Luna",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/Alpha-s-Rue-His-Shunned-Luna_31001363078",
+      "image": "https://acf.goodnovel.com/book/202512/f2d3bbd8c18264c7f22966460b13a8aac660902941767400f816fddb80b3c56c.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "He took away my choice of being marked. “I hate you.” I spit.\r\n\r\n “You think I want this?” He snickers. “Being mated to you is my worst nightmare come alive, but if you dare run from me? Make sure you can hide well because I will hunt you down, Mate.”\r\n\r\n♡\r\nI came back for one day.\r\nOne stupid day to appease my father but now I’m trapped for life by a bond I never asked for.\r\nAlpha Kingston has a girlfriend, she's the Luna he and his pack desire not me. \r\nI was once his Bestfriend, the girl he would burn the world for but now I'm the one he’d burn to save her. Everyone says I'm the villian, but every villian has a story right? One they never tried to hear.\r\nI don't belong here, not anymore.\r\nMooncrest has done nothing but break me, I want to leave but I'm the Alpha’s mate, and he promises to catch me if I run. Staying in Mooncrest brings back feelings I didn't know I had. Can King and I be as we were before or did I lose him forever without an explanation?",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+      "title": "The Alpha’s Contract",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
+      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "title": "Seducing My Ex's Father In Law",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "image": "https://acf.goodnovel.com/book/202409/d6033d607d3ece71d9e6744824c3ec4bc7d3adad788298c39183af28c6211c5f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Judy’s fated mate rejected her to marry the Lycan Chairman - Gavin’s daughter. As if that wasn’t bad enough, he ruined her family and tried to make her his secret mistress! \r\nJudy’s response? “I’d rather sleep with your father-in-law than ever be with you!”\r\nGavin is known for his power, wealth, and being the ultimate playboy who never sleeps with the same woman twice. \r\nBut Judy’s about to break all his rules… again and again.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Rejected-True-Heiress_31001032435",
+      "title": "The Rejected True Heiress",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.goodnovel.com/book/The-Rejected-True-Heiress_31001032435",
+      "image": "https://acf.goodnovel.com/book/202505/c311029bd8a663d6a8a0927ed33673a42da1dff4f004c7daf370c94b82ea4f4a.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "She is the only female Alpha in the world, the princess of the Royal Pack. To protect her, her father insisted on homeschooling her. She longed to go to school, but her father demanded she hide her Alpha powers. So, she pretended to be a wolfless— Until she met her destined mate. But he turned out to be the heir of the largest pack, and he rejected her?! “A worthless thing with no wolf, how dare she be my mate?” — He publicly rejected her and chose another fake. Until the homecoming... Her Royal Alpha King father appeared: “Who made my daughter cry?” The once proud heir knelt before her, his voice trembling: “I’m sorry… please come back.” She chuckled and raised her gaze: “Now you know to kneel?”",
       "genres": [
         "Romance"
       ],

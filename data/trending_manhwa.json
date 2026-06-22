@@ -1,9 +1,21 @@
 {
-  "generated_at_utc": "2026-06-21T03:44:21Z",
-  "date": "2026-06-21",
+  "generated_at_utc": "2026-06-22T03:52:06Z",
+  "date": "2026-06-22",
   "category": "manhwa",
-  "item_count": 10,
+  "item_count": 5,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
+    {
+      "provider": "jikan_top_manga",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
+    },
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -11,65 +23,20 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-201009",
-      "title": "The Patron of Villains",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 10161.0,
-      "url": "https://anilist.co/manga/201009",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
-      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
+      "score": 41466.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 10100.0,
-      "velocity": 0.00603960396039604
-    },
-    {
-      "id": "anilist-manga-135325",
-      "title": "The Lazy Lord Masters the Sword",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 30854.0,
-      "url": "https://anilist.co/manga/135325",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
-      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 30821.0,
-      "velocity": 0.0010706985496901464
-    },
-    {
-      "id": "anilist-manga-117460",
-      "title": "Overgeared",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 36511.0,
-      "url": "https://anilist.co/manga/117460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
-      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
+        "average_score": 80,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -77,21 +44,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-164122",
-      "title": "Gwihwanhaenneunde Ipdae Jeonnarida",
+      "id": "anilist-manga-175262",
+      "title": "The Reborn Young Lord is an Assassin",
       "source": "AniList",
       "category": "manhwa",
-      "score": 10769.0,
-      "url": "https://anilist.co/manga/164122",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164122-zdeLVK8DfxBt.jpg",
-      "description": "Min-Jun Kim, an ordinary high school senior in Korea, was suddenly summoned to another world, where he became a dark mage. Determined to return home, he overcame all sorts of hardships and saved the other world with black magic before leaving all his wealth and glory as a hero behind to return to Earth. However, before he could fully enjoy his life, a problem arose. A dungeon break had occurred and monsters came pouring out, threatening his comfortable days. Therefore, Min-Jun, who had just returned to earth, had no choice but to… enlist on the very next day!!!<br>\n<br>\n(Source: Naver, translated)",
+      "score": 21784.0,
+      "url": "https://anilist.co/manga/175262",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
+      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
-        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 73,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -99,77 +65,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-172623",
-      "title": "Act Like a Boss Monster, Mr. Swallow!",
+      "id": "anilist-manga-166154",
+      "title": "The Player Hides His Past",
       "source": "AniList",
       "category": "manhwa",
-      "score": 9691.0,
-      "url": "https://anilist.co/manga/172623",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172623-4D3HwWTk9okk.png",
-      "description": "The Primordial Core’s an unconquerable dungeon, the lair of the most powerful monster ever to exist, the Original Monster, the incarnation of evil—Swallow... who happens to be a lazy boss monster who just wants to sleep. Taking care of this lazy bum is Renee, a homunculus maid whose obsession with Swallow knows no bounds. At this point, the only one keeping the dungeon running is Patrick, the last brain cell of the bunch—and he’s a skeleton! Will Mr. Swallow get any rest amid all this chaos?\n<br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 71,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-185979",
-      "title": "The Legendary Hero is an Academy Honors Student",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 8417.0,
-      "url": "https://anilist.co/manga/185979",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185979-0PIJkgbfPZhZ.jpg",
-      "description": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 69,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-186019",
-      "title": "Ultimate Shut-in",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 7584.0,
-      "url": "https://anilist.co/manga/186019",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186019-IPT6Xoej9pgt.jpg",
-      "description": "Kill monsters, save your neighbors, and expand your domain, all from the comfort of your couch. When his city becomes infested with monsters, Jae-Hyeon discovers an ability that makes him the absolute master of his apartment building. But his ability comes with a catch -- he cannot leave his apartment. Now, he must arm his neighbors and lead them beyond their building to survive the post-apocalyptic world they find themselves in.<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 74,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-199014",
-      "title": "Hero-ga Jipchakaneun Akdangi Doeeotda",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 4120.0,
-      "url": "https://anilist.co/manga/199014",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199014-9WftqTvlfTJ3.jpg",
-      "description": "Da-in, ended up possessing the villain of a story. To make Stardust—the story's protagonist and his favorite character in a dystopian manga—happy, he resolves to become the villain Egoistic for her growth. Da-in deliberately causes terror to enhance Stardust's abilities and preemptively prevents all the tragic events from the original story, but in the process, he gains public support while also drawing Stardust's suspicion. Stardust, who initially opposed him, gradually opens her heart, and soon even begins to show signs of obsession toward him...?<br><br>(Source: KakaoPage, translated)",
+      "score": 14750.0,
+      "url": "https://anilist.co/manga/166154",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
+      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Fantasy"
@@ -183,20 +86,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-198931",
-      "title": "The Legend of Enxue",
+      "id": "anilist-manga-185978",
+      "title": "The Dragon Slayer's Regression on Another Level",
       "source": "AniList",
       "category": "manhwa",
-      "score": 4026.0,
-      "url": "https://anilist.co/manga/198931",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198931-O804U3UqOoX8.jpg",
-      "description": "When his grandfather is suddenly brutally murdered by a member of the Demonic Martial Alliance, Fu Enxue vows that he will stop at nothing to avenge his death. To find the perpetrator, he infiltrates the alliance armed only with his wits and thirst for vengeance. There, he catches the attention of the demonic masters, as his overwhelming bloodlust makes him a prodigy in the demonic arts. But will this thirst for blood help him in his pursuit of revenge, or will that same power be his undoing?<br><br>(Source: Tapas)",
+      "score": 7118.0,
+      "url": "https://anilist.co/manga/185978",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
+      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 75,
+        "average_score": 69,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -204,20 +108,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-206766",
-      "title": "There's No Such Thing as a Bad Lady",
+      "id": "anilist-manga-204435",
+      "title": "The Sword-Eating Swordmaster",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3448.0,
-      "url": "https://anilist.co/manga/206766",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
-      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
+      "score": 2315.0,
+      "url": "https://anilist.co/manga/204435",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
+      "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 65,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
