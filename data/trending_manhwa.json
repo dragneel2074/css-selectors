@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-23T02:52:07Z",
-  "date": "2026-06-23",
+  "generated_at_utc": "2026-06-24T02:52:32Z",
+  "date": "2026-06-24",
   "category": "manhwa",
-  "item_count": 10,
+  "item_count": 6,
   "errors": [
     {
       "provider": "reddit_discussed",
@@ -11,76 +11,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-163824",
-      "title": "Revenge of the Baskerville Bloodhound",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 41519.0,
-      "url": "https://anilist.co/manga/163824",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
-      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 80,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 41466.0,
-      "velocity": 0.0012781555973568708
-    },
-    {
-      "id": "anilist-manga-130511",
-      "title": "The Player Who Can't Level Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 34381.0,
-      "url": "https://anilist.co/manga/130511",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130511-4O6dF8oaiVJh.jpg",
-      "description": "When Kim Kigyu received his invitation to become a player (a unique-ability player, at that), he thought his struggles were over. But no matter how hard he tries, he just can’t seem to get past level 1! After five years of working as a guide on the lower floors of the tower, he’s finally discovered his ability to link with “Egos” and raise his stats. As his new skills unlock adventures in unexplored gates, Kigyu gets his chance to defy expectations and show the world that rank isn’t everything.\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-152128",
-      "title": "The Novel's Extra",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 27578.0,
-      "url": "https://anilist.co/manga/152128",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png",
-      "description": "Wouldn’t it be a dream to wake up in a world of your own creation? For Kim Hajin, it’s nothing short of a nightmare. With no clue how or why he’s been transported into his web novel — as a mere extra, no less! — Hajin has little choice but to see his story through until the end. Lucky for him, as the author, he knows this perilous world like the back of his hand. But when discrepancies in the plot begin popping up left and right, Hajin soon realizes that things aren’t quite so simple, after all…<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-182066",
       "title": "The Regressed Mercenary Has a Plan",
       "source": "AniList",
       "category": "manhwa",
-      "score": 20543.0,
+      "score": 20576.0,
       "url": "https://anilist.co/manga/182066",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
       "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
@@ -93,24 +28,25 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 20543.0,
+      "velocity": 0.0016063866037092926
     },
     {
-      "id": "anilist-manga-167834",
-      "title": "The Martial God Who Regressed Back to Level 2",
+      "id": "anilist-manga-106929",
+      "title": "Eleceed",
       "source": "AniList",
       "category": "manhwa",
-      "score": 18696.0,
-      "url": "https://anilist.co/manga/167834",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167834-QgyPJ7tOMGqA.png",
-      "description": "Earth lost the fight for survival in the BattleNet system and humanity now faces eradication. However, Jihan Seong is given another chance. He has returned three years into the past before BattleNet became a life-or-death game. With his knowledge of the future, he’s determined to become the strongest player. Will Jihan be able to change the fate of humanity? And more importantly, can he protect the ones he loves from those who want him to fail?<br><br>(Source: Tapas)",
+      "score": 43803.0,
+      "url": "https://anilist.co/manga/106929",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg",
+      "description": "Jiwoo is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Jiwoo’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOONS)",
       "genres": [
         "Action",
-        "Fantasy"
+        "Comedy",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 85,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -118,20 +54,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-180891",
-      "title": "Absolute Regression",
+      "id": "anilist-manga-132144",
+      "title": "Return of the Blossoming Blade",
       "source": "AniList",
       "category": "manhwa",
-      "score": 15220.0,
-      "url": "https://anilist.co/manga/180891",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg",
-      "description": "The past has changed, but like a fiery comet, he still comes. Mugi Hwa, the one without equal, slashed through Murim's skies with his sword, toppling every lord who dared to face him–even Cheonma, Mugeuk Geom’s father. But Mugeuk didn’t accept defeat. Instead, he turned to the forbidden: a time-bending ritual that hurled him into his own past. Now, retracing his steps, he races against the clock until Mugi emerges once again. But this time, it's not just about power, but mending old wounds and forging new bonds to unite his people and prepare for the bloodtide to come.<br><br>(Source: WEBTOON)",
+      "score": 41219.0,
+      "url": "https://anilist.co/manga/132144",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
+      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 84,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -139,17 +76,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-151460",
-      "title": "Absolute Sword Sense",
+      "id": "anilist-manga-159930",
+      "title": "The Infinite Mage",
       "source": "AniList",
       "category": "manhwa",
-      "score": 14901.0,
-      "url": "https://anilist.co/manga/151460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
-      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
+      "score": 37155.0,
+      "url": "https://anilist.co/manga/159930",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
+      "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
+        "Drama",
         "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-170894",
+      "title": "The 100th Regression of the Max-Level Player",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 20594.0,
+      "url": "https://anilist.co/manga/170894",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170894-oS4T4u9WqHoj.png",
+      "description": "The world was embroiled in a death game involving individuals from ages 15 to 29. Thrown into a game devoid of empathy and compassion, Min Ryu had no choice but to fight for his survival. For the 99th time, he finally made it to the end of the game. Standing alone in front of the final boss’s chamber, Min Ryu was greeted with betrayal as the system killed him for not having four more players with him. On his 100th and final attempt, can Min Ryu find the help he needs to end this ruthless game?<br>\n<br>\n(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
       ],
       "metadata": {
         "average_score": 77,
@@ -160,63 +122,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-176812",
-      "title": "The Reincarnated King of Fists",
+      "id": "anilist-manga-204974",
+      "title": "Psychopath in Murim",
       "source": "AniList",
       "category": "manhwa",
-      "score": 11485.0,
-      "url": "https://anilist.co/manga/176812",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176812-fXxJHqdO5Koo.png",
-      "description": "In a world where humans enslave non-human species, the powerful wizard Leppenhardt creates an empire to safeguard these beings. However, his reign ends when he's defeated by the brutally strong Tesron, the \"King of Fists.\" But death isn’t the end, because Leppenhardt awakens in Tesron's young body! Now armed with incredible strength and a new identity, he sets off to free the non-human races again. Can the new King of Fists reshape the world for all, or will his second chance slip away?\n<br><br>\n(Source: Tapas)\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 73,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-188155",
-      "title": "The Genius Swordsman of Mount Hua",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 3903.0,
-      "url": "https://anilist.co/manga/188155",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
-      "description": "After being ambushed by the Demonic Cult, Goheon Dok and Hyeonjo, his close friend from Mount Hua, are cornered and on the verge of losing their lives. Before they're both killed, Hyeonjo hands Goheon the Plum Blossom Spirit Beads, a sacred relic of Mount Hua that causes Goheon to take possession of the body of Muhwi, an apprentice of Hyeonjo. Now, as a Senior Disciple of Mount Hua, Goheon Dok must fight to protect Mount Hua and fulfill his friend's dying wish.<br><br>(Source: WEBTOON)",
+      "score": 3575.0,
+      "url": "https://anilist.co/manga/204974",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204974-SZoqdyhxoLRH.jpg",
+      "description": "<i>[Welcome to Murim Online, the world where the strongest reside.]<br><br>\n[Your device has malfunctioned, and logging out failed.]<br><br>\n[Would you like to attempt to disconnect once more?]<br><br>\n[Yes or No]</i><br><br>\nWhen he tried returning to virtual reality, the place he logged into was instead the “real Murim.” A once-in-an-era psychopath fell into the Murim due to the Grim Reaper’s mistake. Dong Bongsu's merciless fangs cast a shadow over Murim, which is rife with schemes and malice.<br><br>(Source: Naver, translated)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-208208",
-      "title": "The Shepherd Wizard",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 3726.0,
-      "url": "https://anilist.co/manga/208208",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208208-azuHfUiSOUSZ.jpg",
-      "description": "Born into a world where divine power defines status, Turan hides his true strength to live as a simple shepherd. Descended from a line of wizards yet raised in secrecy, he avoids the attention of powerful nobles who would exploit him. But when a wandering knight recognizes his extraordinary potential, Turan is faced with a life-changing choice. Will he remain in hiding, or journey to the capital and embrace the destiny he was meant for?<Br><br>(Source: WEBTOON)",
-      "genres": [
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
+        "average_score": 76,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
