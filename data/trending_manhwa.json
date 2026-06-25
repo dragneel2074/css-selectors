@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-24T02:52:32Z",
-  "date": "2026-06-24",
+  "generated_at_utc": "2026-06-25T02:52:13Z",
+  "date": "2026-06-25",
   "category": "manhwa",
   "item_count": 6,
   "errors": [
@@ -15,7 +15,7 @@
       "title": "The Regressed Mercenary Has a Plan",
       "source": "AniList",
       "category": "manhwa",
-      "score": 20576.0,
+      "score": 20606.0,
       "url": "https://anilist.co/manga/182066",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
       "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
@@ -28,59 +28,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 20543.0,
-      "velocity": 0.0016063866037092926
-    },
-    {
-      "id": "anilist-manga-106929",
-      "title": "Eleceed",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 43803.0,
-      "url": "https://anilist.co/manga/106929",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg",
-      "description": "Jiwoo is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Jiwoo’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOONS)",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 85,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-132144",
-      "title": "Return of the Blossoming Blade",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 41219.0,
-      "url": "https://anilist.co/manga/132144",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
-      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 84,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 20576.0,
+      "velocity": 0.00145800933125972
     },
     {
       "id": "anilist-manga-159930",
       "title": "The Infinite Mage",
       "source": "AniList",
       "category": "manhwa",
-      "score": 37155.0,
+      "score": 37188.0,
       "url": "https://anilist.co/manga/159930",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
       "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
@@ -95,26 +51,48 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 37155.0,
+      "velocity": 0.0008881711748082358
     },
     {
-      "id": "anilist-manga-170894",
-      "title": "The 100th Regression of the Max-Level Player",
+      "id": "anilist-manga-132144",
+      "title": "Return of the Blossoming Blade",
       "source": "AniList",
       "category": "manhwa",
-      "score": 20594.0,
-      "url": "https://anilist.co/manga/170894",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170894-oS4T4u9WqHoj.png",
-      "description": "The world was embroiled in a death game involving individuals from ages 15 to 29. Thrown into a game devoid of empathy and compassion, Min Ryu had no choice but to fight for his survival. For the 99th time, he finally made it to the end of the game. Standing alone in front of the final boss’s chamber, Min Ryu was greeted with betrayal as the system killed him for not having four more players with him. On his 100th and final attempt, can Min Ryu find the help he needs to end this ruthless game?<br>\n<br>\n(Source: Tapas)",
+      "score": 41249.0,
+      "url": "https://anilist.co/manga/132144",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
+      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 41219.0,
+      "velocity": 0.0007278196948009413
+    },
+    {
+      "id": "anilist-manga-120980",
+      "title": "Nano Machine",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 45216.0,
+      "url": "https://anilist.co/manga/120980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy",
-        "Supernatural"
+        "Sci-Fi"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 81,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -122,20 +100,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-204974",
-      "title": "Psychopath in Murim",
+      "id": "anilist-manga-159441",
+      "title": "Pick Me Up",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3575.0,
-      "url": "https://anilist.co/manga/204974",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204974-SZoqdyhxoLRH.jpg",
-      "description": "<i>[Welcome to Murim Online, the world where the strongest reside.]<br><br>\n[Your device has malfunctioned, and logging out failed.]<br><br>\n[Would you like to attempt to disconnect once more?]<br><br>\n[Yes or No]</i><br><br>\nWhen he tried returning to virtual reality, the place he logged into was instead the “real Murim.” A once-in-an-era psychopath fell into the Murim due to the Grim Reaper’s mistake. Dong Bongsu's merciless fangs cast a shadow over Murim, which is rife with schemes and malice.<br><br>(Source: Naver, translated)",
+      "score": 40664.0,
+      "url": "https://anilist.co/manga/159441",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
+      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-184502",
+      "title": "The Academy’s Sashimi Sword Master",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 12406.0,
+      "url": "https://anilist.co/manga/184502",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184502-uu4QoBUwEfNH.jpg",
+      "description": "Chef Kim, Korea's legendary sashimi master, is transported into the world of Blessing M, a mobile game he once played. But instead of being a hero, he finds himself as Geomma Kang, a mere background extra. Forced into a new life, Geomma discovers a new power: the Blessing of the Blade God. Now, to survive in this game-like world, he must slice through challenges and enemies alike. Will his unmatched skills in the kitchen be enough to carve out a new destiny?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 74,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
