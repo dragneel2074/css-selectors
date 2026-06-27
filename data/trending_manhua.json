@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-26T02:57:16Z",
-  "date": "2026-06-26",
+  "generated_at_utc": "2026-06-27T02:47:26Z",
+  "date": "2026-06-27",
   "category": "manhua",
   "item_count": 1,
   "errors": [
@@ -15,7 +15,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 26054.0,
+      "score": 26058.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -28,8 +28,8 @@
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 26054.0,
+      "velocity": 0.0001535272894757043
     }
   ]
 }

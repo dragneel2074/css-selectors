@@ -1,491 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-06-20",
-      "items": [
-        {
-          "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
-          "score": 5.0
-        },
-        {
-          "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
-          "score": 10.0
-        },
-        {
-          "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-          "score": 11.0
-        },
-        {
-          "id": "webnovel-book-infinite-cashback-system_35674644400458505",
-          "score": 6.0
-        },
-        {
-          "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
-          "score": 15.0
-        },
-        {
-          "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
-          "score": 12.0
-        },
-        {
-          "id": "jikan-anime-61316",
-          "score": 60929.0
-        },
-        {
-          "id": "jikan-anime-60852",
-          "score": 17200.0
-        },
-        {
-          "id": "jikan-anime-62568",
-          "score": 20793.0
-        },
-        {
-          "id": "jikan-anime-62568",
-          "score": 20793.0
-        },
-        {
-          "id": "jikan-anime-56734",
-          "score": 24191.0
-        },
-        {
-          "id": "jikan-anime-60028",
-          "score": 10951.0
-        },
-        {
-          "id": "jikan-anime-62604",
-          "score": 15796.0
-        },
-        {
-          "id": "jikan-anime-59983",
-          "score": 25084.0
-        },
-        {
-          "id": "jikan-anime-59708",
-          "score": 31127.0
-        },
-        {
-          "id": "jikan-anime-62601",
-          "score": 17862.0
-        },
-        {
-          "id": "jikan-anime-51553",
-          "score": 64084.0
-        },
-        {
-          "id": "anilist-anime-186497",
-          "score": 51954.0
-        },
-        {
-          "id": "jikan-anime-63375",
-          "score": 13732.0
-        },
-        {
-          "id": "jikan-anime-59970",
-          "score": 24090.0
-        },
-        {
-          "id": "jikan-anime-56876",
-          "score": 18914.0
-        },
-        {
-          "id": "jikan-anime-62001",
-          "score": 28530.0
-        },
-        {
-          "id": "anilist-anime-189046",
-          "score": 110302.0
-        },
-        {
-          "id": "anilist-anime-169580",
-          "score": 74528.0
-        },
-        {
-          "id": "anilist-anime-199588",
-          "score": 54863.0
-        },
-        {
-          "id": "anilist-anime-199221",
-          "score": 65123.0
-        },
-        {
-          "id": "anilist-anime-199547",
-          "score": 68911.0
-        },
-        {
-          "id": "anilist-manga-201009",
-          "score": 10100.0
-        },
-        {
-          "id": "anilist-anime-147105",
-          "score": 180747.0
-        },
-        {
-          "id": "anilist-anime-180745",
-          "score": 99061.0
-        },
-        {
-          "id": "anilist-anime-195600",
-          "score": 105228.0
-        },
-        {
-          "id": "anilist-anime-182205",
-          "score": 102475.0
-        },
-        {
-          "id": "anilist-manga-172619",
-          "score": 27150.0
-        },
-        {
-          "id": "anilist-manga-159441",
-          "score": 40503.0
-        },
-        {
-          "id": "jikan-manga-147272",
-          "score": 88128.0
-        },
-        {
-          "id": "anilist-anime-269",
-          "score": 490697.0
-        },
-        {
-          "id": "jikan-manga-143441",
-          "score": 35561.0
-        },
-        {
-          "id": "jikan-novel-143441",
-          "score": 35561.0
-        },
-        {
-          "id": "jikan-novel-121781",
-          "score": 11005.0
-        },
-        {
-          "id": "anilist-anime-21",
-          "score": 717127.0
-        },
-        {
-          "id": "jikan-manga-162032",
-          "score": 24427.0
-        },
-        {
-          "id": "jikan-novel-162032",
-          "score": 24427.0
-        },
-        {
-          "id": "anilist-manga-137280",
-          "score": 47698.0
-        },
-        {
-          "id": "anilist-manga-116353",
-          "score": 25978.0
-        },
-        {
-          "id": "jikan-manga-130826",
-          "score": 22591.0
-        },
-        {
-          "id": "jikan-novel-130826",
-          "score": 22591.0
-        },
-        {
-          "id": "anilist-manga-30013",
-          "score": 226268.0
-        },
-        {
-          "id": "jikan-novel-6978",
-          "score": 13323.0
-        },
-        {
-          "id": "jikan-novel-121405",
-          "score": 14927.0
-        },
-        {
-          "id": "jikan-manga-44489",
-          "score": 174836.0
-        },
-        {
-          "id": "jikan-novel-119184",
-          "score": 15318.0
-        },
-        {
-          "id": "jikan-novel-126479",
-          "score": 44150.0
-        },
-        {
-          "id": "jikan-manga-16765",
-          "score": 202759.0
-        },
-        {
-          "id": "jikan-manga-1",
-          "score": 291192.0
-        },
-        {
-          "id": "jikan-novel-117077",
-          "score": 12967.0
-        },
-        {
-          "id": "jikan-manga-1706",
-          "score": 326673.0
-        },
-        {
-          "id": "jikan-manga-2",
-          "score": 800408.0
-        },
-        {
-          "id": "jikan-manga-656",
-          "score": 461113.0
-        },
-        {
-          "id": "jikan-manga-642",
-          "score": 362656.0
-        },
-        {
-          "id": "jikan-manga-13",
-          "score": 700653.0
-        },
-        {
-          "id": "jikan-manga-70345",
-          "score": 202642.0
-        },
-        {
-          "id": "jikan-manga-51",
-          "score": 201371.0
-        },
-        {
-          "id": "jikan-novel-26728",
-          "score": 22906.0
-        },
-        {
-          "id": "jikan-manga-25",
-          "score": 324597.0
-        },
-        {
-          "id": "jikan-novel-35513",
-          "score": 21313.0
-        },
-        {
-          "id": "jikan-novel-7458",
-          "score": 38807.0
-        },
-        {
-          "id": "jikan-novel-119282",
-          "score": 8627.0
-        },
-        {
-          "id": "jikan-novel-120616",
-          "score": 4766.0
-        },
-        {
-          "id": "jikan-novel-168586",
-          "score": 2494.0
-        },
-        {
-          "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
-          "score": 16.0
-        },
-        {
-          "id": "dreame-1646404864",
-          "score": 16.0
-        },
-        {
-          "id": "dreame-1231429376",
-          "score": 15.0
-        },
-        {
-          "id": "dreame-742663424",
-          "score": 14.0
-        },
-        {
-          "id": "dreame-2880119808",
-          "score": 13.0
-        },
-        {
-          "id": "dreame-1570579456",
-          "score": 12.0
-        },
-        {
-          "id": "dreame-20390912",
-          "score": 11.0
-        },
-        {
-          "id": "goodnovel-book-The-Billionaire-s-Fight-For-Redemption_31001092545",
-          "score": 11.0
-        },
-        {
-          "id": "dreame-1411916544",
-          "score": 10.0
-        },
-        {
-          "id": "goodnovel-book-The-Heartless-Alpha-s-Beloved-Luna_31001165452",
-          "score": 10.0
-        },
-        {
-          "id": "dreame-1737958400",
-          "score": 9.0
-        },
-        {
-          "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
-          "score": 9.0
-        },
-        {
-          "id": "dreame-3391824640",
-          "score": 8.0
-        },
-        {
-          "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
-          "score": 8.0
-        },
-        {
-          "id": "webnovel-book-my-swordsmanship-has-no-upper-limit_35233900008253705",
-          "score": 7.0
-        },
-        {
-          "id": "dreame-696460032",
-          "score": 7.0
-        },
-        {
-          "id": "goodnovel-book-His-Plump-Mate_31001222962",
-          "score": 7.0
-        },
-        {
-          "id": "dreame-1094329344",
-          "score": 6.0
-        },
-        {
-          "id": "goodnovel-book-Billionaire-s-Match_31001148338",
-          "score": 6.0
-        },
-        {
-          "id": "dreame-2235114496",
-          "score": 5.0
-        },
-        {
-          "id": "goodnovel-book-Married-at-First-Sight_31000384431",
-          "score": 5.0
-        },
-        {
-          "id": "dreame-1317150208",
-          "score": 4.0
-        },
-        {
-          "id": "goodnovel-book-CLAIMED-BY-THE-MAFIA-DON_31001293897",
-          "score": 4.0
-        },
-        {
-          "id": "dreame-850797312",
-          "score": 3.0
-        },
-        {
-          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
-          "score": 3.0
-        },
-        {
-          "id": "webnovel-book-reborn-with-a-space-hoarding-food-and-raising-my-kid_35479981200689605",
-          "score": 2.0
-        },
-        {
-          "id": "dreame-598367488",
-          "score": 2.0
-        },
-        {
-          "id": "webnovel-book-last-born-of-the-desdemona_35438027108926505",
-          "score": 14.0
-        },
-        {
-          "id": "webnovel-book-reborn-with-infinite-system-points-i-gathered-all-sss-classes!_35479981708644005",
-          "score": 13.0
-        },
-        {
-          "id": "webnovel-book-working-in-a-zoo-with-beast-taming-system_35475348608544705",
-          "score": 8.0
-        },
-        {
-          "id": "webnovel-book-gacha-harem-system_35385385708000905",
-          "score": 9.0
-        },
-        {
-          "id": "webnovel-book-rebate-king-every-beauty-i-spoil-makes-me-a-billionaire_35492500200946605",
-          "score": 3.0
-        },
-        {
-          "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
-          "score": 4.0
-        },
-        {
-          "id": "anilist-anime-170019",
-          "score": 67494.0
-        },
-        {
-          "id": "anilist-manga-101557",
-          "score": 34364.0
-        },
-        {
-          "id": "anilist-manga-135325",
-          "score": 30821.0
-        },
-        {
-          "id": "anilist-anime-187869",
-          "score": 27988.0
-        },
-        {
-          "id": "anilist-manga-137304",
-          "score": 25372.0
-        },
-        {
-          "id": "anilist-anime-192808",
-          "score": 24002.0
-        },
-        {
-          "id": "anilist-manga-164222",
-          "score": 12633.0
-        },
-        {
-          "id": "anilist-manga-187427",
-          "score": 12233.0
-        },
-        {
-          "id": "anilist-manga-166658",
-          "score": 12156.0
-        },
-        {
-          "id": "anilist-manga-136109",
-          "score": 10913.0
-        },
-        {
-          "id": "anilist-manga-184347",
-          "score": 9481.0
-        },
-        {
-          "id": "anilist-manga-202986",
-          "score": 4463.0
-        },
-        {
-          "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-          "score": 16.0
-        },
-        {
-          "id": "goodnovel-book-Hired-a-Gigolo-Got-a-Billionaire_31001058616",
-          "score": 15.0
-        },
-        {
-          "id": "goodnovel-book-Alpha-s-Rue-His-Shunned-Luna_31001363078",
-          "score": 14.0
-        },
-        {
-          "id": "goodnovel-book-Full-Moon-Curse_31001279887",
-          "score": 13.0
-        },
-        {
-          "id": "goodnovel-book-The-Endgame-Chronicles_31001107239",
-          "score": 12.0
-        },
-        {
-          "id": "goodnovel-book-Alpha-Theo_31000069728",
-          "score": 2.0
-        }
-      ]
-    },
-    {
       "date": "2026-06-21",
       "items": [
         {
@@ -3211,6 +2726,491 @@
         },
         {
           "id": "goodnovel-book-Alpha-Gray_31000035935",
+          "score": 2.0
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "items": [
+        {
+          "id": "jikan-anime-62568",
+          "score": 36009.0
+        },
+        {
+          "id": "jikan-anime-62568",
+          "score": 36009.0
+        },
+        {
+          "id": "jikan-anime-60028",
+          "score": 16764.0
+        },
+        {
+          "id": "webnovel-book-my-apocalypse-system-arrives-10-years-early_35233954100293305",
+          "score": 7.0
+        },
+        {
+          "id": "anilist-anime-208044",
+          "score": 11116.0
+        },
+        {
+          "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
+          "score": 14.0
+        },
+        {
+          "id": "jikan-anime-62604",
+          "score": 28004.0
+        },
+        {
+          "id": "jikan-anime-59708",
+          "score": 53479.0
+        },
+        {
+          "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+          "score": 12.0
+        },
+        {
+          "id": "jikan-anime-56734",
+          "score": 43141.0
+        },
+        {
+          "id": "jikan-anime-51553",
+          "score": 104228.0
+        },
+        {
+          "id": "jikan-anime-63375",
+          "score": 26313.0
+        },
+        {
+          "id": "jikan-anime-60852",
+          "score": 19536.0
+        },
+        {
+          "id": "jikan-anime-56876",
+          "score": 30551.0
+        },
+        {
+          "id": "jikan-anime-59983",
+          "score": 28855.0
+        },
+        {
+          "id": "jikan-anime-62601",
+          "score": 19978.0
+        },
+        {
+          "id": "jikan-anime-61316",
+          "score": 71859.0
+        },
+        {
+          "id": "anilist-anime-182483",
+          "score": 46179.0
+        },
+        {
+          "id": "anilist-anime-199221",
+          "score": 67394.0
+        },
+        {
+          "id": "jikan-anime-59970",
+          "score": 26361.0
+        },
+        {
+          "id": "anilist-anime-186497",
+          "score": 54759.0
+        },
+        {
+          "id": "anilist-anime-199588",
+          "score": 57719.0
+        },
+        {
+          "id": "anilist-anime-169580",
+          "score": 79394.0
+        },
+        {
+          "id": "jikan-anime-62001",
+          "score": 30587.0
+        },
+        {
+          "id": "anilist-anime-180745",
+          "score": 102385.0
+        },
+        {
+          "id": "anilist-anime-199547",
+          "score": 71902.0
+        },
+        {
+          "id": "anilist-anime-147105",
+          "score": 188304.0
+        },
+        {
+          "id": "anilist-anime-182300",
+          "score": 97805.0
+        },
+        {
+          "id": "anilist-manga-201009",
+          "score": 10400.0
+        },
+        {
+          "id": "jikan-novel-168586",
+          "score": 2528.0
+        },
+        {
+          "id": "jikan-novel-172605",
+          "score": 900.0
+        },
+        {
+          "id": "anilist-manga-159441",
+          "score": 40750.0
+        },
+        {
+          "id": "jikan-manga-147272",
+          "score": 88710.0
+        },
+        {
+          "id": "jikan-novel-121781",
+          "score": 11031.0
+        },
+        {
+          "id": "jikan-manga-162032",
+          "score": 24637.0
+        },
+        {
+          "id": "jikan-novel-162032",
+          "score": 24637.0
+        },
+        {
+          "id": "anilist-manga-137280",
+          "score": 47898.0
+        },
+        {
+          "id": "anilist-anime-269",
+          "score": 493472.0
+        },
+        {
+          "id": "jikan-novel-126479",
+          "score": 44286.0
+        },
+        {
+          "id": "jikan-manga-143441",
+          "score": 35731.0
+        },
+        {
+          "id": "jikan-novel-143441",
+          "score": 35731.0
+        },
+        {
+          "id": "anilist-anime-21",
+          "score": 720253.0
+        },
+        {
+          "id": "anilist-manga-30002",
+          "score": 238323.0
+        },
+        {
+          "id": "jikan-novel-120616",
+          "score": 4777.0
+        },
+        {
+          "id": "jikan-manga-130826",
+          "score": 22668.0
+        },
+        {
+          "id": "jikan-novel-130826",
+          "score": 22668.0
+        },
+        {
+          "id": "jikan-manga-44489",
+          "score": 175176.0
+        },
+        {
+          "id": "anilist-manga-30013",
+          "score": 226700.0
+        },
+        {
+          "id": "jikan-novel-6978",
+          "score": 13340.0
+        },
+        {
+          "id": "jikan-novel-121405",
+          "score": 14951.0
+        },
+        {
+          "id": "jikan-manga-1706",
+          "score": 327097.0
+        },
+        {
+          "id": "jikan-manga-1",
+          "score": 291528.0
+        },
+        {
+          "id": "jikan-manga-51",
+          "score": 201553.0
+        },
+        {
+          "id": "jikan-manga-656",
+          "score": 461632.0
+        },
+        {
+          "id": "anilist-manga-116353",
+          "score": 26058.0
+        },
+        {
+          "id": "jikan-manga-16765",
+          "score": 202974.0
+        },
+        {
+          "id": "jikan-manga-70345",
+          "score": 202825.0
+        },
+        {
+          "id": "jikan-manga-642",
+          "score": 363041.0
+        },
+        {
+          "id": "jikan-manga-2",
+          "score": 801122.0
+        },
+        {
+          "id": "jikan-manga-13",
+          "score": 701174.0
+        },
+        {
+          "id": "jikan-manga-25",
+          "score": 324808.0
+        },
+        {
+          "id": "jikan-novel-7458",
+          "score": 38830.0
+        },
+        {
+          "id": "jikan-novel-35513",
+          "score": 21321.0
+        },
+        {
+          "id": "jikan-novel-117077",
+          "score": 12992.0
+        },
+        {
+          "id": "jikan-novel-119282",
+          "score": 8650.0
+        },
+        {
+          "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
+          "score": 16.0
+        },
+        {
+          "id": "dreame-1646404864",
+          "score": 16.0
+        },
+        {
+          "id": "webnovel-book-carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
+          "score": 15.0
+        },
+        {
+          "id": "dreame-1231429376",
+          "score": 15.0
+        },
+        {
+          "id": "dreame-742663424",
+          "score": 14.0
+        },
+        {
+          "id": "dreame-2880119808",
+          "score": 13.0
+        },
+        {
+          "id": "dreame-1570579456",
+          "score": 12.0
+        },
+        {
+          "id": "dreame-20390912",
+          "score": 11.0
+        },
+        {
+          "id": "dreame-1411916544",
+          "score": 10.0
+        },
+        {
+          "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
+          "score": 10.0
+        },
+        {
+          "id": "dreame-1737958400",
+          "score": 9.0
+        },
+        {
+          "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
+          "score": 9.0
+        },
+        {
+          "id": "dreame-3391824640",
+          "score": 8.0
+        },
+        {
+          "id": "goodnovel-book-The-Heartless-Alpha-s-Beloved-Luna_31001165452",
+          "score": 8.0
+        },
+        {
+          "id": "dreame-696460032",
+          "score": 7.0
+        },
+        {
+          "id": "goodnovel-book-His-Plump-Mate_31001222962",
+          "score": 7.0
+        },
+        {
+          "id": "webnovel-book-interstellar-farming-i-make-potions-and-climb-to-the-top_35234285808262505",
+          "score": 6.0
+        },
+        {
+          "id": "dreame-1094329344",
+          "score": 6.0
+        },
+        {
+          "id": "goodnovel-book-The-Luna-Queen-s-Rebirth_31001062738",
+          "score": 6.0
+        },
+        {
+          "id": "dreame-2235114496",
+          "score": 5.0
+        },
+        {
+          "id": "goodnovel-book-Billionaire-s-Match_31001148338",
+          "score": 5.0
+        },
+        {
+          "id": "dreame-1317150208",
+          "score": 4.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
+          "score": 4.0
+        },
+        {
+          "id": "dreame-850797312",
+          "score": 3.0
+        },
+        {
+          "id": "goodnovel-book-Married-at-First-Sight_31000384431",
+          "score": 3.0
+        },
+        {
+          "id": "dreame-598367488",
+          "score": 2.0
+        },
+        {
+          "id": "jikan-novel-26728",
+          "score": 22915.0
+        },
+        {
+          "id": "webnovel-book-alpha's-regret-marked-by-the-lycan-king_35679982508496305",
+          "score": 13.0
+        },
+        {
+          "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+          "score": 9.0
+        },
+        {
+          "id": "webnovel-book-infinite-cashback-system_35674644400458505",
+          "score": 8.0
+        },
+        {
+          "id": "webnovel-book-genetic-awakening-my-genes-evolve-infinitely!_35508048600464305",
+          "score": 11.0
+        },
+        {
+          "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+          "score": 5.0
+        },
+        {
+          "id": "webnovel-book-her-food-livestream-broke-the-galaxy_34992979700618405",
+          "score": 2.0
+        },
+        {
+          "id": "anilist-anime-182205",
+          "score": 105598.0
+        },
+        {
+          "id": "anilist-manga-86399",
+          "score": 59239.0
+        },
+        {
+          "id": "anilist-manga-106064",
+          "score": 52854.0
+        },
+        {
+          "id": "anilist-manga-135325",
+          "score": 31036.0
+        },
+        {
+          "id": "anilist-anime-187869",
+          "score": 28968.0
+        },
+        {
+          "id": "anilist-manga-172619",
+          "score": 27382.0
+        },
+        {
+          "id": "anilist-manga-164222",
+          "score": 12718.0
+        },
+        {
+          "id": "anilist-anime-196144",
+          "score": 12324.0
+        },
+        {
+          "id": "anilist-manga-191203",
+          "score": 11168.0
+        },
+        {
+          "id": "anilist-manga-174515",
+          "score": 10616.0
+        },
+        {
+          "id": "anilist-manga-189051",
+          "score": 7258.0
+        },
+        {
+          "id": "anilist-manga-212562",
+          "score": 2433.0
+        },
+        {
+          "id": "goodnovel-book-Hired-a-Gigolo-Got-a-Billionaire_31001058616",
+          "score": 16.0
+        },
+        {
+          "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
+          "score": 15.0
+        },
+        {
+          "id": "goodnovel-book-Fractured_31000959468",
+          "score": 14.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+          "score": 13.0
+        },
+        {
+          "id": "goodnovel-book-My-Alpha-Stepbrother-s-Dirty-Secret_31001226188",
+          "score": 12.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Unclaimed-Mate_31001165448",
+          "score": 11.0
+        },
+        {
+          "id": "webnovel-book-alpha's-regret-the-hybrid's-royal-contract_35914560408470105",
+          "score": 10.0
+        },
+        {
+          "id": "webnovel-book-the-villainess's-heartthrob-script-i-can-talk-to-animals_34992702600614605",
+          "score": 4.0
+        },
+        {
+          "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
+          "score": 3.0
+        },
+        {
+          "id": "goodnovel-book-Alpha-Brock_31000203611",
           "score": 2.0
         }
       ]
