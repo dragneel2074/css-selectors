@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-01T03:26:53Z",
-  "date": "2026-07-01",
+  "generated_at_utc": "2026-07-02T02:52:52Z",
+  "date": "2026-07-02",
   "category": "web_novel",
   "item_count": 16,
   "errors": [
@@ -11,11 +11,29 @@
   ],
   "items": [
     {
+      "id": "webnovel-book-lord-i-grind-exp-with-warband-panel_35475421508546505",
+      "title": "Lord: I Grind EXP with Warband Panel",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/lord-i-grind-exp-with-warband-panel_35475421508546505",
+      "image": "https://book-pic.webnovel.com/bookcover/35475421508546505?imageMogr2/thumbnail/600x&imageId=1779245295060",
+      "description": "# SYSTEM # TRANSMIGRATION # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 4.0,
+      "velocity": 0.5
+    },
+    {
       "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
       "title": "Breeder To The Brutal Alpha King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 7.0,
       "url": "https://www.webnovel.com/book/breeder-to-the-brutal-alpha-king_35907539508318005",
       "image": "https://book-pic.webnovel.com/bookcover/35907539508318005?imageMogr2/thumbnail/600x&imageId=1781603514200",
       "description": "# ROMANCE # R18 # TRAGEDY # REVENGE # SMUT # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # ABUSIVELOVE # REJECTED",
@@ -25,51 +43,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
-      "velocity": 0.6666666666666666
+      "previous_score": 5.0,
+      "velocity": 0.4
     },
     {
-      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "title": "Global Deities: Rising as Wood Elves' God",
+      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "title": "Martial Dao: I Can Enhance My Talents",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
-      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
-      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
+      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 7.0,
-      "velocity": 0.5714285714285714
-    },
-    {
-      "id": "webnovel-book-unforeseen-entanglements_35671209300388905",
-      "title": "Unforeseen Entanglements",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/unforeseen-entanglements_35671209300388905",
-      "image": "https://book-pic.webnovel.com/bookcover/35671209300388905?imageMogr2/thumbnail/600x&imageId=1776753697934",
-      "description": "Sometimes the Moon Goddess breaks one bond to make room for something stronger.\n\"I reject you, Sophie. This pack needs a Luna who knows her place. And you've always been too much, Sophie.\" Those words shattered my world, but they were only the beginning.\nOne night, Sophie Turner lost everything: her mate, her pack, and her future.\nRejected by her destined mate and betrayed by her pack, the fierce Luna warrior finds herself drowning her sorrows at a human bar. That's where she meets the mysterious Christian Knight.\nHe's dangerously handsome, lethally powerful, and the Alpha of a rival pack. But as Sophie starts her new life at Knight Industries, she realizes the terrifying truth:\nThe man who rules the boardroom is the same man who is claimed by her soul.\n\"She was a discard,\" my ex-mate spat, \"a Beta who wasn't enough.\"\nChristian's growl vibrated through the room, his eyes turning a lethal gold. \"Then you're a fool. She was never meant to be a Beta. She was born to be my Queen.\"",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": 0.15384615384615385
+      "previous_score": 6.0,
+      "velocity": 0.3333333333333333
     },
     {
       "id": "jikan-novel-143441",
       "title": "Omniscient Reader's Viewpoint",
       "source": "Jikan",
       "category": "web_novel",
-      "score": 35799.0,
+      "score": 35822.0,
       "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
       "image": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg",
       "description": "In the web novel Three Ways to Survive the Apocalypse, people are forced to fight monsters and each other for coins, food, and—ultimately—survival. While mysterious \"Constellations\" watch the unwilling participants for their own entertainment, one man emerges as the protagonist: Yoo Joonghyuk, who repeatedly lives and dies in an endless struggle to close the book on this indiscriminate torture.\n\nKim Dokja has lived a challenging and action-packed life through Joonghyuk for over a decade. While other readers abandoned the story early on, Dokja has remained its sole reader until the very last chapter. At that time, he receives a puzzling message from the author, and the novel's inhumane world suddenly becomes reality.\n\nAs the only person aware of what lies ahead, Dokja realizes that he must utilize his omniscience to navigate the deadly scenarios and stay alive. Dokja was never meant to play a main part, but in defiance of those who wish to spell his fate, he might just have to take the lead in writing his own conclusion.\n\n[Written by MAL Rewrite]",
@@ -83,8 +83,8 @@
         "mal_score": 9.04,
         "type": "novels"
       },
-      "previous_score": 35786.0,
-      "velocity": 0.0003632705527301179
+      "previous_score": 35799.0,
+      "velocity": 0.0006424760468169502
     },
     {
       "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
@@ -102,6 +102,24 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 16.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-unforeseen-entanglements_35671209300388905",
+      "title": "Unforeseen Entanglements",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/unforeseen-entanglements_35671209300388905",
+      "image": "https://book-pic.webnovel.com/bookcover/35671209300388905?imageMogr2/thumbnail/600x&imageId=1776753697934",
+      "description": "Sometimes the Moon Goddess breaks one bond to make room for something stronger.\n\"I reject you, Sophie. This pack needs a Luna who knows her place. And you've always been too much, Sophie.\" Those words shattered my world, but they were only the beginning.\nOne night, Sophie Turner lost everything: her mate, her pack, and her future.\nRejected by her destined mate and betrayed by her pack, the fierce Luna warrior finds herself drowning her sorrows at a human bar. That's where she meets the mysterious Christian Knight.\nHe's dangerously handsome, lethally powerful, and the Alpha of a rival pack. But as Sophie starts her new life at Knight Industries, she realizes the terrifying truth:\nThe man who rules the boardroom is the same man who is claimed by her soul.\n\"She was a discard,\" my ex-mate spat, \"a Beta who wasn't enough.\"\nChristian's growl vibrated through the room, his eyes turning a lethal gold. \"Then you're a fool. She was never meant to be a Beta. She was born to be my Queen.\"",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 15.0,
       "velocity": 0.0
     },
     {
@@ -123,6 +141,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-the-villainess's-heartthrob-script-i-can-talk-to-animals_34992702600614605",
+      "title": "The Villainess's Heartthrob Script: I Can Talk to Animals",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/the-villainess's-heartthrob-script-i-can-talk-to-animals_34992702600614605",
+      "image": "https://book-pic.webnovel.com/bookcover/34992702600614605?imageMogr2/thumbnail/600x&imageId=1778552016766",
+      "description": "# SYSTEM # MYSTERY # VILLAIN # COUNTERATTACK # GROUPPAMPERING # FEELINGGOOD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 13.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-infinite-cashback-system_35674644400458505",
       "title": "Infinite Cashback System",
       "source": "WebNovel",
@@ -141,6 +177,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "title": "Global Deities: Rising as Wood Elves' God",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
+      "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
+      "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-grinding-to-become-the-master-of-the-universe_34992461400610505",
       "title": "Grinding to Become the Master of the Universe",
       "source": "WebNovel",
@@ -155,8 +209,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 11.0,
-      "velocity": -0.09090909090909091
+      "previous_score": 10.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-magus-infinite_35542689808997805",
@@ -165,7 +219,7 @@
       "category": "web_novel",
       "score": 9.0,
       "url": "https://www.webnovel.com/book/magus-infinite_35542689808997805",
-      "image": "https://book-pic.webnovel.com/bookcover/35542689808997805?imageMogr2/thumbnail/600x&imageId=1782333242971",
+      "image": "https://book-pic.webnovel.com/bookcover/35542689808997805?imageMogr2/thumbnail/600x&imageId=1782892201793",
       "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # WEAKTOSTRONG # OVERPOWERED # SURVIVAL",
       "genres": [
         "Web Novel"
@@ -173,69 +227,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 10.0,
-      "velocity": -0.1
-    },
-    {
-      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "title": "Wizard: Building a Golem Legion From Zero",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
-      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
-      "description": "# MECHA # WIZARD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
       "previous_score": 9.0,
-      "velocity": -0.1111111111111111
-    },
-    {
-      "id": "webnovel-book-the-villainess's-heartthrob-script-i-can-talk-to-animals_34992702600614605",
-      "title": "The Villainess's Heartthrob Script: I Can Talk to Animals",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/the-villainess's-heartthrob-script-i-can-talk-to-animals_34992702600614605",
-      "image": "https://book-pic.webnovel.com/bookcover/34992702600614605?imageMogr2/thumbnail/600x&imageId=1778552016766",
-      "description": "# SYSTEM # MYSTERY # VILLAIN # COUNTERATTACK # GROUPPAMPERING # FEELINGGOOD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 15.0,
-      "velocity": -0.13333333333333333
-    },
-    {
-      "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
-      "title": "The Villainess Is My Cute Daughter",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/the-villainess-is-my-cute-daughter_35757269408712905",
-      "image": "https://book-pic.webnovel.com/bookcover/35757269408712905?imageMogr2/thumbnail/600x&imageId=1777659437666",
-      "description": "# ROMANCE # SYSTEM # MAGIC # WEAKTOSTRONG # COMEDY # TRANSMIGRATION # SLICEOFLIFE # KINGDOMBUILDING # THESTRONGACTINGWEAK # STRONGFEMALELEAD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": -0.6666666666666666
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
       "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
+      "score": 5.0,
       "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
       "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
@@ -245,36 +245,36 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 7.0,
+      "velocity": -0.2857142857142857
     },
     {
-      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "title": "Martial Dao: I Can Enhance My Talents",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
-      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-lord-i-grind-exp-with-warband-panel_35475421508546505",
-      "title": "Lord: I Grind EXP with Warband Panel",
+      "id": "webnovel-book-wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "title": "Wizard: Building a Golem Legion From Zero",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 4.0,
-      "url": "https://www.webnovel.com/book/lord-i-grind-exp-with-warband-panel_35475421508546505",
-      "image": "https://book-pic.webnovel.com/bookcover/35475421508546505?imageMogr2/thumbnail/600x&imageId=1779245295060",
-      "description": "# SYSTEM # TRANSMIGRATION # KINGDOMBUILDING",
+      "url": "https://www.webnovel.com/book/wizard-building-a-golem-legion-from-zero_34992521700612005",
+      "image": "https://book-pic.webnovel.com/bookcover/34992521700612005?imageMogr2/thumbnail/600x&imageId=1775615232270",
+      "description": "# MECHA # WIZARD",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.5
+    },
+    {
+      "id": "webnovel-book-my-swordsmanship-has-no-upper-limit_35233900008253705",
+      "title": "My Swordsmanship Has No Upper Limit",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/my-swordsmanship-has-no-upper-limit_35233900008253705",
+      "image": "https://book-pic.webnovel.com/bookcover/35233900008253705?imageMogr2/thumbnail/600x&imageId=1776306486889",
+      "description": "# WEAKTOSTRONG",
       "genres": [
         "Web Novel"
       ],
@@ -285,14 +285,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
-      "title": "Carrying a Lucky Charm, I Thrive with My Husband on the Road to Exile",
+      "id": "webnovel-book-beast-world-from-villainess-to-cub-raising-chef_35474898700589105",
+      "title": "Beast World: From Villainess to Cub-Raising Chef",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/carrying-a-lucky-charm-i-thrive-with-my-husband-on-the-road-to-exile_34219742200640905",
-      "image": "https://book-pic.webnovel.com/bookcover/34219742200640905?imageMogr2/thumbnail/600x&imageId=1776157213159",
-      "description": "# PREGNANCY # COUNTERATTACK # EASTERN # SIDECHARACTER # BOOKTRANSMIGRATION # STORAGESPACE",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/beast-world-from-villainess-to-cub-raising-chef_35474898700589105",
+      "image": "https://book-pic.webnovel.com/bookcover/35474898700589105?imageMogr2/thumbnail/600x&imageId=1779763867989",
+      "description": "# STRONGFL # COUNTERATTACK # BABY # HUMANANDBEAST # BOOKTRANSMIGRATION # GOURMET",
       "genres": [
         "Web Novel"
       ],
