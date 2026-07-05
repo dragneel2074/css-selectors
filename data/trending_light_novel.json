@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-04T02:33:17Z",
-  "date": "2026-07-04",
+  "generated_at_utc": "2026-07-05T02:43:07Z",
+  "date": "2026-07-05",
   "category": "light_novel",
   "item_count": 14,
   "errors": [
@@ -15,7 +15,7 @@
       "title": "Suming Zhi Huan",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 2573.0,
+      "score": 2577.0,
       "url": "https://myanimelist.net/manga/168586/Suming_Zhi_Huan",
       "image": "https://cdn.myanimelist.net/images/manga/1/312507l.jpg",
       "description": "Sequel to Guimi Zhi Zhu.",
@@ -30,15 +30,15 @@
         "mal_score": 8.33,
         "type": "novels"
       },
-      "previous_score": 2567.0,
-      "velocity": 0.002337358784573432
+      "previous_score": 2573.0,
+      "velocity": 0.001554605518849592
     },
     {
       "id": "jikan-novel-162032",
       "title": "Guimi Zhi Zhu",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 24848.0,
+      "score": 24873.0,
       "url": "https://myanimelist.net/manga/162032/Guimi_Zhi_Zhu",
       "image": "https://cdn.myanimelist.net/images/manga/2/287344l.jpg",
       "description": "Through the storm of steam and machinery, who can achieve the extraordinary? In the mist of history and darkness, who whispers to me? When I woke up from the haze of mystery, I found myself in a world of guns, cannons, giant ships, airships, difference engines; potions, divination, curses, hanged men, and sealed artifacts. But the light still shines between it all, and the mystery is never more than two steps away. This is the legend of the Fool.\n\n(Source: Yen Press)",
@@ -53,38 +53,35 @@
         "mal_score": 9.2,
         "type": "novels"
       },
-      "previous_score": 24828.0,
-      "velocity": 0.0008055421298533913
+      "previous_score": 24848.0,
+      "velocity": 0.001006117192530586
     },
     {
-      "id": "jikan-novel-6978",
-      "title": "Ginga Eiyuu Densetsu",
+      "id": "jikan-novel-126479",
+      "title": "Mikkakan no Koufuku",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 13351.0,
-      "url": "https://myanimelist.net/manga/6978/Ginga_Eiyuu_Densetsu",
-      "image": "https://cdn.myanimelist.net/images/manga/5/155231l.jpg",
-      "description": "In the far future, two young military leaders rise above their peers. The invincible genius Reinhard von Lohengramm is matched only by the unbeatable magician Yang Wen-li; though the two share a profound respect for each other, they meet on the battlefield not as comrades but as bitter adversaries. Commanding thousands of warships and millions of soldiers, they lead giant space fleets into battle on behalf of the two interstellar states that have wrested for control of the Milky Way for over a century and a half. \n\nThe Galactic Empire, an absolute monarchy ruled by Kaiser Friedrich von Goldenbaum IV and an entrenched nobility, seeks to suppress the rebels daring to oppose the inviolable crown. The Free Planets Alliance, a representative democracy led by a corrupt High Council, degenerates as its elected leaders⁠ use war and conflict as a way to win popular support. Reinhard is a minor noble who became a High Admiral through his strategic brilliance and his sister's position as the favored concubine of the Kaiser, while Yang is an avid historian and reluctant commodore hailed as a hero despite only using his tactical prowess to navigate around his leaders' incompetence. On opposite sides of the galaxy, the two men have wildly different visions for the future: Reinhard dreams of uniting mankind under his iron fist, while Yang wants only to carve a path to lasting peace. As the war rages on, Reinhard and Yang each strive for their ideals and secure their place among the stars as the leaders of a new era of galactic heroes.\n\n[Written by MAL Rewrite]",
+      "score": 44410.0,
+      "url": "https://myanimelist.net/manga/126479/Mikkakan_no_Koufuku",
+      "image": "https://cdn.myanimelist.net/images/manga/3/248674l.jpg",
+      "description": "The grandiose delusions of 20-year-old university student Kusunoki are shattered when he learns that his future will be miserable. Having to sell his personal items to make ends meet, Kusonoki is offered the chance to sell his lifespan to earn some money. But it is revealed he could part ways with his remaining 30 years of life at a paltry rate—which means that he will never find happiness in this life. Rather than endure misery, Kusonoki decides to sell his life expectancy, leaving him with three months to live.\n\nFeeling liberated from social norms, he sets a series of goals for himself, one of which is to clarify his feelings for his childhood friend Himeno. Meanwhile, Miyagi, the clerk who bought his lifespan, is sent to monitor his activities in the case that Kusunoki may exhibit anti-social behavior. Although annoyed by Miyagi's constant presence, Kusunoki will do everything he can to find a purpose to his existence in the remaining time that he has left.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi"
+        "Drama"
       ],
       "metadata": {
-        "rank": 97,
-        "mal_score": 8.63,
+        "rank": 25,
+        "mal_score": 8.9,
         "type": "novels"
       },
-      "previous_score": 13345.0,
-      "velocity": 0.0004496065942300487
+      "previous_score": 44383.0,
+      "velocity": 0.0006083410314760156
     },
     {
       "id": "jikan-novel-121405",
       "title": "Mo Dao Zu Shi",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 14980.0,
+      "score": 14988.0,
       "url": "https://myanimelist.net/manga/121405/Mo_Dao_Zu_Shi",
       "image": "https://cdn.myanimelist.net/images/manga/3/258745l.jpg",
       "description": "Plaguing every corner, rumors of the deceased Wei Wuxian never end. Able to control the dead, Wei Wuxian left an epochal dent in the cultivation world, still both feared and revered 13 years later. But when he awakens in the body of a bullied young man who sacrificed his soul to take revenge on his cruel family, Wei Wuxian is faced with trouble once more.\n\nHowever, Wei Wuxian was a mischievous yet brilliant cultivator, and he is not one to be constrained. Using his dark skills, Wei Wuxian interrupts a ritual to capture a powerful cursed arm handled by Lan Sect—a prominent cultivation sect of Gusu, the home of his former acquaintance, the esteemed and poised Lan Wangji.\n\nDespite wishing to hide his past life, Wei Wuxian inevitably gets entangled in the sinister web of the ruling cultivation sects' deepest secrets. With Lan Wangji, he attempts to solve the mystery of the demonic arm, but it is soon apparent that they are only scratching the surface—and the truth may just hold the key to his once disgraceful downfall.\n\n[Written by MAL Rewrite]",
@@ -100,15 +97,15 @@
         "mal_score": 8.88,
         "type": "novels"
       },
-      "previous_score": 14974.0,
-      "velocity": 0.00040069453719780956
+      "previous_score": 14980.0,
+      "velocity": 0.000534045393858478
     },
     {
       "id": "jikan-novel-117077",
       "title": "Kimi no Suizou wo Tabetai",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 13010.0,
+      "score": 13016.0,
       "url": "https://myanimelist.net/manga/117077/Kimi_no_Suizou_wo_Tabetai",
       "image": "https://cdn.myanimelist.net/images/manga/2/248632l.jpg",
       "description": "A high school boy finds the diary of his classmate—only to discover that she's dying. Sakura Yamauchi has been silently suffering from a pancreatic disease, and now exactly one person outside her family knows. He swears to her that he won't tell anyone what he learned, and the shared secret brings them closer together in this deeply moving, first-person story that traces their developing relationship in Sakura's final months of life.\n\n(Source: Seven Seas Entertainment)",
@@ -121,15 +118,15 @@
         "mal_score": 8.68,
         "type": "novels"
       },
-      "previous_score": 13005.0,
-      "velocity": 0.00038446751249519417
+      "previous_score": 13010.0,
+      "velocity": 0.0004611837048424289
     },
     {
       "id": "jikan-novel-121781",
       "title": "Shousetsu Kimi no Na wa.",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 11070.0,
+      "score": 11073.0,
       "url": "https://myanimelist.net/manga/121781/Shousetsu_Kimi_no_Na_wa",
       "image": "https://cdn.myanimelist.net/images/manga/2/230890l.jpg",
       "description": "Frustrated with her mundane high school life in the town of Itomori, Mitsuha Miyamizu has longed to live as a boy in the Tokyo metropolis. One day, the fantasy she has always dreamed of comes true—awakening in a boy's body and experiencing the thrills of the city. Meanwhile, high school student Taki Tachibana finds himself waking up as a girl living in a lakeside town by the mountains, the complete opposite of the Tokyo life that he is familiar with.\n\nAs Mitsuha and Taki discover they are living the lives of one another in their dreams, the two begin working together to adjust to this new reality. Little do they know, their fragile relationship soon prompts the pair to search for each other in fierce defiance of the thin thread of fate that connects them.\n\n[Written by MAL Rewrite]",
@@ -137,62 +134,62 @@
         "Drama"
       ],
       "metadata": {
-        "rank": 243,
+        "rank": 245,
         "mal_score": 8.4,
         "type": "novels"
       },
-      "previous_score": 11066.0,
-      "velocity": 0.0003614675582866438
+      "previous_score": 11070.0,
+      "velocity": 0.00027100271002710027
     },
     {
-      "id": "jikan-novel-130826",
-      "title": "Tian Guan Cifu",
+      "id": "jikan-novel-35513",
+      "title": "Koten-bu Series",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 22718.0,
-      "url": "https://myanimelist.net/manga/130826/Tian_Guan_Cifu",
-      "image": "https://cdn.myanimelist.net/images/manga/3/258775l.jpg",
-      "description": "Born the crown prince of a prosperous kingdom, Xie Lian was renowned for his beauty, strength, and purity. His years of dedication and noble deeds allowed him to ascend to godhood. But those who rise, can also fall...and fall he does, cast from the Heavens again and again and banished to the mortal realm.\n\nEight hundred years after his mortal life, Xie Lian has ascended to godhood for the third time. Now only a lowly scrap collector, he is dispatched to wander the earthly realm to take on tasks appointed by the heavens to pay back debts and maintain his divinity. Aided by old friends and foes alike, and graced with the company of a mysterious young man with whom he feels an instant connection, Xie Lian must confront the horrors of his past in order to dispel the curse of his present.\n\n(Source: Seven Seas Entertainment)",
+      "score": 21328.0,
+      "url": "https://myanimelist.net/manga/35513/Koten-bu_Series",
+      "image": "https://cdn.myanimelist.net/images/manga/3/80983l.jpg",
+      "description": "Houtarou Oreki is a high school student who lives his life conserving as much energy as possible, only delving into matters that feel absolutely necessary to him. So when his older sister forces him to join the Classics Club to keep it from disbanding, he finds himself terribly inconvenienced.\n\nTo his surprise, Oreki finds that the Classics Club already has a single member: the inquisitive Eru Chitanda. Not long after, Oreki's friends—the knowledgeable Satoshi Fukube and the headstrong Mayaka Ibara—also join. Although the club does not have any set activities, Chitanda's constant curiosity soon begins to drag the members into all sorts of mystery-solving escapades.\n\nKoten-bu Series revolves around the members of the Classics Club as their eccentric day-to-day activities slowly begin to brighten up Oreki's drab way of life.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Action",
         "Adventure",
-        "Boys Love",
-        "Fantasy"
+        "Mystery"
       ],
       "metadata": {
-        "rank": 14,
-        "mal_score": 9.01,
+        "rank": 82,
+        "mal_score": 8.67,
         "type": "novels"
       },
-      "previous_score": 22710.0,
-      "velocity": 0.00035226772346983706
+      "previous_score": 21325.0,
+      "velocity": 0.0001406799531066823
     },
     {
-      "id": "jikan-novel-126479",
-      "title": "Mikkakan no Koufuku",
+      "id": "jikan-novel-119282",
+      "title": "NHK ni Youkoso!",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 44383.0,
-      "url": "https://myanimelist.net/manga/126479/Mikkakan_no_Koufuku",
-      "image": "https://cdn.myanimelist.net/images/manga/3/248674l.jpg",
-      "description": "The grandiose delusions of 20-year-old university student Kusunoki are shattered when he learns that his future will be miserable. Having to sell his personal items to make ends meet, Kusonoki is offered the chance to sell his lifespan to earn some money. But it is revealed he could part ways with his remaining 30 years of life at a paltry rate—which means that he will never find happiness in this life. Rather than endure misery, Kusonoki decides to sell his life expectancy, leaving him with three months to live.\n\nFeeling liberated from social norms, he sets a series of goals for himself, one of which is to clarify his feelings for his childhood friend Himeno. Meanwhile, Miyagi, the clerk who bought his lifespan, is sent to monitor his activities in the case that Kusunoki may exhibit anti-social behavior. Although annoyed by Miyagi's constant presence, Kusunoki will do everything he can to find a purpose to his existence in the remaining time that he has left.\n\n[Written by MAL Rewrite]",
+      "score": 8675.0,
+      "url": "https://myanimelist.net/manga/119282/NHK_ni_Youkoso",
+      "image": "https://cdn.myanimelist.net/images/manga/1/248549l.jpg",
+      "description": "Tatsuhiro Satou, a university dropout entering his fourth year of unemployment. He leads a reclusive life as a hikikomori, ultimately coming to the bizarre conclusion that this happened due to some sort of conspiracy. One day just when his life seems entirely unchanging, he meets Misaki Nakahara, a mysterious girl who claims to be able to cure Tatsuhiro of his hikikomori ways. She presents him with a contract basically outlining that once a day they would meet in the evening in a local park where Misaki would lecture to Tatsuhiro in an effort to rid him of his lifestyle. During these outings, many subjects are discussed, though they almost always pertain in some way to psychology or psychoanalysis.",
       "genres": [
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Romance"
       ],
       "metadata": {
-        "rank": 25,
-        "mal_score": 8.9,
+        "rank": 303,
+        "mal_score": 8.35,
         "type": "novels"
       },
-      "previous_score": 44371.0,
-      "velocity": 0.0002704469135245994
+      "previous_score": 8674.0,
+      "velocity": 0.00011528706479133042
     },
     {
       "id": "jikan-novel-7458",
       "title": "Death Note Another Note: Los Angeles BB Renzoku Satsujin Jiken",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 38855.0,
+      "score": 38857.0,
       "url": "https://myanimelist.net/manga/7458/Death_Note_Another_Note__Los_Angeles_BB_Renzoku_Satsujin_Jiken",
       "image": "https://cdn.myanimelist.net/images/manga/1/253578l.jpg",
       "description": "A serial killer terrorizes the streets of Los Angeles. This brilliant psychopath commits seemingly perfect murders, brazenly challenging the police with cryptic riddles. The enigmatic and world-famous detective L has been hired to crack the case. However, to keep himself out of the public eye, L seeks out FBI agent Naomi Misora to carry out the investigation for him.\n\nMisora agrees to aid L's endeavors, but soon finds herself caught up in an intense battle of wits between L and the culprit. Who is this mysterious killer, and why do they leave clues for the LAPD to decipher? Death Note Another Note: Los Angeles BB Renzoku Satsujin Jiken follows Misora on her journey to solve these mysteries and bring the indiscriminate murders to an end once and for all.\n\n[Written by MAL Rewrite]",
@@ -204,8 +201,8 @@
         "mal_score": 8.3,
         "type": "novels"
       },
-      "previous_score": 38850.0,
-      "velocity": 0.0001287001287001287
+      "previous_score": 38855.0,
+      "velocity": 5.14734268433921e-05
     },
     {
       "id": "jikan-novel-26728",
@@ -230,25 +227,49 @@
       "velocity": 0.0
     },
     {
-      "id": "jikan-novel-119282",
-      "title": "NHK ni Youkoso!",
+      "id": "jikan-novel-130826",
+      "title": "Tian Guan Cifu",
       "source": "Jikan",
       "category": "light_novel",
-      "score": 8674.0,
-      "url": "https://myanimelist.net/manga/119282/NHK_ni_Youkoso",
-      "image": "https://cdn.myanimelist.net/images/manga/1/248549l.jpg",
-      "description": "Tatsuhiro Satou, a university dropout entering his fourth year of unemployment. He leads a reclusive life as a hikikomori, ultimately coming to the bizarre conclusion that this happened due to some sort of conspiracy. One day just when his life seems entirely unchanging, he meets Misaki Nakahara, a mysterious girl who claims to be able to cure Tatsuhiro of his hikikomori ways. She presents him with a contract basically outlining that once a day they would meet in the evening in a local park where Misaki would lecture to Tatsuhiro in an effort to rid him of his lifestyle. During these outings, many subjects are discussed, though they almost always pertain in some way to psychology or psychoanalysis.",
+      "score": 22718.0,
+      "url": "https://myanimelist.net/manga/130826/Tian_Guan_Cifu",
+      "image": "https://cdn.myanimelist.net/images/manga/3/258775l.jpg",
+      "description": "Born the crown prince of a prosperous kingdom, Xie Lian was renowned for his beauty, strength, and purity. His years of dedication and noble deeds allowed him to ascend to godhood. But those who rise, can also fall...and fall he does, cast from the Heavens again and again and banished to the mortal realm.\n\nEight hundred years after his mortal life, Xie Lian has ascended to godhood for the third time. Now only a lowly scrap collector, he is dispatched to wander the earthly realm to take on tasks appointed by the heavens to pay back debts and maintain his divinity. Aided by old friends and foes alike, and graced with the company of a mysterious young man with whom he feels an instant connection, Xie Lian must confront the horrors of his past in order to dispel the curse of his present.\n\n(Source: Seven Seas Entertainment)",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Boys Love",
+        "Fantasy"
       ],
       "metadata": {
-        "rank": 302,
-        "mal_score": 8.35,
+        "rank": 14,
+        "mal_score": 9.01,
         "type": "novels"
       },
-      "previous_score": 8674.0,
+      "previous_score": 22718.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "jikan-novel-6978",
+      "title": "Ginga Eiyuu Densetsu",
+      "source": "Jikan",
+      "category": "light_novel",
+      "score": 13351.0,
+      "url": "https://myanimelist.net/manga/6978/Ginga_Eiyuu_Densetsu",
+      "image": "https://cdn.myanimelist.net/images/manga/5/155231l.jpg",
+      "description": "In the far future, two young military leaders rise above their peers. The invincible genius Reinhard von Lohengramm is matched only by the unbeatable magician Yang Wen-li; though the two share a profound respect for each other, they meet on the battlefield not as comrades but as bitter adversaries. Commanding thousands of warships and millions of soldiers, they lead giant space fleets into battle on behalf of the two interstellar states that have wrested for control of the Milky Way for over a century and a half. \n\nThe Galactic Empire, an absolute monarchy ruled by Kaiser Friedrich von Goldenbaum IV and an entrenched nobility, seeks to suppress the rebels daring to oppose the inviolable crown. The Free Planets Alliance, a representative democracy led by a corrupt High Council, degenerates as its elected leaders⁠ use war and conflict as a way to win popular support. Reinhard is a minor noble who became a High Admiral through his strategic brilliance and his sister's position as the favored concubine of the Kaiser, while Yang is an avid historian and reluctant commodore hailed as a hero despite only using his tactical prowess to navigate around his leaders' incompetence. On opposite sides of the galaxy, the two men have wildly different visions for the future: Reinhard dreams of uniting mankind under his iron fist, while Yang wants only to carve a path to lasting peace. As the war rages on, Reinhard and Yang each strive for their ideals and secure their place among the stars as the leaders of a new era of galactic heroes.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "rank": 97,
+        "mal_score": 8.63,
+        "type": "novels"
+      },
+      "previous_score": 13351.0,
       "velocity": 0.0
     },
     {
@@ -267,33 +288,12 @@
         "Suspense"
       ],
       "metadata": {
-        "rank": 241,
+        "rank": 243,
         "mal_score": 8.4,
         "type": "novels"
       },
       "previous_score": 4789.0,
       "velocity": 0.0
-    },
-    {
-      "id": "jikan-novel-35513",
-      "title": "Koten-bu Series",
-      "source": "Jikan",
-      "category": "light_novel",
-      "score": 21325.0,
-      "url": "https://myanimelist.net/manga/35513/Koten-bu_Series",
-      "image": "https://cdn.myanimelist.net/images/manga/3/80983l.jpg",
-      "description": "Houtarou Oreki is a high school student who lives his life conserving as much energy as possible, only delving into matters that feel absolutely necessary to him. So when his older sister forces him to join the Classics Club to keep it from disbanding, he finds himself terribly inconvenienced.\n\nTo his surprise, Oreki finds that the Classics Club already has a single member: the inquisitive Eru Chitanda. Not long after, Oreki's friends—the knowledgeable Satoshi Fukube and the headstrong Mayaka Ibara—also join. Although the club does not have any set activities, Chitanda's constant curiosity soon begins to drag the members into all sorts of mystery-solving escapades.\n\nKoten-bu Series revolves around the members of the Classics Club as their eccentric day-to-day activities slowly begin to brighten up Oreki's drab way of life.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Adventure",
-        "Mystery"
-      ],
-      "metadata": {
-        "rank": 82,
-        "mal_score": 8.67,
-        "type": "novels"
-      },
-      "previous_score": 21327.0,
-      "velocity": -9.377784029633797e-05
     },
     {
       "id": "jikan-novel-172605",
@@ -313,8 +313,8 @@
         "mal_score": 8.28,
         "type": "novels"
       },
-      "previous_score": 908.0,
-      "velocity": -0.0011013215859030838
+      "previous_score": 907.0,
+      "velocity": 0.0
     }
   ]
 }
