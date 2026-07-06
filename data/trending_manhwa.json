@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-05T02:43:07Z",
-  "date": "2026-07-05",
+  "generated_at_utc": "2026-07-06T02:50:03Z",
+  "date": "2026-07-06",
   "category": "manhwa",
-  "item_count": 12,
+  "item_count": 6,
   "errors": [
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -11,86 +15,41 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-172619",
-      "title": "The Extra’s Academy Survival Guide",
+      "id": "anilist-manga-206766",
+      "title": "There's No Such Thing as a Bad Lady",
       "source": "AniList",
       "category": "manhwa",
-      "score": 27693.0,
-      "url": "https://anilist.co/manga/172619",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
-      "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
+      "score": 3909.0,
+      "url": "https://anilist.co/manga/206766",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
+      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 71,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 27609.0,
-      "velocity": 0.0030424861458220147
+      "previous_score": 3852.0,
+      "velocity": 0.014797507788161994
     },
     {
-      "id": "anilist-manga-135325",
-      "title": "The Lazy Lord Masters the Sword",
+      "id": "anilist-manga-163824",
+      "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 31324.0,
-      "url": "https://anilist.co/manga/135325",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
-      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
+      "score": 41909.0,
+      "url": "https://anilist.co/manga/163824",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
-        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 31270.0,
-      "velocity": 0.0017268947873361048
-    },
-    {
-      "id": "anilist-manga-159441",
-      "title": "Pick Me Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 41083.0,
-      "url": "https://anilist.co/manga/159441",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
-      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 84,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 41035.0,
-      "velocity": 0.0011697331546241013
-    },
-    {
-      "id": "anilist-manga-140407",
-      "title": "The Greatest Estate Developer",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 62919.0,
-      "url": "https://anilist.co/manga/140407",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140407-fJQr0fmqq1IO.png",
-      "description": "When civil engineering student Su-Ho Kim falls asleep reading a fantasy novel, he wakes up as a character in the book! Su-Ho is now in the body of Lloyd Frontera, a lazy noble who loves to drink, and whose family is in a mountain of debt. Using his engineering knowledge, Su-Ho designs inventions to avert the terrible future that lies in wait for him. With the help of a giant hamster, a knight, and the world’s magic, can Su-Ho dig his new family out of debt and build a better future?\n<br><br>(Source: WEBTOON, edited)<br><br>\n<i>Note: Includes 12 extra chapters.</i>",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 90,
+        "average_score": 80,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -98,83 +57,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-117460",
-      "title": "Overgeared",
+      "id": "anilist-manga-175262",
+      "title": "The Reborn Young Lord is an Assassin",
       "source": "AniList",
       "category": "manhwa",
-      "score": 36770.0,
-      "url": "https://anilist.co/manga/117460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
-      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150170",
-      "title": "Ending Maker",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 13960.0,
-      "url": "https://anilist.co/manga/150170",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150170-90fcXGkCcfZ1.png",
-      "description": "After \"outboxer009\" wakes up in the body of Jude Bayer from Legend of Heroes 2, he soon discovers that his rival \"sandstorm\" has also entered the game world as Cordelia Chace. These top-two-ranked old pros come to realize that navigating this game world is much harder than just pointing and clicking. With the apocalyptic conclusion of the game looming before them, they'll have to combine his quick wit, her foul mouth, and both their gamer mindsets to make a new, less cataclysmic ending. <br><br>(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-164122",
-      "title": "Gwihwanhaenneunde Ipdae Jeonnarida",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 10880.0,
-      "url": "https://anilist.co/manga/164122",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164122-zdeLVK8DfxBt.jpg",
-      "description": "Min-Jun Kim, an ordinary high school senior in Korea, was suddenly summoned to another world, where he became a dark mage. Determined to return home, he overcame all sorts of hardships and saved the other world with black magic before leaving all his wealth and glory as a hero behind to return to Earth. However, before he could fully enjoy his life, a problem arose. A dungeon break had occurred and monsters came pouring out, threatening his comfortable days. Therefore, Min-Jun, who had just returned to earth, had no choice but to… enlist on the very next day!!!<br>\n<br>\n(Source: Naver, translated)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 69,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-194523",
-      "title": "Reincarnation of the Fist King",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 5225.0,
-      "url": "https://anilist.co/manga/194523",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
-      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
+      "score": 22039.0,
+      "url": "https://anilist.co/manga/175262",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
+      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -188,14 +78,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-198931",
-      "title": "The Legend of Enxue",
+      "id": "anilist-manga-166154",
+      "title": "The Player Hides His Past",
       "source": "AniList",
       "category": "manhwa",
-      "score": 4221.0,
-      "url": "https://anilist.co/manga/198931",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198931-O804U3UqOoX8.jpg",
-      "description": "When his grandfather is suddenly brutally murdered by a member of the Demonic Martial Alliance, Fu Enxue vows that he will stop at nothing to avenge his death. To find the perpetrator, he infiltrates the alliance armed only with his wits and thirst for vengeance. There, he catches the attention of the demonic masters, as his overwhelming bloodlust makes him a prodigy in the demonic arts. But will this thirst for blood help him in his pursuit of revenge, or will that same power be his undoing?<br><br>(Source: Tapas)",
+      "score": 14978.0,
+      "url": "https://anilist.co/manga/166154",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
+      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Fantasy"
@@ -209,20 +99,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-206766",
-      "title": "There's No Such Thing as a Bad Lady",
+      "id": "anilist-manga-185978",
+      "title": "The Dragon Slayer's Regression on Another Level",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3852.0,
-      "url": "https://anilist.co/manga/206766",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
-      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
+      "score": 7297.0,
+      "url": "https://anilist.co/manga/185978",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
+      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 71,
+        "average_score": 69,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -230,41 +121,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-208154",
-      "title": "Hoegwijaga Da Mandeureojum",
+      "id": "anilist-manga-204435",
+      "title": "The Sword-Eating Swordmaster",
       "source": "AniList",
       "category": "manhwa",
-      "score": 1596.0,
-      "url": "https://anilist.co/manga/208154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208154-7YZT9MFcq1q9.jpg",
-      "description": "Lee Saehoon, the blacksmith of humanity’s last desperate united force, fought against the demons until the very end. However, the result was mutual destruction, with the world coming to an end. The moment he took his own life over that futile conclusion<br><br>\n<i>“…What is this?”</i><br><br>\nHe had regressed to his days as a candidate at the hero training institution, Babel Academy. Having obtained a second chance, he swore to use anything as material to gain victory this time. Anything at all!<br><br>(Source: KakaoPage, translated)",
+      "score": 2501.0,
+      "url": "https://anilist.co/manga/204435",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
+      "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 63,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-211415",
-      "title": "Modeungeol Gieokaneun Cheonjaemusa",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 904.0,
-      "url": "https://anilist.co/manga/211415",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211415-48bZCBa6uZd9.jpg",
-      "description": "Jin So-Un, a third-rate martial artist who remembers everything. He finds himself transported back to 30 years ago, before the Demon Sect’s return.<br><bR></i>\nThe fact that I’ve returned to the past doesn’t exactly feel like a sign telling me to save the world. If that were the case, wouldn’t they have at least given me some special ability, or attached the spirit of Master Jang Sam-bong or something?</i><br><br>\n\nThe Samun Sect, a third-rate martial arts school with no future. A talent for martial arts that couldn’t be more mediocre. My hand is simply too weak to feel any joy at having returned.\n<bR><bR><i>\n“I’m doomed.”</i><br><br>\nJin So-Un’s desperate struggle to change the despair of his predetermined future begins.<br><bR>(Source: Naver, translated)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 61,
+        "average_score": 65,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

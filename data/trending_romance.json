@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-05T02:43:07Z",
-  "date": "2026-07-05",
+  "generated_at_utc": "2026-07-06T02:50:03Z",
+  "date": "2026-07-06",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "jikan_top_novels",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
+    },
     {
       "provider": "reddit_discussed",
       "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/manhwa/hot.json?limit=15"
@@ -96,24 +100,6 @@
       ],
       "metadata": {
         "bid": 1570579456
-      },
-      "previous_score": 12.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "goodnovel-book-PORN-STURBATION-50-Shades-Of-Forbidden-Steamy-Short-Stories_31001249997",
-      "title": "TABOO:BATION — 50 SHADES OF FORBIDDEN SHORTS",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/PORN-STURBATION-50-Shades-Of-Forbidden-Steamy-Short-Stories_31001249997",
-      "image": "https://acf.goodnovel.com/book/202606/9d2af500047ac0be88949ee3d36add87feb951b17af6ae1e4aff29d940ff673e.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Warning: This is not your regular love story. This is a collection of Raw acts. Confession, forbidden deeds, plain, vivid. \r\n\r\nDON’T READ IN PUBLIC.\r\n\r\nUnless… you enjoy the risk of being caught.\r\n\r\nIt isn’t just a book. It’s an experience that will make your body burn.\r\n\r\nEvery story in this book is fast, wild, and full of heat. Bold women take what they want. Dominant men fight their urges. Every touch, every look, every whispered word will make you crave more.\r\n\r\nAs you read, your heart will race. Your body will react before your mind can catch up. You’ll gasp, shiver, and ache for pleasure. Each story is written to make you move your hand as you read, to feel every word.\r\n\r\nWe have it all—MF, MM, FF, MFM, FFM, MMMF, and everything in between. Every fantasy you can imagine. Every kind of desire. Every risky mix of heat.\r\n\r\nThe thrill of being caught. The rush of secret wants. The pull of power and lust. It’s all here. You’ll imagine being there, feeling every touch, every kiss, every deep push.\r\n\r\nNo holding back. No rules. Just raw, hot desire. Your eyes read the words. Your hand follows your body’s needs. You’ll touch yourself, tremble, and feel the heat grow.\r\n\r\nBy the last page, you’ll be breathing fast, shaking, and wanting more. And the stories won’t leave your mind. They’ll stay with you, making you ache for the next word, the next touch, the next release.\r\n\r\nThis isn’t just reading. It’s indulgence. One hand holds the phone. The other? That’s up to you.\r\n\r\nAre you ready to give in?",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 12.0,
       "velocity": 0.0
@@ -443,14 +429,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-The-Pack-s-Hacker_31001314174",
-      "title": "The Pack's Hacker",
+      "id": "goodnovel-book-Full-Moon-Curse_31001279887",
+      "title": "Full Moon Curse",
       "source": "GoodNovel",
       "category": "romance",
       "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Hacker_31001314174",
-      "image": "https://acf.goodnovel.com/book/202603/f6fa0a0d0e534d3dae956d5a672ef3ae89c1c57bd657dc8aaa0fa1d12e321496.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Wendy Hill is an up-and-coming technological wizard. Her research to gain information for her brother Yorick and his mate, Cyra, led to the arrest of Cyra’s father, earning her early admission to the elite Warrior Academy. She was assigned to the tech team to learn and train until her admission to the Academy. Wendy’s code name is Sphinx.\r\nJude Matthews, code name Hacker, has been a student at the Warrior Academy for three years. Most students remain in the Academy for one year and then are recruited by other companies for their specific skills. Only the elite of the elite remain at the Academy to continue their training and work directly for The Council.\r\nHacker, and the other members of his team, Tracker and Hijack, have taken Sphinx under their wing to teach her everything she needs to know to become an IT elite. However, now things are becoming personal for Wendy. Stellan has escaped from prison and is after Cyra and her Gamma female, Lila. Patrick, Peter, and Justine are missing, and they want revenge on Henry and Piper.\r\nThrough it all, Wendy has felt a budding relationship with Jude. She’s hoping he’s her mate, but she won’t know until her eighteenth birthday.\r\nCan Wendy and Jude work together to find Stellan before he hurts Cyra and Lila? Can they find the missing trio who want to destroy everything that Henry and Piper have worked so hard to achieve? Can she face the ugly reality of the job when it means giving someone painful or difficult information? And on her eighteenth birthday, will she finally confirm that Jude is her mate, the one that she desperately wants in her life forever?\r\nFind out in Book Five of The Pack Series, The Pack’s Hacker.",
+      "url": "https://www.goodnovel.com/book/Full-Moon-Curse_31001279887",
+      "image": "https://acf.goodnovel.com/book/202502/8b4d9d69c3c072a92b0937df6612c9da59109552e4f70019d4fc867ca7078f64.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "As the only human inside a werewolf pack, Amy is counting the days until she can leave.  With all the kids in the pack shunning her after they started receiving their wolves, she is left with one friend.  Until the future gamma of the pack takes an interest in her, and she finds herself friends with all the future leaders of the pack.  Not trusting her new friends, she gets a wake-up call.  Family secrets are unearthed and her life as she knows it will never be the same.",
       "genres": [
         "Romance"
       ],
@@ -461,14 +447,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-My-Second-Chance-Mate-is-a-Barbarian_31001286107",
-      "title": "My Second Chance Mate is a Barbarian",
+      "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
+      "title": "The Breaking Point of Love",
       "source": "GoodNovel",
       "category": "romance",
       "score": 15.0,
-      "url": "https://www.goodnovel.com/book/My-Second-Chance-Mate-is-a-Barbarian_31001286107",
-      "image": "https://acf.goodnovel.com/book/202606/947f7849bbf86cb5c12a06648d52a18972394bb1883a87acbb6ba6b01bb457ed.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "For three years, Sera lived a lie. She traded her royal identity for the hope of a life with Kane, her fated mate and the Alpha of Blackwater. She endured the whispers and worked tirelessly for a pack that never wanted her, all for the promise that one day, she would be their Luna.\r\n\r\nBut when the ceremony finally arrives, the crown isn't placed on Sera’s head. Instead, Kane chooses a woman who can give the pack what an Omega like Sera cannot: an heir . Publicly rejected and humiliated, Sera is forced to return to the kingdom she fled and the father she failed .\r\n\r\nSera’s return isn't a sanctuary—it’s the fulfillment of a cold-blooded deal. To save her family’s alliance, she must marry a Volkov . But the \"reasonable\" man she was promised is dead, and in his place stands his brother: Fenris Volkov, the Alpha of Ironmaw.\r\n\r\nFenris is no southern prince. He is a giant of a man who rules a land of ice and brutal survival, where weakness is a death sentence . As Sera is dragged into his world, she must survive more than just the political schemes of a hostile pack and the jealous wrath of the Ironmaw elite . She has five days to prove she can be the Luna this barbarian needs, or she will be broken by the very protection he offers .\r\n\r\nIn a world where status is everything and love is a gamble, Sera must decide if her second chance is a blessing, or a beautiful, violent end.",
+      "url": "https://www.goodnovel.com/book/The-Breaking-Point-of-Love_31000893249",
+      "image": "https://acf.goodnovel.com/book/202504/ac8abf363e3a771d0764f4ab5379c99432bb0c30b329a7573b345aac87b3ff83.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Celeste Rodriguez and Trevor Fleming have been married for seven years. He treats her coldly throughout the marriage, but she faces it with a smile because she loves him deeply. She also believes she can melt his heart one day.\n\nHowever, all she gets is the news of him falling for another woman at first sight. He gives her all his care and concern, but Celeste stands strong.\n\nOn her birthday, she flies abroad to be with Trevor and their daughter, Jordyn Fleming. To her devastation, Trevor brings Jordyn to meet his true love. They leave Celeste to spend the day alone.\n\nShe finally gives up on him. She's also no longer hurt when Jordyn wants the woman to replace her as her mother.\n\nCeleste prepares a divorce agreement and gives up her custody rights. She leaves without another look back, cutting Trevor and Jordyn out of her life. All she needs to do now is wait for the divorce to be finalized.\n\nAfter giving up on her family and returning to the workplace, she easily makes a fortune. She shows the people who once looked down on her that she's better than they think.\n\nCeleste waits for her divorce certificate to arrive, but it never comes. She also notices that Trevor starts coming home more often when he's always refused in the past. He clings to her, too.\n\nWhen he learns that she wants a divorce, he drops his usual aloofness and pins her to the wall. \"A divorce? That's not happening.\"",
       "genres": [
         "Romance"
       ],
@@ -479,14 +465,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
-      "title": "Let’s Divorce. Mrs. Wright Is Done Playing Nice.",
+      "id": "goodnovel-book-The-Heartbreak-Prescription_31000898396",
+      "title": "The Heartbreak Prescription",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
-      "image": "https://acf.goodnovel.com/book/202604/89eefbb6a802ec4fefff913f6f2868438fdc5677e0b23d759fe5ff39230a196b.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Three years of marriage.\nThree miscarriages.\n\nThe day Stella Rowan lost her baby for the third time, Evan Wright was at the hospital with his sister-in-law, waiting for her to give birth to twins.\n\nWhen Stella walked out of the hospital, she finally made her decision. She handed her soon-to-be ex-husband a divorce agreement.\n\n“Let’s divorce. It’s for your own good.”\n\n“Divorce?” Evan scoffed. “You really think you can let go? And if you’re trying to hold on to me, don’t dress it up as doing me a favor. That fake concern is pathetic.”\n\nStella just smiled. She didn’t argue. She turned and walked away.\n\nShe really was doing it for his sake.\n\nAfter all, she’d found a new backer.\n\nEven though Evan sits atop Harbor City’s financial empire, he’s about to meet someone he can’t afford to cross.\n\nOnce she cut ties with the past, Stella stopped pretending. One by one, her new identities came to light, leaving the Wright family completely stunned.\n\nWasn’t she supposed to be the girl with no family backing, the easy target everyone bullied?\n\nA multinational CEO said, “Stella, get divorced already. I’ve waited long enough.”\n\nA financial tycoon declared, “Divorce. If you don’t, I’ll take the Wright family down.”\n\nAn international lawyer smiled and said, “The divorce itself is easy. Stella, if you’d just look at me once, I’d have everything I need.”\n\nEvan had always believed Stella would never leave him.\n\nNot until the day he realized she had become someone far beyond his reach.\n\nIn that moment, every assumption he’d ever made about her collapsed.",
+      "url": "https://www.goodnovel.com/book/The-Heartbreak-Prescription_31000898396",
+      "image": "https://acf.goodnovel.com/book/202506/33417baf7a79f5ba3aa2f40303d34b95e076924d98efb24695cb29b61540e433.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The richest man in Hovendale, Stanley Hawk, had been in a vegetative state for three years. His wife, Wendy Crone, took care of him during that time.\n\nAfter he awakened, Wendy caught him cheating through a message on his phone. It turned out his first love had returned to the country.\n\nHis friends, who once looked down on her, were now poking fun at her. “The swan has returned; it’s time to kick that ugly duckling to the curb.”\n\nIt was then that Wendy realized Stanley never loved her. She was nothing but a joke to him.\n\nOne night, Stanley received the divorce papers from Wendy. Her reason for wanting to get a divorce was due to his failing potency.\n\nStanley went to confront her with a gloomy expression on his face, only to find that she had transformed into a gorgeous doctor in a long dress that glistened under the dazzling lights.\n\nSeeing him approach, Wendy smiled gracefully and asked, “Stanley, are you here for an andrology consultation?”",
       "genres": [
         "Romance"
       ],
@@ -497,14 +483,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Alpha-s-Unclaimed-Mate_31001165448",
-      "title": "The Alpha's Unclaimed Mate",
+      "id": "goodnovel-book-Fractured_31000959468",
+      "title": "Fractured",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-s-Unclaimed-Mate_31001165448",
-      "image": "https://acf.goodnovel.com/book/202509/28269d86c0d19b2988e7b645f728612543beee5302c2ec3a6454eda18ce03127.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "When Laila got pregnant with the child of her adoptive brother Jason—the young Alpha of her pack—she thought she might finally have a reason to claim a place in his world. But when Jason returns home with his fated mate by his side, Laila learns that she was nothing in Jason’s eyes. Expelled with nothing but heartbreak and the tiny life growing inside her, Laila disappears into the human world, determined to protect her child in her own way.\r\nSix years later, Laila—now Vanessa Harper—is no longer the fragile, wolfless girl. She’s powerful, respected, and completely looks like a different person. She believed she could live her new life with her daughter Ava peacefully without seeing Jason ever again, until fate forces her back into Jason’s life. \r\nOld lies, pack politics, and the truth about her daughter all collide— and this time, Jason won’t let her walk away easily.",
+      "url": "https://www.goodnovel.com/book/Fractured_31000959468",
+      "image": "https://acf.goodnovel.com/book/202513/d49332cc729cd5b75db368c6b78ca8946f7a0459b21bc59a23b96b8848c04a55.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Warning: Mature Content Ahead. \r\nCan’t decide what trope you want to read next? Well, look no further because Fractured has it all. \r\nIf you're ready to dive into a world where passion meets peril, where dominance intertwines with desire, and where one fierce female leads the charge, then this book is for you. \r\nOn her first day at university, Josie’s life takes a dramatic turn. Expecting nothing more than the typical college experience, she instead finds herself thrust into a realm of supernatural intrigue. Her guide into this new world is none other than her enigmatic and irresistibly attractive headmaster.\r\nAs Josie navigates her new reality, she encounters five breathtakingly hot males, each with their own secrets and powers. These men are not just eye candy; they play pivotal roles in a dangerous game of power and attraction.\r\nJosie must learn to harness her strength, confront hidden enemies, and balance the intense chemistry with the dominant males who surround her. Her journey is one of self-discovery, resilience, and undeniable passion.\r\nThis book is a thrilling blend of romance, suspense, and supernatural elements, perfect for readers who crave a story that's as hot as it is heart-pounding. Prepare for mature themes and explicit scenes that will leave you breathless.\r\nJoin Josie as she embarks on an adventure that will challenge her, change her, and ignite a flame within her that burns brighter than she ever imagined. This story contains explicit group scenes including some bxb.",
       "genres": [
         "Romance"
       ],
@@ -515,14 +501,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Alpha-s-Regret-Begging-My-Convict-Luna-Back_31001387488",
-      "title": "Alpha's Regret, Begging My Convict Luna Back",
+      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
+      "title": "Once a Doormat, Now Untouchable",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
+      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+      "title": "The Alpha’s Contract",
       "source": "GoodNovel",
       "category": "romance",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Alpha-s-Regret-Begging-My-Convict-Luna-Back_31001387488",
-      "image": "https://acf.goodnovel.com/book/202605/8ba74aac726480ba121ce1b2c29ddbf43ccb4a809a8273a36f2e6981320457e5.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "One year ago, my Alpha mate personally threw me into the werewolf prison.\r\nI was tortured until the beautiful Luna I once was completely fell apart.\r\nWhat he never knew… was that I was carrying his pup.\r\nA year later, when I finally walked out of that prison, the first thing I did was reject him—\r\nand break our mate bond for good.\r\nSo why is he the one crying and begging me to forgive him now?",
+      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
+      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
       "genres": [
         "Romance"
       ],
@@ -533,14 +537,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Mated-to-the-Alpha-Twins_31001380358",
-      "title": "Mated to the Alpha Twins",
+      "id": "goodnovel-book-The-Alpha-King-s-Daughter_21000014537",
+      "title": "The Alpha King's Daughter",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/Mated-to-the-Alpha-Twins_31001380358",
-      "image": "https://acf.goodnovel.com/book/202311/Mated-to-the-Alpha-Twins/14a82ed2d36f5acaed2b8b50e70714cb23cdd4473542b0c5dc4ab712eae5e317.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Mated to the Alpha Twins is a Werewolf novel written by Jane Doe that covers Mystery, Sweet Love, Twins. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/The-Alpha-King-s-Daughter_21000014537",
+      "image": "https://acf.goodnovel.com/book/202308/The-Alpha-King-s-Daughter/063120212de291679e3af565b2dcad95bf388d3facebb51efdfff0c8dd036b4f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The Alpha King's Daughter  is a Werewolf novel written by Jane Doe that covers Alpha, Sweet Love, Werewolf. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
