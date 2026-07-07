@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-06T02:50:03Z",
-  "date": "2026-07-06",
+  "generated_at_utc": "2026-07-07T02:46:22Z",
+  "date": "2026-07-07",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "jikan_top_manga",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
+    },
     {
       "provider": "jikan_top_novels",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15&type=lightnovels"
@@ -429,14 +433,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-Full-Moon-Curse_31001279887",
-      "title": "Full Moon Curse",
+      "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
+      "title": "Reclaimed by My Alpha",
       "source": "GoodNovel",
       "category": "romance",
       "score": 16.0,
-      "url": "https://www.goodnovel.com/book/Full-Moon-Curse_31001279887",
-      "image": "https://acf.goodnovel.com/book/202502/8b4d9d69c3c072a92b0937df6612c9da59109552e4f70019d4fc867ca7078f64.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "As the only human inside a werewolf pack, Amy is counting the days until she can leave.  With all the kids in the pack shunning her after they started receiving their wolves, she is left with one friend.  Until the future gamma of the pack takes an interest in her, and she finds herself friends with all the future leaders of the pack.  Not trusting her new friends, she gets a wake-up call.  Family secrets are unearthed and her life as she knows it will never be the same.",
+      "url": "https://www.goodnovel.com/book/Reclaimed-by-My-Alpha_31001020267",
+      "image": "https://acf.goodnovel.com/book/202606/0812c9dda57558534540644e25f9b8237a5541b39e47856c33c9db66cb9083a6.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Natalia and Andrei’s marriage was originally a three-year contract. With only 30 days left until the contract ends, Natalia discovered that she’s pregnant. \nJust when she thought Andrei would reconsider divorcing her because of this, his deceased first mate, Lilith, returned. Feeling hopeless, Natalia decided to initiate the divorce. \nHowever, at their engagement party, Andrei received the news of Natalia’s car accident, along with the shocking discovery of her pregnancy test results...",
       "genres": [
         "Romance"
       ],
@@ -447,14 +451,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
-      "title": "The Breaking Point of Love",
+      "id": "goodnovel-book-Alpha-s-Rue-His-Shunned-Luna_31001363078",
+      "title": "Alpha’s Rue: His Shunned Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 15.0,
-      "url": "https://www.goodnovel.com/book/The-Breaking-Point-of-Love_31000893249",
-      "image": "https://acf.goodnovel.com/book/202504/ac8abf363e3a771d0764f4ab5379c99432bb0c30b329a7573b345aac87b3ff83.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Celeste Rodriguez and Trevor Fleming have been married for seven years. He treats her coldly throughout the marriage, but she faces it with a smile because she loves him deeply. She also believes she can melt his heart one day.\n\nHowever, all she gets is the news of him falling for another woman at first sight. He gives her all his care and concern, but Celeste stands strong.\n\nOn her birthday, she flies abroad to be with Trevor and their daughter, Jordyn Fleming. To her devastation, Trevor brings Jordyn to meet his true love. They leave Celeste to spend the day alone.\n\nShe finally gives up on him. She's also no longer hurt when Jordyn wants the woman to replace her as her mother.\n\nCeleste prepares a divorce agreement and gives up her custody rights. She leaves without another look back, cutting Trevor and Jordyn out of her life. All she needs to do now is wait for the divorce to be finalized.\n\nAfter giving up on her family and returning to the workplace, she easily makes a fortune. She shows the people who once looked down on her that she's better than they think.\n\nCeleste waits for her divorce certificate to arrive, but it never comes. She also notices that Trevor starts coming home more often when he's always refused in the past. He clings to her, too.\n\nWhen he learns that she wants a divorce, he drops his usual aloofness and pins her to the wall. \"A divorce? That's not happening.\"",
+      "url": "https://www.goodnovel.com/book/Alpha-s-Rue-His-Shunned-Luna_31001363078",
+      "image": "https://acf.goodnovel.com/book/202512/f2d3bbd8c18264c7f22966460b13a8aac660902941767400f816fddb80b3c56c.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "He took away my choice of being marked. “I hate you.” I spit.\r\n\r\n “You think I want this?” He snickers. “Being mated to you is my worst nightmare come alive, but if you dare run from me? Make sure you can hide well because I will hunt you down, Mate.”\r\n\r\n♡\r\nI came back for one day.\r\nOne stupid day to appease my father but now I’m trapped for life by a bond I never asked for.\r\nAlpha Kingston has a girlfriend, she's the Luna he and his pack desire not me. \r\nI was once his Bestfriend, the girl he would burn the world for but now I'm the one he’d burn to save her. Everyone says I'm the villian, but every villian has a story right? One they never tried to hear.\r\nI don't belong here, not anymore.\r\nMooncrest has done nothing but break me, I want to leave but I'm the Alpha’s mate, and he promises to catch me if I run. Staying in Mooncrest brings back feelings I didn't know I had. Can King and I be as we were before or did I lose him forever without an explanation?",
       "genres": [
         "Romance"
       ],
@@ -465,14 +469,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Heartbreak-Prescription_31000898396",
-      "title": "The Heartbreak Prescription",
+      "id": "goodnovel-book-My-Second-Chance-Mate-is-a-Barbarian_31001286107",
+      "title": "My Second Chance Mate is a Barbarian",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/The-Heartbreak-Prescription_31000898396",
-      "image": "https://acf.goodnovel.com/book/202506/33417baf7a79f5ba3aa2f40303d34b95e076924d98efb24695cb29b61540e433.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The richest man in Hovendale, Stanley Hawk, had been in a vegetative state for three years. His wife, Wendy Crone, took care of him during that time.\n\nAfter he awakened, Wendy caught him cheating through a message on his phone. It turned out his first love had returned to the country.\n\nHis friends, who once looked down on her, were now poking fun at her. “The swan has returned; it’s time to kick that ugly duckling to the curb.”\n\nIt was then that Wendy realized Stanley never loved her. She was nothing but a joke to him.\n\nOne night, Stanley received the divorce papers from Wendy. Her reason for wanting to get a divorce was due to his failing potency.\n\nStanley went to confront her with a gloomy expression on his face, only to find that she had transformed into a gorgeous doctor in a long dress that glistened under the dazzling lights.\n\nSeeing him approach, Wendy smiled gracefully and asked, “Stanley, are you here for an andrology consultation?”",
+      "url": "https://www.goodnovel.com/book/My-Second-Chance-Mate-is-a-Barbarian_31001286107",
+      "image": "https://acf.goodnovel.com/book/202606/947f7849bbf86cb5c12a06648d52a18972394bb1883a87acbb6ba6b01bb457ed.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "For three years, Sera lived a lie. She traded her royal identity for the hope of a life with Kane, her fated mate and the Alpha of Blackwater. She endured the whispers and worked tirelessly for a pack that never wanted her, all for the promise that one day, she would be their Luna.\r\n\r\nBut when the ceremony finally arrives, the crown isn't placed on Sera’s head. Instead, Kane chooses a woman who can give the pack what an Omega like Sera cannot: an heir . Publicly rejected and humiliated, Sera is forced to return to the kingdom she fled and the father she failed .\r\n\r\nSera’s return isn't a sanctuary—it’s the fulfillment of a cold-blooded deal. To save her family’s alliance, she must marry a Volkov . But the \"reasonable\" man she was promised is dead, and in his place stands his brother: Fenris Volkov, the Alpha of Ironmaw.\r\n\r\nFenris is no southern prince. He is a giant of a man who rules a land of ice and brutal survival, where weakness is a death sentence . As Sera is dragged into his world, she must survive more than just the political schemes of a hostile pack and the jealous wrath of the Ironmaw elite . She has five days to prove she can be the Luna this barbarian needs, or she will be broken by the very protection he offers .\r\n\r\nIn a world where status is everything and love is a gamble, Sera must decide if her second chance is a blessing, or a beautiful, violent end.",
       "genres": [
         "Romance"
       ],
@@ -483,14 +487,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Fractured_31000959468",
-      "title": "Fractured",
+      "id": "goodnovel-book-The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
+      "title": "The Alpha Slipped Inside The Wrong Sister",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Fractured_31000959468",
-      "image": "https://acf.goodnovel.com/book/202513/d49332cc729cd5b75db368c6b78ca8946f7a0459b21bc59a23b96b8848c04a55.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Warning: Mature Content Ahead. \r\nCan’t decide what trope you want to read next? Well, look no further because Fractured has it all. \r\nIf you're ready to dive into a world where passion meets peril, where dominance intertwines with desire, and where one fierce female leads the charge, then this book is for you. \r\nOn her first day at university, Josie’s life takes a dramatic turn. Expecting nothing more than the typical college experience, she instead finds herself thrust into a realm of supernatural intrigue. Her guide into this new world is none other than her enigmatic and irresistibly attractive headmaster.\r\nAs Josie navigates her new reality, she encounters five breathtakingly hot males, each with their own secrets and powers. These men are not just eye candy; they play pivotal roles in a dangerous game of power and attraction.\r\nJosie must learn to harness her strength, confront hidden enemies, and balance the intense chemistry with the dominant males who surround her. Her journey is one of self-discovery, resilience, and undeniable passion.\r\nThis book is a thrilling blend of romance, suspense, and supernatural elements, perfect for readers who crave a story that's as hot as it is heart-pounding. Prepare for mature themes and explicit scenes that will leave you breathless.\r\nJoin Josie as she embarks on an adventure that will challenge her, change her, and ignite a flame within her that burns brighter than she ever imagined. This story contains explicit group scenes including some bxb.",
+      "url": "https://www.goodnovel.com/book/The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
+      "image": "https://acf.goodnovel.com/book/202604/9b7dc8042fbb49a32220b24faf50b6c8045408426824655a82fa674c53672efa.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The bed was wet beneath me, soaked by the juices that flowed from between my thighs. A grunt, one so husky brushed against my ear as he moved in and out of me.\r\n\r\n\"Don't tell Kimberly,\" Alpha Ryan groaned as he pushes his cock deeper until the tip brushed a tender spot. I shudder beneath him. Kimberly was his future Luna. She was also my sister.\r\n\r\nI looked up at him beneath my lashes. \"Don't tell my sister you slipped inside the wrong one?\"",
       "genres": [
         "Romance"
       ],
@@ -501,14 +505,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
-      "title": "Once a Doormat, Now Untouchable",
+      "id": "goodnovel-book-Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
+      "title": "Let’s Divorce. Mrs. Wright Is Done Playing Nice.",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
-      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
+      "url": "https://www.goodnovel.com/book/Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
+      "image": "https://acf.goodnovel.com/book/202604/89eefbb6a802ec4fefff913f6f2868438fdc5677e0b23d759fe5ff39230a196b.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years of marriage.\nThree miscarriages.\n\nThe day Stella Rowan lost her baby for the third time, Evan Wright was at the hospital with his sister-in-law, waiting for her to give birth to twins.\n\nWhen Stella walked out of the hospital, she finally made her decision. She handed her soon-to-be ex-husband a divorce agreement.\n\n“Let’s divorce. It’s for your own good.”\n\n“Divorce?” Evan scoffed. “You really think you can let go? And if you’re trying to hold on to me, don’t dress it up as doing me a favor. That fake concern is pathetic.”\n\nStella just smiled. She didn’t argue. She turned and walked away.\n\nShe really was doing it for his sake.\n\nAfter all, she’d found a new backer.\n\nEven though Evan sits atop Harbor City’s financial empire, he’s about to meet someone he can’t afford to cross.\n\nOnce she cut ties with the past, Stella stopped pretending. One by one, her new identities came to light, leaving the Wright family completely stunned.\n\nWasn’t she supposed to be the girl with no family backing, the easy target everyone bullied?\n\nA multinational CEO said, “Stella, get divorced already. I’ve waited long enough.”\n\nA financial tycoon declared, “Divorce. If you don’t, I’ll take the Wright family down.”\n\nAn international lawyer smiled and said, “The divorce itself is easy. Stella, if you’d just look at me once, I’d have everything I need.”\n\nEvan had always believed Stella would never leave him.\n\nNot until the day he realized she had become someone far beyond his reach.\n\nIn that moment, every assumption he’d ever made about her collapsed.",
       "genres": [
         "Romance"
       ],
@@ -519,14 +523,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
-      "title": "The Alpha’s Contract",
+      "id": "goodnovel-book-CLAIMED-BY-THE-MAFIA-DON_31001293897",
+      "title": "CLAIMED BY THE MAFIA DON",
       "source": "GoodNovel",
       "category": "romance",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
-      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
+      "url": "https://www.goodnovel.com/book/CLAIMED-BY-THE-MAFIA-DON_31001293897",
+      "image": "https://acf.goodnovel.com/book/202601/8bf3dc2930c8594b95cb8956fdadcecfe5c1e90e58d4415a32c3435acdd20da5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "\"You have this beauty that captivates men, don’t you? There were plenty of naked women in this room, but the second you walked in, the men lost control. They wanted a piece of you. They wanted to own you.\"\r\n\r\nHis fingers trail down my jaw, tilting my chin up.\r\n\r\n\"Not knowing you already belong to me.\"\r\n\r\nI swallow hard, my breath caught in my throat.\r\n\r\nHe moves away, settling into a chair with ease. He unbuttons his coat, leans back, spreads his legs apart like a king, which I guess he is...\r\n\r\nAnd then, his voice turns lethal.\r\n\r\n\"From now on, Ariella Costa, you are mine to use. Mine to play with. Mine to do with as I please.\"\r\n\r\nThe words hit me like a heart attack.\r\n\r\n\"Your body belongs to me. Your mind belongs to me. Your soul belongs to me.\"\r\n\r\nHe smirks, his dark eyes locking onto mine.\r\n\r\n\"I own you.\"",
       "genres": [
         "Romance"
       ],
@@ -537,14 +541,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Alpha-King-s-Daughter_21000014537",
-      "title": "The Alpha King's Daughter",
+      "id": "goodnovel-book-Unwanted_31000202097",
+      "title": "Unwanted",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-King-s-Daughter_21000014537",
-      "image": "https://acf.goodnovel.com/book/202308/The-Alpha-King-s-Daughter/063120212de291679e3af565b2dcad95bf388d3facebb51efdfff0c8dd036b4f.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The Alpha King's Daughter  is a Werewolf novel written by Jane Doe that covers Alpha, Sweet Love, Werewolf. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/Unwanted_31000202097",
+      "image": "https://acf.goodnovel.com/book/202208/Unwanted/bc8ca54d4874f871a792a1b73c76f6680f7581f4d63c11c210c1350af1cfe50a.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Unwanted is a Werewolf novel written by Karima Sa'ad Usman that covers Revenge, Rogue, Alpha. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
