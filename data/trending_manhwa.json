@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-07T02:46:22Z",
-  "date": "2026-07-07",
+  "generated_at_utc": "2026-07-08T02:24:41Z",
+  "date": "2026-07-08",
   "category": "manhwa",
   "item_count": 6,
   "errors": [
@@ -23,7 +23,7 @@
       "title": "The Sword-Eating Swordmaster",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2525.0,
+      "score": 2552.0,
       "url": "https://anilist.co/manga/204435",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
       "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
@@ -36,15 +36,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 2501.0,
-      "velocity": 0.009596161535385846
+      "previous_score": 2525.0,
+      "velocity": 0.010693069306930694
     },
     {
       "id": "anilist-manga-185978",
       "title": "The Dragon Slayer's Regression on Another Level",
       "source": "AniList",
       "category": "manhwa",
-      "score": 7333.0,
+      "score": 7357.0,
       "url": "https://anilist.co/manga/185978",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
       "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
@@ -58,36 +58,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 7297.0,
-      "velocity": 0.0049335343291763735
-    },
-    {
-      "id": "anilist-manga-166154",
-      "title": "The Player Hides His Past",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 15015.0,
-      "url": "https://anilist.co/manga/166154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
-      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 14978.0,
-      "velocity": 0.0024702897583121913
+      "previous_score": 7333.0,
+      "velocity": 0.003272876039819992
     },
     {
       "id": "anilist-manga-163824",
       "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 41998.0,
+      "score": 42070.0,
       "url": "https://anilist.co/manga/163824",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
       "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
@@ -100,36 +79,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 41909.0,
-      "velocity": 0.0021236488582404736
-    },
-    {
-      "id": "anilist-manga-175262",
-      "title": "The Reborn Young Lord is an Assassin",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 22084.0,
-      "url": "https://anilist.co/manga/175262",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
-      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 73,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 22039.0,
-      "velocity": 0.0020418349289895187
+      "previous_score": 41998.0,
+      "velocity": 0.0017143673508262299
     },
     {
       "id": "anilist-manga-172619",
       "title": "The Extra’s Academy Survival Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 27801.0,
+      "score": 27844.0,
       "url": "https://anilist.co/manga/172619",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
       "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
@@ -142,8 +100,50 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 27801.0,
+      "velocity": 0.0015467069529873027
+    },
+    {
+      "id": "anilist-manga-166154",
+      "title": "The Player Hides His Past",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 15034.0,
+      "url": "https://anilist.co/manga/166154",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
+      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 75,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 15015.0,
+      "velocity": 0.0012654012654012654
+    },
+    {
+      "id": "anilist-manga-175262",
+      "title": "The Reborn Young Lord is an Assassin",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 22111.0,
+      "url": "https://anilist.co/manga/175262",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
+      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 22084.0,
+      "velocity": 0.0012226046006158305
     }
   ]
 }

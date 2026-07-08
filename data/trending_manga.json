@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-07T02:46:22Z",
-  "date": "2026-07-07",
+  "generated_at_utc": "2026-07-08T02:24:41Z",
+  "date": "2026-07-08",
   "category": "manga",
   "item_count": 9,
   "errors": [
@@ -23,7 +23,7 @@
       "title": "The Mortifying Ordeal of Being Seen",
       "source": "AniList",
       "category": "manga",
-      "score": 12738.0,
+      "score": 12777.0,
       "url": "https://anilist.co/manga/177096",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177096-C1K0hAL8p1w9.png",
       "description": "Being sexy can be mortifying, so who will be the first to tap out in this battle of flirtatious gazes between smitten seatmates Eguchi and Ikezawa?\n<BR><BR>\n(Source: VIZ Media)\n<BR><BR>\n<i>Note: Originally self-published, the manga got licensed by Shogakukan and started being published on Sunday Webry since June 17th, 2024. The original first chapter was republished with some changes, the subsequent chapters are being published without changes.</i>",
@@ -37,57 +37,15 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 12695.0,
-      "velocity": 0.003387160299330445
-    },
-    {
-      "id": "anilist-manga-149544",
-      "title": "The Guy She Was Interested In Wasn't a Guy at All",
-      "source": "AniList",
-      "category": "manga",
-      "score": 48917.0,
-      "url": "https://anilist.co/manga/149544",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
-      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
-      "genres": [
-        "Music",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 48774.0,
-      "velocity": 0.0029318899413622013
-    },
-    {
-      "id": "anilist-manga-167423",
-      "title": "Noa-senpai wa Tomodachi.",
-      "source": "AniList",
-      "category": "manga",
-      "score": 8908.0,
-      "url": "https://anilist.co/manga/167423",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
-      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 70,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 8886.0,
-      "velocity": 0.002475804636506865
+      "previous_score": 12738.0,
+      "velocity": 0.0030617051342439945
     },
     {
       "id": "anilist-manga-180752",
       "title": "Ichi the Witch",
       "source": "AniList",
       "category": "manga",
-      "score": 26865.0,
+      "score": 26921.0,
       "url": "https://anilist.co/manga/180752",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
       "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
@@ -102,61 +60,57 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 26805.0,
-      "velocity": 0.002238388360380526
+      "previous_score": 26865.0,
+      "velocity": 0.0020844965568583658
     },
     {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
+      "id": "anilist-manga-149544",
+      "title": "The Guy She Was Interested In Wasn't a Guy at All",
       "source": "AniList",
       "category": "manga",
-      "score": 106013.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+      "score": 49013.0,
+      "url": "https://anilist.co/manga/149544",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
+      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
+        "Music",
+        "Romance"
       ],
       "metadata": {
-        "average_score": 88,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 105862.0,
-      "velocity": 0.0014263852940620807
+      "previous_score": 48917.0,
+      "velocity": 0.0019625079215814544
     },
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
+      "id": "anilist-manga-167423",
+      "title": "Noa-senpai wa Tomodachi.",
       "source": "AniList",
       "category": "manga",
-      "score": 227517.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
+      "score": 8920.0,
+      "url": "https://anilist.co/manga/167423",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
+      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
       "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
-        "Fantasy"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 91,
+        "average_score": 70,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 227220.0,
-      "velocity": 0.0013071032479535251
+      "previous_score": 8908.0,
+      "velocity": 0.001347103726986978
     },
     {
       "id": "anilist-manga-132182",
       "title": "Blue Box",
       "source": "AniList",
       "category": "manga",
-      "score": 53266.0,
+      "score": 53291.0,
       "url": "https://anilist.co/manga/132182",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg",
       "description": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)",
@@ -171,15 +125,38 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 53219.0,
-      "velocity": 0.0008831432383171424
+      "previous_score": 53266.0,
+      "velocity": 0.00046934254496301583
+    },
+    {
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
+      "source": "AniList",
+      "category": "manga",
+      "score": 106062.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 88,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 106013.0,
+      "velocity": 0.000462207465122202
     },
     {
       "id": "anilist-manga-125828",
       "title": "Sakamoto Days",
       "source": "AniList",
       "category": "manga",
-      "score": 86662.0,
+      "score": 86694.0,
       "url": "https://anilist.co/manga/125828",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
       "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
@@ -192,15 +169,38 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 86608.0,
-      "velocity": 0.0006234989839275818
+      "previous_score": 86662.0,
+      "velocity": 0.0003692506519581824
+    },
+    {
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
+      "source": "AniList",
+      "category": "manga",
+      "score": 227596.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 91,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 227517.0,
+      "velocity": 0.00034722680063467787
     },
     {
       "id": "anilist-manga-108556",
       "title": "SPY x FAMILY",
       "source": "AniList",
       "category": "manga",
-      "score": 156960.0,
+      "score": 157005.0,
       "url": "https://anilist.co/manga/108556",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
       "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
@@ -215,8 +215,8 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 156911.0,
-      "velocity": 0.0003122789351925614
+      "previous_score": 156960.0,
+      "velocity": 0.00028669724770642203
     }
   ]
 }
