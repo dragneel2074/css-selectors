@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-08T02:24:41Z",
-  "date": "2026-07-08",
+  "generated_at_utc": "2026-07-09T02:38:23Z",
+  "date": "2026-07-09",
   "category": "anime",
   "item_count": 30,
   "errors": [
@@ -19,11 +19,72 @@
   ],
   "items": [
     {
+      "id": "jikan-anime-59193",
+      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 18590.0,
+      "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
+      "image": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
+      "description": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Ecchi"
+      ],
+      "metadata": {
+        "mal_score": 8.99,
+        "members": 245666
+      },
+      "previous_score": 13233.0,
+      "velocity": 0.40482128013300084
+    },
+    {
+      "id": "jikan-anime-63832",
+      "title": "Seihantai na Kimi to Boku 2nd Season",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 4499.0,
+      "url": "https://myanimelist.net/anime/63832/Seihantai_na_Kimi_to_Boku_2nd_Season",
+      "image": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
+      "description": "Second season of Seihantai na Kimi to Boku.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": 8.35,
+        "members": 68532
+      },
+      "previous_score": 3209.0,
+      "velocity": 0.4019943907759427
+    },
+    {
+      "id": "jikan-anime-63403",
+      "title": "Yani Neko",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 5417.0,
+      "url": "https://myanimelist.net/anime/63403/Yani_Neko",
+      "image": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
+      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy"
+      ],
+      "metadata": {
+        "mal_score": 7.02,
+        "members": 58731
+      },
+      "previous_score": 4123.0,
+      "velocity": 0.31384913897647343
+    },
+    {
       "id": "anilist-anime-198409",
       "title": "The World's Strongest Rearguard",
       "source": "AniList",
       "category": "anime",
-      "score": 13111.0,
+      "score": 14263.0,
       "url": "https://anilist.co/anime/198409",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
       "description": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n<br><br>\n(Source: Crunchyroll)",
@@ -35,34 +96,34 @@
       "metadata": {
         "average_score": 59
       },
-      "previous_score": 11150.0,
-      "velocity": 0.17587443946188341
+      "previous_score": 13111.0,
+      "velocity": 0.08786515139958813
     },
     {
-      "id": "anilist-anime-177637",
-      "title": "Goodbye, Lara",
+      "id": "anilist-anime-207141",
+      "title": "Chainsmoker Cat",
       "source": "AniList",
       "category": "anime",
-      "score": 14229.0,
-      "url": "https://anilist.co/anime/177637",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
-      "description": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br>\n(Source: Crunchyroll)",
+      "score": 34088.0,
+      "url": "https://anilist.co/anime/207141",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
       "genres": [
-        "Romance",
-        "Supernatural"
+        "Comedy",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 74
+        "average_score": 67
       },
-      "previous_score": 12856.0,
-      "velocity": 0.10679838207840697
+      "previous_score": 32080.0,
+      "velocity": 0.06259351620947631
     },
     {
       "id": "anilist-anime-187538",
       "title": "BLACK TORCH",
       "source": "AniList",
       "category": "anime",
-      "score": 32203.0,
+      "score": 34151.0,
       "url": "https://anilist.co/anime/187538",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
       "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
@@ -76,34 +137,34 @@
       "metadata": {
         "average_score": 72
       },
-      "previous_score": 29846.0,
-      "velocity": 0.07897205655699256
+      "previous_score": 32203.0,
+      "velocity": 0.06049125857839332
     },
     {
-      "id": "anilist-anime-207141",
-      "title": "Chainsmoker Cat",
+      "id": "anilist-anime-177637",
+      "title": "Goodbye, Lara",
       "source": "AniList",
       "category": "anime",
-      "score": 32080.0,
-      "url": "https://anilist.co/anime/207141",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "score": 15069.0,
+      "url": "https://anilist.co/anime/177637",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+      "description": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br>\n(Source: Crunchyroll)",
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Romance",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 67
+        "average_score": 75
       },
-      "previous_score": 29909.0,
-      "velocity": 0.07258684676853121
+      "previous_score": 14229.0,
+      "velocity": 0.05903436643474594
     },
     {
       "id": "anilist-anime-190569",
       "title": "Jaadugar: A Witch in Mongolia",
       "source": "AniList",
       "category": "anime",
-      "score": 21364.0,
+      "score": 22620.0,
       "url": "https://anilist.co/anime/190569",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
       "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>\n(Source: Crunchyroll)",
@@ -111,37 +172,36 @@
         "Drama"
       ],
       "metadata": {
-        "average_score": 78
+        "average_score": 79
       },
-      "previous_score": 19929.0,
-      "velocity": 0.07200561995082543
+      "previous_score": 21364.0,
+      "velocity": 0.05879048867253323
     },
     {
-      "id": "anilist-anime-200637",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "source": "AniList",
+      "id": "jikan-anime-62076",
+      "title": "Super no Ura de Yani Suu Futari",
+      "source": "Jikan",
       "category": "anime",
-      "score": 25181.0,
-      "url": "https://anilist.co/anime/200637",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
-      "description": "The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>",
+      "score": 30856.0,
+      "url": "https://myanimelist.net/anime/62076/Super_no_Ura_de_Yani_Suu_Futari",
+      "image": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
+      "description": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring day of getting berated by his boss, Sasaki stops by the store to have his spirit healed by his favorite cashier.\n\nAfter a particularly grueling day, Sasaki shows up at the supermarket, only to find that Yamada's shift has already ended. Disappointed, he searches for a place to smoke when a woman from behind the store calls him over to join her. The bold and dangerously playful Tayama is quick to call out Sasaki's peculiar habit of always seeking out her coworker—even going as far as telling Yamada about Sasaki's vested interest in her.\n\nNow, in addition to seeing his adored cashier Yamada, Sasaki also visits the store to see if his new smoking partner Tayama is around. But there is more to Tayama's mischievousness than she initially lets on. With every cigarette, an unlikely friendship begins to blossom.\n\n[Written by MAL Rewrite]",
       "genres": [
-        "Comedy",
-        "Ecchi",
         "Romance"
       ],
       "metadata": {
-        "average_score": 80
+        "mal_score": 8.49,
+        "members": 151135
       },
-      "previous_score": 23573.0,
-      "velocity": 0.06821363424256564
+      "previous_score": 29392.0,
+      "velocity": 0.04980947196516059
     },
     {
       "id": "anilist-anime-103303",
       "title": "Sparks of Tomorrow",
       "source": "AniList",
       "category": "anime",
-      "score": 33012.0,
+      "score": 34417.0,
       "url": "https://anilist.co/anime/103303",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
       "description": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br>\n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br>\n\n(Source: Anime News Network)",
@@ -152,15 +212,15 @@
       "metadata": {
         "average_score": 74
       },
-      "previous_score": 30916.0,
-      "velocity": 0.06779661016949153
+      "previous_score": 33012.0,
+      "velocity": 0.04256028110989943
     },
     {
       "id": "anilist-anime-210031",
       "title": "You and I Are Polar Opposites Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 34244.0,
+      "score": 35694.0,
       "url": "https://anilist.co/anime/210031",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
       "description": "The second season of <i>Seihantai na Kimi to Boku</i>.",
@@ -173,15 +233,55 @@
       "metadata": {
         "average_score": 81
       },
-      "previous_score": 32077.0,
-      "velocity": 0.06755619291080837
+      "previous_score": 34244.0,
+      "velocity": 0.0423431842074524
+    },
+    {
+      "id": "jikan-anime-62811",
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3680.0,
+      "url": "https://myanimelist.net/anime/62811/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo_3rd_Season",
+      "image": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
+      "description": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": 8.25,
+        "members": 55806
+      },
+      "previous_score": 3552.0,
+      "velocity": 0.036036036036036036
+    },
+    {
+      "id": "anilist-anime-200637",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 26053.0,
+      "url": "https://anilist.co/anime/200637",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+      "description": "The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 80
+      },
+      "previous_score": 25181.0,
+      "velocity": 0.034629283983956156
     },
     {
       "id": "anilist-anime-178789",
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
       "source": "AniList",
       "category": "anime",
-      "score": 107708.0,
+      "score": 110043.0,
       "url": "https://anilist.co/anime/178789",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
       "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
@@ -194,15 +294,36 @@
       "metadata": {
         "average_score": 86
       },
-      "previous_score": 104364.0,
-      "velocity": 0.03204170020313518
+      "previous_score": 107708.0,
+      "velocity": 0.021678983919486017
+    },
+    {
+      "id": "jikan-anime-60522",
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3136.0,
+      "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
+      "image": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
+      "description": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "mal_score": 7.11,
+        "members": 69861
+      },
+      "previous_score": 3090.0,
+      "velocity": 0.01488673139158576
     },
     {
       "id": "anilist-anime-195600",
       "title": "Daemons of the Shadow Realm",
       "source": "AniList",
       "category": "anime",
-      "score": 114176.0,
+      "score": 114818.0,
       "url": "https://anilist.co/anime/195600",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
       "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
@@ -216,36 +337,15 @@
       "metadata": {
         "average_score": 78
       },
-      "previous_score": 113540.0,
-      "velocity": 0.0056015501144970935
-    },
-    {
-      "id": "anilist-anime-182300",
-      "title": "Wistoria: Wand and Sword Season 2",
-      "source": "AniList",
-      "category": "anime",
-      "score": 105068.0,
-      "url": "https://anilist.co/anime/182300",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-      "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82
-      },
-      "previous_score": 104567.0,
-      "velocity": 0.0047911865119970925
+      "previous_score": 114176.0,
+      "velocity": 0.00562289798206278
     },
     {
       "id": "anilist-anime-182205",
       "title": "That Time I Got Reincarnated as a Slime Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 111173.0,
+      "score": 111656.0,
       "url": "https://anilist.co/anime/182205",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
       "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
@@ -258,15 +358,36 @@
       "metadata": {
         "average_score": 82
       },
-      "previous_score": 110650.0,
-      "velocity": 0.004726615454134659
+      "previous_score": 111173.0,
+      "velocity": 0.004344580068901622
+    },
+    {
+      "id": "anilist-anime-182300",
+      "title": "Wistoria: Wand and Sword Season 2",
+      "source": "AniList",
+      "category": "anime",
+      "score": 105524.0,
+      "url": "https://anilist.co/anime/182300",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
+      "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 82
+      },
+      "previous_score": 105068.0,
+      "velocity": 0.00434004644611109
     },
     {
       "id": "anilist-anime-147105",
       "title": "Witch Hat Atelier",
       "source": "AniList",
       "category": "anime",
-      "score": 197991.0,
+      "score": 198753.0,
       "url": "https://anilist.co/anime/147105",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
       "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
@@ -278,15 +399,15 @@
       "metadata": {
         "average_score": 85
       },
-      "previous_score": 197142.0,
-      "velocity": 0.004306540463219405
+      "previous_score": 197991.0,
+      "velocity": 0.0038486597875661017
     },
     {
       "id": "anilist-anime-269",
       "title": "Bleach",
       "source": "AniList",
       "category": "anime",
-      "score": 498127.0,
+      "score": 498574.0,
       "url": "https://anilist.co/anime/269",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
       "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
@@ -298,15 +419,15 @@
       "metadata": {
         "average_score": 79
       },
-      "previous_score": 497797.0,
-      "velocity": 0.0006629208291733377
+      "previous_score": 498127.0,
+      "velocity": 0.0008973615162398345
     },
     {
       "id": "anilist-anime-21",
       "title": "ONE PIECE",
       "source": "AniList",
       "category": "anime",
-      "score": 725619.0,
+      "score": 726123.0,
       "url": "https://anilist.co/anime/21",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
       "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
@@ -320,254 +441,15 @@
       "metadata": {
         "average_score": 87
       },
-      "previous_score": 725193.0,
-      "velocity": 0.0005874298290248251
-    },
-    {
-      "id": "jikan-anime-62076",
-      "title": "Super no Ura de Yani Suu Futari",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 29392.0,
-      "url": "https://myanimelist.net/anime/62076/Super_no_Ura_de_Yani_Suu_Futari",
-      "image": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
-      "description": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring day of getting berated by his boss, Sasaki stops by the store to have his spirit healed by his favorite cashier.\n\nAfter a particularly grueling day, Sasaki shows up at the supermarket, only to find that Yamada's shift has already ended. Disappointed, he searches for a place to smoke when a woman from behind the store calls him over to join her. The bold and dangerously playful Tayama is quick to call out Sasaki's peculiar habit of always seeking out her coworker—even going as far as telling Yamada about Sasaki's vested interest in her.\n\nNow, in addition to seeing his adored cashier Yamada, Sasaki also visits the store to see if his new smoking partner Tayama is around. But there is more to Tayama's mischievousness than she initially lets on. With every cigarette, an unlikely friendship begins to blossom.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.49,
-        "members": 145355
-      },
-      "previous_score": 29392.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-59193",
-      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 13233.0,
-      "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
-      "image": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
-      "description": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Ecchi"
-      ],
-      "metadata": {
-        "mal_score": 9.03,
-        "members": 235881
-      },
-      "previous_score": 13233.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-63403",
-      "title": "Yani Neko",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 4123.0,
-      "url": "https://myanimelist.net/anime/63403/Yani_Neko",
-      "image": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
-      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": 7.02,
-        "members": 51189
-      },
-      "previous_score": 4123.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-61169",
-      "title": "Black Torch",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3684.0,
-      "url": "https://myanimelist.net/anime/61169/Black_Torch",
-      "image": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
-      "description": "Seventeen-year-old Jirou Azuma lives a quiet life with his grandfather, utilizing his supernatural ability to speak with animals to befriend and protect them. Both Jirou and his grandfather are descendants of a long-standing shinobi clan, training in combat to keep the art of battle alive within their family. Jirou's life is thrown into upheaval after rescuing a seemingly normal black cat, Ragou, only to discover that the cat is actually a mononoke—a demonic spirit that has long been at war with mankind. When a hostile mononoke comes looking for Ragou, Jirou uses his shinobi training to jump to the cat's defense, but immediately suffers a mortal wound.\n\nFaced with the decision of whether or not to devour Jirou's fading energy and restore himself to full power, Ragou instead chooses to give his remaining energy to Jirou. Reviving the boy, the transfer also grants him great supernatural powers that complement his own shinobi fighting style. This act is witnessed by Ryousuke Shiba, an officer in the Bureau of Espionage whose job revolves around dispatching aggressive mononoke. Shiba extends Jirou and his grandfather an offer: to join the Bureau's new squad, Black Torch, and help them battle powerful mononoke who seek to devour innocent people.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Action",
-        "Supernatural"
-      ],
-      "metadata": {
-        "mal_score": 7.38,
-        "members": 48892
-      },
-      "previous_score": 3684.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62811",
-      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3552.0,
-      "url": "https://myanimelist.net/anime/62811/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo_3rd_Season",
-      "image": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
-      "description": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.29,
-        "members": 52316
-      },
-      "previous_score": 3552.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62513",
-      "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3476.0,
-      "url": "https://myanimelist.net/anime/62513/Clevatess_II__Majuu_no_Ou_to_Itsuwari_no_Yuusha_Denshou",
-      "image": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
-      "description": "Second season of Clevatess.",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 54390
-      },
-      "previous_score": 3476.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-61126",
-      "title": "Kimi ga Shinu made Koi wo Shitai",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3445.0,
-      "url": "https://myanimelist.net/anime/61126/Kimi_ga_Shinu_made_Koi_wo_Shitai",
-      "image": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg",
-      "description": "The death of Sheena Totsuki's roommate is casually announced at the start of class, and the day carries on as usual. In an orphanage that raises children as soldiers, death is nothing new to the residents. With their home country embroiled in a war that has dragged on for too many years and shows no signs of stopping, the institution's children are sent off to die in battle every day. In contrast to the other orphans, Sheena is deeply disturbed by the ongoing conflict and wishes for it to end.\n\nOn the night of her roommate's death, Sheena met a blood-covered girl who remained jubilant despite the condition she was in. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi Kagari. Initially thought to be a school myth, Mimi is said to be the secret weapon of the orphanage—a girl who cannot die. Assigned as Sheena's new roommate, Mimi hopes to get along with her and get accustomed to school life.\n\nHowever, unsettled by Mimi's carefree attitude toward the war, Sheena struggles to accept the world they live in, all while their unusual friendship flourishes amid the bleak situation.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Fantasy",
-        "Girls Love"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 55024
-      },
-      "previous_score": 3445.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-63832",
-      "title": "Seihantai na Kimi to Boku 2nd Season",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3209.0,
-      "url": "https://myanimelist.net/anime/63832/Seihantai_na_Kimi_to_Boku_2nd_Season",
-      "image": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
-      "description": "Second season of Seihantai na Kimi to Boku.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.33,
-        "members": 63009
-      },
-      "previous_score": 3209.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-60522",
-      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3090.0,
-      "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
-      "image": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
-      "description": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "mal_score": 7.15,
-        "members": 67123
-      },
-      "previous_score": 3090.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62542",
-      "title": "Grand Blue Season 3",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3010.0,
-      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
-      "description": "Third season of Grand Blue.",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 70229
-      },
-      "previous_score": 3010.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62542",
-      "title": "Grand Blue Season 3",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3010.0,
-      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
-      "description": "Third season of Grand Blue.",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 70229
-      },
-      "previous_score": 3010.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-54000",
-      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 2759.0,
-      "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
-      "image": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
-      "description": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 81188
-      },
-      "previous_score": 2759.0,
-      "velocity": 0.0
+      "previous_score": 725619.0,
+      "velocity": 0.0006945793867029392
     },
     {
       "id": "jikan-anime-48820",
       "title": "Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten",
       "source": "Jikan",
       "category": "anime",
-      "score": 2700.0,
+      "score": 2699.0,
       "url": "https://myanimelist.net/anime/48820/Mahou_Shoujo_Madoka★Magica_Movie_4__Walpurgis_no_Kaiten",
       "image": "https://cdn.myanimelist.net/images/anime/1784/151057l.jpg",
       "description": null,
@@ -577,17 +459,95 @@
       ],
       "metadata": {
         "mal_score": null,
-        "members": 84338
+        "members": 84486
       },
       "previous_score": 2700.0,
-      "velocity": 0.0
+      "velocity": -0.00037037037037037035
+    },
+    {
+      "id": "jikan-anime-62542",
+      "title": "Grand Blue Season 3",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3001.0,
+      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
+      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
+      "description": "Third season of Grand Blue.",
+      "genres": [
+        "Comedy"
+      ],
+      "metadata": {
+        "mal_score": 8.4,
+        "members": 76609
+      },
+      "previous_score": 3010.0,
+      "velocity": -0.002990033222591362
+    },
+    {
+      "id": "jikan-anime-62542",
+      "title": "Grand Blue Season 3",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3001.0,
+      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
+      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
+      "description": "Third season of Grand Blue.",
+      "genres": [
+        "Comedy"
+      ],
+      "metadata": {
+        "mal_score": 8.4,
+        "members": 76609
+      },
+      "previous_score": 3010.0,
+      "velocity": -0.002990033222591362
+    },
+    {
+      "id": "jikan-anime-54000",
+      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 2742.0,
+      "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
+      "image": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
+      "description": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "mal_score": null,
+        "members": 82268
+      },
+      "previous_score": 2759.0,
+      "velocity": -0.0061616527727437476
+    },
+    {
+      "id": "jikan-anime-49233",
+      "title": "Youjo Senki II",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 1264.0,
+      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II",
+      "image": "https://cdn.myanimelist.net/images/anime/1917/158371l.jpg",
+      "description": "Second season of Youjo Senki.",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "mal_score": 7.16,
+        "members": 225368
+      },
+      "previous_score": 1272.0,
+      "velocity": -0.006289308176100629
     },
     {
       "id": "jikan-anime-60636",
       "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
       "source": "Jikan",
       "category": "anime",
-      "score": 2291.0,
+      "score": 2270.0,
       "url": "https://myanimelist.net/anime/60636/Bleach__Sennen_Kessen-hen_-_Kashin-tan",
       "image": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
       "description": "Final part of Bleach: Sennen Kessen-hen.",
@@ -598,30 +558,70 @@
       ],
       "metadata": {
         "mal_score": null,
-        "members": 107845
+        "members": 109313
       },
       "previous_score": 2291.0,
-      "velocity": 0.0
+      "velocity": -0.009166302924487123
     },
     {
-      "id": "jikan-anime-49233",
-      "title": "Youjo Senki II",
+      "id": "jikan-anime-62513",
+      "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
       "source": "Jikan",
       "category": "anime",
-      "score": 1272.0,
-      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II",
-      "image": "https://cdn.myanimelist.net/images/anime/1917/158371l.jpg",
-      "description": "Second season of Youjo Senki.",
+      "score": 3427.0,
+      "url": "https://myanimelist.net/anime/62513/Clevatess_II__Majuu_no_Ou_to_Itsuwari_no_Yuusha_Denshou",
+      "image": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
+      "description": "Second season of Clevatess.",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "mal_score": null,
-        "members": 223669
+        "mal_score": 7.38,
+        "members": 55660
       },
-      "previous_score": 1272.0,
-      "velocity": 0.0
+      "previous_score": 3476.0,
+      "velocity": -0.014096662830840045
+    },
+    {
+      "id": "jikan-anime-61126",
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3310.0,
+      "url": "https://myanimelist.net/anime/61126/Kimi_ga_Shinu_made_Koi_wo_Shitai",
+      "image": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg",
+      "description": "The death of Sheena Totsuki's roommate is casually announced at the start of class, and the day carries on as usual. In an orphanage that raises children as soldiers, death is nothing new to the residents. With their home country embroiled in a war that has dragged on for too many years and shows no signs of stopping, the institution's children are sent off to die in battle every day. In contrast to the other orphans, Sheena is deeply disturbed by the ongoing conflict and wishes for it to end.\n\nOn the night of her roommate's death, Sheena met a blood-covered girl who remained jubilant despite the condition she was in. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi Kagari. Initially thought to be a school myth, Mimi is said to be the secret weapon of the orphanage—a girl who cannot die. Assigned as Sheena's new roommate, Mimi hopes to get along with her and get accustomed to school life.\n\nHowever, unsettled by Mimi's carefree attitude toward the war, Sheena struggles to accept the world they live in, all while their unusual friendship flourishes amid the bleak situation.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Fantasy",
+        "Girls Love"
+      ],
+      "metadata": {
+        "mal_score": 7.82,
+        "members": 59247
+      },
+      "previous_score": 3445.0,
+      "velocity": -0.03918722786647315
+    },
+    {
+      "id": "jikan-anime-61169",
+      "title": "Black Torch",
+      "source": "Jikan",
+      "category": "anime",
+      "score": 3499.0,
+      "url": "https://myanimelist.net/anime/61169/Black_Torch",
+      "image": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
+      "description": "Seventeen-year-old Jirou Azuma lives a quiet life with his grandfather, utilizing his supernatural ability to speak with animals to befriend and protect them. Both Jirou and his grandfather are descendants of a long-standing shinobi clan, training in combat to keep the art of battle alive within their family. Jirou's life is thrown into upheaval after rescuing a seemingly normal black cat, Ragou, only to discover that the cat is actually a mononoke—a demonic spirit that has long been at war with mankind. When a hostile mononoke comes looking for Ragou, Jirou uses his shinobi training to jump to the cat's defense, but immediately suffers a mortal wound.\n\nFaced with the decision of whether or not to devour Jirou's fading energy and restore himself to full power, Ragou instead chooses to give his remaining energy to Jirou. Reviving the boy, the transfer also grants him great supernatural powers that complement his own shinobi fighting style. This act is witnessed by Ryousuke Shiba, an officer in the Bureau of Espionage whose job revolves around dispatching aggressive mononoke. Shiba extends Jirou and his grandfather an offer: to join the Bureau's new squad, Black Torch, and help them battle powerful mononoke who seek to devour innocent people.\n\n[Written by MAL Rewrite]",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "metadata": {
+        "mal_score": 7.38,
+        "members": 53880
+      },
+      "previous_score": 3684.0,
+      "velocity": -0.0502171552660152
     }
   ]
 }
