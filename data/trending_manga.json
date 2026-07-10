@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-09T02:38:23Z",
-  "date": "2026-07-09",
+  "generated_at_utc": "2026-07-10T02:40:24Z",
+  "date": "2026-07-10",
   "category": "manga",
-  "item_count": 9,
+  "item_count": 6,
   "errors": [
     {
       "provider": "jikan_top_manga",
@@ -18,160 +18,6 @@
     }
   ],
   "items": [
-    {
-      "id": "anilist-manga-177096",
-      "title": "The Mortifying Ordeal of Being Seen",
-      "source": "AniList",
-      "category": "manga",
-      "score": 12802.0,
-      "url": "https://anilist.co/manga/177096",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177096-C1K0hAL8p1w9.png",
-      "description": "Being sexy can be mortifying, so who will be the first to tap out in this battle of flirtatious gazes between smitten seatmates Eguchi and Ikezawa?\n<BR><BR>\n(Source: VIZ Media)\n<BR><BR>\n<i>Note: Originally self-published, the manga got licensed by Shogakukan and started being published on Sunday Webry since June 17th, 2024. The original first chapter was republished with some changes, the subsequent chapters are being published without changes.</i>",
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 12777.0,
-      "velocity": 0.0019566408390075916
-    },
-    {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
-      "source": "AniList",
-      "category": "manga",
-      "score": 26971.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 26921.0,
-      "velocity": 0.0018572861335017273
-    },
-    {
-      "id": "anilist-manga-167423",
-      "title": "Noa-senpai wa Tomodachi.",
-      "source": "AniList",
-      "category": "manga",
-      "score": 8933.0,
-      "url": "https://anilist.co/manga/167423",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
-      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 70,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 8920.0,
-      "velocity": 0.0014573991031390135
-    },
-    {
-      "id": "anilist-manga-149544",
-      "title": "The Guy She Was Interested In Wasn't a Guy at All",
-      "source": "AniList",
-      "category": "manga",
-      "score": 49084.0,
-      "url": "https://anilist.co/manga/149544",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
-      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
-      "genres": [
-        "Music",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 49013.0,
-      "velocity": 0.0014485952706424826
-    },
-    {
-      "id": "anilist-manga-125828",
-      "title": "Sakamoto Days",
-      "source": "AniList",
-      "category": "manga",
-      "score": 86735.0,
-      "url": "https://anilist.co/manga/125828",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
-      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 86694.0,
-      "velocity": 0.000472927768934413
-    },
-    {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
-      "source": "AniList",
-      "category": "manga",
-      "score": 106112.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 88,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 106062.0,
-      "velocity": 0.0004714223755916351
-    },
-    {
-      "id": "anilist-manga-132182",
-      "title": "Blue Box",
-      "source": "AniList",
-      "category": "manga",
-      "score": 53312.0,
-      "url": "https://anilist.co/manga/132182",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg",
-      "description": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Slice of Life",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 53291.0,
-      "velocity": 0.0003940627873374491
-    },
     {
       "id": "anilist-manga-30013",
       "title": "One Piece",
@@ -192,31 +38,122 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 227596.0,
-      "velocity": 0.00030316877273765797
+      "previous_score": 227665.0,
+      "velocity": 0.0
     },
     {
-      "id": "anilist-manga-108556",
-      "title": "SPY x FAMILY",
+      "id": "anilist-manga-30002",
+      "title": "Berserk",
       "source": "AniList",
       "category": "manga",
-      "score": 157044.0,
-      "url": "https://anilist.co/manga/108556",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
-      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
+      "score": 239376.0,
+      "url": "https://anilist.co/manga/30002",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30002-Cul4OeN7bYtn.jpg",
+      "description": "His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned—and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance.<br>\n<br>\n(Source: Dark Horse)<br>\n<br>\n<i>Notes:<br>\n- Volumes 1-5 contain the 16 prequel chapters 0A - 0P.<br>\n- <a href=\"https://anilist.co/manga/95821/\">Chapter 83</a> was omitted from Volume 13 due to the author’s request.<br>\n- Volume 14 includes “<a href=\"https://anilist.co/manga/36408/\">Berserk: The Prototype</a>”.<br>\n- Due to the author's passing, starting from Chapter 365, the manga is illustrated by Studio Gaga (Miura's assistants) and supervised by Kouji Mori (a close friend of Miura's).</i>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Psychological"
+      ],
+      "metadata": {
+        "average_score": 92,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
+      "source": "AniList",
+      "category": "manga",
+      "score": 113226.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
         "Comedy",
-        "Slice of Life",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
         "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "source": "AniList",
+      "category": "manga",
+      "score": 75698.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 87,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
+      "source": "AniList",
+      "category": "manga",
+      "score": 36209.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "genres": [
+        "Comedy",
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 83,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 157005.0,
-      "velocity": 0.00024839973249259577
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-192834",
+      "title": "Me and the Prez, Drinking Under the Stars",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3569.0,
+      "url": "https://anilist.co/manga/192834",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192834-AbRptlf1Q2uV.jpg",
+      "description": "At 24, Reina Izutsu has recently become the new president of Izutsu Printing after taking over for her late father. Young and not quite experienced, Reina wants to do her best but unfortunately comes across as harsh with her employees. Stressed and feeling lost, Reina spends an evening drowning her sorrows in beer at an empty park. She rants and vents out loud to the starry sky that she wants to give up and quit being president, just letting off steam. Except, she fails to realize that her subordinate, 37-year-old section chief Kenichi Ishizumi, heard her drunken ramblings! But rather than use this against her, Kenichi finds himself charmed by the young woman. He vows then and there to support her and help her find her way as company president, no matter what! \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 67,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }

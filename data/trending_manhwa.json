@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-09T02:38:23Z",
-  "date": "2026-07-09",
+  "generated_at_utc": "2026-07-10T02:40:24Z",
+  "date": "2026-07-10",
   "category": "manhwa",
-  "item_count": 6,
+  "item_count": 8,
   "errors": [
     {
       "provider": "jikan_top_manga",
@@ -19,101 +19,83 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-204435",
-      "title": "The Sword-Eating Swordmaster",
+      "id": "anilist-manga-137280",
+      "title": "I’m the Max-Level Newbie",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2569.0,
-      "url": "https://anilist.co/manga/204435",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204435-Y2uhnmv1Z8Fk.jpg",
-      "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.<br><br>(Source: WEBTOON)",
+      "score": 48295.0,
+      "url": "https://anilist.co/manga/137280",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137280-juUL79K7f9s7.png",
+      "description": "Kang Jin-Hyeok, a gaming streamer, and content creator is the only person who has cleared the game, [Tower of Trials]. However, as the game’s popularity declines, it becomes increasingly difficult for him to continue making a living as a content creator. Jinhyeok prepares to end his 11-year-long relationship with the game and say goodbye to his humble group of subscribers. But on that very day, the Tower of Trials appears in reality with a message saying that humanity will perish unless all players clear each floor within 90 days. Jin-Hyeok, who knows the game better than anyone, decides to use his knowledge to his advantage and dominate the tower. It’s time to show everyone what a hardcore gamer can do!\n<br><br>\n(Source: Tappytoon, edited)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 66,
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 2552.0,
-      "velocity": 0.0066614420062695925
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-185978",
-      "title": "The Dragon Slayer's Regression on Another Level",
+      "id": "anilist-manga-120980",
+      "title": "Nano Machine",
       "source": "AniList",
       "category": "manhwa",
-      "score": 7371.0,
-      "url": "https://anilist.co/manga/185978",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185978-lOs1D3aYj01m.jpg",
-      "description": "Zeke Draker was the first of House Draker to fail his Awakening. And for that, he was cast out. Forced to survive in a brutal world, Zeke rose from disgrace and earned the name Phantom of the North. On a mission to stop the emperor from obtaining an ancient relic, Zeke was hunted and killed by imperial forces. But fate had other plans. Zeke awakens as a 12-year-old boy back in the Cradle, House Draker’s elite training ground. Given a second chance, Zeke’s determined to rewrite his fate.<br><br>\n(Source: Tapas)",
+      "score": 45689.0,
+      "url": "https://anilist.co/manga/120980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-159441",
+      "title": "Pick Me Up",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 41365.0,
+      "url": "https://anilist.co/manga/159441",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
+      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 84,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 7357.0,
-      "velocity": 0.0019029495718363464
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-175262",
-      "title": "The Reborn Young Lord is an Assassin",
+      "id": "anilist-manga-170400",
+      "title": "The Stellar Swordmaster",
       "source": "AniList",
       "category": "manhwa",
-      "score": 22149.0,
-      "url": "https://anilist.co/manga/175262",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
-      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
+      "score": 28397.0,
+      "url": "https://anilist.co/manga/170400",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
+      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 73,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 22111.0,
-      "velocity": 0.0017186016010130704
-    },
-    {
-      "id": "anilist-manga-166154",
-      "title": "The Player Hides His Past",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 15057.0,
-      "url": "https://anilist.co/manga/166154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166154-m65LKgDdfe8p.jpg",
-      "description": "The real world is suddenly ambushed by rifts that threaten to spill out monsters from the VR game “Chronicles of Arcana.” These rifts can only be closed by “players,” people who have awakened as their in-game characters with all the same stats and skills. Unfortunately for protagonist Lee Ho-Yeol, his awakening is the opposite of cool as his avatar happens to be the one he made during the height of his awkward phase in middle school, giving him all the mannerisms and speech of an absolute cringelord. Just how will he go on to become the hero humanity needs most?\n<br><br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 15034.0,
-      "velocity": 0.0015298656378874551
-    },
-    {
-      "id": "anilist-manga-172619",
-      "title": "The Extra’s Academy Survival Guide",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 27885.0,
-      "url": "https://anilist.co/manga/172619",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
-      "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
@@ -121,29 +103,92 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 27844.0,
-      "velocity": 0.0014724895848297658
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-163824",
-      "title": "Revenge of the Baskerville Bloodhound",
+      "id": "anilist-manga-201009",
+      "title": "The Patron of Villains",
       "source": "AniList",
       "category": "manhwa",
-      "score": 42127.0,
-      "url": "https://anilist.co/manga/163824",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
-      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
+      "score": 10955.0,
+      "url": "https://anilist.co/manga/201009",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
+      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 80,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 42070.0,
-      "velocity": 0.0013548847159496078
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-202986",
+      "title": "Too Many Heroes for the Demon Lord",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 4898.0,
+      "url": "https://anilist.co/manga/202986",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202986-0wn84aV9jlHq.jpg",
+      "description": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 76,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-203800",
+      "title": "Dragon-eul Yugoehada",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 3333.0,
+      "url": "https://anilist.co/manga/203800",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203800-i7vFEWkQSUzn.jpg",
+      "description": "Yu Ji-Tae, a regressor with unparalleled power. Even with that power and repeated regressions, he was unable to prevent the destruction of Earth. The cause of this destruction was four baby dragons who came to Earth to play. The story of a man who, rather than possessing absolute power, seeks to protect them and prevent destruction.<br><br>(Source: KakaoPage, translated)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 69,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-203154",
+      "title": "Vampire Lord-ro Saneun Beop",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 3225.0,
+      "url": "https://anilist.co/manga/203154",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203154-hrncPJICVIok.jpg",
+      "description": "After half a year on the run, the vampire Eugene was ultimately killed, offered up as a sacrifice to boost a holy knight's fame. Just as his life ended in bitter regret, a chance to return came to him.<br><br>\n<i>“I will never die like that again. If I’ve truly returned to the past, then I'll never regret anything a second time... no matter what it may take.\"</i><br><br>(Source: KakaoPage, translated)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 72,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }
