@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-10T02:40:24Z",
-  "date": "2026-07-10",
+  "generated_at_utc": "2026-07-11T02:15:40Z",
+  "date": "2026-07-11",
   "category": "manhwa",
-  "item_count": 8,
+  "item_count": 9,
   "errors": [
     {
       "provider": "jikan_top_manga",
@@ -19,99 +19,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-137280",
-      "title": "I’m the Max-Level Newbie",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 48295.0,
-      "url": "https://anilist.co/manga/137280",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137280-juUL79K7f9s7.png",
-      "description": "Kang Jin-Hyeok, a gaming streamer, and content creator is the only person who has cleared the game, [Tower of Trials]. However, as the game’s popularity declines, it becomes increasingly difficult for him to continue making a living as a content creator. Jinhyeok prepares to end his 11-year-long relationship with the game and say goodbye to his humble group of subscribers. But on that very day, the Tower of Trials appears in reality with a message saying that humanity will perish unless all players clear each floor within 90 days. Jin-Hyeok, who knows the game better than anyone, decides to use his knowledge to his advantage and dominate the tower. It’s time to show everyone what a hardcore gamer can do!\n<br><br>\n(Source: Tappytoon, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-120980",
-      "title": "Nano Machine",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 45689.0,
-      "url": "https://anilist.co/manga/120980",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
-      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-159441",
-      "title": "Pick Me Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 41365.0,
-      "url": "https://anilist.co/manga/159441",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
-      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 84,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-170400",
-      "title": "The Stellar Swordmaster",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 28397.0,
-      "url": "https://anilist.co/manga/170400",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
-      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-201009",
       "title": "The Patron of Villains",
       "source": "AniList",
       "category": "manhwa",
-      "score": 10955.0,
+      "score": 11103.0,
       "url": "https://anilist.co/manga/201009",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
       "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
@@ -124,18 +36,105 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
+      "previous_score": 10955.0,
+      "velocity": 0.013509812870835235
+    },
+    {
+      "id": "anilist-manga-118408",
+      "title": "Villains Are Destined to Die",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 40508.0,
+      "url": "https://anilist.co/manga/118408",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118408-zZuOINqjBZYn.jpg",
+      "description": "This game’s got me obsessed! It’s like it’s taken over my life... wait—HARD MODE ACTIVATED. No-no-no-no-no! It has literally taken me and thrown me into the part of Penelope Eckhart. Love is easy as the heroine, but as the hated villainess, I’m trying very hard not to die… at the hands of my brothers… the prince… a fork… every possible ending is death! This world is stacked against me, but can my wits and insider game knowledge score the affection of these male characters? Or the reset button???<br><br>(Source: Tapas)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-202986",
-      "title": "Too Many Heroes for the Demon Lord",
+      "id": "anilist-manga-135325",
+      "title": "The Lazy Lord Masters the Sword",
       "source": "AniList",
       "category": "manhwa",
-      "score": 4898.0,
-      "url": "https://anilist.co/manga/202986",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202986-0wn84aV9jlHq.jpg",
-      "description": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!<br><br>(Source: WEBTOON)",
+      "score": 31552.0,
+      "url": "https://anilist.co/manga/135325",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-172619",
+      "title": "The Extra’s Academy Survival Guide",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 27999.0,
+      "url": "https://anilist.co/manga/172619",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
+      "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-137304",
+      "title": "Return of the Mad Demon",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 25845.0,
+      "url": "https://anilist.co/manga/137304",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
+      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-164222",
+      "title": "Chronicles of the Demon Faction",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 12920.0,
+      "url": "https://anilist.co/manga/164222",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164222-9wzDZENmjYtc.jpg",
+      "description": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.<br><br>(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Fantasy"
@@ -149,20 +148,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-203800",
-      "title": "Dragon-eul Yugoehada",
+      "id": "anilist-manga-187427",
+      "title": "The Villain's Survival Route",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3333.0,
-      "url": "https://anilist.co/manga/203800",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203800-i7vFEWkQSUzn.jpg",
-      "description": "Yu Ji-Tae, a regressor with unparalleled power. Even with that power and repeated regressions, he was unable to prevent the destruction of Earth. The cause of this destruction was four baby dragons who came to Earth to play. The story of a man who, rather than possessing absolute power, seeks to protect them and prevent destruction.<br><br>(Source: KakaoPage, translated)",
+      "score": 12697.0,
+      "url": "https://anilist.co/manga/187427",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187427-7A225QIPaIU3.png",
+      "description": "Fresh out of a breakup, game developer Woo-Jin has little going for him. So when he hears that the middle boss of their game is based on him, he can't resist adding a few traits to make his virtual alter ego a tad more noble. Little did he know, he would soon end up trapped in said villain's skin! With a 1 in 1,000 chance of survival, Woo-Jin now has to navigate the countless variables leading him to his impending doom. Will the tweaks he made to the character tip the scales in his favor?<br><br>(Source: Tapas)",
       "genres": [
-        "Action",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -170,20 +169,41 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-203154",
-      "title": "Vampire Lord-ro Saneun Beop",
+      "id": "anilist-manga-189051",
+      "title": "What a Bountiful Harvest, Demon Lord!",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3225.0,
-      "url": "https://anilist.co/manga/203154",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203154-hrncPJICVIok.jpg",
-      "description": "After half a year on the run, the vampire Eugene was ultimately killed, offered up as a sacrifice to boost a holy knight's fame. Just as his life ended in bitter regret, a chance to return came to him.<br><br>\n<i>“I will never die like that again. If I’ve truly returned to the past, then I'll never regret anything a second time... no matter what it may take.\"</i><br><br>(Source: KakaoPage, translated)",
+      "score": 7554.0,
+      "url": "https://anilist.co/manga/189051",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189051-ORxxDJZvMHxj.jpg",
+      "description": "Who was that guy that once said, “An army marches on its stomach”? When hapless agricultural science student Jangcheol Kim starts playing the fantasy MMORPG “Paladins of Blood” to escape the stress of school life, he never imagined he would end up inside the game, much less as its final boss. How can a ruthless demon overlord win over his subjects? Perhaps with potatoes.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-203471",
+      "title": "Reincarnated as the Grand Duke’s Third Son",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 2364.0,
+      "url": "https://anilist.co/manga/203471",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203471-dCqKXpXikvqE.jpg",
+      "description": "Born at the bottom of society, Jake survives by leading Sabertooth, a mercenary group loyal to him. Yet he is ultimately betrayed and killed by the nobles he served. But instead of death, he awakens to a new life with soft, frail hands and the title of the third son of House Valdek, the most powerful family in the empire, rivaling even the crown. Surrounded by wealth and splendor, Jake realizes he has been granted a second chance to fulfill his ambition. So he sets off, determined to rise as high as possible. Look out, world, here comes Lucian Valdek!<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 72,
+        "average_score": 66,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
