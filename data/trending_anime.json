@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-12T02:26:31Z",
-  "date": "2026-07-12",
+  "generated_at_utc": "2026-07-13T02:29:00Z",
+  "date": "2026-07-13",
   "category": "anime",
-  "item_count": 30,
+  "item_count": 15,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
     {
       "provider": "jikan_top_manga",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
@@ -19,30 +23,33 @@
   ],
   "items": [
     {
-      "id": "anilist-anime-207141",
-      "title": "Chainsmoker Cat",
+      "id": "anilist-anime-187538",
+      "title": "BLACK TORCH",
       "source": "AniList",
       "category": "anime",
-      "score": 39956.0,
-      "url": "https://anilist.co/anime/207141",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "score": 39724.0,
+      "url": "https://anilist.co/anime/187538",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
+      "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 67
+        "average_score": 72
       },
-      "previous_score": 38089.0,
-      "velocity": 0.04901677649715141
+      "previous_score": 37604.0,
+      "velocity": 0.05637698117221572
     },
     {
       "id": "anilist-anime-196187",
       "title": "Smoking Behind the Supermarket with You",
       "source": "AniList",
       "category": "anime",
-      "score": 81873.0,
+      "score": 83397.0,
       "url": "https://anilist.co/anime/196187",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
       "description": "At age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 9th, 2026.</i>",
@@ -54,15 +61,37 @@
       "metadata": {
         "average_score": 83
       },
-      "previous_score": 79626.0,
-      "velocity": 0.028219425815688343
+      "previous_score": 81873.0,
+      "velocity": 0.018614195155912207
+    },
+    {
+      "id": "anilist-anime-195600",
+      "title": "Daemons of the Shadow Realm",
+      "source": "AniList",
+      "category": "anime",
+      "score": 116949.0,
+      "url": "https://anilist.co/anime/195600",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 78
+      },
+      "previous_score": 116217.0,
+      "velocity": 0.006298562172487674
     },
     {
       "id": "anilist-anime-182205",
       "title": "That Time I Got Reincarnated as a Slime Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 113405.0,
+      "score": 114099.0,
       "url": "https://anilist.co/anime/182205",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
       "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
@@ -75,15 +104,15 @@
       "metadata": {
         "average_score": 82
       },
-      "previous_score": 112596.0,
-      "velocity": 0.007184979928239014
+      "previous_score": 113405.0,
+      "velocity": 0.006119659627000573
     },
     {
       "id": "anilist-anime-147105",
       "title": "Witch Hat Atelier",
       "source": "AniList",
       "category": "anime",
-      "score": 200929.0,
+      "score": 201584.0,
       "url": "https://anilist.co/anime/147105",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
       "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
@@ -95,28 +124,8 @@
       "metadata": {
         "average_score": 85
       },
-      "previous_score": 200273.0,
-      "velocity": 0.0032755289030473402
-    },
-    {
-      "id": "anilist-anime-269",
-      "title": "Bleach",
-      "source": "AniList",
-      "category": "anime",
-      "score": 499788.0,
-      "url": "https://anilist.co/anime/269",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 79
-      },
-      "previous_score": 499469.0,
-      "velocity": 0.0006386782763294619
+      "previous_score": 200929.0,
+      "velocity": 0.0032598579597768367
     },
     {
       "id": "anilist-anime-21",
@@ -137,406 +146,103 @@
       "metadata": {
         "average_score": 87
       },
-      "previous_score": 727129.0,
-      "velocity": 0.0005487334434467611
-    },
-    {
-      "id": "jikan-anime-62076",
-      "title": "Super no Ura de Yani Suu Futari",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 32953.0,
-      "url": "https://myanimelist.net/anime/62076/Super_no_Ura_de_Yani_Suu_Futari",
-      "image": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
-      "description": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring day of getting berated by his boss, Sasaki stops by the store to have his spirit healed by his favorite cashier.\n\nAfter a particularly grueling day, Sasaki shows up at the supermarket, only to find that Yamada's shift has already ended. Disappointed, he searches for a place to smoke when a woman from behind the store calls him over to join her. The bold and dangerously playful Tayama is quick to call out Sasaki's peculiar habit of always seeking out her coworker—even going as far as telling Yamada about Sasaki's vested interest in her.\n\nNow, in addition to seeing his adored cashier Yamada, Sasaki also visits the store to see if his new smoking partner Tayama is around. But there is more to Tayama's mischievousness than she initially lets on. With every cigarette, an unlikely friendship begins to blossom.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.47,
-        "members": 157886
-      },
-      "previous_score": 32953.0,
+      "previous_score": 727528.0,
       "velocity": 0.0
     },
     {
-      "id": "jikan-anime-59193",
-      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 21384.0,
-      "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
-      "image": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
-      "description": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Ecchi"
-      ],
-      "metadata": {
-        "mal_score": 8.98,
-        "members": 252128
-      },
-      "previous_score": 21384.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-63403",
-      "title": "Yani Neko",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 6740.0,
-      "url": "https://myanimelist.net/anime/63403/Yani_Neko",
-      "image": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
-      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": 7.08,
-        "members": 65279
-      },
-      "previous_score": 6740.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-63832",
-      "title": "Seihantai na Kimi to Boku 2nd Season",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 5239.0,
-      "url": "https://myanimelist.net/anime/63832/Seihantai_na_Kimi_to_Boku_2nd_Season",
-      "image": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
-      "description": "Second season of Seihantai na Kimi to Boku.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.34,
-        "members": 71753
-      },
-      "previous_score": 5239.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62811",
-      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 4269.0,
-      "url": "https://myanimelist.net/anime/62811/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo_3rd_Season",
-      "image": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
-      "description": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 8.23,
-        "members": 57775
-      },
-      "previous_score": 4269.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-49233",
-      "title": "Youjo Senki II",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 4145.0,
-      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II",
-      "image": "https://cdn.myanimelist.net/images/anime/1917/158371l.jpg",
-      "description": "Second season of Youjo Senki.",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "mal_score": 8.43,
-        "members": 232100
-      },
-      "previous_score": 4145.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62542",
-      "title": "Grand Blue Season 3",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3898.0,
-      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
-      "description": "Third season of Grand Blue.",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": 8.41,
-        "members": 79498
-      },
-      "previous_score": 3898.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62542",
-      "title": "Grand Blue Season 3",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3898.0,
-      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
-      "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
-      "description": "Third season of Grand Blue.",
-      "genres": [
-        "Comedy"
-      ],
-      "metadata": {
-        "mal_score": 8.41,
-        "members": 79498
-      },
-      "previous_score": 3898.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-60522",
-      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3523.0,
-      "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
-      "image": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
-      "description": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "mal_score": 7.09,
-        "members": 71716
-      },
-      "previous_score": 3523.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-58929",
-      "title": "Koukaku Kidoutai (TV)",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3337.0,
-      "url": "https://myanimelist.net/anime/58929/Koukaku_Kidoutai_TV",
-      "image": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
-      "description": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts. The world is now more interconnected than ever before, and the city's Public Security Section 9 is responsible for combating corruption, terrorism, and other dangerous threats following this shift toward globalization.\n\nThe strong-willed Major Motoko Kusanagi of Section 9 spearheads a case involving a mysterious hacker known only as the \"Puppet Master,\" who leaves a trail of victims stripped of their memories. Like many in this futuristic world, the Puppet Master's body is almost entirely robotic, giving them incredible power.\n\nAs Motoko and her subordinates follow the enigmatic criminal's trail, other parties—including Section 6—start to get involved, forcing her to confront the extremely complicated nature of the case. Pondering about various philosophical questions, such as her own life's meaning, Motoko soon realizes that the one who will provide these answers is none other than the Puppet Master themself.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Action",
-        "Mystery",
-        "Sci-Fi",
-        "Suspense"
-      ],
-      "metadata": {
-        "mal_score": 8.02,
-        "members": 58448
-      },
-      "previous_score": 3337.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-62513",
-      "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3236.0,
-      "url": "https://myanimelist.net/anime/62513/Clevatess_II__Majuu_no_Ou_to_Itsuwari_no_Yuusha_Denshou",
-      "image": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
-      "description": "Second season of Clevatess.",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "mal_score": 7.66,
-        "members": 61827
-      },
-      "previous_score": 3236.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-61126",
-      "title": "Kimi ga Shinu made Koi wo Shitai",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 3219.0,
-      "url": "https://myanimelist.net/anime/61126/Kimi_ga_Shinu_made_Koi_wo_Shitai",
-      "image": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg",
-      "description": "The death of Sheena Totsuki's roommate is casually announced at the start of class, and the day carries on as usual. In an orphanage that raises children as soldiers, death is nothing new to the residents. With their home country embroiled in a war that has dragged on for too many years and shows no signs of stopping, the institution's children are sent off to die in battle every day. In contrast to the other orphans, Sheena is deeply disturbed by the ongoing conflict and wishes for it to end.\n\nOn the night of her roommate's death, Sheena met a blood-covered girl who remained jubilant despite the condition she was in. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi Kagari. Initially thought to be a school myth, Mimi is said to be the secret weapon of the orphanage—a girl who cannot die. Assigned as Sheena's new roommate, Mimi hopes to get along with her and get accustomed to school life.\n\nHowever, unsettled by Mimi's carefree attitude toward the war, Sheena struggles to accept the world they live in, all while their unusual friendship flourishes amid the bleak situation.\n\n[Written by MAL Rewrite]",
-      "genres": [
-        "Fantasy",
-        "Girls Love"
-      ],
-      "metadata": {
-        "mal_score": 7.8,
-        "members": 62401
-      },
-      "previous_score": 3219.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-48820",
-      "title": "Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 2699.0,
-      "url": "https://myanimelist.net/anime/48820/Mahou_Shoujo_Madoka★Magica_Movie_4__Walpurgis_no_Kaiten",
-      "image": "https://cdn.myanimelist.net/images/anime/1784/151057l.jpg",
-      "description": null,
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 84609
-      },
-      "previous_score": 2699.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-54000",
-      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 2647.0,
-      "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
-      "image": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
-      "description": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "mal_score": 6.83,
-        "members": 87098
-      },
-      "previous_score": 2647.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "jikan-anime-60636",
-      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
-      "source": "Jikan",
-      "category": "anime",
-      "score": 2258.0,
-      "url": "https://myanimelist.net/anime/60636/Bleach__Sennen_Kessen-hen_-_Kashin-tan",
-      "image": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "description": "Final part of Bleach: Sennen Kessen-hen.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
-      ],
-      "metadata": {
-        "mal_score": null,
-        "members": 110562
-      },
-      "previous_score": 2258.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "anilist-anime-195600",
-      "title": "Daemons of the Shadow Realm",
+      "id": "anilist-anime-269",
+      "title": "Bleach",
       "source": "AniList",
       "category": "anime",
-      "score": 116217.0,
-      "url": "https://anilist.co/anime/195600",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "score": 499788.0,
+      "url": "https://anilist.co/anime/269",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
-        "Fantasy",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 78
+        "average_score": 79
+      },
+      "previous_score": 499788.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "anilist-anime-178789",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 116150.0,
+      "url": "https://anilist.co/anime/178789",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+      "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 86
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-187538",
-      "title": "BLACK TORCH",
+      "id": "anilist-anime-210031",
+      "title": "You and I Are Polar Opposites Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 37604.0,
-      "url": "https://anilist.co/anime/187538",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-      "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 72
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-184492",
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 36483.0,
-      "url": "https://anilist.co/anime/184492",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
-      "description": "The fourth season of <i>Mairimashita! Iruma-kun.</i>\n<br><br>\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br>\n(Source: Crunchyroll News)",
+      "score": 38673.0,
+      "url": "https://anilist.co/anime/210031",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+      "description": "The second season of <i>Seihantai na Kimi to Boku</i>.",
       "genres": [
         "Comedy",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 80
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-171110",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "source": "AniList",
-      "category": "anime",
-      "score": 34356.0,
-      "url": "https://anilist.co/anime/171110",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-      "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club)",
-      "genres": [
         "Drama",
-        "Fantasy",
+        "Romance",
         "Slice of Life"
       ],
       "metadata": {
-        "average_score": 76
+        "average_score": 81
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-190569",
-      "title": "Jaadugar: A Witch in Mongolia",
+      "id": "anilist-anime-103303",
+      "title": "Sparks of Tomorrow",
       "source": "AniList",
       "category": "anime",
-      "score": 25098.0,
-      "url": "https://anilist.co/anime/190569",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-      "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>\n(Source: Crunchyroll)",
+      "score": 37468.0,
+      "url": "https://anilist.co/anime/103303",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+      "description": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br>\n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br>\n\n(Source: Anime News Network)",
       "genres": [
-        "Drama"
+        "Adventure",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 75
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-200637",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 27836.0,
+      "url": "https://anilist.co/anime/200637",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+      "description": "The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
       ],
       "metadata": {
         "average_score": 80
@@ -545,75 +251,75 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-201514",
-      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "id": "anilist-anime-177637",
+      "title": "Goodbye, Lara",
       "source": "AniList",
       "category": "anime",
-      "score": 22253.0,
-      "url": "https://anilist.co/anime/201514",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-      "description": "Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…\n<br><br>\n(Source: Crunchyroll)",
+      "score": 17270.0,
+      "url": "https://anilist.co/anime/177637",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+      "description": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br>\n(Source: Crunchyroll)",
       "genres": [
-        "Comedy",
-        "Romance"
+        "Romance",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 72
+        "average_score": 75
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-186863",
-      "title": "The Cat and the Dragon",
+      "id": "anilist-anime-198409",
+      "title": "The World's Strongest Rearguard",
       "source": "AniList",
       "category": "anime",
-      "score": 14457.0,
-      "url": "https://anilist.co/anime/186863",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
-      "description": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br>\n\n(Source: Crunchyroll News)<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i>",
+      "score": 16154.0,
+      "url": "https://anilist.co/anime/198409",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+      "description": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n<br><br>\n(Source: Crunchyroll)",
       "genres": [
+        "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73
+        "average_score": 59
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-194219",
-      "title": "The Ogre's Bride",
+      "id": "anilist-anime-188139",
+      "title": "Though I Am an Inept Villainess",
       "source": "AniList",
       "category": "anime",
-      "score": 10434.0,
-      "url": "https://anilist.co/anime/194219",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
-      "description": "A Japanese-style ayakashi Cinderella story! <i>\"You're the bride I've been searching for all this time.\"</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>\"Just be quiet and let me hold you.\"</i> The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!<br><br>\n(Source: MangaPlaza)",
+      "score": 14645.0,
+      "url": "https://anilist.co/anime/188139",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+      "description": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)",
       "genres": [
         "Drama",
-        "Fantasy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 68
+        "average_score": null
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-199066",
-      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "id": "anilist-anime-214031",
+      "title": "Mob Psycho 100 10th Anniversary Special Movie",
       "source": "AniList",
       "category": "anime",
-      "score": 7515.0,
-      "url": "https://anilist.co/anime/199066",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-      "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>\n(Source: Crunchyroll)",
+      "score": 0.0,
+      "url": "https://anilist.co/anime/214031",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214031-VjZ9YM1NsmJd.jpg",
+      "description": "A short animation for <i>Mob Psycho 100</i> to commemorate the anime series’ tenth milestone that debut at the “Mob Psycho 100 10th Anniversary Reunion Event\" in Fukagawa Mirai Hall.",
       "genres": [
         "Comedy",
-        "Romance",
+        "Slice of Life",
         "Supernatural"
       ],
       "metadata": {

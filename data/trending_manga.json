@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-12T02:26:31Z",
-  "date": "2026-07-12",
+  "generated_at_utc": "2026-07-13T02:29:00Z",
+  "date": "2026-07-13",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 12,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
     {
       "provider": "jikan_top_manga",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
@@ -23,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 227942.0,
+      "score": 228039.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -38,27 +42,26 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 227876.0,
-      "velocity": 0.00028963120293492954
+      "previous_score": 227942.0,
+      "velocity": 0.0004255468496371884
     },
     {
-      "id": "anilist-manga-105778",
-      "title": "Chainsaw Man",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 325692.0,
-      "url": "https://anilist.co/manga/105778",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105778-euxXZEIfDY2u.png",
-      "description": "The name says it all! Denji's life of poverty is changed forever when he merges with his pet chainsaw dog, Pochita! Now he's living in the big city and an official Devil Hunter. But he's got a lot to learn about his new job and chainsaw powers!<br>\n<br>\n(Source: MANGA Plus)<br>\n<br>\n<i>Notes:<br>\n- Nominated for the 2020 Manga Taisho Award.<br>\n- Winner of the 2021 Kono Manga ga Sugoi Award.<br>\n- Winner of the 66th Shogakukan Manga Award in the shounen category.<br>\n- Winner of the 2021 and 2022 Harvey Award for Best Manga.<br>\n- Chapters 1-97 were released in Weekly Shounen Jump from Dec 3, 2018 to Dec 13, 2020. The series resumed from Ch. 98 in Shounen Jump+ on July 12, 2022</i>",
+      "score": 106317.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
+        "Adventure",
         "Comedy",
-        "Drama",
-        "Horror",
-        "Supernatural"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 85,
+        "average_score": 88,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -66,20 +69,173 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-169922",
-      "title": "Hope You're Happy, Lemon",
+      "id": "anilist-manga-125828",
+      "title": "Sakamoto Days",
       "source": "AniList",
       "category": "manga",
-      "score": 14761.0,
-      "url": "https://anilist.co/manga/169922",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169922-kd2WNbRBJqWA.jpg",
-      "description": "Sunao Akiyoshi thought he’d left heartbreak behind after swearing off love in junior high. His first love, Lemon Nishikawa, shattered his trust by admitting to cheating on him with multiple guys. Now in university, Sunao is finally ready to try again, thanks to his crush on the sweet and down-to-earth Natsumi Kogahara from his film club. But just as he’s about to take a chance on love, fate throws him a curveball: he runs into Lemon again, and one fateful night under a shooting star, he wakes up in her body!\n<br><br>\nNow stuck in the ultimate awkward situation, Sunao has to navigate Lemon’s life—and his growing feelings for Natsumi—while figuring out how to switch back. To make matters worse, Lemon and Natsumi are roommates, leading to hilarious misunderstandings and shocking revelations. In this gender-bending, body-swap romcom, Sunao must face his past, survive his present, and somehow come out of it all with his heart intact.\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "score": 86858.0,
+      "url": "https://anilist.co/manga/125828",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
+      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-132182",
+      "title": "Blue Box",
+      "source": "AniList",
+      "category": "manga",
+      "score": 53440.0,
+      "url": "https://anilist.co/manga/132182",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg",
+      "description": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Sports"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-149544",
+      "title": "The Guy She Was Interested In Wasn't a Guy at All",
+      "source": "AniList",
+      "category": "manga",
+      "score": 49364.0,
+      "url": "https://anilist.co/manga/149544",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
+      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-85564",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "source": "AniList",
+      "category": "manga",
+      "score": 46384.0,
+      "url": "https://anilist.co/manga/85564",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85564-egXRASF0x9B9.jpg",
+      "description": "An unemployed otaku has just reached the lowest point in his life. He wants nothing more than the ability to start over, but just as he thinks it may be possible…he gets hit by a truck and dies! Shockingly, he finds himself reborn into an infant’s body in a strange new world of swords and magic. His identity now is Rudeus Greyrat, yet he still retains the memories of his previous life. Reborn into a new family, Rudeus makes use of his past experiences to forge ahead in this fantasy world as a true prodigy, gifted with maturity beyond his years and a natural born talent for magic. With swords instead of chopsticks, and spell books instead of the internet, can Rudeus redeem himself in this wondrous yet dangerous land?\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-150440",
+      "title": "RuriDragon",
+      "source": "AniList",
+      "category": "manga",
+      "score": 33176.0,
+      "url": "https://anilist.co/manga/150440",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg",
+      "description": "Well, a half dragon. Her mom admits Ruri inherited her draconic traits from her father, who, yes, is actually a dragon. As if dealing with curious classmates wasn’t already challenging enough, Ruri and her dragon genes literally turn up the heat in the middle of a lecture. Her ordinary life is about to be anything but!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Chapters 1-6 were published in Weekly Shounen Jump from June 13, 2022 until the series went on hiatus in August 2022 due to the author’s health. It resumed with five weekly chapters from March 4 to April 1, 2024, then switched on April 22, 2024 to a bi-weekly publication on the digital Weekly Shounen Jump and Shounen Jump+.<br>\n- Ranked 1st in the Nationwide Bookstore Staff Recommended Comics 2023.<br>\n- Nominated for the 2023 eBookJapan Manga Award.<br>\n- Ranked 9th in the Male Readers' division of Takarajimasha's Kono Manga ga Sugoi! 2024 guidebook.<br>\n- Ranked 2nd in the Web Manga category of the 2024 Next Manga Award.<br>\n- Winner of the Setting Award at the 4th Magademy Awards in 2025.</i>",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-180752",
+      "title": "Ichi the Witch",
+      "source": "AniList",
+      "category": "manga",
+      "score": 27130.0,
+      "url": "https://anilist.co/manga/180752",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
+      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-144866",
+      "title": "Akane-banashi",
+      "source": "AniList",
+      "category": "manga",
+      "score": 24694.0,
+      "url": "https://anilist.co/manga/144866",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144866-ummLIg6x419I.jpg",
+      "description": "Rakugo--the ultimate form of storytelling, where everything in a story is expressed with just your body and words. Shinta and his daughter Akane have been seduced by this wonderful form of classical entertainment. Having observed her father strive to pass the shin'uchi rakugo test, Akane will take her own steps into this unique world!\n<br><br>\n(Source: MANGA Plus)\n<br><br>\n<i>Notes:<br>\n- Ranked 3rd in the 8th Next Manga Awards print manga category in 2022.<br>\n- Ranked 4th in the Kono Manga ga Sugoi! 2023 guidebook for male readers.<br>\n- Ranked 3rd in the Nationwide Bookstore Employees' Recommended Comics of 2023.<br>\n- Ranked 2nd in the 16th Manga Taisho in 2023.<br>\n- Nominated for the 47th Kodansha Manga Award in the shounen category in 2023.<br>\n- Included in the New York Public Library's 2023 Best Books for Teens.<br>\n- Included in YALSA's 2024 Great Graphic Novels for Teens.</i>",
+      "genres": [
+        "Drama"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-191203",
+      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "source": "AniList",
+      "category": "manga",
+      "score": 11659.0,
+      "url": "https://anilist.co/manga/191203",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
+      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 77,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -87,21 +243,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-187328",
-      "title": "Houkago, Bokura wa Uchuu ni Madou",
+      "id": "anilist-manga-169734",
+      "title": "My Gyaru Wife's Secrets",
       "source": "AniList",
       "category": "manga",
-      "score": 3283.0,
-      "url": "https://anilist.co/manga/187328",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187328-y4huuFYfA1yF.jpg",
-      "description": "Kinoshima Rocketry Club casually uploaded a vlog of a test firing of their hybrid engine. The engine exploded — blowing away their dream of reaching space with it — but that wasn't the only thing that blew up in that video. Ayame Madoi, a girl who worked on the engine section who happened to appear in the vlog, also exploded in popularity when viewers from across the world found her cute. While she finds this attention bewildering, she actually already has someone she wishes would notice her that way…\n<BR><BR>\n(Source: Shogakukan, translated)",
+      "score": 9707.0,
+      "url": "https://anilist.co/manga/169734",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169734-vNvdPkieV0Xi.jpg",
+      "description": "Fuyuki Tojyo is a flamboyant \"gyaru\" who is cool and competent at work. Taiyo Hara is an ordinary overworked engineer. They’re not just colleagues, they’re a married couple working at the same company, where office romance is strictly prohibited. Only in front of her husband does Fuyuki reveals her super sweet secret side that contrast completely with her workplace persona. Hiding their relationship from everyone, they struggle to shorten the distance between each other. A 100% pure love comedy about an unlikely but adorable couple!\n<br><br>\n(Source: Mangamo)",
       "genres": [
         "Comedy",
-        "Romance",
-        "Slice of Life"
+        "Ecchi",
+        "Romance"
       ],
       "metadata": {
         "average_score": 68,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-177188",
+      "title": "My Girlfriend Is a Colossal Cutie",
+      "source": "AniList",
+      "category": "manga",
+      "score": 5917.0,
+      "url": "https://anilist.co/manga/177188",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177188-nRhcfhOSCGXo.png",
+      "description": "Who says a short king can’t find love? In fact, not only does Amane have an adorably cute girlfriend with a smile that lights up the whole world, she also happens to be the tallest person in class! It may be a challenge for these two goofballs to work around their height differences—especially since they’re keeping it on the down-low to avoid being teased about it—but with a positive attitude and a lotta love, this height-gap romantic comedy will leave you wanting more!\n<br><br>\n(Source: Yen Press)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 73,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

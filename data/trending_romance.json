@@ -1,9 +1,13 @@
 {
-  "generated_at_utc": "2026-07-12T02:26:31Z",
-  "date": "2026-07-12",
+  "generated_at_utc": "2026-07-13T02:29:00Z",
+  "date": "2026-07-13",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "jikan_season_now",
+      "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
+    },
     {
       "provider": "jikan_top_manga",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/top/manga?limit=15"
@@ -18,6 +22,24 @@
     }
   ],
   "items": [
+    {
+      "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
+      "title": "The Breaking Point of Love",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/The-Breaking-Point-of-Love_31000893249",
+      "image": "https://acf.goodnovel.com/book/202504/ac8abf363e3a771d0764f4ab5379c99432bb0c30b329a7573b345aac87b3ff83.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Celeste Rodriguez and Trevor Fleming have been married for seven years. He treats her coldly throughout the marriage, but she faces it with a smile because she loves him deeply. She also believes she can melt his heart one day.\n\nHowever, all she gets is the news of him falling for another woman at first sight. He gives her all his care and concern, but Celeste stands strong.\n\nOn her birthday, she flies abroad to be with Trevor and their daughter, Jordyn Fleming. To her devastation, Trevor brings Jordyn to meet his true love. They leave Celeste to spend the day alone.\n\nShe finally gives up on him. She's also no longer hurt when Jordyn wants the woman to replace her as her mother.\n\nCeleste prepares a divorce agreement and gives up her custody rights. She leaves without another look back, cutting Trevor and Jordyn out of her life. All she needs to do now is wait for the divorce to be finalized.\n\nAfter giving up on her family and returning to the workplace, she easily makes a fortune. She shows the people who once looked down on her that she's better than they think.\n\nCeleste waits for her divorce certificate to arrive, but it never comes. She also notices that Trevor starts coming home more often when he's always refused in the past. He clings to her, too.\n\nWhen he learns that she wants a divorce, he drops his usual aloofness and pins her to the wall. \"A divorce? That's not happening.\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 15.0,
+      "velocity": 0.06666666666666667
+    },
     {
       "id": "dreame-1646404864",
       "title": "True Luna",
@@ -104,24 +126,6 @@
       ],
       "metadata": {
         "bid": 1570579456
-      },
-      "previous_score": 12.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "goodnovel-book-The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
-      "title": "The Alpha Slipped Inside The Wrong Sister",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
-      "image": "https://acf.goodnovel.com/book/202604/9b7dc8042fbb49a32220b24faf50b6c8045408426824655a82fa674c53672efa.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The bed was wet beneath me, soaked by the juices that flowed from between my thighs. A grunt, one so husky brushed against my ear as he moved in and out of me.\r\n\r\n\"Don't tell Kimberly,\" Alpha Ryan groaned as he pushes his cock deeper until the tip brushed a tender spot. I shudder beneath him. Kimberly was his future Luna. She was also my sister.\r\n\r\nI looked up at him beneath my lashes. \"Don't tell my sister you slipped inside the wrong one?\"",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 12.0,
       "velocity": 0.0
@@ -451,32 +455,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-Married-at-First-Sight_31000384431",
-      "title": "Married at First Sight",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/Married-at-First-Sight_31000384431",
-      "image": "https://acf.goodnovel.com/book/202208/Married-at-First-Sight/f0b5eb8152a5c2a3b57c993c0e60c9d94549f934a29d96cbecce2c282d8f4269.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Since the day Serenity got hitched to a stranger on their blind date, she had assumed married life would be ordinary but respectful and mundane. It never crossed her mind that her new husband would be clingy like a piece of gum stuck to the bottom of a shoe. To her utmost surprise, he could make her troubles disappear whenever she was in a fix. Despite her questioning, her husband would always pass it off as luck. Until one day, she watched an interview with a local billionaire known for fussing over his wife. That was when she noticed the uncanny resemblance of the billionaire to her husband. The wife whom he was showering attention on turned out to be her!",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
-      "title": "The Breaking Point of Love",
+      "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
+      "title": "Second Chance for the Barren Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 15.0,
-      "url": "https://www.goodnovel.com/book/The-Breaking-Point-of-Love_31000893249",
-      "image": "https://acf.goodnovel.com/book/202504/ac8abf363e3a771d0764f4ab5379c99432bb0c30b329a7573b345aac87b3ff83.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Celeste Rodriguez and Trevor Fleming have been married for seven years. He treats her coldly throughout the marriage, but she faces it with a smile because she loves him deeply. She also believes she can melt his heart one day.\n\nHowever, all she gets is the news of him falling for another woman at first sight. He gives her all his care and concern, but Celeste stands strong.\n\nOn her birthday, she flies abroad to be with Trevor and their daughter, Jordyn Fleming. To her devastation, Trevor brings Jordyn to meet his true love. They leave Celeste to spend the day alone.\n\nShe finally gives up on him. She's also no longer hurt when Jordyn wants the woman to replace her as her mother.\n\nCeleste prepares a divorce agreement and gives up her custody rights. She leaves without another look back, cutting Trevor and Jordyn out of her life. All she needs to do now is wait for the divorce to be finalized.\n\nAfter giving up on her family and returning to the workplace, she easily makes a fortune. She shows the people who once looked down on her that she's better than they think.\n\nCeleste waits for her divorce certificate to arrive, but it never comes. She also notices that Trevor starts coming home more often when he's always refused in the past. He clings to her, too.\n\nWhen he learns that she wants a divorce, he drops his usual aloofness and pins her to the wall. \"A divorce? That's not happening.\"",
+      "url": "https://www.goodnovel.com/book/Second-Chance-for-the-Barren-Luna_31001064899",
+      "image": "https://acf.goodnovel.com/book/202658/28f6ca955614a0ab96b4d9765d3611118f31a5bb63ad1afd440e89588aa74276.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "“If you can’t provide an heir, you’re a Luna in name only. I need more than a worthless, barren omega cosplaying as a Luna!”\n\nMy Alpha husband Jason’s words cut deeper than any silver blade. For three years, I have kept the truth from him. He thinks he married a weak omega. But the truth? I am the Alpha King’s daughter.\n\nI wait eagerly for his return from a victorious war, ready to reveal who I truly am. Only to find him walking back with his mistress, Viki, who has already carrying his pup.\n\n“You have two options,” Jason snarls, eyes cold. “Lose your status as Luna and go back to being a useless omega. Or stay for Viki and help raise my heir.”\n\nPushed to my breaking point, I accept his rejection and return to my father’s kingdom. I think my heart is dead but fate has led me to a dangerous second-chance mate. Worse, Jason can’t let me go that easily.",
       "genres": [
         "Romance"
       ],
@@ -487,14 +473,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-      "title": "The Pack's Doctor",
+      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
+      "title": "Once a Doormat, Now Untouchable",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
-      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
+      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
+      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
       "genres": [
         "Romance"
       ],
@@ -505,14 +491,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
-      "title": "Seducing My Ex's Father In Law",
+      "id": "goodnovel-book-Full-Moon-Curse_31001279887",
+      "title": "Full Moon Curse",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Seducing-My-Ex-s-Father-In-Law_31000825294",
-      "image": "https://acf.goodnovel.com/book/202409/d6033d607d3ece71d9e6744824c3ec4bc7d3adad788298c39183af28c6211c5f.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Judy’s fated mate rejected her to marry the Lycan Chairman - Gavin’s daughter. As if that wasn’t bad enough, he ruined her family and tried to make her his secret mistress! \r\nJudy’s response? “I’d rather sleep with your father-in-law than ever be with you!”\r\nGavin is known for his power, wealth, and being the ultimate playboy who never sleeps with the same woman twice. \r\nBut Judy’s about to break all his rules… again and again.",
+      "url": "https://www.goodnovel.com/book/Full-Moon-Curse_31001279887",
+      "image": "https://acf.goodnovel.com/book/202502/8b4d9d69c3c072a92b0937df6612c9da59109552e4f70019d4fc867ca7078f64.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "As the only human inside a werewolf pack, Amy is counting the days until she can leave.  With all the kids in the pack shunning her after they started receiving their wolves, she is left with one friend.  Until the future gamma of the pack takes an interest in her, and she finds herself friends with all the future leaders of the pack.  Not trusting her new friends, she gets a wake-up call.  Family secrets are unearthed and her life as she knows it will never be the same.",
       "genres": [
         "Romance"
       ],
@@ -523,14 +509,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-His-Mate-But-Not-His-Luna_31001283588",
-      "title": "His Mate, But Not His Luna",
+      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+      "title": "The Alpha’s Contract",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
+      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Mr-CEO-Your-Ex-Wife-Is-Absolutely-Killing-It-in-the-Research-World_31001046382",
+      "title": "Mr. CEO, Your Ex-Wife Is Absolutely Killing It in the Research World!",
       "source": "GoodNovel",
       "category": "romance",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/His-Mate-But-Not-His-Luna_31001283588",
-      "image": "https://acf.goodnovel.com/book/202602/1a1570cf216233a87238eb6a95e171c202ce7da3d3b890932636c504279ec96c.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "On the night meant to mark her awakening, Lysera loses everything.\r\n\r\nIgnored all her life, the quiet twin watches as her sister Isyra is celebrated as Luna-to-be, until a single scream turns the pack against her. Accused of attacking her “pregnant” sister, Lysera is beaten, humiliated, and condemned. Even the bond meant to save her betrays her, because the Alpha she is mated to chooses Isyra.\r\n\r\nThen the truth surfaces at the worst possible moment.\r\n\r\nAs punishment shatters her body, a secret is revealed: Lysera is pregnant. In a pack where harming a pregnant woman invites calamity, her sentence is suspended—but mercy is replaced with something far crueler. The pack demands she give her baby to Isyra, to replace the child Isyra claims to have lost.\r\n\r\nTrapped among those who see her only as a vessel, betrayed by her own blood, and bound by ancient laws she cannot escape, Lysera must survive long enough to give birth… knowing the child she carries may never be hers.\r\n\r\nBecause Isyra’s crown was built on lies. \r\n\r\nAnd because the Alpha who condemned her may one day realize the truth—when it is already too late.",
+      "url": "https://www.goodnovel.com/book/Mr-CEO-Your-Ex-Wife-Is-Absolutely-Killing-It-in-the-Research-World_31001046382",
+      "image": "https://acf.goodnovel.com/book/202607/157e3ffd6b64f83b84aa8b780aabc9c05e18b94710067a9edf63b974f70f381c.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "For six years after their marriage, Miranda Stone devoted herself wholeheartedly to being Mrs. Gibson.\n\nShe only found out later that while he was abroad, Felix Gibson had been secretly keeping his first love by his side.\n\nMiranda had once believed that even the coldest heart would eventually warm if she just loved hard enough.\n\nBut that belief shattered the day his beloved first love won an international award and threw a lavish celebration—while their daughter was being wheeled into a freezing cold operating room.\n\nThat was the moment Miranda finally woke up.\n\nShe took back her worthless love, filed for divorce, and walked away with her daughter without ever looking back.\n\nOnce she picked up her career again, the woman who used to be a stay-at-home wife transformed into one of the most sought-after experts in the medical field.\n\nHer research papers were published in top international journals. Her breakthroughs won prestigious awards across countries.\n\nWhen she stepped back into the spotlight, glowing with confidence and ready to give herself another chance at happiness, the man who had always held himself above everyone else—so composed and restrained—finally broke.\n\nHe lost it completely. His eyes were bloodshot, his voice hoarse with desperation. He dropped to his knees in front of her, pleading like a man who had lost everything.\n\n“Mira, please don’t leave me.”",
       "genres": [
         "Romance"
       ],
@@ -541,14 +545,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Timber-Alpha_31000018333",
-      "title": "Timber Alpha",
+      "id": "goodnovel-book-Triplet-Alphas-Gifted-Luna_31000656761",
+      "title": "Triplet Alphas Gifted Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/Timber-Alpha_31000018333",
-      "image": "https://acf.goodnovel.com/book/202208/Timber-Alpha/bfa55da833a98de236bc614a17d87f255137903f1f52163f85cacb22ecf9904b.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Timber Alpha is a Werewolf novel written by Marie Night that covers Alpha, Adventurous, Forbidden Love. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/Triplet-Alphas-Gifted-Luna_31000656761",
+      "image": "https://acf.goodnovel.com/book/202312/Triplet-Alphas-Gifted-Luna/d3eddea16adf8b6ec56056b63971c732af993df476a1ffbf5dd6c8586f2b6ac5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Triplet Alphas Gifted Luna is a Werewolf novel written by Samantha Doyle that covers Contemporary, Reverse Harem, Girl Power. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
