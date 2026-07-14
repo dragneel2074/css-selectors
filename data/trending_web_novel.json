@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-13T02:29:00Z",
-  "date": "2026-07-13",
+  "generated_at_utc": "2026-07-14T02:08:21Z",
+  "date": "2026-07-14",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,83 +23,65 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "title": "I Can Devour Monsters’ SSS Talents",
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": 1.0
+      "previous_score": 2.0,
+      "velocity": 2.0
+    },
+    {
+      "id": "webnovel-book-maybe-i-really-am-a-villian_35679680508487405",
+      "title": "Maybe I really am a Villian",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/maybe-i-really-am-a-villian_35679680508487405",
+      "image": "https://book-pic.webnovel.com/bookcover/35679680508487405?imageMogr2/thumbnail/600x&imageId=1783871852463",
+      "description": "# ACTION # ROMANCE # ADVENTURE # MAGIC # WEAKTOSTRONG # COMEDY # VILLAIN",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 0.6666666666666666
     },
     {
       "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
       "title": "Starting With an SSS-Rank Goddess Summon!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
+      "score": 10.0,
       "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
       "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1783894086168",
-      "description": "# SLICEOFLIFE # SYSTEM # R18 # HAREM # MAGIC # ACTION # ADVENTURE # REINCARNATION # ROMANCE # OVERPOWERED",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # HAREM # OVERPOWERED # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 4.0,
-      "velocity": 0.75
-    },
-    {
-      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1780505810595",
-      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": 0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
-      "title": "Every Mafia's Favorite Girl",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/every-mafia's-favorite-girl_35932764008926405",
-      "image": "https://book-pic.webnovel.com/bookcover/35932764008926405?imageMogr2/thumbnail/600x&imageId=1783662021433",
-      "description": "# ROMANCE # R18 # COMEDY # DARK # TRANSMIGRATION # ISEKAI # POSSESSIVE # MAFIA # REVERSE HAREM",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": 0.25
+      "previous_score": 7.0,
+      "velocity": 0.42857142857142855
     },
     {
       "id": "webnovel-book-the-luna-you-betrayed-is-no-longer-yours_36043441700091105",
       "title": "The Luna You Betrayed Is No Longer Yours",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 9.0,
+      "score": 12.0,
       "url": "https://www.webnovel.com/book/the-luna-you-betrayed-is-no-longer-yours_36043441700091105",
       "image": "https://book-pic.webnovel.com/bookcover/36043441700091105?imageMogr2/thumbnail/600x&imageId=1780476019446",
       "description": "# REVENGE # BETRAYAL # WEREWOLF # LOVETRIANGLE # ALPHA # PREGNANCY # STRONGFEMALELEAD # COUNTERATTACK # CHEAT # DIVORCE",
@@ -109,8 +91,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": 0.125
+      "previous_score": 9.0,
+      "velocity": 0.3333333333333333
     },
     {
       "id": "webnovel-book-the-scumbag%E2%80%99s-guide-to-heroism_35677809208460505",
@@ -131,6 +113,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
+      "title": "Every Mafia's Favorite Girl",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/every-mafia's-favorite-girl_35932764008926405",
+      "image": "https://book-pic.webnovel.com/bookcover/35932764008926405?imageMogr2/thumbnail/600x&imageId=1783662021433",
+      "description": "# ROMANCE # R18 # COMEDY # DARK # TRANSMIGRATION # ISEKAI # POSSESSIVE # MAFIA # REVERSE HAREM",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 15.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-unforeseen-entanglements_35671209300388905",
       "title": "Unforeseen Entanglements",
       "source": "WebNovel",
@@ -145,8 +145,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 15.0,
-      "velocity": -0.06666666666666667
+      "previous_score": 14.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-beast-world-from-villainess-to-cub-raising-chef_35474898700589105",
@@ -163,15 +163,51 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 14.0,
-      "velocity": -0.07142857142857142
+      "previous_score": 13.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1780505810595",
+      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 12.0,
+      "velocity": -0.08333333333333333
+    },
+    {
+      "id": "webnovel-book-alpha's-regret-the-hybrid's-royal-contract_35914560408470105",
+      "title": "Alpha's Regret: The Hybrid's Royal Contract",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/alpha's-regret-the-hybrid's-royal-contract_35914560408470105",
+      "image": "https://book-pic.webnovel.com/bookcover/35914560408470105?imageMogr2/thumbnail/600x&imageId=1779187205629",
+      "description": "# REVENGE # POSSESSIVE # WEREWOLF # ALPHA # RICHFAMILY # PREGNANCY # HIDDENIDENTITIES # CEO # EX # CONTRACTMARRIAGE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.125
     },
     {
       "id": "webnovel-book-infinite-cashback-system_35674644400458505",
       "title": "Infinite Cashback System",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/infinite-cashback-system_35674644400458505",
       "image": "https://book-pic.webnovel.com/bookcover/35674644400458505?imageMogr2/thumbnail/600x&imageId=1780250189855",
       "description": "# ROMANCE # ADVENTURE # R18 # HAREM # SLICEOFLIFE # CAMPUS # ACADEMY # URBAN # CEO # POORTORICH",
@@ -181,18 +217,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 13.0,
-      "velocity": -0.15384615384615385
+      "previous_score": 11.0,
+      "velocity": -0.18181818181818182
     },
     {
-      "id": "webnovel-book-alpha's-regret-the-hybrid's-royal-contract_35914560408470105",
-      "title": "Alpha's Regret: The Hybrid's Royal Contract",
+      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "title": "I Can Devour Monsters’ SSS Talents",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 8.0,
-      "url": "https://www.webnovel.com/book/alpha's-regret-the-hybrid's-royal-contract_35914560408470105",
-      "image": "https://book-pic.webnovel.com/bookcover/35914560408470105?imageMogr2/thumbnail/600x&imageId=1779187205629",
-      "description": "# REVENGE # POSSESSIVE # WEREWOLF # ALPHA # RICHFAMILY # PREGNANCY # HIDDENIDENTITIES # CEO # EX # CONTRACTMARRIAGE",
+      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
       "genres": [
         "Web Novel"
       ],
@@ -207,7 +243,7 @@
       "title": "Rejected Luna, Claimed by Daddy Alpha",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
+      "score": 3.0,
       "url": "https://www.webnovel.com/book/rejected-luna-claimed-by-daddy-alpha_35619360400438005",
       "image": "https://book-pic.webnovel.com/bookcover/35619360400438005?imageMogr2/thumbnail/600x&imageId=1776235210609",
       "description": "# REVENGE # BETRAYAL # WEREWOLF # LOVETRIANGLE # ALPHA # PREGNANCY # FORBIDDENLOVE # EX # FATEDMATE # AGEGAP",
@@ -217,15 +253,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 6.0,
+      "velocity": -0.5
     },
     {
       "id": "webnovel-book-sss-rank-awakening-my-talent-multiplies-everything_35683616408556005",
       "title": "SSS-Rank Awakening: My Talent Multiplies Everything",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 2.0,
       "url": "https://www.webnovel.com/book/sss-rank-awakening-my-talent-multiplies-everything_35683616408556005",
       "image": "https://book-pic.webnovel.com/bookcover/35683616408556005?imageMogr2/thumbnail/600x&imageId=1777875515410",
       "description": "# ACTION # ROMANCE # SYSTEM # R18 # COMEDY # HAREM # OVERPOWERED",
@@ -235,54 +271,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 5.0,
+      "velocity": -0.6
     },
     {
-      "id": "webnovel-book-yandere-instruction-manual-my-wife-is-world-ending-calamity!_36008623008351305",
-      "title": "Yandere Instruction Manual: My Wife is World Ending Calamity!",
+      "id": "webnovel-book-live-streaming-academy_35619100600433005",
+      "title": "Live Streaming Academy",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 4.0,
-      "url": "https://www.webnovel.com/book/yandere-instruction-manual-my-wife-is-world-ending-calamity!_36008623008351305",
-      "image": "https://book-pic.webnovel.com/bookcover/36008623008351305?imageMogr2/thumbnail/600x&imageId=1783710085168",
-      "description": "# ACTION # ROMANCE # SYSTEM # REINCARNATION # R18 # WEAKTOSTRONG # OVERPOWERED # ANTIHERO # ACADEMY # YANDERE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-maybe-i-really-am-a-villian_35679680508487405",
-      "title": "Maybe I really am a Villian",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/maybe-i-really-am-a-villian_35679680508487405",
-      "image": "https://book-pic.webnovel.com/bookcover/35679680508487405?imageMogr2/thumbnail/600x&imageId=1783871852463",
-      "description": "# ACTION # ROMANCE # ADVENTURE # MAGIC # WEAKTOSTRONG # COMEDY # VILLAIN",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
+      "url": "https://www.webnovel.com/book/live-streaming-academy_35619100600433005",
+      "image": "https://book-pic.webnovel.com/bookcover/35619100600433005?imageMogr2/thumbnail/600x&imageId=1781633619160",
+      "description": "# ACTION # ROMANCE # ADVENTURE # R18 # WEAKTOSTRONG # COMEDY # HAREM # OVERPOWERED # ANTIHERO # ACADEMY",
       "genres": [
         "Web Novel"
       ],
