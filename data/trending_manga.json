@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-14T02:08:21Z",
-  "date": "2026-07-14",
+  "generated_at_utc": "2026-07-15T02:05:43Z",
+  "date": "2026-07-15",
   "category": "manga",
   "item_count": 6,
   "errors": [
@@ -23,122 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-191203",
-      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
-      "source": "AniList",
-      "category": "manga",
-      "score": 11727.0,
-      "url": "https://anilist.co/manga/191203",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
-      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 11659.0,
-      "velocity": 0.0058324041512994255
-    },
-    {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
-      "source": "AniList",
-      "category": "manga",
-      "score": 27194.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 27130.0,
-      "velocity": 0.0023590121636564688
-    },
-    {
-      "id": "anilist-manga-132182",
-      "title": "Blue Box",
-      "source": "AniList",
-      "category": "manga",
-      "score": 53563.0,
-      "url": "https://anilist.co/manga/132182",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg",
-      "description": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Slice of Life",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 53440.0,
-      "velocity": 0.0023016467065868264
-    },
-    {
-      "id": "anilist-manga-125828",
-      "title": "Sakamoto Days",
-      "source": "AniList",
-      "category": "manga",
-      "score": 86920.0,
-      "url": "https://anilist.co/manga/125828",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
-      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 86858.0,
-      "velocity": 0.0007138087453084345
-    },
-    {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
-      "source": "AniList",
-      "category": "manga",
-      "score": 106384.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 88,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 106317.0,
-      "velocity": 0.0006301908443616731
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 228123.0,
+      "score": 228220.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -153,8 +42,118 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 228039.0,
-      "velocity": 0.0003683580440187863
+      "previous_score": 228123.0,
+      "velocity": 0.0004252092073135984
+    },
+    {
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
+      "source": "AniList",
+      "category": "manga",
+      "score": 120769.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-122063",
+      "title": "Shangri-La Frontier",
+      "source": "AniList",
+      "category": "manga",
+      "score": 21289.0,
+      "url": "https://anilist.co/manga/122063",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
+      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-169904",
+      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
+      "source": "AniList",
+      "category": "manga",
+      "score": 13862.0,
+      "url": "https://anilist.co/manga/169904",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
+      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-143719",
+      "title": "Dealing with Mikadono Sisters Is a Breeze",
+      "source": "AniList",
+      "category": "manga",
+      "score": 12185.0,
+      "url": "https://anilist.co/manga/143719",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143719-u5c2HrIY4ITW.jpg",
+      "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-167423",
+      "title": "Noa-senpai wa Tomodachi.",
+      "source": "AniList",
+      "category": "manga",
+      "score": 9047.0,
+      "url": "https://anilist.co/manga/167423",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
+      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 70,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }
