@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-16T02:15:10Z",
-  "date": "2026-07-16",
+  "generated_at_utc": "2026-07-17T02:18:26Z",
+  "date": "2026-07-17",
   "category": "manga",
-  "item_count": 7,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,33 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
-      "source": "AniList",
-      "category": "manga",
-      "score": 120841.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 120769.0,
-      "velocity": 0.0005961794831455092
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 228299.0,
+      "score": 228383.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -64,15 +42,15 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 228220.0,
-      "velocity": 0.0003461572167207081
+      "previous_score": 228299.0,
+      "velocity": 0.00036793853674348115
     },
     {
       "id": "anilist-manga-74347",
       "title": "One-Punch Man",
       "source": "AniList",
       "category": "manga",
-      "score": 170734.0,
+      "score": 170786.0,
       "url": "https://anilist.co/manga/74347",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
       "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
@@ -87,73 +65,26 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 170734.0,
+      "velocity": 0.00030456733866716647
     },
     {
-      "id": "anilist-manga-113501",
-      "title": "Please Go Home, Miss Akutsu!",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 33147.0,
-      "url": "https://anilist.co/manga/113501",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113501-rVSt4fVTEAy2.jpg",
-      "description": "Timid Ooyama keeps to himself at school, and he certainly never gets involved with Akutsu Riko, a delinquent as buxom as she is notorious. But when she turns up at his apartment out of the blue, what’s he supposed to do, kick her out? She’s gorgeous! And scary! But things get complicated when Akutsu asks to stay the night, then starts turning up over and over again after school–reading Ooyama’s manga, sprawling out on his bed, and digging up his smut stash. Why exactly is she claiming his life as her hangout?! She makes it clear there’s no way she could possibly like him, but the teasing threatens to boil over into something more in this sexy yet adorable slice-of-life rom-com!\n<br><br>\n(Source: Seven Seas Entertainment)",
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-201773",
-      "title": "Haimiya Is Scary Cute",
-      "source": "AniList",
-      "category": "manga",
-      "score": 14359.0,
-      "url": "https://anilist.co/manga/201773",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
-      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-98171",
-      "title": "How a Realist Hero Rebuilt the Kingdom",
-      "source": "AniList",
-      "category": "manga",
-      "score": 12318.0,
-      "url": "https://anilist.co/manga/98171",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98171-H2x8ZR5B4WKo.jpg",
-      "description": "\"O, Hero!\" With that cliched line, Kazuya Souma found himself summoned to another world and his adventure--did not begin. After he presents his plan to strengthen the country economically and militarily, the king cedes the throne to him and Souma finds himself saddled with ruling the nation! What's more, he's betrothed to the king's daughter now...?! In order to get the country back on its feet, Souma calls the wise, the talented, and the gifted to his side. Five people gather before the newly crowned Souma. Just what are the many talents and abilities they possess...?! What path will his outlook as a realist take Souma and the people of his country down? A revolutionary transferred-to-another-world administrative fantasy series starts here!\n<br><br>\n(Source: J-Novel Club)",
+      "score": 106556.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Psychological",
-        "Romance"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 88,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -161,21 +92,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-199999",
-      "title": "WITCHRIV",
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
       "source": "AniList",
       "category": "manga",
-      "score": 6828.0,
-      "url": "https://anilist.co/manga/199999",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199999-O8TW8Ufc3sXv.png",
-      "description": "A girl named Nona lives in plain sight among humans, hiding her true identity as a mage as she spends her days in peace with her best friend Lovi. But one day, Nona uses magic to fix Lovi's glasses and subsequently catches the attention of the Bureau of Magic Surveillance. A simple good deed becomes the trigger that sets Nona's destiny in motion...\n<br><br>\n(Source: MANGA Plus)",
+      "score": 36393.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Mystery"
+        "Comedy",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 72,
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-138072",
+      "title": "JoJo no Kimyou na Bouken: The JOJOLands",
+      "source": "AniList",
+      "category": "manga",
+      "score": 28532.0,
+      "url": "https://anilist.co/manga/138072",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138072-G9PrTnqb8CRI.jpg",
+      "description": "The stage is set on a volcanic island in the Pacific Ocean, Hawaii. Jodio Joestar, a young boy living on Oahu Island, harbors the ambition to become a great millionaire. The clue to his goal lies in reaching the pinnacle of the mechanisms of this world. What means will he choose to achieve his objective?",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
