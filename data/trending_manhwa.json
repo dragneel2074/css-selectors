@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-18T02:07:18Z",
-  "date": "2026-07-18",
+  "generated_at_utc": "2026-07-19T02:22:24Z",
+  "date": "2026-07-19",
   "category": "manhwa",
-  "item_count": 8,
+  "item_count": 11,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,32 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-201009",
-      "title": "The Patron of Villains",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 11462.0,
-      "url": "https://anilist.co/manga/201009",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
-      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 11351.0,
-      "velocity": 0.009778874108008106
-    },
-    {
       "id": "anilist-manga-172619",
       "title": "The Extra’s Academy Survival Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 28380.0,
+      "score": 28460.0,
       "url": "https://anilist.co/manga/172619",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
       "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
@@ -61,20 +40,21 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 28296.0,
-      "velocity": 0.0029686174724342664
+      "previous_score": 28380.0,
+      "velocity": 0.0028188865398167725
     },
     {
-      "id": "anilist-manga-155485",
-      "title": "Dungeon Odyssey",
+      "id": "anilist-manga-149332",
+      "title": "The Swordmaster's Son",
       "source": "AniList",
       "category": "manhwa",
-      "score": 19091.0,
-      "url": "https://anilist.co/manga/155485",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155485-YlWPkBFvWG3v.jpg",
-      "description": "When the war between the aboveground and underground ended, humanity was joined by so-called \"dungeon babies,\" those gifted with supernatural abilities and an obsession with the labyrinths below ground. Despite being a dungeon baby, Kim Jin-U suppressed his instincts, choosing to live an ordinary life as a guide and caring for his family. But when an expedition goes wrong and he somehow ends up becoming the new owner of a labyrinth, he discovers that he cannot ignore his instincts forever...\n<br><br>\n(Source: Tapas, edited)",
+      "score": 41405.0,
+      "url": "https://anilist.co/manga/149332",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149332-adkSyOFY3c5U.jpg",
+      "description": "Jin Runcandel was destined to become the head of his swordmaster clan. But despite his best efforts, he's banished for his shoddy swordsmanship. Though Jin eventually makes a contract with the god Solderet and is freed from the curse that hindered his abilities, he meets a rather unfortunate end. In the next moment, however, he awakens as a baby, long before his tragedy began. Armed with a second chance and some new powers, Jin swears to fulfill his destiny and become the ultimate swordmaster. <br><br>(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
@@ -86,20 +66,86 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-164222",
-      "title": "Chronicles of the Demon Faction",
+      "id": "anilist-manga-117460",
+      "title": "Overgeared",
       "source": "AniList",
       "category": "manhwa",
-      "score": 13033.0,
-      "url": "https://anilist.co/manga/164222",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164222-9wzDZENmjYtc.jpg",
-      "description": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.<br><br>(Source: WEBTOON, edited)",
+      "score": 37104.0,
+      "url": "https://anilist.co/manga/117460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
+      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-135325",
+      "title": "The Lazy Lord Masters the Sword",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 31861.0,
+      "url": "https://anilist.co/manga/135325",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-187944",
+      "title": "My Bias Gets on the Last Train",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 17166.0,
+      "url": "https://anilist.co/manga/187944",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187944-gzNbL7zeY7Ma.jpg",
+      "description": "Every night, Yeo-Un takes the last train home—same route, same time, same routine. But one thing keeps catching his eye: a girl with a guitar and a presence that lingers in his mind. When a shared love for the indie band Long Afternoon sparks a conversation, their late-night encounters begin to turn into something more. But Hae-In isn’t just another fan—she’s the voice behind the band, a secret she can’t afford to reveal. As music draws them closer, the truth may threaten to pull them apart. When the final note plays, will their story end in harmony… or heartbreak?<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 86,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-194523",
+      "title": "Reincarnation of the Fist King",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 5502.0,
+      "url": "https://anilist.co/manga/194523",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
+      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 73,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -107,20 +153,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-187427",
-      "title": "The Villain's Survival Route",
+      "id": "anilist-manga-195914",
+      "title": "Chronicles of the Lazy Sovereign",
       "source": "AniList",
       "category": "manhwa",
-      "score": 12880.0,
-      "url": "https://anilist.co/manga/187427",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187427-7A225QIPaIU3.png",
-      "description": "Fresh out of a breakup, game developer Woo-Jin has little going for him. So when he hears that the middle boss of their game is based on him, he can't resist adding a few traits to make his virtual alter ego a tad more noble. Little did he know, he would soon end up trapped in said villain's skin! With a 1 in 1,000 chance of survival, Woo-Jin now has to navigate the countless variables leading him to his impending doom. Will the tweaks he made to the character tip the scales in his favor?<br><br>(Source: Tapas)",
+      "score": 5162.0,
+      "url": "https://anilist.co/manga/195914",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195914-6lub8mSgYhuf.jpg",
+      "description": "The path to greatness begins… tomorrow! It’s always a day too early for a great procrastinator like Yeonho Wi to start training. So how did someone as lazy as him become a great warrior renowned for his virtue, benevolence, and might? Follow the historian’s journey to uncover the hidden secrets of the lazy master of martial arts.<br><br>(Source: WEBTOON)",
       "genres": [
-        "Drama",
+        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 78,
+        "average_score": 73,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -128,19 +175,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-166658",
-      "title": "The Top Dungeon Farmer",
+      "id": "anilist-manga-198931",
+      "title": "The Legend of Enxue",
       "source": "AniList",
       "category": "manhwa",
-      "score": 12676.0,
-      "url": "https://anilist.co/manga/166658",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166658-jbtqReVgxdqH.jpg",
-      "description": "Se-Jun, your average Seoul underdog, didn’t expect to grow tomatoes full-time when he stumbled into the mysterious dungeon full of monster quests and extravagant rewards. Yet, there he was, as a farmer growing and selling cash crops while clearing numerous quests that came his way. Will Se-Jun make it out of the dungeon with the plush rewards he hoped for? At least he has what it takes: optimism, resourcefulness, and a group of loyal furry friends.\n<br><br>\n(Source: WEBTOON, edited)",
+      "score": 4462.0,
+      "url": "https://anilist.co/manga/198931",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198931-O804U3UqOoX8.jpg",
+      "description": "When his grandfather is suddenly brutally murdered by a member of the Demonic Martial Alliance, Fu Enxue vows that he will stop at nothing to avenge his death. To find the perpetrator, he infiltrates the alliance armed only with his wits and thirst for vengeance. There, he catches the attention of the demonic masters, as his overwhelming bloodlust makes him a prodigy in the demonic arts. But will this thirst for blood help him in his pursuit of revenge, or will that same power be his undoing?<br><br>(Source: Tapas)",
       "genres": [
+        "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 78,
+        "average_score": 75,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -148,14 +196,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-185452",
-      "title": "The Sichuan Tang Clan’s Entomologist",
+      "id": "anilist-manga-206766",
+      "title": "There's No Such Thing as a Bad Lady",
       "source": "AniList",
       "category": "manhwa",
-      "score": 6087.0,
-      "url": "https://anilist.co/manga/185452",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185452-jLfeJZV2u8DT.png",
-      "description": "Fabre, a famous million-viewer streamer known for his daring encounters with venomous creatures, is bitten by a black mamba while filming in Africa and wakes up in the mystical world of Murim. To his surprise, the jungles of Murim offer him a peaceful farming life in which he enjoys cultivating various poisonous species. But his tranquility is short-lived when he crosses paths with members of the Tang Clan, the masters of poison and devious tactics.<br><br>\n<i>\"I see potential in you. Become a part of our family.\"</i><br><br>(Source: WEBTOON)",
+      "score": 4292.0,
+      "url": "https://anilist.co/manga/206766",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
+      "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -169,22 +217,41 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-212562",
-      "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
+      "id": "anilist-manga-203958",
+      "title": "A Wimp’s Tower Strategy Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3250.0,
-      "url": "https://anilist.co/manga/212562",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212562-huzVxCEUCcfM.jpg",
-      "description": "I sacrificed my precious vacation to attend a pop-up event of a certain modern fantasy I loved so much. And on that very day, I got transported into that fantasy world. As none other than a newly hired employee at a renowned major corporation! A dream workplace with tons of benefits, a high salary, and kind, competent supervisors. Using my knowledge of the world, I quickly climb the corporate ladder!\n<br><br>\nBut am I happy, you ask? Please, let me go back home.\n<br><br>\n(Source: KakaoPage, translated)",
+      "score": 2764.0,
+      "url": "https://anilist.co/manga/203958",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203958-AZVqS2yRXfiN.jpg",
+      "description": "Mysterious black towers have appeared all over the world. Inside them are monsters, danger, and the promise of power and fame. Only a select few are chosen to enter as players. Everyone calls it a once-in-a-lifetime opportunity, but 25-year-old Ju-Hyeok Bong calls it a death sentence. He is a timid, anxious self-proclaimed “wimp,” perfectly content with staying under the radar… That is, until he is named as a player. Will he risk everything by entering the tower, or keep running from the one chance that could change his life?<br><br>(Source: WEBTOON)",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror",
-        "Supernatural"
+        "Action",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 72,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-211415",
+      "title": "Modeungeol Gieokaneun Cheonjaemusa",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 1058.0,
+      "url": "https://anilist.co/manga/211415",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211415-48bZCBa6uZd9.jpg",
+      "description": "Jin So-Un, a third-rate martial artist who remembers everything. He finds himself transported back to 30 years ago, before the Demon Sect’s return.<br><bR></i>\nThe fact that I’ve returned to the past doesn’t exactly feel like a sign telling me to save the world. If that were the case, wouldn’t they have at least given me some special ability, or attached the spirit of Master Jang Sam-bong or something?</i><br><br>\n\nThe Samun Sect, a third-rate martial arts school with no future. A talent for martial arts that couldn’t be more mediocre. My hand is simply too weak to feel any joy at having returned.\n<bR><bR><i>\n“I’m doomed.”</i><br><br>\nJin So-Un’s desperate struggle to change the despair of his predetermined future begins.<br><bR>(Source: Naver, translated)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 61,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-18T02:07:18Z",
-  "date": "2026-07-18",
+  "generated_at_utc": "2026-07-19T02:22:24Z",
+  "date": "2026-07-19",
   "category": "manga",
-  "item_count": 6,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,137 +23,43 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
+      "id": "anilist-manga-169922",
+      "title": "Hope You're Happy, Lemon",
       "source": "AniList",
       "category": "manga",
-      "score": 106609.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+      "score": 14894.0,
+      "url": "https://anilist.co/manga/169922",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169922-kd2WNbRBJqWA.jpg",
+      "description": "Sunao Akiyoshi thought he’d left heartbreak behind after swearing off love in junior high. His first love, Lemon Nishikawa, shattered his trust by admitting to cheating on him with multiple guys. Now in university, Sunao is finally ready to try again, thanks to his crush on the sweet and down-to-earth Natsumi Kogahara from his film club. But just as he’s about to take a chance on love, fate throws him a curveball: he runs into Lemon again, and one fateful night under a shooting star, he wakes up in her body!\n<br><br>\nNow stuck in the ultimate awkward situation, Sunao has to navigate Lemon’s life—and his growing feelings for Natsumi—while figuring out how to switch back. To make matters worse, Lemon and Natsumi are roommates, leading to hilarious misunderstandings and shocking revelations. In this gender-bending, body-swap romcom, Sunao must face his past, survive his present, and somehow come out of it all with his heart intact.\n<br><br>\n(Source: Seven Seas Entertainment)",
       "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
-        "Fantasy"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 88,
+        "average_score": 74,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 106556.0,
-      "velocity": 0.0004973910432073276
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
+      "id": "anilist-manga-174233",
+      "title": "The Witch and the Mercenary",
       "source": "AniList",
       "category": "manga",
-      "score": 228460.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 228383.0,
-      "velocity": 0.0003371529404552878
-    },
-    {
-      "id": "anilist-manga-30002",
-      "title": "Berserk",
-      "source": "AniList",
-      "category": "manga",
-      "score": 240208.0,
-      "url": "https://anilist.co/manga/30002",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30002-Cul4OeN7bYtn.jpg",
-      "description": "His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned—and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance.<br>\n<br>\n(Source: Dark Horse)<br>\n<br>\n<i>Notes:<br>\n- Volumes 1-5 contain the 16 prequel chapters 0A - 0P.<br>\n- <a href=\"https://anilist.co/manga/95821/\">Chapter 83</a> was omitted from Volume 13 due to the author’s request.<br>\n- Volume 14 includes “<a href=\"https://anilist.co/manga/36408/\">Berserk: The Prototype</a>”.<br>\n- Due to the author's passing, starting from Chapter 365, the manga is illustrated by Studio Gaga (Miura's assistants) and supervised by Kouji Mori (a close friend of Miura's).</i>",
+      "score": 5464.0,
+      "url": "https://anilist.co/manga/174233",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b174233-VVAJkWx1XwCh.jpg",
+      "description": "Zig—a tall, broad-shouldered mercenary—participates in a witch hunt. Following a fierce duel with the deadly witch, he becomes privy to her desire. “I want you to protect me,” she requests, tired of having her life trivialized. Seeking a place to survive, the witch and the mercenary set their sights on an unknown continent!<br><br>(Source: K MANGA)",
       "genres": [
         "Action",
         "Adventure",
         "Drama",
-        "Fantasy",
-        "Horror",
-        "Psychological"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 92,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
-      "source": "AniList",
-      "category": "manga",
-      "score": 120983.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-114416",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 38013.0,
-      "url": "https://anilist.co/manga/114416",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
-      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-122337",
-      "title": "The Angel Next Door Spoils Me Rotten",
-      "source": "AniList",
-      "category": "manga",
-      "score": 14380.0,
-      "url": "https://anilist.co/manga/122337",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122337-vy8L0b1ySIQr.jpg",
-      "description": "Amane Fujimiya lives alone in a messy apartment&mdash;right next door to Mahiru Shiina, a veritable \"angel\" who's the smartest, prettiest girl at school. When a chance encounter on a rainy day draws them together, Mahiru finds herself spending more and more time helping Amane get his life in order.  And though they both insist they have no intention of dating the other, slowly but surely, something more than friendship begins to blossom.\n<br><br>\n(Source: Square Enix)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 79,
+        "average_score": 78,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
