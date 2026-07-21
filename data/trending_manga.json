@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-20T02:39:30Z",
-  "date": "2026-07-20",
+  "generated_at_utc": "2026-07-21T02:18:01Z",
+  "date": "2026-07-21",
   "category": "manga",
-  "item_count": 8,
+  "item_count": 7,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,57 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 228601.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-108556",
-      "title": "SPY x FAMILY",
-      "source": "AniList",
-      "category": "manga",
-      "score": 157464.0,
-      "url": "https://anilist.co/manga/108556",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
-      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Slice of Life",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-30026",
       "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 106726.0,
+      "score": 106781.0,
       "url": "https://anilist.co/manga/30026",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
       "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
@@ -88,15 +42,15 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 106726.0,
+      "velocity": 0.0005153383430466803
     },
     {
       "id": "anilist-manga-125828",
       "title": "Sakamoto Days",
       "source": "AniList",
       "category": "manga",
-      "score": 87110.0,
+      "score": 87150.0,
       "url": "https://anilist.co/manga/125828",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
       "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
@@ -109,18 +63,41 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 87110.0,
+      "velocity": 0.0004591895304787051
     },
     {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
+      "id": "anilist-manga-108556",
+      "title": "SPY x FAMILY",
       "source": "AniList",
       "category": "manga",
-      "score": 27386.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
+      "score": 157527.0,
+      "url": "https://anilist.co/manga/108556",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
+      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 157464.0,
+      "velocity": 0.0004000914494741655
+    },
+    {
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
+      "source": "AniList",
+      "category": "manga",
+      "score": 228661.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
         "Adventure",
@@ -128,30 +105,54 @@
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 91,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 228601.0,
+      "velocity": 0.0002624660434556279
     },
     {
-      "id": "anilist-manga-176740",
-      "title": "Centuria",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 20743.0,
-      "url": "https://anilist.co/manga/176740",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176740-KD68EumxZV95.jpg",
-      "description": "Sold into slavery by his own mother, Julian has known nothing but pain and brutality. All that changes when, aboard a slave ship, he experiences the kindness and the tender touch of a loving person for the first time. But fate has plans for Julian in the blood awakening of an ancient god who strikes a cruel bargain: an innocent life in exchange for extraordinary powers—ones he must use to protect a helpless baby in a cruel and violent world!\n<br><br>\n(Source: VIZ Media)",
+      "score": 113725.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
-        "Adventure",
+        "Comedy",
         "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-106758",
+      "title": "The Eminence in Shadow",
+      "source": "AniList",
+      "category": "manga",
+      "score": 46336.0,
+      "url": "https://anilist.co/manga/106758",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg",
+      "description": "One big fat lie and a few twisted truths.\n<br><br>\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!\n<br><br>\n(Source: Yen Press)",
+      "genres": [
+        "Action",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 80,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -159,42 +160,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-167423",
-      "title": "Noa-senpai wa Tomodachi.",
+      "id": "anilist-manga-168468",
+      "title": "Boruto: Two Blue Vortex",
       "source": "AniList",
       "category": "manga",
-      "score": 9115.0,
-      "url": "https://anilist.co/manga/167423",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
-      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
+      "score": 21707.0,
+      "url": "https://anilist.co/manga/168468",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168468-FEo5x1ZZyWj4.png",
+      "description": "With everyone's memories having been altered, Boruto finds himself being hunted by his own village. After escaping with Sasuke, what future awaits Boruto...?\n<br><br>\n(Source: MANGA Plus)",
       "genres": [
-        "Comedy",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 70,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-198118",
-      "title": "Make Heroine wo Katasetai!!",
-      "source": "AniList",
-      "category": "manga",
-      "score": 2971.0,
-      "url": "https://anilist.co/manga/198118",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198118-BeZJFrJXaGo9.jpg",
-      "description": "From the losing heroine to the winning heroine! A romantic comedy where the pure-hearted heroine is supportively guided by the side character protagonist!\n<br><br>\n(Source: Champion Cross, translated)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 71,
+        "average_score": 75,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
