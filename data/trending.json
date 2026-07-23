@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-22T02:15:54Z",
-  "date": "2026-07-22",
+  "generated_at_utc": "2026-07-23T02:27:40Z",
+  "date": "2026-07-23",
   "item_count": 75,
   "errors": [
     {
@@ -22,14 +22,14 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-i-grow-stronger-by-making-my-wife-happy._35758864700801105",
-      "title": "I grow stronger by making my wife happy.",
+      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
+      "title": "I Stopped Simping and the Heroines Lost Their Minds",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/i-grow-stronger-by-making-my-wife-happy._35758864700801105",
-      "image": "https://book-pic.webnovel.com/bookcover/35758864700801105?imageMogr2/thumbnail/600x&imageId=1783456346441",
-      "description": "# ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # WEAKTOSTRONG # SLICEOFLIFE # ACADEMY # NO-HAREM # BEAST TAMING",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
+      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
+      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
@@ -37,86 +37,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 2.0,
-      "velocity": 2.0
-    },
-    {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
-      "velocity": 0.8571428571428571
-    },
-    {
-      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "title": "Martial Dao: I Can Enhance My Talents",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
-      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
-      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 4.0,
-      "velocity": 0.75
-    },
-    {
-      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "title": "I Can Devour Monsters’ SSS Talents",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": 0.6
-    },
-    {
-      "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-      "title": "Starting With an SSS-Rank Goddess Summon!",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1784461715909",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": 0.5
+      "velocity": 1.0
     },
     {
       "id": "webnovel-book-global-deities-rising-as-wood-elves'-god_35234032408256805",
       "title": "Global Deities: Rising as Wood Elves' God",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
+      "score": 6.0,
       "url": "https://www.webnovel.com/book/global-deities-rising-as-wood-elves'-god_35234032408256805",
       "image": "https://book-pic.webnovel.com/bookcover/35234032408256805?imageMogr2/thumbnail/600x&imageId=1777342792009",
       "description": "# SYSTEM # WEAKTOSTRONG # KINGDOMBUILDING",
@@ -126,18 +54,72 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
+      "previous_score": 4.0,
+      "velocity": 0.5
+    },
+    {
+      "id": "webnovel-book-i-grow-stronger-by-making-my-wife-happy._35758864700801105",
+      "title": "I grow stronger by making my wife happy.",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/i-grow-stronger-by-making-my-wife-happy._35758864700801105",
+      "image": "https://book-pic.webnovel.com/bookcover/35758864700801105?imageMogr2/thumbnail/600x&imageId=1783456346441",
+      "description": "# ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # R18 # WEAKTOSTRONG # SLICEOFLIFE # ACADEMY # NO-HAREM # BEAST TAMING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
       "velocity": 0.3333333333333333
     },
     {
-      "id": "webnovel-book-sss-rank-awakening-my-talent-multiplies-everything_35683616408556005",
-      "title": "SSS-Rank Awakening: My Talent Multiplies Everything",
+      "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "title": "Martial Dao: I Can Enhance My Talents",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/sss-rank-awakening-my-talent-multiplies-everything_35683616408556005",
-      "image": "https://book-pic.webnovel.com/bookcover/35683616408556005?imageMogr2/thumbnail/600x&imageId=1777875515410",
-      "description": "# ACTION # ROMANCE # SYSTEM # R18 # COMEDY # OVERPOWERED # HAREM",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/martial-dao-i-can-enhance-my-talents_35234508308267105",
+      "image": "https://book-pic.webnovel.com/bookcover/35234508308267105?imageMogr2/thumbnail/600x&imageId=1777343190928",
+      "description": "# SYSTEM # WEAKTOSTRONG # MARTIALARTS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": 0.2857142857142857
+    },
+    {
+      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "title": "Sea Survival: My Luck is Off the Charts",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
+      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 10.0,
+      "velocity": 0.2
+    },
+    {
+      "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
+      "title": "Starting With an SSS-Rank Goddess Summon!",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
+      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1784461715909",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
@@ -145,14 +127,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 9.0,
-      "velocity": 0.2222222222222222
+      "velocity": 0.1111111111111111
     },
     {
       "id": "webnovel-book-he-wants-an-open-marriage-done!_35964974408521905",
       "title": "He Wants An Open Marriage? Done!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
+      "score": 13.0,
       "url": "https://www.webnovel.com/book/he-wants-an-open-marriage-done!_35964974408521905",
       "image": "https://book-pic.webnovel.com/bookcover/35964974408521905?imageMogr2/thumbnail/600x&imageId=1779719012634",
       "description": "# ROMANCE # R18 # WEAKTOSTRONG # DARK # BETRAYAL # SMUT # POSSESSIVE # CEO # SEDUCTIVE # GROVELLINGEX",
@@ -162,26 +144,264 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 11.0,
-      "velocity": 0.09090909090909091
+      "previous_score": 12.0,
+      "velocity": 0.08333333333333333
     },
     {
-      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1780505810595",
-      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
+      "id": "anilist-anime-177699",
+      "title": "THE GHOST IN THE SHELL",
+      "source": "AniList",
+      "category": "anime",
+      "score": 40808.0,
+      "url": "https://anilist.co/anime/177699",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
+      "description": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  <br><br> Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. <br><br> What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
       "genres": [
-        "Web Novel"
+        "Action",
+        "Psychological",
+        "Sci-Fi"
       ],
       "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+        "average_score": 77
       },
-      "previous_score": 13.0,
-      "velocity": 0.07692307692307693
+      "previous_score": 39956.0,
+      "velocity": 0.02132345580138152
+    },
+    {
+      "id": "anilist-anime-187260",
+      "title": "I Want to Love You Till Your Dying Day",
+      "source": "AniList",
+      "category": "anime",
+      "score": 43621.0,
+      "url": "https://anilist.co/anime/187260",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+      "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 75
+      },
+      "previous_score": 42937.0,
+      "velocity": 0.015930316510235926
+    },
+    {
+      "id": "anilist-anime-178789",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 128175.0,
+      "url": "https://anilist.co/anime/178789",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+      "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 86
+      },
+      "previous_score": 127254.0,
+      "velocity": 0.007237493516903202
+    },
+    {
+      "id": "anilist-manga-170400",
+      "title": "The Stellar Swordmaster",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 29055.0,
+      "url": "https://anilist.co/manga/170400",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
+      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 28960.0,
+      "velocity": 0.0032803867403314916
+    },
+    {
+      "id": "anilist-anime-182205",
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "source": "AniList",
+      "category": "anime",
+      "score": 118500.0,
+      "url": "https://anilist.co/anime/182205",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+      "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 82
+      },
+      "previous_score": 118156.0,
+      "velocity": 0.0029114052608415993
+    },
+    {
+      "id": "anilist-anime-195600",
+      "title": "Daemons of the Shadow Realm",
+      "source": "AniList",
+      "category": "anime",
+      "score": 121016.0,
+      "url": "https://anilist.co/anime/195600",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 78
+      },
+      "previous_score": 120666.0,
+      "velocity": 0.00290056851142824
+    },
+    {
+      "id": "anilist-anime-147105",
+      "title": "Witch Hat Atelier",
+      "source": "AniList",
+      "category": "anime",
+      "score": 207321.0,
+      "url": "https://anilist.co/anime/147105",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+      "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 85
+      },
+      "previous_score": 206839.0,
+      "velocity": 0.0023303148825898406
+    },
+    {
+      "id": "anilist-manga-159930",
+      "title": "The Infinite Mage",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 38266.0,
+      "url": "https://anilist.co/manga/159930",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
+      "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 38187.0,
+      "velocity": 0.002068766857831199
+    },
+    {
+      "id": "anilist-manga-132144",
+      "title": "Return of the Blossoming Blade",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 42365.0,
+      "url": "https://anilist.co/manga/132144",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
+      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 42295.0,
+      "velocity": 0.0016550419671355952
+    },
+    {
+      "id": "anilist-anime-269",
+      "title": "Bleach",
+      "source": "AniList",
+      "category": "anime",
+      "score": 503765.0,
+      "url": "https://anilist.co/anime/269",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 79
+      },
+      "previous_score": 503425.0,
+      "velocity": 0.0006753736902219795
+    },
+    {
+      "id": "anilist-anime-21",
+      "title": "ONE PIECE",
+      "source": "AniList",
+      "category": "anime",
+      "score": 732523.0,
+      "url": "https://anilist.co/anime/21",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+      "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 87
+      },
+      "previous_score": 732113.0,
+      "velocity": 0.0005600228380045157
+    },
+    {
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
+      "source": "AniList",
+      "category": "manga",
+      "score": 228826.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 91,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 228742.0,
+      "velocity": 0.0003672259576291193
     },
     {
       "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
@@ -198,239 +418,8 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 15.0,
-      "velocity": 0.06666666666666667
-    },
-    {
-      "id": "anilist-anime-202269",
-      "title": "Love Unseen Beneath the Clear Night Sky",
-      "source": "AniList",
-      "category": "anime",
-      "score": 27587.0,
-      "url": "https://anilist.co/anime/202269",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
-      "description": "On an April night in Tokyo, still too early for fireworks, university student Kakeru Sorano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see.<br>\n<br>\nUnlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side<br>\n<br>\n(Source: Yen Press)",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 77
-      },
-      "previous_score": 26752.0,
-      "velocity": 0.03121261961722488
-    },
-    {
-      "id": "anilist-anime-185542",
-      "title": "Skeleton Knight in Another World Season 2",
-      "source": "AniList",
-      "category": "anime",
-      "score": 38203.0,
-      "url": "https://anilist.co/anime/185542",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
-      "description": "The second season of <i>Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu</i>.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 68
-      },
-      "previous_score": 37514.0,
-      "velocity": 0.018366476515434237
-    },
-    {
-      "id": "anilist-anime-199111",
-      "title": "Grand Blue Dreaming Season 3",
-      "source": "AniList",
-      "category": "anime",
-      "score": 32885.0,
-      "url": "https://anilist.co/anime/199111",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
-      "description": "The third season of <i>Grand Blue</i>.",
-      "genres": [
-        "Comedy",
-        "Slice of Life",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82
-      },
-      "previous_score": 32458.0,
-      "velocity": 0.013155462443773492
-    },
-    {
-      "id": "anilist-anime-210031",
-      "title": "You and I Are Polar Opposites Season 2",
-      "source": "AniList",
-      "category": "anime",
-      "score": 43930.0,
-      "url": "https://anilist.co/anime/210031",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-      "description": "The second season of <i>Seihantai na Kimi to Boku</i>.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 81
-      },
-      "previous_score": 43386.0,
-      "velocity": 0.0125386069238925
-    },
-    {
-      "id": "anilist-anime-178789",
-      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
-      "source": "AniList",
-      "category": "anime",
-      "score": 127254.0,
-      "url": "https://anilist.co/anime/178789",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
-      "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 86
-      },
-      "previous_score": 126036.0,
-      "velocity": 0.00966390555079501
-    },
-    {
-      "id": "anilist-anime-195600",
-      "title": "Daemons of the Shadow Realm",
-      "source": "AniList",
-      "category": "anime",
-      "score": 120666.0,
-      "url": "https://anilist.co/anime/195600",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 78
-      },
-      "previous_score": 120253.0,
-      "velocity": 0.0034344257523720822
-    },
-    {
-      "id": "anilist-manga-182066",
-      "title": "The Regressed Mercenary Has a Plan",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 21658.0,
-      "url": "https://anilist.co/manga/182066",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
-      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 21594.0,
-      "velocity": 0.0029637862369176625
-    },
-    {
-      "id": "anilist-anime-182205",
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 118156.0,
-      "url": "https://anilist.co/anime/182205",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-      "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82
-      },
-      "previous_score": 117815.0,
-      "velocity": 0.0028943682892670713
-    },
-    {
-      "id": "anilist-anime-269",
-      "title": "Bleach",
-      "source": "AniList",
-      "category": "anime",
-      "score": 503425.0,
-      "url": "https://anilist.co/anime/269",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 79
-      },
-      "previous_score": 503083.0,
-      "velocity": 0.0006798083020098075
-    },
-    {
-      "id": "anilist-anime-21",
-      "title": "ONE PIECE",
-      "source": "AniList",
-      "category": "anime",
-      "score": 732113.0,
-      "url": "https://anilist.co/anime/21",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-      "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 87
-      },
-      "previous_score": 731678.0,
-      "velocity": 0.0005945238205877449
-    },
-    {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 228742.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 228661.0,
-      "velocity": 0.0003542361836955143
+      "previous_score": 16.0,
+      "velocity": 0.0
     },
     {
       "id": "dreame-1646404864",
@@ -451,6 +440,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+      "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+      "image": "https://book-pic.webnovel.com/bookcover/36191927408967005?imageMogr2/thumbnail/600x&imageId=1784718498872",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # URBAN # YANDERE # HERO # HOT",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 15.0,
+      "velocity": 0.0
+    },
+    {
       "id": "dreame-1231429376",
       "title": "Her Triplet Alphas",
       "source": "Dreame",
@@ -466,6 +473,24 @@
         "bid": 1231429376
       },
       "previous_score": 15.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1780505810595",
+      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 14.0,
       "velocity": 0.0
     },
     {
@@ -538,24 +563,6 @@
         "bid": 20390912
       },
       "previous_score": 11.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "title": "Sea Survival: My Luck is Off the Charts",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 10.0,
       "velocity": 0.0
     },
     {
@@ -739,6 +746,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-defy-the-alpha(s)-2-rebel-beast_35732692600406805",
+      "title": "Defy The Alpha(s) 2: Rebel Beast",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/defy-the-alpha(s)-2-rebel-beast_35732692600406805",
+      "image": "https://book-pic.webnovel.com/bookcover/35732692600406805?imageMogr2/thumbnail/600x&imageId=1780420330341",
+      "description": "# ROMANCE # MAGIC # R18 # WEAKTOSTRONG # VILLAIN # HUMANANDBEAST",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 5.0,
+      "velocity": 0.0
+    },
+    {
       "id": "dreame-2235114496",
       "title": "His Silent Temptation",
       "source": "Dreame",
@@ -865,77 +890,60 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
-      "title": "Reclaimed by My Alpha",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Reclaimed-by-My-Alpha_31001020267",
-      "image": "https://acf.goodnovel.com/book/202606/0812c9dda57558534540644e25f9b8237a5541b39e47856c33c9db66cb9083a6.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Natalia and Andrei’s marriage was originally a three-year contract. With only 30 days left until the contract ends, Natalia discovered that she’s pregnant. \nJust when she thought Andrei would reconsider divorcing her because of this, his deceased first mate, Lilith, returned. Feeling hopeless, Natalia decided to initiate the divorce. \nHowever, at their engagement party, Andrei received the news of Natalia’s car accident, along with the shocking discovery of her pregnancy test results...",
+      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "title": "I Can Devour Monsters’ SSS Talents",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
       "genres": [
-        "Romance"
+        "Web Novel"
       ],
       "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 15.0,
-      "velocity": -0.2
+      "previous_score": 8.0,
+      "velocity": -0.125
     },
     {
-      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-      "title": "The Pack's Doctor",
-      "source": "GoodNovel",
-      "category": "romance",
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
+      "source": "WebNovel",
+      "category": "web_novel",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
-      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
       "genres": [
-        "Romance"
+        "Web Novel"
       ],
       "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 16.0,
-      "velocity": -0.3125
+      "previous_score": 13.0,
+      "velocity": -0.15384615384615385
     },
     {
-      "id": "anilist-anime-147105",
-      "title": "Witch Hat Atelier",
-      "source": "AniList",
-      "category": "anime",
-      "score": 206839.0,
-      "url": "https://anilist.co/anime/147105",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
-      "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 85
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-144946",
-      "title": "Gachiakuta",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 64230.0,
-      "url": "https://anilist.co/manga/144946",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg",
-      "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)",
+      "score": 113872.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
+        "Comedy",
         "Drama",
-        "Fantasy"
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -943,21 +951,86 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-106929",
-      "title": "Eleceed",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
-      "category": "manhwa",
-      "score": 44572.0,
-      "url": "https://anilist.co/manga/106929",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg",
-      "description": "Ji-U is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Ji-U’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOON, edited)",
+      "category": "manga",
+      "score": 106882.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
+        "Adventure",
         "Comedy",
-        "Supernatural"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 85,
+        "average_score": 88,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-135865",
+      "title": "Saga of Tanya the Evil Season 2",
+      "source": "AniList",
+      "category": "anime",
+      "score": 80194.0,
+      "url": "https://anilist.co/anime/135865",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+      "description": "The second season of <i>Youjo Senki</i>.",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 81
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "source": "AniList",
+      "category": "manga",
+      "score": 76358.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 87,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-120980",
+      "title": "Nano Machine",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 46111.0,
+      "url": "https://anilist.co/manga/120980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -965,34 +1038,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-187260",
-      "title": "I Want to Love You Till Your Dying Day",
-      "source": "AniList",
-      "category": "anime",
-      "score": 42937.0,
-      "url": "https://anilist.co/anime/187260",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
-      "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 75
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-132144",
-      "title": "Return of the Blossoming Blade",
+      "id": "anilist-manga-159441",
+      "title": "Pick Me Up",
       "source": "AniList",
       "category": "manhwa",
-      "score": 42295.0,
-      "url": "https://anilist.co/manga/132144",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
-      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+      "score": 41986.0,
+      "url": "https://anilist.co/manga/159441",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
+      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Adventure",
@@ -1007,168 +1060,81 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-101177",
-      "title": "Fly Me to the Moon",
-      "source": "AniList",
-      "category": "manga",
-      "score": 40842.0,
-      "url": "https://anilist.co/manga/101177",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101177-FjjD5UWB3C3t.png",
-      "description": "First comes marriage, then comes an earthbound love that is out of this world! From the day his parents named him, Nasa Yuzaki has been destined for outer space…or so he believes. But while trying to join the space program, he is thrown for a loop when an accident introduces him to Tsukasa, a mysterious girl with strange powers. Is she an alien, a moon goddess or something else? Since she insists on marrying him, Nasa has plenty of chances to find out!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes: The 16th volume includes the 4 chapter prequel \"FLY ME TO THE MOON\".<i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 80,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-177699",
-      "title": "THE GHOST IN THE SHELL",
+      "id": "anilist-anime-159309",
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 39956.0,
-      "url": "https://anilist.co/anime/177699",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-      "description": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  <br><br> Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. <br><br> What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
+      "score": 40931.0,
+      "url": "https://anilist.co/anime/159309",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+      "description": "The second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>.",
       "genres": [
         "Action",
-        "Psychological",
-        "Sci-Fi"
+        "Fantasy",
+        "Mecha",
+        "Romance"
       ],
       "metadata": {
-        "average_score": 77
+        "average_score": 68
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-159930",
-      "title": "The Infinite Mage",
+      "id": "anilist-anime-198946",
+      "title": "Clevatess Season 2",
       "source": "AniList",
-      "category": "manhwa",
-      "score": 38187.0,
-      "url": "https://anilist.co/manga/159930",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
-      "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
+      "category": "anime",
+      "score": 34229.0,
+      "url": "https://anilist.co/anime/198946",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+      "description": "The second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>.",
       "genres": [
         "Action",
-        "Adventure",
         "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
+        "average_score": 76
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-170400",
-      "title": "The Stellar Swordmaster",
+      "id": "anilist-anime-194829",
+      "title": "From Old Country Bumpkin to Master Swordsman II",
       "source": "AniList",
-      "category": "manhwa",
-      "score": 28960.0,
-      "url": "https://anilist.co/manga/170400",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
-      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
+      "category": "anime",
+      "score": 33413.0,
+      "url": "https://anilist.co/anime/194829",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+      "description": "The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.",
       "genres": [
         "Action",
         "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 82,
-        "country_of_origin": "KR",
-        "format": "MANGA"
+        "average_score": 72
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-122063",
-      "title": "Shangri-La Frontier",
+      "id": "anilist-anime-197715",
+      "title": "The Villager of Level 999",
       "source": "AniList",
-      "category": "manga",
-      "score": 21432.0,
-      "url": "https://anilist.co/manga/122063",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
-      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "category": "anime",
+      "score": 28476.0,
+      "url": "https://anilist.co/anime/197715",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
+      "description": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\n<br><br>\n(Source: Crunchyroll)",
       "genres": [
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-128757",
-      "title": "Young Ladies Don't Play Fighting Games",
-      "source": "AniList",
-      "category": "anime",
-      "score": 21312.0,
-      "url": "https://anilist.co/anime/128757",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
-      "description": "Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.\n<br><br>\n(Source: Crunchyroll)",
-      "genres": [
-        "Drama"
-      ],
-      "metadata": {
-        "average_score": 73
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-169272",
-      "title": "Tune In to the Midnight Heart",
-      "source": "AniList",
-      "category": "manga",
-      "score": 17372.0,
-      "url": "https://anilist.co/manga/169272",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-196219",
-      "title": "The Oblivious Saint Can't Contain Her Power",
-      "source": "AniList",
-      "category": "anime",
-      "score": 14779.0,
-      "url": "https://anilist.co/anime/196219",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
-      "description": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n<br><br>\n(Source: J-Novel Club)",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 63
@@ -1177,14 +1143,160 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-180422",
-      "title": "Akira Failing in Love",
+      "id": "anilist-manga-137595",
+      "title": "66,666 Years: Advent of the Dark Mage",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 24818.0,
+      "url": "https://anilist.co/manga/137595",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137595-1m3i7vxyOqXc.png",
+      "description": "Diablo Volpir, a powerful dark mage, was defeated and sealed away in a battle against the 12 gods. He finally wakes up from his sleep 66,666 years later, however, in the body of a newborn baby, Jamie Welton! 9 years later, with a fraction of power he once held and with the loving family and peaceful environment he is now surrounded by, Jamie plans to exact revenge against the 12 gods that had sealed him away.<br>\n<br>\n(Source: WEBTOON)",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-184356",
+      "title": "Tomb Raider King",
+      "source": "AniList",
+      "category": "anime",
+      "score": 20603.0,
+      "url": "https://anilist.co/anime/184356",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
+      "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 67
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-165287",
+      "title": "Singwahamkke Doraon Gisawangnim",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 17945.0,
+      "url": "https://anilist.co/manga/165287",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg",
+      "description": "I returned to Earth after hunting demons in the otherworld for three hundred years. But I did not return alone.<br><br>(Source: Naver, translated)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-192800",
+      "title": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "source": "AniList",
+      "category": "anime",
+      "score": 16473.0,
+      "url": "https://anilist.co/anime/192800",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192800-r8zlO0VY0jJP.jpg",
+      "description": "“I will become the world’s most wonderful maid!” <br><br>\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!<br><br>\n\n(Source: Seven Seas Entertainment)<br><br>\n\n<i>Note: Heroine? Seijo? Iie, All Works Maid desu (Ko)! is streaming a week in advance of the TV broadcast on dAnimeStore and ABEMA beginning June 24th, 2026. Regular broadcasting began on July 1st, 2026.</i>",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 69
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-137513",
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
       "source": "AniList",
       "category": "manga",
-      "score": 14362.0,
-      "url": "https://anilist.co/manga/180422",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
-      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
+      "score": 12588.0,
+      "url": "https://anilist.co/manga/137513",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137513-jUK9JOgBQ6QP.jpg",
+      "description": "A kid named Light is the only human member of the adventuring party Legion of Races, but humans are by far the weakest race in his world. When his comrades abandon him to the lowest levels of a dungeon, Light resorts to the gift of Infinite Gacha to create a harem of Lvl 9999 allies! With his powerful and beautiful new friends by his side, can Light escape the dungeon and exact vengeance upon the Legion of Races…and the entire world?\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 67,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-150193",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "source": "AniList",
+      "category": "manga",
+      "score": 8132.0,
+      "url": "https://anilist.co/manga/150193",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
+      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 68,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-158459",
+      "title": "Let’s Take a Walk in Another World",
+      "source": "AniList",
+      "category": "manga",
+      "score": 6100.0,
+      "url": "https://anilist.co/manga/158459",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158459-0emMfepzVo48.jpg",
+      "description": "Sora was summoned into a fantasy world from his native Japan to be a hero…but the only special skill he has is \"Walking\"! Its effect? \"Walk as much as you want without getting tired.\" It sounds convenient, but it won't help in the fight against the demon lord! Rejected for his weakness, he's dumped outside the palace by the king's guards. But as he begins to walk away, he suddenly levels up! Each step taken earns one experience point…and soon, useful skills like Examine, Alchemy, and Domestic Magic are his to command! Who knew just taking a walk could be the key to a whole new world?\n<BR><BR>\n(Source: K MANGA)",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 66,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201855",
+      "title": "Futari Bus",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3502.0,
+      "url": "https://anilist.co/manga/201855",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
+      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
       "genres": [
         "Comedy",
         "Romance"
@@ -1198,121 +1310,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-169904",
-      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
-      "source": "AniList",
-      "category": "manga",
-      "score": 13965.0,
-      "url": "https://anilist.co/manga/169904",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
-      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-143719",
-      "title": "Dealing with Mikadono Sisters Is a Breeze",
-      "source": "AniList",
-      "category": "manga",
-      "score": 12276.0,
-      "url": "https://anilist.co/manga/143719",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143719-u5c2HrIY4ITW.jpg",
-      "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-198709",
-      "title": "Victoria of Many Faces",
-      "source": "AniList",
-      "category": "anime",
-      "score": 10490.0,
-      "url": "https://anilist.co/anime/198709",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
-      "description": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 69
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-173062",
-      "title": "Walking Home with You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 9186.0,
-      "url": "https://anilist.co/manga/173062",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg",
-      "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-204974",
-      "title": "Psychopath in Murim",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 4260.0,
-      "url": "https://anilist.co/manga/204974",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204974-SZoqdyhxoLRH.jpg",
-      "description": "<i>[Welcome to Murim Online, the world where the strongest reside.]<br><br>\n[Your device has malfunctioned, and logging out failed.]<br><br>\n[Would you like to attempt to disconnect once more?]<br><br>\n[Yes or No]</i><br><br>\nWhen he tried returning to virtual reality, the place he logged into was instead the “real Murim.” A once-in-an-era psychopath fell into the Murim due to the Grim Reaper’s mistake. Dong Bongsu's merciless fangs cast a shadow over Murim, which is rife with schemes and malice.<br><br>(Source: Naver, translated)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Full-Moon-Curse_31001279887",
-      "title": "Full Moon Curse",
+      "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
+      "title": "Second Chance for the Barren Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 16.0,
-      "url": "https://www.goodnovel.com/book/Full-Moon-Curse_31001279887",
-      "image": "https://acf.goodnovel.com/book/202502/8b4d9d69c3c072a92b0937df6612c9da59109552e4f70019d4fc867ca7078f64.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "As the only human inside a werewolf pack, Amy is counting the days until she can leave.  With all the kids in the pack shunning her after they started receiving their wolves, she is left with one friend.  Until the future gamma of the pack takes an interest in her, and she finds herself friends with all the future leaders of the pack.  Not trusting her new friends, she gets a wake-up call.  Family secrets are unearthed and her life as she knows it will never be the same.",
+      "url": "https://www.goodnovel.com/book/Second-Chance-for-the-Barren-Luna_31001064899",
+      "image": "https://acf.goodnovel.com/book/202658/28f6ca955614a0ab96b4d9765d3611118f31a5bb63ad1afd440e89588aa74276.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "“If you can’t provide an heir, you’re a Luna in name only. I need more than a worthless, barren omega cosplaying as a Luna!”\n\nMy Alpha husband Jason’s words cut deeper than any silver blade. For three years, I have kept the truth from him. He thinks he married a weak omega. But the truth? I am the Alpha King’s daughter.\n\nI wait eagerly for his return from a victorious war, ready to reveal who I truly am. Only to find him walking back with his mistress, Viki, who has already carrying his pup.\n\n“You have two options,” Jason snarls, eyes cold. “Lose your status as Luna and go back to being a useless omega. Or stay for Viki and help raise my heir.”\n\nPushed to my breaking point, I accept his rejection and return to my father’s kingdom. I think my heart is dead but fate has led me to a dangerous second-chance mate. Worse, Jason can’t let me go that easily.",
       "genres": [
         "Romance"
       ],
@@ -1323,32 +1328,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-      "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-      "image": "https://book-pic.webnovel.com/bookcover/36191927408967005?imageMogr2/thumbnail/600x&imageId=1784514628610",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # URBAN # YANDERE # HERO # HOT",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Hired-a-Gigolo-Got-a-Billionaire_31001058616",
-      "title": "Hired a Gigolo, Got a Billionaire",
+      "id": "goodnovel-book-Too-Late-To-Love-Me-Mr-Billionaire_31001228929",
+      "title": "Too Late To Love Me, Mr Billionaire",
       "source": "GoodNovel",
       "category": "romance",
       "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Hired-a-Gigolo-Got-a-Billionaire_31001058616",
-      "image": "https://acf.goodnovel.com/book/202601/831ac37e5b0e551b70df475e9c5bef56e594c78854888718f66a391acafc2c30.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Zoey Bennett only wanted revenge on her ex. After being humiliated and left at the altar, all she wanted was to walk into that ballroom as an irresistible woman, with the perfect date on her arm.\n\nBut how on earth did her hired gigolo turn out to be a billionaire?\n\nStanding before her was Christian Kensington, the maddeningly arrogant and devastatingly gorgeous CEO of Kensington Winery, one of the richest men in the country. In that moment, Zoey felt the ground slip right out from under her feet.\n\nNo problem? Oh, there was definitely a problem. The entire internet now believed they were a couple. And the biggest problem of all? So did Christian's grandfather.\n\nNow Christian would need to keep up the charade if he wanted to inherit the family business. Zoey just wanted to get out of this mess without being sued. But when the line between lies and reality started to blur, Zoey realized she might be stumbling into the most dangerous trap of all: falling in love again.\n\n\"I've been left before, Christian. I won't make that mistake again.\"\n\n\"Who said this time you'd be the only one to lose?\"\n\nThis is a romantic comedy full of twists, buried secrets, and a passion too irresistible to ignore. Will Zoey find the courage to open her heart again?",
+      "url": "https://www.goodnovel.com/book/Too-Late-To-Love-Me-Mr-Billionaire_31001228929",
+      "image": "https://acf.goodnovel.com/book/202512/91af1dbd0b0b07608778c8c34039a870de4b4eb33ce3651ad28709bfb3b0fe7f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Men don’t value what they have. They value what they lose.\r\nLearn to leave a situationship, relationship, or even a marriage that doesn’t make you happy.\r\nLike the saying goes: when you’re available, you’re invisible. When you leave, suddenly you matter.\r\nThis is the story of Kira Ashford, a woman who gave everything for Adrian Westbrook.\r\nHer celebrity chef career. Her family’s fortune. Her own identity.\r\nAll just to be the perfect wife, yet it wasn’t enough.\r\nIt was tears upon tears, Kira finally gathered the courage to leave and return to her parents and family.\r\nShe brushes herself off, throws herself back into her career, Got a new man who worships the ground she walks on, and guess what?\r\nHer ex-husband wants her back.\r\nA man won’t change when you’re crying. He changes when you’re gone.\r\nDo you think Kira will take back her ex-husband or move on with her new love interest?\r\nFind out now!!",
       "genres": [
         "Romance"
       ],
@@ -1359,14 +1346,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-While-You-Chose-Her-I-Claimed-Everything_31001375696",
-      "title": "While You Chose Her, I Claimed Everything",
+      "id": "goodnovel-book-Tattooed-Luna_31000656745",
+      "title": "Tattooed Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/While-You-Chose-Her-I-Claimed-Everything_31001375696",
-      "image": "https://acf.goodnovel.com/book/202604/e02d08e50fd4524dc86a1b4b44437209c492ca120830cf1703d4d911a407572b.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "When Tara Valmont discovered her husband's betrayal, she began keeping score of everything. Most of all, the pain of realizing that everything she had believed in had been a lie.\r\n\r\nAnd the greatest betrayal of all came from her husband, Adrian Ashbourne.\r\n\r\nTara was determined that everyone involved would pay the price they deserved. If necessary, she would take revenge in the most ruthless ways imaginable. Even if it meant considering the proposal from the father of the man she had believed to be her husband, Victor Ashbourne.\r\n\r\n\"Do you know what position suits you best right now?\" Victor asked casually in the middle of a business discussion with Tara.\r\n\r\nTara frowned. \"What is it, Dad?\"\r\n\r\n\"Be my wife.\" Victor smiled meaningfully. \"What do you think?\"",
+      "url": "https://www.goodnovel.com/book/Tattooed-Luna_31000656745",
+      "image": "https://acf.goodnovel.com/book/202310/Tattooed-Luna/0e76d14b6ddb45599d60aa3975e063fea6913b5007f8abc4a2e2c6285319f5fd.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "*There are three books in one! Since they need to be read in order, they are one right after another! * \n\nWith a genius IQ and her own tattoo shop, Kristen is about to become 18. After years of being abused by her stepmother, Kristen has decided to leave her pack with the money her tattoo shop has made. Regardless of who her mate is, Kristen will be on her own adventure. \n\nUnfortunately, more than one male has a problem with her independence. Kristen's fiery personality has placed her into a situation that is forcing her to face everything she has escaped. How much can one person endure before they give up?",
       "genres": [
         "Romance"
       ],
@@ -1377,14 +1364,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
-      "title": "FORBIDDEN: HIS PLUS SIZE OBSESSION",
+      "id": "goodnovel-book-The-Pack-s-Hacker_31001314174",
+      "title": "The Pack's Hacker",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
-      "image": "https://acf.goodnovel.com/book/202606/f40323102162e3170d02fccf83d33ae0b9f189d1b106b6cd829e2777ab6d03a0.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“Look at you, Lena. You’ve let yourself go!\nI can’t even get hard seeing you naked anymore. \nI am a man with needs! What do you expect? That I fuck the wall?!”\r\n\r\n---\r\n\r\nLena's marriage was once a fairytale…\r\nUntil she became the part he no longer wanted.\r\n\r\nLena gave her husband everything—her love, her loyalty, her body. But when her weight began to change, so did the man who once loved her and called her beautiful.\r\n\r\nSoon, she became a woman begging for scraps of affection from a man who could barely stand the sight of her.\r\n\r\nStill… she stayed.\r\nStill… she believed she could earn his love back.\r\n\r\nUntil the past came knocking.\r\n\r\n“You said yes. That means you’re mine, Lena\".\r\n\r\nShe laughed it off at first—because how could she take him seriously?\r\n\r\nIt was a childish promise years ago.\r\nBesides she's a married woman now. It's forbidden!\r\n\r\nBut he isn’t joking.\r\nAnd unlike her husband…\r\nHe looks at her like she’s everything.\r\n\r\nDangerously obsessed.\r\nUnapologetically possessive.\r\nCompletely unwilling to let her go.",
+      "url": "https://www.goodnovel.com/book/The-Pack-s-Hacker_31001314174",
+      "image": "https://acf.goodnovel.com/book/202603/f6fa0a0d0e534d3dae956d5a672ef3ae89c1c57bd657dc8aaa0fa1d12e321496.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Wendy Hill is an up-and-coming technological wizard. Her research to gain information for her brother Yorick and his mate, Cyra, led to the arrest of Cyra’s father, earning her early admission to the elite Warrior Academy. She was assigned to the tech team to learn and train until her admission to the Academy. Wendy’s code name is Sphinx.\r\nJude Matthews, code name Hacker, has been a student at the Warrior Academy for three years. Most students remain in the Academy for one year and then are recruited by other companies for their specific skills. Only the elite of the elite remain at the Academy to continue their training and work directly for The Council.\r\nHacker, and the other members of his team, Tracker and Hijack, have taken Sphinx under their wing to teach her everything she needs to know to become an IT elite. However, now things are becoming personal for Wendy. Stellan has escaped from prison and is after Cyra and her Gamma female, Lila. Patrick, Peter, and Justine are missing, and they want revenge on Henry and Piper.\r\nThrough it all, Wendy has felt a budding relationship with Jude. She’s hoping he’s her mate, but she won’t know until her eighteenth birthday.\r\nCan Wendy and Jude work together to find Stellan before he hurts Cyra and Lila? Can they find the missing trio who want to destroy everything that Henry and Piper have worked so hard to achieve? Can she face the ugly reality of the job when it means giving someone painful or difficult information? And on her eighteenth birthday, will she finally confirm that Jude is her mate, the one that she desperately wants in her life forever?\r\nFind out in Book Five of The Pack Series, The Pack’s Hacker.",
       "genres": [
         "Romance"
       ],
@@ -1395,32 +1382,50 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-defy-the-alpha(s)-2-rebel-beast_35732692600406805",
-      "title": "Defy The Alpha(s) 2: Rebel Beast",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/defy-the-alpha(s)-2-rebel-beast_35732692600406805",
-      "image": "https://book-pic.webnovel.com/bookcover/35732692600406805?imageMogr2/thumbnail/600x&imageId=1780420330341",
-      "description": "# ROMANCE # MAGIC # R18 # WEAKTOSTRONG # VILLAIN # HUMANANDBEAST",
+      "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+      "title": "The Alpha’s Contract",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/The-Alpha-s-Contract_31000725726",
+      "image": "https://acf.goodnovel.com/book/202401/The-Alpha’s-Contract/e1903ed900b21c08a7e7941a46aec04ef2d69d09f120db697fb2e1201963e1d5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Accidentally killing her parents is what turned Neah’s life upside down. As punishment for her crimes, her wolf abilities are bound, and she is forced into a life of slavery by her brother. At the age of twenty-two, she saw no way of getting out and had given up on life, just trying to make it through each day.\r\n\r\nA contract between packs brings the arrival of the powerful, crimson-eyed Alpha Dane. A wolf that men feared, yet Neah couldn’t help but be fascinated by him.\r\n\r\nAdding Neah to the contract was never Alpha Dane's plan. Something about her strange scent lured him in, and he knew he couldn’t leave her behind, especially not when he heard the lies coming from her brother's mouth.\r\n\r\nBut meeting Neah was just the beginning. If she isn’t challenging Alpha Dane, then it was her old pack that was trying to make life extremely difficult for him by keeping secrets buried.\r\n\r\nPlease note, this book ends on a cliffhang",
       "genres": [
-        "Web Novel"
+        "Romance"
       ],
       "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
+      "id": "goodnovel-book-Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
+      "title": "Five Years of Marriage to Mr. Bradford",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.goodnovel.com/book/Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
+      "image": "https://acf.goodnovel.com/book/202602/1984a25c4cf07a1c85ace7061de1848c2879fd4cc6e4bff9d8301dffc06cd17f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "On the fifth anniversary of Rebecca Perry's marriage to Vance Bradford, his first love returned to the country.\n\nThat night, she caught him in the bathroom, murmuring Catherine's name as he pleasured himself.\n\nThat was why, for five years, he had never touched her.\n\n\"Catherine is back; she's all alone. I'm just helping her as a friend.\"\n\n\"I understand.\"\n\n\"I promised her I'd accompany her to the island for her birthday. I'm just fulfilling it.\"\n\n\"Okay.\"\n\n\"This banquet requires a capable companion, and Catherine is more suitable than you.\"\n\n\"Okay, go ahead.\"\n\nWhen she stopped getting angry, stopped shedding tears, and stopped making a fuss, he grew puzzled. \"Rebecca, why aren't you angry?\"\n\nOf course, she wasn't angry anymore—because she was preparing to leave.\n\nWeary of this stagnant marriage, she had secretly learned a foreign language, taken the proficiency exam, and applied to study abroad.\n\nThe day her visa was approved, she presented him with the divorce agreement.\n\nVance froze. \"No joke. How are you gonna survive without me?\"\n\nRebecca turned away, bought a plane ticket, and flew to the European continent, vanishing without a trace.\n\nThe next time he saw news of her was in a viral video. Dressed in a flowing red gown, she danced against a foreign sky, igniting the internet with her performance.\n\nHe gritted his teeth. \"Rebecca, no matter where you hide, I will find you and bring you back!\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
+      "title": "Reborn One Week Before the Apocalypse",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
-      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
+      "url": "https://www.webnovel.com/book/reborn-one-week-before-the-apocalypse_35234512800305005",
+      "image": "https://book-pic.webnovel.com/bookcover/35234512800305005?imageMogr2/thumbnail/600x&imageId=1781766587637",
+      "description": "# SUPERPOWERS # SURVIVAL # CAMPUS # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # COUNTERATTACK # SPACE # DISASTER # STORAGESPACE",
       "genres": [
         "Web Novel"
       ],
@@ -1431,14 +1436,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "title": "I Stopped Simping and the Heroines Lost Their Minds",
+      "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
+      "title": "The Villainess Is My Cute Daughter",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
-      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
+      "url": "https://www.webnovel.com/book/the-villainess-is-my-cute-daughter_35757269408712905",
+      "image": "https://book-pic.webnovel.com/bookcover/35757269408712905?imageMogr2/thumbnail/600x&imageId=1777659437666",
+      "description": "# ROMANCE # SYSTEM # MAGIC # WEAKTOSTRONG # COMEDY # TRANSMIGRATION # SLICEOFLIFE # KINGDOMBUILDING # THESTRONGACTINGWEAK # STRONGFEMALELEAD",
       "genres": [
         "Web Novel"
       ],
@@ -1449,14 +1454,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Her-Cold-Hearted-Alpha_31000113831",
-      "title": "Her Cold-Hearted Alpha",
+      "id": "goodnovel-book-The-Lycan-Princess-and-the-Temptation-of-Sin_31000465564",
+      "title": "The Lycan Princess and the Temptation of Sin",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/Her-Cold-Hearted-Alpha_31000113831",
-      "image": "https://acf.goodnovel.com/book/202206/c7d254033bdd40425959e4cee9d339bb9578cbedfe74288f77a9054164ac75b7.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Her Cold-Hearted Alpha is a Werewolf novel written by Moonlight Muse that covers Werewolf, Alpha, Dark Romance. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/The-Lycan-Princess-and-the-Temptation-of-Sin_31000465564",
+      "image": "https://acf.goodnovel.com/book/202305/The-Lycan-Princess-and-the-Temptation-of-Sin/37475591e4f9ea28ce217dbf87ac96e191f1528fcf0e13757eb913a581bdc787.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "The Lycan Princess and the Temptation of Sin is a Werewolf novel written by Moonlight Muse that covers Fast-Paced Plot, Girl Power, Badboy. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],

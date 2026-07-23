@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-22T02:15:54Z",
-  "date": "2026-07-22",
+  "generated_at_utc": "2026-07-23T02:27:40Z",
+  "date": "2026-07-23",
   "category": "manhwa",
-  "item_count": 6,
+  "item_count": 7,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,76 +23,33 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-182066",
-      "title": "The Regressed Mercenary Has a Plan",
+      "id": "anilist-manga-170400",
+      "title": "The Stellar Swordmaster",
       "source": "AniList",
       "category": "manhwa",
-      "score": 21658.0,
-      "url": "https://anilist.co/manga/182066",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
-      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 21594.0,
-      "velocity": 0.0029637862369176625
-    },
-    {
-      "id": "anilist-manga-106929",
-      "title": "Eleceed",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 44572.0,
-      "url": "https://anilist.co/manga/106929",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg",
-      "description": "Ji-U is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Ji-U’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 85,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-132144",
-      "title": "Return of the Blossoming Blade",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 42295.0,
-      "url": "https://anilist.co/manga/132144",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
-      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+      "score": 29055.0,
+      "url": "https://anilist.co/manga/170400",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
+      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 84,
+        "average_score": 82,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 28960.0,
+      "velocity": 0.0032803867403314916
     },
     {
       "id": "anilist-manga-159930",
       "title": "The Infinite Mage",
       "source": "AniList",
       "category": "manhwa",
-      "score": 38187.0,
+      "score": 38266.0,
       "url": "https://anilist.co/manga/159930",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
       "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
@@ -107,25 +64,48 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 38187.0,
+      "velocity": 0.002068766857831199
     },
     {
-      "id": "anilist-manga-170400",
-      "title": "The Stellar Swordmaster",
+      "id": "anilist-manga-132144",
+      "title": "Return of the Blossoming Blade",
       "source": "AniList",
       "category": "manhwa",
-      "score": 28960.0,
-      "url": "https://anilist.co/manga/170400",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
-      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
+      "score": 42365.0,
+      "url": "https://anilist.co/manga/132144",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
+      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 42295.0,
+      "velocity": 0.0016550419671355952
+    },
+    {
+      "id": "anilist-manga-120980",
+      "title": "Nano Machine",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 46111.0,
+      "url": "https://anilist.co/manga/120980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -133,20 +113,64 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-204974",
-      "title": "Psychopath in Murim",
+      "id": "anilist-manga-159441",
+      "title": "Pick Me Up",
       "source": "AniList",
       "category": "manhwa",
-      "score": 4260.0,
-      "url": "https://anilist.co/manga/204974",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204974-SZoqdyhxoLRH.jpg",
-      "description": "<i>[Welcome to Murim Online, the world where the strongest reside.]<br><br>\n[Your device has malfunctioned, and logging out failed.]<br><br>\n[Would you like to attempt to disconnect once more?]<br><br>\n[Yes or No]</i><br><br>\nWhen he tried returning to virtual reality, the place he logged into was instead the “real Murim.” A once-in-an-era psychopath fell into the Murim due to the Grim Reaper’s mistake. Dong Bongsu's merciless fangs cast a shadow over Murim, which is rife with schemes and malice.<br><br>(Source: Naver, translated)",
+      "score": 41986.0,
+      "url": "https://anilist.co/manga/159441",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
+      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-137595",
+      "title": "66,666 Years: Advent of the Dark Mage",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 24818.0,
+      "url": "https://anilist.co/manga/137595",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137595-1m3i7vxyOqXc.png",
+      "description": "Diablo Volpir, a powerful dark mage, was defeated and sealed away in a battle against the 12 gods. He finally wakes up from his sleep 66,666 years later, however, in the body of a newborn baby, Jamie Welton! 9 years later, with a fraction of power he once held and with the loving family and peaceful environment he is now surrounded by, Jamie plans to exact revenge against the 12 gods that had sealed him away.<br>\n<br>\n(Source: WEBTOON)",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-165287",
+      "title": "Singwahamkke Doraon Gisawangnim",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 17945.0,
+      "url": "https://anilist.co/manga/165287",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg",
+      "description": "I returned to Earth after hunting demons in the otherworld for three hundred years. But I did not return alone.<br><br>(Source: Naver, translated)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 73,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

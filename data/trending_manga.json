@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-22T02:15:54Z",
-  "date": "2026-07-22",
+  "generated_at_utc": "2026-07-23T02:27:40Z",
+  "date": "2026-07-23",
   "category": "manga",
-  "item_count": 9,
+  "item_count": 8,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 228742.0,
+      "score": 228826.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,47 +42,28 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 228661.0,
-      "velocity": 0.0003542361836955143
+      "previous_score": 228742.0,
+      "velocity": 0.0003672259576291193
     },
     {
-      "id": "anilist-manga-144946",
-      "title": "Gachiakuta",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 64230.0,
-      "url": "https://anilist.co/manga/144946",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg",
-      "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)",
+      "score": 113872.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-101177",
-      "title": "Fly Me to the Moon",
-      "source": "AniList",
-      "category": "manga",
-      "score": 40842.0,
-      "url": "https://anilist.co/manga/101177",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101177-FjjD5UWB3C3t.png",
-      "description": "First comes marriage, then comes an earthbound love that is out of this world! From the day his parents named him, Nasa Yuzaki has been destined for outer space…or so he believes. But while trying to join the space program, he is thrown for a loop when an accident introduces him to Tsukasa, a mysterious girl with strange powers. Is she an alien, a moon goddess or something else? Since she insists on marrying him, Nasa has plenty of chances to find out!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes: The 16th volume includes the 4 chapter prequel \"FLY ME TO THE MOON\".<i>",
-      "genres": [
         "Comedy",
+        "Drama",
         "Romance",
-        "Slice of Life"
+        "Sci-Fi",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 80,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -90,23 +71,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-122063",
-      "title": "Shangri-La Frontier",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 21432.0,
-      "url": "https://anilist.co/manga/122063",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
-      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "score": 106882.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Sci-Fi"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 88,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -114,20 +94,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-169272",
-      "title": "Tune In to the Midnight Heart",
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
       "source": "AniList",
       "category": "manga",
-      "score": 17372.0,
-      "url": "https://anilist.co/manga/169272",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
+      "score": 76358.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
       "genres": [
         "Comedy",
+        "Drama",
         "Romance"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 87,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -135,85 +116,84 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-180422",
-      "title": "Akira Failing in Love",
+      "id": "anilist-manga-137513",
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
       "source": "AniList",
       "category": "manga",
-      "score": 14362.0,
-      "url": "https://anilist.co/manga/180422",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
-      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
+      "score": 12588.0,
+      "url": "https://anilist.co/manga/137513",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137513-jUK9JOgBQ6QP.jpg",
+      "description": "A kid named Light is the only human member of the adventuring party Legion of Races, but humans are by far the weakest race in his world. When his comrades abandon him to the lowest levels of a dungeon, Light resorts to the gift of Infinite Gacha to create a harem of Lvl 9999 allies! With his powerful and beautiful new friends by his side, can Light escape the dungeon and exact vengeance upon the Legion of Races…and the entire world?\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 67,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-150193",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "source": "AniList",
+      "category": "manga",
+      "score": 8132.0,
+      "url": "https://anilist.co/manga/150193",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
+      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 68,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-158459",
+      "title": "Let’s Take a Walk in Another World",
+      "source": "AniList",
+      "category": "manga",
+      "score": 6100.0,
+      "url": "https://anilist.co/manga/158459",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158459-0emMfepzVo48.jpg",
+      "description": "Sora was summoned into a fantasy world from his native Japan to be a hero…but the only special skill he has is \"Walking\"! Its effect? \"Walk as much as you want without getting tired.\" It sounds convenient, but it won't help in the fight against the demon lord! Rejected for his weakness, he's dumped outside the palace by the king's guards. But as he begins to walk away, he suddenly levels up! Each step taken earns one experience point…and soon, useful skills like Examine, Alchemy, and Domestic Magic are his to command! Who knew just taking a walk could be the key to a whole new world?\n<BR><BR>\n(Source: K MANGA)",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 66,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201855",
+      "title": "Futari Bus",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3502.0,
+      "url": "https://anilist.co/manga/201855",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
+      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
         "average_score": 75,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-169904",
-      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
-      "source": "AniList",
-      "category": "manga",
-      "score": 13965.0,
-      "url": "https://anilist.co/manga/169904",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
-      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-143719",
-      "title": "Dealing with Mikadono Sisters Is a Breeze",
-      "source": "AniList",
-      "category": "manga",
-      "score": 12276.0,
-      "url": "https://anilist.co/manga/143719",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143719-u5c2HrIY4ITW.jpg",
-      "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-173062",
-      "title": "Walking Home with You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 9186.0,
-      "url": "https://anilist.co/manga/173062",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg",
-      "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
