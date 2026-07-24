@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-23T02:27:40Z",
-  "date": "2026-07-23",
+  "generated_at_utc": "2026-07-24T02:19:18Z",
+  "date": "2026-07-24",
   "category": "manga",
-  "item_count": 8,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 228826.0,
+      "score": 228887.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,25 +42,46 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 228742.0,
-      "velocity": 0.0003672259576291193
+      "previous_score": 228826.0,
+      "velocity": 0.00026657809864263676
     },
     {
-      "id": "anilist-manga-132029",
-      "title": "Dandadan",
+      "id": "anilist-manga-107098",
+      "title": "Record of Ragnarok",
       "source": "AniList",
       "category": "manga",
-      "score": 113872.0,
-      "url": "https://anilist.co/manga/132029",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
-      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
+      "score": 67373.0,
+      "url": "https://anilist.co/manga/107098",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107098-zjO64Bc3Nrm5.jpg",
+      "description": "The story begins when the gods call a conference to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.\n<br><br>\n(Source: Comikey)",
       "genres": [
         "Action",
-        "Comedy",
         "Drama",
-        "Romance",
-        "Sci-Fi",
+        "Fantasy",
         "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-86399",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "source": "AniList",
+      "category": "manga",
+      "score": 59943.0,
+      "url": "https://anilist.co/manga/86399",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86399-NwbRFVh5koqc.jpg",
+      "description": "As players of Monster Hunter and Dungeons & Dragons know, the slime is not exactly the king of the fantasy monsters. So when a 37-year-old Tokyo salaryman dies and wakes up in a world of dragons and magic, he's a little disappointed to find he's become a blind, boneless slime monster.\n<br><br>\n(Source: Kodansha USA)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 82,
@@ -71,22 +92,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
       "source": "AniList",
       "category": "manga",
-      "score": 106882.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+      "score": 36564.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
       "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 88,
+        "average_score": 83,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -94,106 +113,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-140475",
-      "title": "The Fragrant Flower Blooms With Dignity",
+      "id": "anilist-manga-152913",
+      "title": "Anta to Osananajimitte dake demo Iyananoni!: Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu",
       "source": "AniList",
       "category": "manga",
-      "score": 76358.0,
-      "url": "https://anilist.co/manga/140475",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
-      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
+      "score": 7656.0,
+      "url": "https://anilist.co/manga/152913",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152913-5EzfZeXchiSO.jpg",
+      "description": "Kazuma Suzuki was just your average high schooler—until his childhood friend, Rua Takayashiki, a beautiful, sharp-tongued girl who also happened to be the granddaughter of the school chairman and the nation’s top idol, cut all ties with him using a line straight out of a drama.\n<br><br>\nForced into submission for years as her so-called childhood friend, Kazuma decides it’s finally time for his first-ever rebellion. He’s done playing lapdog. This time, he’s taking back his freedom—and aiming for a normal school life.\n<br><br>\nEscaping a powerful beauty like her is easier said than done...\n<br><br>\n(Source: Square Enix)",
       "genres": [
         "Comedy",
-        "Drama",
         "Romance"
-      ],
-      "metadata": {
-        "average_score": 87,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-137513",
-      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
-      "source": "AniList",
-      "category": "manga",
-      "score": 12588.0,
-      "url": "https://anilist.co/manga/137513",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137513-jUK9JOgBQ6QP.jpg",
-      "description": "A kid named Light is the only human member of the adventuring party Legion of Races, but humans are by far the weakest race in his world. When his comrades abandon him to the lowest levels of a dungeon, Light resorts to the gift of Infinite Gacha to create a harem of Lvl 9999 allies! With his powerful and beautiful new friends by his side, can Light escape the dungeon and exact vengeance upon the Legion of Races…and the entire world?\n<br><br>\n(Source: Seven Seas Entertainment)",
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 67,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150193",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "source": "AniList",
-      "category": "manga",
-      "score": 8132.0,
-      "url": "https://anilist.co/manga/150193",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
-      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 68,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-158459",
-      "title": "Let’s Take a Walk in Another World",
-      "source": "AniList",
-      "category": "manga",
-      "score": 6100.0,
-      "url": "https://anilist.co/manga/158459",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158459-0emMfepzVo48.jpg",
-      "description": "Sora was summoned into a fantasy world from his native Japan to be a hero…but the only special skill he has is \"Walking\"! Its effect? \"Walk as much as you want without getting tired.\" It sounds convenient, but it won't help in the fight against the demon lord! Rejected for his weakness, he's dumped outside the palace by the king's guards. But as he begins to walk away, he suddenly levels up! Each step taken earns one experience point…and soon, useful skills like Examine, Alchemy, and Domestic Magic are his to command! Who knew just taking a walk could be the key to a whole new world?\n<BR><BR>\n(Source: K MANGA)",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
       ],
       "metadata": {
         "average_score": 66,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-201855",
-      "title": "Futari Bus",
-      "source": "AniList",
-      "category": "manga",
-      "score": 3502.0,
-      "url": "https://anilist.co/manga/201855",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
-      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 75,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
