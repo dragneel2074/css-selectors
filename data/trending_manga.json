@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-24T02:19:18Z",
-  "date": "2026-07-24",
+  "generated_at_utc": "2026-07-25T02:17:42Z",
+  "date": "2026-07-25",
   "category": "manga",
-  "item_count": 5,
+  "item_count": 4,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,57 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 228887.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 228826.0,
-      "velocity": 0.00026657809864263676
-    },
-    {
-      "id": "anilist-manga-107098",
-      "title": "Record of Ragnarok",
-      "source": "AniList",
-      "category": "manga",
-      "score": 67373.0,
-      "url": "https://anilist.co/manga/107098",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107098-zjO64Bc3Nrm5.jpg",
-      "description": "The story begins when the gods call a conference to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.\n<br><br>\n(Source: Comikey)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-86399",
       "title": "That Time I Got Reincarnated as a Slime",
       "source": "AniList",
       "category": "manga",
-      "score": 59943.0,
+      "score": 60056.0,
       "url": "https://anilist.co/manga/86399",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86399-NwbRFVh5koqc.jpg",
       "description": "As players of Monster Hunter and Dungeons & Dragons know, the slime is not exactly the king of the fantasy monsters. So when a 37-year-old Tokyo salaryman dies and wakes up in a world of dragons and magic, he's a little disappointed to find he's become a blind, boneless slime monster.\n<br><br>\n(Source: Kodansha USA)",
@@ -88,24 +42,51 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 59943.0,
+      "velocity": 0.0018851242013245917
     },
     {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 36564.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "score": 228984.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 91,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 228887.0,
+      "velocity": 0.0004237899050623233
+    },
+    {
+      "id": "anilist-manga-106064",
+      "title": "Chained Soldier",
+      "source": "AniList",
+      "category": "manga",
+      "score": 53531.0,
+      "url": "https://anilist.co/manga/106064",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
+      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 74,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -113,20 +94,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-152913",
-      "title": "Anta to Osananajimitte dake demo Iyananoni!: Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu",
+      "id": "anilist-manga-101557",
+      "title": "The Dangers in My Heart",
       "source": "AniList",
       "category": "manga",
-      "score": 7656.0,
-      "url": "https://anilist.co/manga/152913",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152913-5EzfZeXchiSO.jpg",
-      "description": "Kazuma Suzuki was just your average high schooler—until his childhood friend, Rua Takayashiki, a beautiful, sharp-tongued girl who also happened to be the granddaughter of the school chairman and the nation’s top idol, cut all ties with him using a line straight out of a drama.\n<br><br>\nForced into submission for years as her so-called childhood friend, Kazuma decides it’s finally time for his first-ever rebellion. He’s done playing lapdog. This time, he’s taking back his freedom—and aiming for a normal school life.\n<br><br>\nEscaping a powerful beauty like her is easier said than done...\n<br><br>\n(Source: Square Enix)",
+      "score": 34925.0,
+      "url": "https://anilist.co/manga/101557",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
+      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
       "genres": [
         "Comedy",
-        "Romance"
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 66,
+        "average_score": 81,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
