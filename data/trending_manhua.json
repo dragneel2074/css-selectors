@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-25T02:17:42Z",
-  "date": "2026-07-25",
+  "generated_at_utc": "2026-07-26T02:28:59Z",
+  "date": "2026-07-26",
   "category": "manhua",
-  "item_count": 1,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 26510.0,
+      "score": 26541.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -37,6 +37,29 @@
       ],
       "metadata": {
         "average_score": 82,
+        "country_of_origin": "CN",
+        "format": "MANGA"
+      },
+      "previous_score": 26510.0,
+      "velocity": 0.0011693700490380988
+    },
+    {
+      "id": "anilist-manga-167372",
+      "title": "Necromancer, the Ultimate Scourge!",
+      "source": "AniList",
+      "category": "manhua",
+      "score": 10447.0,
+      "url": "https://anilist.co/manga/167372",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
+      "description": "In a world where magic and monsters exist, Lin Moyu has hit the age of acquiring his very own profession. While most would be lucky just to obtain a high-level combat class, Moyu becomes the ultrarare necromancer! Being the first and only one of his kind, he has no idea of the potential he possesses on his journey to level up and face great challenges. What new heights will Moyu achieve with his unique army of undead?\n<BR><BR>\n(Source: Tappytoon)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 72,
         "country_of_origin": "CN",
         "format": "MANGA"
       },

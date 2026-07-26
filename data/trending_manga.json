@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-25T02:17:42Z",
-  "date": "2026-07-25",
+  "generated_at_utc": "2026-07-26T02:28:59Z",
+  "date": "2026-07-26",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 3,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,34 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-86399",
-      "title": "That Time I Got Reincarnated as a Slime",
-      "source": "AniList",
-      "category": "manga",
-      "score": 60056.0,
-      "url": "https://anilist.co/manga/86399",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86399-NwbRFVh5koqc.jpg",
-      "description": "As players of Monster Hunter and Dungeons & Dragons know, the slime is not exactly the king of the fantasy monsters. So when a 37-year-old Tokyo salaryman dies and wakes up in a world of dragons and magic, he's a little disappointed to find he's become a blind, boneless slime monster.\n<br><br>\n(Source: Kodansha USA)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 59943.0,
-      "velocity": 0.0018851242013245917
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 228984.0,
+      "score": 229131.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -65,28 +42,26 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 228887.0,
-      "velocity": 0.0004237899050623233
+      "previous_score": 228984.0,
+      "velocity": 0.0006419662509170946
     },
     {
-      "id": "anilist-manga-106064",
-      "title": "Chained Soldier",
+      "id": "anilist-manga-99775",
+      "title": "The Wrong Way to Use Healing Magic",
       "source": "AniList",
       "category": "manga",
-      "score": 53531.0,
-      "url": "https://anilist.co/manga/106064",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
-      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
+      "score": 17104.0,
+      "url": "https://anilist.co/manga/99775",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99775-yhhkMTIQufME.png",
+      "description": "Usato, an ordinary high schooler, happens to run into two fellow students after school one rainy day. Suddenly, all three of them are engulfed in a magic circle and transported to a fantasy world. There’s just one tiny problem—Usato is simply dragged along by accident! On top of that, Usato learns that he is capable of using healing magic—an incredibly rare affinity in this new world. Now Usato must spend his days with the rescue team thugs, struggling through their hellish training regimen—learning the wrong way to use healing magic. Get ready for an eccentric otherworld fantasy filled with comedy and combat!<br>\n<br>\n(Source: One Peace Books)",
       "genres": [
         "Action",
         "Adventure",
-        "Drama",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
+        "Comedy",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 72,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -94,21 +69,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-101557",
-      "title": "The Dangers in My Heart",
+      "id": "anilist-manga-174790",
+      "title": "Learning to Love My Cat-like Classmate",
       "source": "AniList",
       "category": "manga",
-      "score": 34925.0,
-      "url": "https://anilist.co/manga/101557",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
-      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
+      "score": 12174.0,
+      "url": "https://anilist.co/manga/174790",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174790-7wZ1sDAhcofd.jpg",
+      "description": "Minato Seno’s high school life had just begun when his homeroom teacher requested his help with Nekozane, the cat-like chronic napper who sits next to him in class. Timid and socially anxious, Minato has never talked to her or even seen her face. But when he finally musters up the courage to wake Nekozane, she unexpectedly hugs him on the spot! Thus begins a sweet tale of two teens awkwardly stumbling into a new friendship, unaware that their feelings are slowly turning into something more!\n<BR><BR>\n(Source: Manga UP!)\n<BR><BR>\n<I>Note: Originally self-published on Twitter, it was picked up for commercial publication with two volumes collecting the Twitter comics releasing on 2024-03-25 and 2024-04-25, with subsequent serialization in Big Gangan starting 2024-04-25.</i>",
       "genres": [
         "Comedy",
         "Romance",
         "Slice of Life"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 78,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
