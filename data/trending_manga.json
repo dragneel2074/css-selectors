@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-27T02:36:44Z",
-  "date": "2026-07-27",
+  "generated_at_utc": "2026-07-28T02:11:51Z",
+  "date": "2026-07-28",
   "category": "manga",
-  "item_count": 10,
+  "item_count": 6,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,34 +23,33 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
+      "id": "anilist-manga-150440",
+      "title": "RuriDragon",
       "source": "AniList",
       "category": "manga",
-      "score": 229233.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
+      "score": 33491.0,
+      "url": "https://anilist.co/manga/150440",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg",
+      "description": "Well, a half dragon. Her mom admits Ruri inherited her draconic traits from her father, who, yes, is actually a dragon. As if dealing with curious classmates wasn’t already challenging enough, Ruri and her dragon genes literally turn up the heat in the middle of a lecture. Her ordinary life is about to be anything but!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Chapters 1-6 were published in Weekly Shounen Jump from June 13, 2022 until the series went on hiatus in August 2022 due to the author’s health. It resumed with five weekly chapters from March 4 to April 1, 2024, then switched on April 22, 2024 to a bi-weekly publication on the digital Weekly Shounen Jump and Shounen Jump+.<br>\n- Ranked 1st in the Nationwide Bookstore Staff Recommended Comics 2023.<br>\n- Nominated for the 2023 eBookJapan Manga Award.<br>\n- Ranked 9th in the Male Readers' division of Takarajimasha's Kono Manga ga Sugoi! 2024 guidebook.<br>\n- Ranked 2nd in the Web Manga category of the 2024 Next Manga Award.<br>\n- Winner of the Setting Award at the 4th Magademy Awards in 2025.</i>",
       "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
-        "Fantasy"
+        "Slice of Life",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 91,
+        "average_score": 77,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 229131.0,
-      "velocity": 0.00044516019220445943
+      "previous_score": 33449.0,
+      "velocity": 0.0012556429190708242
     },
     {
       "id": "anilist-manga-30026",
       "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 107111.0,
+      "score": 107169.0,
       "url": "https://anilist.co/manga/30026",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
       "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
@@ -65,126 +64,18 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 107111.0,
+      "velocity": 0.0005414943376497278
     },
     {
-      "id": "anilist-manga-125828",
-      "title": "Sakamoto Days",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 87353.0,
-      "url": "https://anilist.co/manga/125828",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
-      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-106758",
-      "title": "The Eminence in Shadow",
-      "source": "AniList",
-      "category": "manga",
-      "score": 46482.0,
-      "url": "https://anilist.co/manga/106758",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg",
-      "description": "One big fat lie and a few twisted truths.\n<br><br>\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!\n<br><br>\n(Source: Yen Press)",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 80,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-99022",
-      "title": "The Apothecary Diaries",
-      "source": "AniList",
-      "category": "manga",
-      "score": 45551.0,
-      "url": "https://anilist.co/manga/99022",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99022-Hh2WdyNgR8HM.jpg",
-      "description": "Maomao, a young woman trained in the art of herbal medicine, is forced to work as a lowly servant in the inner palace. Though she yearns for life outside its perfumed halls, she isn’t long for a life of drudgery! Using her wits to break a “curse” afflicting the imperial heirs, Maomao attracts the attentions of the handsome eunuch Jinshi and is promoted to attendant food taster. But Jinshi has other plans for the erstwhile apothecary, and soon Maomao is back to brewing potions and…solving mysteries?!\n<br><br>\n(Source: Square Enix)<br><br>\n<i>Note: Won the Grand Prize in the Printed Manga category at the Tsugi ni Kuru Manga Award 2019.</i>",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "metadata": {
-        "average_score": 85,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-147149",
-      "title": "Smoking Behind the Supermarket with You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 40759.0,
-      "url": "https://anilist.co/manga/147149",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147149-9DQ4upJAV2kQ.jpg",
-      "description": "At age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)\n<br><br>\n<i>Note: On June 23, 2022 it was announced that the manga got licensed by Square Enix. It started being published in the magazine Big Gangan on August 25, 2022.<br>\nWinner of the Next Manga Award 2022 in the Web Manga Category.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150440",
-      "title": "RuriDragon",
-      "source": "AniList",
-      "category": "manga",
-      "score": 33449.0,
-      "url": "https://anilist.co/manga/150440",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg",
-      "description": "Well, a half dragon. Her mom admits Ruri inherited her draconic traits from her father, who, yes, is actually a dragon. As if dealing with curious classmates wasn’t already challenging enough, Ruri and her dragon genes literally turn up the heat in the middle of a lecture. Her ordinary life is about to be anything but!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Chapters 1-6 were published in Weekly Shounen Jump from June 13, 2022 until the series went on hiatus in August 2022 due to the author’s health. It resumed with five weekly chapters from March 4 to April 1, 2024, then switched on April 22, 2024 to a bi-weekly publication on the digital Weekly Shounen Jump and Shounen Jump+.<br>\n- Ranked 1st in the Nationwide Bookstore Staff Recommended Comics 2023.<br>\n- Nominated for the 2023 eBookJapan Manga Award.<br>\n- Ranked 9th in the Male Readers' division of Takarajimasha's Kono Manga ga Sugoi! 2024 guidebook.<br>\n- Ranked 2nd in the Web Manga category of the 2024 Next Manga Award.<br>\n- Winner of the Setting Award at the 4th Magademy Awards in 2025.</i>",
-      "genres": [
-        "Comedy",
-        "Slice of Life",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
-      "source": "AniList",
-      "category": "manga",
-      "score": 27623.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
+      "score": 229326.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
         "Adventure",
@@ -192,7 +83,32 @@
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 91,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 229233.0,
+      "velocity": 0.0004057007498920313
+    },
+    {
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
+      "source": "AniList",
+      "category": "manga",
+      "score": 114126.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -200,21 +116,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-177096",
-      "title": "The Mortifying Ordeal of Being Seen",
+      "id": "anilist-manga-101315",
+      "title": "Anjo the Mischievous Gal",
       "source": "AniList",
       "category": "manga",
-      "score": 13224.0,
-      "url": "https://anilist.co/manga/177096",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177096-C1K0hAL8p1w9.png",
-      "description": "Being sexy can be mortifying, so who will be the first to tap out in this battle of flirtatious gazes between smitten seatmates Eguchi and Ikezawa?\n<BR><BR>\n(Source: VIZ Media)\n<BR><BR>\n<i>Note: Originally self-published, the manga got licensed by Shogakukan and started being published on Sunday Webry since June 17th, 2024. The original first chapter was republished with some changes, the subsequent chapters are being published without changes.</i>",
+      "score": 29145.0,
+      "url": "https://anilist.co/manga/101315",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101315-8qNFN4mJRYO2.jpg",
+      "description": "Seto, a studious but unremarkable student, constantly finds himself in provocative situations with Anjo, the popular girl in his class who can't seem to stop teasing him. A heart-pounding teen rom-com bursting with youthful passion!\n<br><br>\n(Source: Emaqi)\n<br><br>\n<i>Note: This is a serialisation of the web comic originally self-published on Pixiv.</i>",
       "genres": [
         "Comedy",
         "Ecchi",
-        "Romance"
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 75,
+        "average_score": 74,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -222,20 +139,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-191203",
-      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "id": "anilist-manga-172729",
+      "title": "They Are Still Being Shaken This Morning",
       "source": "AniList",
       "category": "manga",
-      "score": 12095.0,
-      "url": "https://anilist.co/manga/191203",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
-      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
+      "score": 11383.0,
+      "url": "https://anilist.co/manga/172729",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172729-1owQQ5lhCBog.jpg",
+      "description": "Every morning at 6:58, commuters hurry onto the train at Sakuranomiya Station. For the past few months, a tentative romance has been brewing between two students from different schools. The young man is easily flustered, always stealing a glance at the young woman, but never making a move—much to the disappointment of the other passengers, who have been cheering them on in secret. Will this budding love story ever blossom?\n<br><br>\n(Source: Seven Seas Entertainment)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 80,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
