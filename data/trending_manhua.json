@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-28T02:11:51Z",
-  "date": "2026-07-28",
+  "generated_at_utc": "2026-07-31T02:29:55Z",
+  "date": "2026-07-31",
   "category": "manhua",
   "item_count": 1,
   "errors": [
@@ -23,22 +23,20 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-142287",
-      "title": "I Am The Fated Villain",
+      "id": "anilist-manga-116353",
+      "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 14995.0,
-      "url": "https://anilist.co/manga/142287",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg",
-      "description": "A transmigrator awoke in the world of martial arts and became the villain named Gu Changge. His goal is to harvest the luck of those called \"the Son of Fate\" in order to become the strongest. With the Sons of Fate as his deranged enemies, he changes the destiny of being a villain.<br><br>(Source: INKR)",
+      "score": 26640.0,
+      "url": "https://anilist.co/manga/116353",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
+      "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
-        "Adventure",
-        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 82,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
