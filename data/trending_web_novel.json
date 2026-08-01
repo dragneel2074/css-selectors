@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-31T02:29:55Z",
-  "date": "2026-07-31",
+  "generated_at_utc": "2026-08-01T02:30:29Z",
+  "date": "2026-08-01",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,14 +23,32 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-divorced-dad's-gourmet-shop_35743847700588705",
-      "title": "Divorced Dad's Gourmet Shop",
+      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
+      "velocity": 0.8333333333333334
+    },
+    {
+      "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
+      "title": "Global Lords: My Territory Heart Is a World Tree",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/divorced-dad's-gourmet-shop_35743847700588705",
-      "image": "https://book-pic.webnovel.com/bookcover/35743847700588705?imageMogr2/thumbnail/600x&imageId=1780470862943",
-      "description": "# SYSTEM # URBAN # WARM # FOOD",
+      "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
+      "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
+      "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
       "genres": [
         "Web Novel"
       ],
@@ -41,76 +59,22 @@
       "velocity": 0.5
     },
     {
-      "id": "webnovel-book-trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
-      "title": "Trick Him Into Divorce, Then Flee With His Unknow Kid",
+      "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
+      "title": "Breeder To The Brutal Alpha King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
-      "image": "https://book-pic.webnovel.com/bookcover/36224881500570505?imageMogr2/thumbnail/600x&imageId=1782290418704",
-      "description": "# ROMANCE # REVENGE # BETRAYAL # ANGST # ABUSIVELOVE # CEO # CHEAT # SECRETBABY # DIVORCE # HIDDENMARRIAGE",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/breeder-to-the-brutal-alpha-king_35907539508318005",
+      "image": "https://book-pic.webnovel.com/bookcover/35907539508318005?imageMogr2/thumbnail/600x&imageId=1781603514200",
+      "description": "# ROMANCE # R18 # TRAGEDY # REVENGE # SMUT # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # ABUSIVELOVE # REJECTED",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 7.0,
-      "velocity": 0.42857142857142855
-    },
-    {
-      "id": "webnovel-book-apocalypse-escape-day-one-of-survival_35475099908537705",
-      "title": "Apocalypse Escape: Day One of Survival",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/apocalypse-escape-day-one-of-survival_35475099908537705",
-      "image": "https://book-pic.webnovel.com/bookcover/35475099908537705?imageMogr2/thumbnail/600x&imageId=1779763638691",
-      "description": "# SUPERPOWERS # APOCALYPSE # STRONGFL # STORAGESPACE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 3.0,
-      "velocity": 0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
-      "title": "Reborn One Week Before the Apocalypse",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/reborn-one-week-before-the-apocalypse_35234512800305005",
-      "image": "https://book-pic.webnovel.com/bookcover/35234512800305005?imageMogr2/thumbnail/600x&imageId=1781766587637",
-      "description": "# SUPERPOWERS # SURVIVAL # CAMPUS # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # COUNTERATTACK # SPACE # DISASTER # STORAGESPACE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": 0.16666666666666666
-    },
-    {
-      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "title": "Sea Survival: My Luck is Off the Charts",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": 0.09090909090909091
+      "previous_score": 5.0,
+      "velocity": 0.2
     },
     {
       "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
@@ -135,7 +99,7 @@
       "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 15.0,
+      "score": 14.0,
       "url": "https://www.webnovel.com/book/investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
       "image": "https://book-pic.webnovel.com/bookcover/36191927408967005?imageMogr2/thumbnail/600x&imageId=1784894124889",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # URBAN # YANDERE # HERO # HOT",
@@ -146,17 +110,17 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 15.0,
-      "velocity": 0.0
+      "velocity": -0.06666666666666667
     },
     {
       "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
       "title": "Starting With an SSS-Rank Goddess Summon!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 14.0,
+      "score": 13.0,
       "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1785446699065",
-      "description": "# SLICEOFLIFE # SYSTEM # R18 # HAREM # MAGIC # ACTION # ADVENTURE # REINCARNATION # ROMANCE # OVERPOWERED",
+      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1785531195013",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
@@ -164,14 +128,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 14.0,
-      "velocity": 0.0
+      "velocity": -0.07142857142857142
     },
     {
       "id": "webnovel-book-surviving-zombies-was-easier-than-raising-beast-cubs_36052911100422205",
       "title": "Surviving Zombies Was Easier Than Raising Beast Cubs",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 13.0,
+      "score": 12.0,
       "url": "https://www.webnovel.com/book/surviving-zombies-was-easier-than-raising-beast-cubs_36052911100422205",
       "image": "https://book-pic.webnovel.com/bookcover/36052911100422205?imageMogr2/thumbnail/600x&imageId=1781550314923",
       "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # POSSESSIVE # NONHUMAN # APOCALYPSE # FAMILY # FORCEDLOVE # HUMANANDBEAST # AMNESIA",
@@ -182,50 +146,32 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 13.0,
-      "velocity": 0.0
+      "velocity": -0.07692307692307693
     },
     {
-      "id": "webnovel-book-fertility-value-0-my-fluffy-husbands-are-all-top-tier-bigshots_35743533408523905",
-      "title": "Fertility Value 0? My Fluffy Husbands Are All Top-Tier Bigshots",
+      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "title": "Sea Survival: My Luck is Off the Charts",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/fertility-value-0-my-fluffy-husbands-are-all-top-tier-bigshots_35743533408523905",
-      "image": "https://book-pic.webnovel.com/bookcover/35743533408523905?imageMogr2/thumbnail/600x&imageId=1784169142897",
-      "description": "# ROMANCE # COMEDY # TRANSMIGRATION # POSSESSIVE # NONHUMAN # FUTURE # HIDDENIDENTITIES # REVERSE HAREM # SUPERPOWER",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
+      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 9.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
-      "title": "Breeder To The Brutal Alpha King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/breeder-to-the-brutal-alpha-king_35907539508318005",
-      "image": "https://book-pic.webnovel.com/bookcover/35907539508318005?imageMogr2/thumbnail/600x&imageId=1781603514200",
-      "description": "# ROMANCE # R18 # TRAGEDY # REVENGE # SMUT # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # ABUSIVELOVE # REJECTED",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": 0.0
+      "previous_score": 12.0,
+      "velocity": -0.16666666666666666
     },
     {
       "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
       "title": "I Can Devour Monsters’ SSS Talents",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
       "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
@@ -235,18 +181,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 12.0,
-      "velocity": -0.08333333333333333
+      "previous_score": 11.0,
+      "velocity": -0.18181818181818182
     },
     {
-      "id": "webnovel-book-i-built-a-divine-zoo-in-another-world_35958664308365005",
-      "title": "I Built a Divine Zoo in Another World",
+      "id": "webnovel-book-trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
+      "title": "Trick Him Into Divorce, Then Flee With His Unknow Kid",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 8.0,
-      "url": "https://www.webnovel.com/book/i-built-a-divine-zoo-in-another-world_35958664308365005",
-      "image": "https://book-pic.webnovel.com/bookcover/35958664308365005?imageMogr2/thumbnail/600x&imageId=1779696895189",
-      "description": "# ACTION # ROMANCE # ADVENTURE # REINCARNATION # MAGIC # OVERPOWERED # SLICEOFLIFE # KINGDOMBUILDING # ACADEMY # BEASTTAMING",
+      "url": "https://www.webnovel.com/book/trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
+      "image": "https://book-pic.webnovel.com/bookcover/36224881500570505?imageMogr2/thumbnail/600x&imageId=1782290418704",
+      "description": "# ROMANCE # REVENGE # BETRAYAL # ANGST # CEO # ABUSIVELOVE # CHEAT # SECRETBABY # DIVORCE # HIDDENMARRIAGE",
       "genres": [
         "Web Novel"
       ],
@@ -257,14 +203,50 @@
       "velocity": -0.2
     },
     {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
+      "id": "webnovel-book-fertility-value-0-my-fluffy-husbands-are-all-top-tier-bigshots_35743533408523905",
+      "title": "Fertility Value 0? My Fluffy Husbands Are All Top-Tier Bigshots",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/fertility-value-0-my-fluffy-husbands-are-all-top-tier-bigshots_35743533408523905",
+      "image": "https://book-pic.webnovel.com/bookcover/35743533408523905?imageMogr2/thumbnail/600x&imageId=1784169142897",
+      "description": "# ROMANCE # COMEDY # TRANSMIGRATION # POSSESSIVE # NONHUMAN # FUTURE # HIDDENIDENTITIES # REVERSE HAREM # SUPERPOWER",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": -0.2222222222222222
+    },
+    {
+      "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
+      "title": "Reborn One Week Before the Apocalypse",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/reborn-one-week-before-the-apocalypse_35234512800305005",
+      "image": "https://book-pic.webnovel.com/bookcover/35234512800305005?imageMogr2/thumbnail/600x&imageId=1781766587637",
+      "description": "# SUPERPOWERS # SURVIVAL # CAMPUS # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # COUNTERATTACK # SPACE # DISASTER # STORAGESPACE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": -0.2857142857142857
+    },
+    {
+      "id": "webnovel-book-i-built-a-divine-zoo-in-another-world_35958664308365005",
+      "title": "I Built a Divine Zoo in Another World",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/i-built-a-divine-zoo-in-another-world_35958664308365005",
+      "image": "https://book-pic.webnovel.com/bookcover/35958664308365005?imageMogr2/thumbnail/600x&imageId=1779696895189",
+      "description": "# ACTION # ROMANCE # ADVENTURE # REINCARNATION # MAGIC # OVERPOWERED # SLICEOFLIFE # KINGDOMBUILDING # ACADEMY # BEASTTAMING",
       "genres": [
         "Web Novel"
       ],
@@ -272,17 +254,35 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 8.0,
-      "velocity": -0.25
+      "velocity": -0.5
     },
     {
-      "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "title": "Global Lords: My Territory Heart Is a World Tree",
+      "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "title": "The Fake Luna: Marked By The Alpha King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "image": "https://book-pic.webnovel.com/bookcover/36285720400859905?imageMogr2/thumbnail/600x&imageId=1782898805735",
+      "description": "# REVENGE # WEREWOLF # ALPHA # ANGST # HIDDENIDENTITIES # CEO # POORTORICH # FAKEIDENTITY # EX # CONTRACTMARRIAGE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
-      "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
+      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
+      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
       "genres": [
         "Web Novel"
       ],

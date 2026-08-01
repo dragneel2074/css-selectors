@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-31T02:29:55Z",
-  "date": "2026-07-31",
+  "generated_at_utc": "2026-08-01T02:30:29Z",
+  "date": "2026-08-01",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,66 +23,22 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-74347",
-      "title": "One-Punch Man",
+      "id": "anilist-manga-114416",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
       "source": "AniList",
       "category": "manga",
-      "score": 171514.0,
-      "url": "https://anilist.co/manga/74347",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
-      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 85,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 171443.0,
-      "velocity": 0.00041413181057261015
-    },
-    {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 229595.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 229513.0,
-      "velocity": 0.0003572782369626121
-    },
-    {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
-      "source": "AniList",
-      "category": "manga",
-      "score": 36750.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "score": 38285.0,
+      "url": "https://anilist.co/manga/114416",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
+      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
       "genres": [
         "Comedy",
-        "Fantasy"
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 77,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -90,20 +46,22 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-150193",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "id": "anilist-manga-142021",
+      "title": "Ryoushin no Shakkin wo Katagawari Shite Morau Jouken wa Nihonichi Kawaii Joshikousei to Issho ni Kurasu Koto deshita.",
       "source": "AniList",
       "category": "manga",
-      "score": 8405.0,
-      "url": "https://anilist.co/manga/150193",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
-      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
+      "score": 9568.0,
+      "url": "https://anilist.co/manga/142021",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142021-uUN9GKHWJEGo.jpg",
+      "description": "The main character, Yoshizumi Yuya, was being pressured into paying off the debt left by his parents who had fled abroad. It was his classmate, Hitotsuba Kaede, chosen as the cutest schoolgirl in Japan, who saved him from this crisis of life and death. However, there was a catch. The condition required to fulfill in return for taking over his debt was — <i>“In return for the loan, you have – to live with me.”</i>",
       "genres": [
-        "Action",
-        "Fantasy"
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 68,
+        "average_score": 69,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
