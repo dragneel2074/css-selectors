@@ -1,311 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-26",
-      "items": [
-        {
-          "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-          "score": 12.0
-        },
-        {
-          "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-          "score": 13.0
-        },
-        {
-          "id": "goodnovel-book-The-Pack-s-Hacker_31001314174",
-          "score": 13.0
-        },
-        {
-          "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
-          "score": 15.0
-        },
-        {
-          "id": "anilist-anime-207141",
-          "score": 53822.0
-        },
-        {
-          "id": "anilist-anime-196187",
-          "score": 95138.0
-        },
-        {
-          "id": "anilist-anime-182205",
-          "score": 119624.0
-        },
-        {
-          "id": "anilist-manga-172619",
-          "score": 28775.0
-        },
-        {
-          "id": "anilist-manga-155485",
-          "score": 19324.0
-        },
-        {
-          "id": "anilist-anime-195600",
-          "score": 121779.0
-        },
-        {
-          "id": "anilist-manga-159441",
-          "score": 42171.0
-        },
-        {
-          "id": "anilist-manga-116353",
-          "score": 26541.0
-        },
-        {
-          "id": "anilist-anime-269",
-          "score": 504776.0
-        },
-        {
-          "id": "anilist-manga-30013",
-          "score": 229131.0
-        },
-        {
-          "id": "anilist-anime-21",
-          "score": 733660.0
-        },
-        {
-          "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
-          "score": 16.0
-        },
-        {
-          "id": "dreame-1646404864",
-          "score": 16.0
-        },
-        {
-          "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-          "score": 15.0
-        },
-        {
-          "id": "dreame-1231429376",
-          "score": 15.0
-        },
-        {
-          "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-          "score": 14.0
-        },
-        {
-          "id": "dreame-742663424",
-          "score": 14.0
-        },
-        {
-          "id": "dreame-2880119808",
-          "score": 13.0
-        },
-        {
-          "id": "dreame-1570579456",
-          "score": 12.0
-        },
-        {
-          "id": "dreame-20390912",
-          "score": 11.0
-        },
-        {
-          "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-          "score": 10.0
-        },
-        {
-          "id": "dreame-1411916544",
-          "score": 10.0
-        },
-        {
-          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
-          "score": 10.0
-        },
-        {
-          "id": "webnovel-book-i-grow-stronger-by-making-my-wife-happy._35758864700801105",
-          "score": 9.0
-        },
-        {
-          "id": "dreame-1737958400",
-          "score": 9.0
-        },
-        {
-          "id": "goodnovel-book-My-Stepbrother-s-Dirty-Little-Secret_31001418978",
-          "score": 9.0
-        },
-        {
-          "id": "webnovel-book-martial-dao-i-can-enhance-my-talents_35234508308267105",
-          "score": 8.0
-        },
-        {
-          "id": "dreame-3391824640",
-          "score": 8.0
-        },
-        {
-          "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
-          "score": 8.0
-        },
-        {
-          "id": "webnovel-book-trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
-          "score": 7.0
-        },
-        {
-          "id": "dreame-696460032",
-          "score": 7.0
-        },
-        {
-          "id": "goodnovel-book-Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
-          "score": 7.0
-        },
-        {
-          "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-          "score": 6.0
-        },
-        {
-          "id": "dreame-1094329344",
-          "score": 6.0
-        },
-        {
-          "id": "goodnovel-book-The-Heartless-Alpha-s-Beloved-Luna_31001165452",
-          "score": 6.0
-        },
-        {
-          "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
-          "score": 5.0
-        },
-        {
-          "id": "dreame-2235114496",
-          "score": 5.0
-        },
-        {
-          "id": "goodnovel-book-The-Luna-Queen-s-Rebirth_31001062738",
-          "score": 5.0
-        },
-        {
-          "id": "webnovel-book-the-villainess-is-my-cute-daughter_35757269408712905",
-          "score": 4.0
-        },
-        {
-          "id": "dreame-1317150208",
-          "score": 4.0
-        },
-        {
-          "id": "goodnovel-book-HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
-          "score": 4.0
-        },
-        {
-          "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
-          "score": 3.0
-        },
-        {
-          "id": "dreame-850797312",
-          "score": 3.0
-        },
-        {
-          "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
-          "score": 3.0
-        },
-        {
-          "id": "webnovel-book-he-wants-an-open-marriage-done!_35964974408521905",
-          "score": 11.0
-        },
-        {
-          "id": "goodnovel-book-TEMPORARY-MATES-PERMANENT-CRAVINGS_31001246334",
-          "score": 11.0
-        },
-        {
-          "id": "anilist-anime-185874",
-          "score": 56992.0
-        },
-        {
-          "id": "anilist-anime-187538",
-          "score": 50289.0
-        },
-        {
-          "id": "anilist-manga-149332",
-          "score": 41729.0
-        },
-        {
-          "id": "anilist-anime-184492",
-          "score": 37957.0
-        },
-        {
-          "id": "anilist-anime-171110",
-          "score": 35757.0
-        },
-        {
-          "id": "anilist-anime-190569",
-          "score": 31987.0
-        },
-        {
-          "id": "anilist-anime-201514",
-          "score": 30519.0
-        },
-        {
-          "id": "anilist-anime-186863",
-          "score": 18195.0
-        },
-        {
-          "id": "anilist-manga-187944",
-          "score": 17420.0
-        },
-        {
-          "id": "anilist-manga-99775",
-          "score": 17104.0
-        },
-        {
-          "id": "anilist-anime-199066",
-          "score": 16291.0
-        },
-        {
-          "id": "anilist-anime-194219",
-          "score": 14632.0
-        },
-        {
-          "id": "anilist-manga-150170",
-          "score": 14461.0
-        },
-        {
-          "id": "anilist-manga-174790",
-          "score": 12174.0
-        },
-        {
-          "id": "anilist-manga-173233",
-          "score": 11117.0
-        },
-        {
-          "id": "anilist-manga-167372",
-          "score": 10447.0
-        },
-        {
-          "id": "anilist-manga-195914",
-          "score": 5275.0
-        },
-        {
-          "id": "anilist-manga-198931",
-          "score": 4545.0
-        },
-        {
-          "id": "anilist-manga-206766",
-          "score": 4444.0
-        },
-        {
-          "id": "goodnovel-book-Billionaire-s-Match_31001148338",
-          "score": 16.0
-        },
-        {
-          "id": "goodnovel-book-While-You-Chose-Her-I-Claimed-Everything_31001375696",
-          "score": 14.0
-        },
-        {
-          "id": "goodnovel-book-Tattooed-Luna_31000656745",
-          "score": 12.0
-        },
-        {
-          "id": "webnovel-book-lord-i-grind-exp-with-warband-panel_35475421508546505",
-          "score": 2.0
-        },
-        {
-          "id": "dreame-1896046592",
-          "score": 2.0
-        },
-        {
-          "id": "goodnovel-book-Unwanted_31000202097",
-          "score": 2.0
-        }
-      ]
-    },
-    {
       "date": "2026-07-27",
       "items": [
         {
@@ -2131,6 +1826,311 @@
         },
         {
           "id": "goodnovel-book-The-Luna-Choosing-Game_31000656037",
+          "score": 2.0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "items": [
+        {
+          "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
+          "score": 5.0
+        },
+        {
+          "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
+          "score": 7.0
+        },
+        {
+          "id": "anilist-anime-209983",
+          "score": 29936.0
+        },
+        {
+          "id": "anilist-anime-207141",
+          "score": 58126.0
+        },
+        {
+          "id": "anilist-anime-196187",
+          "score": 99306.0
+        },
+        {
+          "id": "anilist-manga-172619",
+          "score": 29110.0
+        },
+        {
+          "id": "anilist-anime-195600",
+          "score": 123884.0
+        },
+        {
+          "id": "anilist-manga-116353",
+          "score": 26680.0
+        },
+        {
+          "id": "anilist-anime-269",
+          "score": 507230.0
+        },
+        {
+          "id": "anilist-anime-21",
+          "score": 736435.0
+        },
+        {
+          "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
+          "score": 16.0
+        },
+        {
+          "id": "dreame-1646404864",
+          "score": 16.0
+        },
+        {
+          "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+          "score": 15.0
+        },
+        {
+          "id": "dreame-1231429376",
+          "score": 15.0
+        },
+        {
+          "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+          "score": 14.0
+        },
+        {
+          "id": "dreame-742663424",
+          "score": 14.0
+        },
+        {
+          "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
+          "score": 13.0
+        },
+        {
+          "id": "dreame-2880119808",
+          "score": 13.0
+        },
+        {
+          "id": "webnovel-book-surviving-zombies-was-easier-than-raising-beast-cubs_36052911100422205",
+          "score": 12.0
+        },
+        {
+          "id": "dreame-1570579456",
+          "score": 12.0
+        },
+        {
+          "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
+          "score": 11.0
+        },
+        {
+          "id": "dreame-20390912",
+          "score": 11.0
+        },
+        {
+          "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+          "score": 10.0
+        },
+        {
+          "id": "dreame-1411916544",
+          "score": 10.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
+          "score": 10.0
+        },
+        {
+          "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+          "score": 9.0
+        },
+        {
+          "id": "dreame-1737958400",
+          "score": 9.0
+        },
+        {
+          "id": "goodnovel-book-My-Stepbrother-s-Dirty-Little-Secret_31001418978",
+          "score": 9.0
+        },
+        {
+          "id": "webnovel-book-trick-him-into-divorce-then-flee-with-his-unknow-kid_36224881500570505",
+          "score": 8.0
+        },
+        {
+          "id": "dreame-3391824640",
+          "score": 8.0
+        },
+        {
+          "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
+          "score": 8.0
+        },
+        {
+          "id": "dreame-696460032",
+          "score": 7.0
+        },
+        {
+          "id": "goodnovel-book-Let-s-Divorce-Mrs-Wright-Is-Done-Playing-Nice_31001271752",
+          "score": 7.0
+        },
+        {
+          "id": "dreame-1094329344",
+          "score": 6.0
+        },
+        {
+          "id": "goodnovel-book-The-Heartless-Alpha-s-Beloved-Luna_31001165452",
+          "score": 6.0
+        },
+        {
+          "id": "dreame-2235114496",
+          "score": 5.0
+        },
+        {
+          "id": "goodnovel-book-The-Luna-Queen-s-Rebirth_31001062738",
+          "score": 5.0
+        },
+        {
+          "id": "dreame-1317150208",
+          "score": 4.0
+        },
+        {
+          "id": "goodnovel-book-HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
+          "score": 4.0
+        },
+        {
+          "id": "dreame-850797312",
+          "score": 3.0
+        },
+        {
+          "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+          "score": 3.0
+        },
+        {
+          "id": "webnovel-book-fertility-value-0-my-fluffy-husbands-are-all-top-tier-bigshots_35743533408523905",
+          "score": 6.0
+        },
+        {
+          "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
+          "score": 4.0
+        },
+        {
+          "id": "webnovel-book-i-built-a-divine-zoo-in-another-world_35958664308365005",
+          "score": 3.0
+        },
+        {
+          "id": "anilist-manga-30013",
+          "score": 229749.0
+        },
+        {
+          "id": "anilist-anime-185874",
+          "score": 65437.0
+        },
+        {
+          "id": "anilist-anime-187538",
+          "score": 54104.0
+        },
+        {
+          "id": "anilist-manga-149332",
+          "score": 42088.0
+        },
+        {
+          "id": "anilist-anime-184492",
+          "score": 38499.0
+        },
+        {
+          "id": "anilist-anime-171110",
+          "score": 36247.0
+        },
+        {
+          "id": "anilist-anime-190569",
+          "score": 33677.0
+        },
+        {
+          "id": "anilist-anime-201514",
+          "score": 32811.0
+        },
+        {
+          "id": "anilist-manga-167649",
+          "score": 28067.0
+        },
+        {
+          "id": "anilist-anime-186863",
+          "score": 19185.0
+        },
+        {
+          "id": "anilist-anime-199066",
+          "score": 17847.0
+        },
+        {
+          "id": "anilist-manga-187944",
+          "score": 17680.0
+        },
+        {
+          "id": "anilist-anime-194219",
+          "score": 16161.0
+        },
+        {
+          "id": "anilist-manga-150193",
+          "score": 8535.0
+        },
+        {
+          "id": "anilist-manga-194523",
+          "score": 5761.0
+        },
+        {
+          "id": "anilist-manga-195914",
+          "score": 5414.0
+        },
+        {
+          "id": "anilist-manga-149323",
+          "score": 5002.0
+        },
+        {
+          "id": "anilist-manga-198931",
+          "score": 4666.0
+        },
+        {
+          "id": "anilist-manga-206766",
+          "score": 4657.0
+        },
+        {
+          "id": "anilist-manga-213942",
+          "score": 1860.0
+        },
+        {
+          "id": "anilist-manga-211415",
+          "score": 1334.0
+        },
+        {
+          "id": "anilist-manga-214453",
+          "score": 1054.0
+        },
+        {
+          "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
+          "score": 16.0
+        },
+        {
+          "id": "goodnovel-book-Alpha-s-Rue-His-Shunned-Luna_31001363078",
+          "score": 15.0
+        },
+        {
+          "id": "goodnovel-book-Hired-a-Gigolo-Got-a-Billionaire_31001058616",
+          "score": 14.0
+        },
+        {
+          "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
+          "score": 13.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
+          "score": 12.0
+        },
+        {
+          "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
+          "score": 11.0
+        },
+        {
+          "id": "webnovel-book-divorced-dad's-gourmet-shop_35743847700588705",
+          "score": 2.0
+        },
+        {
+          "id": "dreame-1147428608",
+          "score": 2.0
+        },
+        {
+          "id": "goodnovel-book-Alpha-Reid_31000243537",
           "score": 2.0
         }
       ]

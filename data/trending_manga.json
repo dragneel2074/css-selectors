@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-01T02:30:29Z",
-  "date": "2026-08-01",
+  "generated_at_utc": "2026-08-02T02:27:54Z",
+  "date": "2026-08-02",
   "category": "manga",
-  "item_count": 2,
+  "item_count": 3,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,22 +23,22 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-114416",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 38285.0,
-      "url": "https://anilist.co/manga/114416",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
-      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
+      "score": 229749.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 91,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -46,22 +46,42 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-142021",
-      "title": "Ryoushin no Shakkin wo Katagawari Shite Morau Jouken wa Nihonichi Kawaii Joshikousei to Issho ni Kurasu Koto deshita.",
+      "id": "anilist-manga-150193",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "source": "AniList",
       "category": "manga",
-      "score": 9568.0,
-      "url": "https://anilist.co/manga/142021",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142021-uUN9GKHWJEGo.jpg",
-      "description": "The main character, Yoshizumi Yuya, was being pressured into paying off the debt left by his parents who had fled abroad. It was his classmate, Hitotsuba Kaede, chosen as the cutest schoolgirl in Japan, who saved him from this crisis of life and death. However, there was a catch. The condition required to fulfill in return for taking over his debt was — <i>“In return for the loan, you have – to live with me.”</i>",
+      "score": 8535.0,
+      "url": "https://anilist.co/manga/150193",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
+      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
+        "Action",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 68,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-149323",
+      "title": "Dungeon Friends Forever",
+      "source": "AniList",
+      "category": "manga",
+      "score": 5002.0,
+      "url": "https://anilist.co/manga/149323",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b149323-HnylqUxibojw.jpg",
+      "description": "Van and Ryuka the dragon girl have been friends since childhood. As adults, Van has become a dashing adventurer, and Ryuka has become the boss of a dangerous dungeon! Now Van has to beat up a bunch of Ryuka’s monster underlings every time he wants to bring her food, plan a game night with her, or just hang out. Fantasies come alive in this delightful rom-com about two friends on the verge of love and the monsters who ship them!\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 70,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
