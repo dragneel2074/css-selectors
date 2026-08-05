@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-04T02:09:58Z",
-  "date": "2026-08-04",
+  "generated_at_utc": "2026-08-05T02:08:50Z",
+  "date": "2026-08-05",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,33 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-169355",
-      "title": "Kagurabachi",
-      "source": "AniList",
-      "category": "manga",
-      "score": 67897.0,
-      "url": "https://anilist.co/manga/169355",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png",
-      "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.\n<br><br>(Source: MANGA Plus)\n<br><br>\n<i>Note:<br>\n- Winner of the Tsugimanga 2024 Award in the Print Manga Category. <br>\n- Winner of the 4th Magademy Commitment Award. <br>\n- Nominee of the 70th Shogakukan Award. </i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 67793.0,
-      "velocity": 0.0015340816898499845
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 229895.0,
+      "score": 229950.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -64,25 +42,25 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 229824.0,
-      "velocity": 0.00030893205235310497
+      "previous_score": 229895.0,
+      "velocity": 0.0002392396528850127
     },
     {
-      "id": "anilist-manga-150378",
-      "title": "Gokurakugai",
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 43018.0,
-      "url": "https://anilist.co/manga/150378",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg",
-      "description": "Gokurakugai, a bright and bustling working class district with a hidden dark side. In this area without order, Tao and Alma work as troubleshooters for hire. Their missions involve helping a young boy find his lost friend, a person who dissapears without a trace, and disfigured animal corpses. All the while, the evil spirits who live in the shadows bring out a different side to these troubleshooters!\n<br><br>\n(Source: MANGA Plus)",
+      "score": 122059.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
       "genres": [
         "Action",
-        "Fantasy",
-        "Supernatural"
+        "Drama",
+        "Sports"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -90,21 +68,64 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-184773",
-      "title": "Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Iseikouyuu",
+      "id": "anilist-manga-144946",
+      "title": "Gachiakuta",
       "source": "AniList",
       "category": "manga",
-      "score": 4190.0,
-      "url": "https://anilist.co/manga/184773",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b184773-qs75HCeLpJ3Q.jpg",
-      "description": "Anastasia, an elf said to be the most powerful magical talent in a thousand years, is fighting in the final battle of a three-way war.\nIn the midst of battle with her arch-enemies, the demons, Anastasia finds herself enveloped in an intense light, and wakes up on a deserted island in another world.\nAs Anastasia explores the island, she meets a mysterious stranger, and what's more, she finds herself unable to use magic…!\nThis is a survival comedy about a beautiful elf girl from another world, stranded on a deserted island with an ordinary man!\n<BR><BR>\n(Source: Kadokawa, translated)",
+      "score": 64974.0,
+      "url": "https://anilist.co/manga/144946",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg",
+      "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)",
       "genres": [
-        "Comedy",
-        "Ecchi",
+        "Action",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-173062",
+      "title": "Walking Home with You",
+      "source": "AniList",
+      "category": "manga",
+      "score": 9339.0,
+      "url": "https://anilist.co/manga/173062",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg",
+      "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201855",
+      "title": "Futari Bus",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3667.0,
+      "url": "https://anilist.co/manga/201855",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
+      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 75,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
