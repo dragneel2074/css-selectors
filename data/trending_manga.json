@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-05T02:08:50Z",
-  "date": "2026-08-05",
+  "generated_at_utc": "2026-08-06T02:13:13Z",
+  "date": "2026-08-06",
   "category": "manga",
-  "item_count": 5,
+  "item_count": 6,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,56 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 229950.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 229895.0,
-      "velocity": 0.0002392396528850127
-    },
-    {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
-      "source": "AniList",
-      "category": "manga",
-      "score": 122059.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-144946",
       "title": "Gachiakuta",
       "source": "AniList",
       "category": "manga",
-      "score": 64974.0,
+      "score": 65034.0,
       "url": "https://anilist.co/manga/144946",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg",
       "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)",
@@ -86,25 +41,47 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 64974.0,
+      "velocity": 0.0009234463015975621
     },
     {
-      "id": "anilist-manga-173062",
-      "title": "Walking Home with You",
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 9339.0,
-      "url": "https://anilist.co/manga/173062",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg",
-      "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
+      "score": 122128.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
       "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
+        "Action",
+        "Drama",
+        "Sports"
       ],
       "metadata": {
         "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 122059.0,
+      "velocity": 0.000565300387517512
+    },
+    {
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "source": "AniList",
+      "category": "manga",
+      "score": 77152.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 87,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -112,20 +89,63 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-201855",
-      "title": "Futari Bus",
+      "id": "anilist-manga-201773",
+      "title": "Haimiya Is Scary Cute",
       "source": "AniList",
       "category": "manga",
-      "score": 3667.0,
-      "url": "https://anilist.co/manga/201855",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
-      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
+      "score": 15929.0,
+      "url": "https://anilist.co/manga/201773",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-150193",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "source": "AniList",
+      "category": "manga",
+      "score": 8701.0,
+      "url": "https://anilist.co/manga/150193",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
+      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 68,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-203886",
+      "title": "Gal no Jitensha wo Naoshitara Natsukareta",
+      "source": "AniList",
+      "category": "manga",
+      "score": 2300.0,
+      "url": "https://anilist.co/manga/203886",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203886-0N2XTfvqDp2Z.jpg",
+      "description": "Kutsuzawa Yasuo is a gloomy loner with zero friends. As he walks home alone like always, he has a chance encounter with the class’s top-tier beauty a popular gyaru admired by everyone! After helping her when she nearly falls and fixing her bicycle, he plans to quietly leave... but she looks at him with sparkling eyes instead.\n<br><br>\nA gloomy introvert and a cheerful extrovert who were never supposed to cross paths yet somehow, they begin to grow closer. Thus begins an awkward but heartwarming youthful romantic comedy between two opposites.",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 75,
+        "average_score": 62,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
