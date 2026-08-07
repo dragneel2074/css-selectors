@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-06T02:13:13Z",
-  "date": "2026-08-06",
+  "generated_at_utc": "2026-08-07T02:31:22Z",
+  "date": "2026-08-07",
   "category": "manga",
-  "item_count": 6,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,62 +23,41 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-144946",
-      "title": "Gachiakuta",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 65034.0,
-      "url": "https://anilist.co/manga/144946",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg",
-      "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)",
+      "score": 230090.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
-        "Drama",
+        "Adventure",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 91,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 64974.0,
-      "velocity": 0.0009234463015975621
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
+      "id": "anilist-manga-98263",
+      "title": "Witch Hat Atelier",
       "source": "AniList",
       "category": "manga",
-      "score": 122128.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
+      "score": 80444.0,
+      "url": "https://anilist.co/manga/98263",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98263-kIeaTXrAbGkj.jpg",
+      "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem...\n<br><br>\n(Source: Kodansha USA)\n<br>\n<br>\n<i>Notes:<br>\n- Nominated for the 11th Manga Taishou Award in 2018.<br>\n- Won the Daruma d'Or at Japan Expo in 2019.<br>\n- Won Best U.S. Edition of International Material - Asia at the Eisner Awards in 2020.<br>\n- Won the Best Manga Award at the Harvey Awards in 2020.</i>",
       "genres": [
-        "Action",
+        "Adventure",
         "Drama",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 122059.0,
-      "velocity": 0.000565300387517512
-    },
-    {
-      "id": "anilist-manga-140475",
-      "title": "The Fragrant Flower Blooms With Dignity",
-      "source": "AniList",
-      "category": "manga",
-      "score": 77152.0,
-      "url": "https://anilist.co/manga/140475",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
-      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 87,
@@ -89,21 +68,45 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-201773",
-      "title": "Haimiya Is Scary Cute",
+      "id": "anilist-manga-87395",
+      "title": "Grand Blue Dreaming",
       "source": "AniList",
       "category": "manga",
-      "score": 15929.0,
-      "url": "https://anilist.co/manga/201773",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
-      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
+      "score": 67198.0,
+      "url": "https://anilist.co/manga/87395",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87395-axsA49kSZp72.jpg",
+      "description": "After moving out on his own to a seaside town, Iori Kitahara makes a college debut he never anticipated. A new chapter of his life unfolds, full of diving with beautiful girls and shenanigans with a gaggle of lovable bastards! Idiot-expert Kenji Inoue and au naturel authority Kimitake Yoshioka bring you a glorious college tale filled with booze-fueled antics!<br><br>\n(Source: Kodansha USA)",
       "genres": [
         "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Sports"
+      ],
+      "metadata": {
+        "average_score": 88,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-114416",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "source": "AniList",
+      "category": "manga",
+      "score": 38394.0,
+      "url": "https://anilist.co/manga/114416",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
+      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
+      "genres": [
+        "Comedy",
+        "Ecchi",
         "Romance",
         "Slice of Life"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 77,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -111,41 +114,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-150193",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
       "source": "AniList",
       "category": "manga",
-      "score": 8701.0,
-      "url": "https://anilist.co/manga/150193",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
-      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
+      "score": 36886.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
       "genres": [
-        "Action",
+        "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 68,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-203886",
-      "title": "Gal no Jitensha wo Naoshitara Natsukareta",
-      "source": "AniList",
-      "category": "manga",
-      "score": 2300.0,
-      "url": "https://anilist.co/manga/203886",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203886-0N2XTfvqDp2Z.jpg",
-      "description": "Kutsuzawa Yasuo is a gloomy loner with zero friends. As he walks home alone like always, he has a chance encounter with the class’s top-tier beauty a popular gyaru admired by everyone! After helping her when she nearly falls and fixing her bicycle, he plans to quietly leave... but she looks at him with sparkling eyes instead.\n<br><br>\nA gloomy introvert and a cheerful extrovert who were never supposed to cross paths yet somehow, they begin to grow closer. Thus begins an awkward but heartwarming youthful romantic comedy between two opposites.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 62,
+        "average_score": 83,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
