@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-07T02:31:22Z",
-  "date": "2026-08-07",
+  "generated_at_utc": "2026-08-08T01:19:28Z",
+  "date": "2026-08-08",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,14 +23,14 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
+      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
+      "title": "I Stopped Simping and the Heroines Lost Their Minds",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 4.0,
-      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
-      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
+      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
+      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
+      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
@@ -41,42 +41,6 @@
       "velocity": 1.0
     },
     {
-      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "title": "I Can Devour Monsters’ SSS Talents",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
-      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 10.0,
-      "velocity": 0.2
-    },
-    {
-      "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "title": "Global Lords: My Territory Heart Is a World Tree",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
-      "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": 0.2
-    },
-    {
       "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
       "title": "Every Mafia's Favorite Girl",
       "source": "WebNovel",
@@ -84,7 +48,7 @@
       "score": 16.0,
       "url": "https://www.webnovel.com/book/every-mafia's-favorite-girl_35932764008926405",
       "image": "https://book-pic.webnovel.com/bookcover/35932764008926405?imageMogr2/thumbnail/600x&imageId=1785922028794",
-      "description": "# R18 # MAFIA # DARK # TRANSMIGRATION # ISEKAI # ROMANCE # COMEDY # REVERSE HAREM # POSSESSIVE",
+      "description": "# ROMANCE # R18 # COMEDY # DARK # TRANSMIGRATION # ISEKAI # POSSESSIVE # MAFIA # REVERSE HAREM",
       "genres": [
         "Web Novel"
       ],
@@ -149,6 +113,60 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "title": "I Can Devour Monsters’ SSS Talents",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
+      "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 12.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
+      "title": "Beast Taming: I'm Really Not a Cultivation Master",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
+      "image": "https://book-pic.webnovel.com/bookcover/35475727308556605?imageMogr2/thumbnail/600x&imageId=1779952174238",
+      "description": "# SYSTEM # BEASTTAMING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-global-lords-starting-with-female-hero-fusion_35475540408549105",
+      "title": "Global Lords: Starting with Female Hero Fusion",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/global-lords-starting-with-female-hero-fusion_35475540408549105",
+      "image": "https://book-pic.webnovel.com/bookcover/35475540408549105?imageMogr2/thumbnail/600x&imageId=1779948884429",
+      "description": "# SYSTEM # KINGDOMBUILDING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 10.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
       "title": "Sea Survival: My Luck is Off the Charts",
       "source": "WebNovel",
@@ -203,40 +221,22 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
-      "title": "Beast Taming: I'm Really Not a Cultivation Master",
+      "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
+      "title": "Global Lords: My Territory Heart Is a World Tree",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
-      "image": "https://book-pic.webnovel.com/bookcover/35475727308556605?imageMogr2/thumbnail/600x&imageId=1779952174238",
-      "description": "# SYSTEM # BEASTTAMING",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
+      "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
+      "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 12.0,
-      "velocity": -0.08333333333333333
-    },
-    {
-      "id": "webnovel-book-global-lords-starting-with-female-hero-fusion_35475540408549105",
-      "title": "Global Lords: Starting with Female Hero Fusion",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/global-lords-starting-with-female-hero-fusion_35475540408549105",
-      "image": "https://book-pic.webnovel.com/bookcover/35475540408549105?imageMogr2/thumbnail/600x&imageId=1779948884429",
-      "description": "# SYSTEM # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": -0.09090909090909091
+      "previous_score": 6.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
@@ -253,18 +253,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 6.0,
-      "velocity": -0.16666666666666666
+      "previous_score": 5.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-surviving-zombies-was-easier-than-raising-beast-cubs_36052911100422205",
-      "title": "Surviving Zombies Was Easier Than Raising Beast Cubs",
+      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/surviving-zombies-was-easier-than-raising-beast-cubs_36052911100422205",
-      "image": "https://book-pic.webnovel.com/bookcover/36052911100422205?imageMogr2/thumbnail/600x&imageId=1781550314923",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # POSSESSIVE # NONHUMAN # APOCALYPSE # FAMILY # FORCEDLOVE # HUMANANDBEAST # AMNESIA",
+      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
+      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
+      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
       "genres": [
         "Web Novel"
       ],
@@ -275,14 +275,14 @@
       "velocity": -0.25
     },
     {
-      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "title": "I Stopped Simping and the Heroines Lost Their Minds",
+      "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
+      "title": "Reborn One Week Before the Apocalypse",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
-      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
+      "url": "https://www.webnovel.com/book/reborn-one-week-before-the-apocalypse_35234512800305005",
+      "image": "https://book-pic.webnovel.com/bookcover/35234512800305005?imageMogr2/thumbnail/600x&imageId=1781766587637",
+      "description": "# SUPERPOWERS # SURVIVAL # CAMPUS # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # COUNTERATTACK # SPACE # DISASTER # STORAGESPACE",
       "genres": [
         "Web Novel"
       ],

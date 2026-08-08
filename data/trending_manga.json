@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-07T02:31:22Z",
-  "date": "2026-08-07",
+  "generated_at_utc": "2026-08-08T01:19:28Z",
+  "date": "2026-08-08",
   "category": "manga",
-  "item_count": 5,
+  "item_count": 3,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,11 +23,32 @@
   ],
   "items": [
     {
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
+      "source": "AniList",
+      "category": "manga",
+      "score": 36939.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 36886.0,
+      "velocity": 0.001436859513094399
+    },
+    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230090.0,
+      "score": 230207.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,92 +63,24 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 230090.0,
+      "velocity": 0.0005084966752140467
     },
     {
-      "id": "anilist-manga-98263",
-      "title": "Witch Hat Atelier",
+      "id": "anilist-manga-159655",
+      "title": "Kusunoki’s Flunking Her High School Glow-Up",
       "source": "AniList",
       "category": "manga",
-      "score": 80444.0,
-      "url": "https://anilist.co/manga/98263",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98263-kIeaTXrAbGkj.jpg",
-      "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem...\n<br><br>\n(Source: Kodansha USA)\n<br>\n<br>\n<i>Notes:<br>\n- Nominated for the 11th Manga Taishou Award in 2018.<br>\n- Won the Daruma d'Or at Japan Expo in 2019.<br>\n- Won Best U.S. Edition of International Material - Asia at the Eisner Awards in 2020.<br>\n- Won the Best Manga Award at the Harvey Awards in 2020.</i>",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 87,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-87395",
-      "title": "Grand Blue Dreaming",
-      "source": "AniList",
-      "category": "manga",
-      "score": 67198.0,
-      "url": "https://anilist.co/manga/87395",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87395-axsA49kSZp72.jpg",
-      "description": "After moving out on his own to a seaside town, Iori Kitahara makes a college debut he never anticipated. A new chapter of his life unfolds, full of diving with beautiful girls and shenanigans with a gaggle of lovable bastards! Idiot-expert Kenji Inoue and au naturel authority Kimitake Yoshioka bring you a glorious college tale filled with booze-fueled antics!<br><br>\n(Source: Kodansha USA)",
+      "score": 10320.0,
+      "url": "https://anilist.co/manga/159655",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159655-Kv58QINz1rXm.jpg",
+      "description": "Keisuke Shizuki and Shizuka Kusunoki are taking high school by storm with their good looks, but they share a dark secret: they were both total outcasts in middle school! While Shizuki has succeeded in making himself over inside and out, clearing the slate of his past life, Kusunoki is still struggling to develop social skills to match her new appearance. She’s eager for Shizuki’s help, if only he could get over his phobia of pretty girls…\n<BR><BR>\n(Source: Kodansha USA)",
       "genres": [
         "Comedy",
-        "Romance",
-        "Slice of Life",
-        "Sports"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 88,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-114416",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 38394.0,
-      "url": "https://anilist.co/manga/114416",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
-      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
-      "source": "AniList",
-      "category": "manga",
-      "score": 36886.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 83,
+        "average_score": 68,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
