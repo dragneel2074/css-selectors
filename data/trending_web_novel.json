@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-09T01:23:52Z",
-  "date": "2026-08-09",
+  "generated_at_utc": "2026-08-10T01:26:00Z",
+  "date": "2026-08-10",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,6 +23,42 @@
   ],
   "items": [
     {
+      "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
+      "title": "Breeder To The Brutal Alpha King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/breeder-to-the-brutal-alpha-king_35907539508318005",
+      "image": "https://book-pic.webnovel.com/bookcover/35907539508318005?imageMogr2/thumbnail/600x&imageId=1781603514200",
+      "description": "# ROMANCE # R18 # TRAGEDY # REVENGE # SMUT # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # ABUSIVELOVE # REJECTED",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 5.0,
+      "velocity": 0.2
+    },
+    {
+      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1785680172360",
+      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": 0.14285714285714285
+    },
+    {
       "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
       "title": "Every Mafia's Favorite Girl",
       "source": "WebNovel",
@@ -30,7 +66,7 @@
       "score": 16.0,
       "url": "https://www.webnovel.com/book/every-mafia's-favorite-girl_35932764008926405",
       "image": "https://book-pic.webnovel.com/bookcover/35932764008926405?imageMogr2/thumbnail/600x&imageId=1785922028794",
-      "description": "# R18 # MAFIA # DARK # TRANSMIGRATION # ISEKAI # ROMANCE # COMEDY # REVERSE HAREM # POSSESSIVE",
+      "description": "# ROMANCE # R18 # COMEDY # DARK # TRANSMIGRATION # ISEKAI # POSSESSIVE # MAFIA # REVERSE HAREM",
       "genres": [
         "Web Novel"
       ],
@@ -59,42 +95,6 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-      "title": "Starting With an SSS-Rank Goddess Summon!",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
-      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1785678698018",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 14.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
-      "title": "The Fake Luna: Marked By The Alpha King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/the-fake-luna-marked-by-the-alpha-king_36285720400859905",
-      "image": "https://book-pic.webnovel.com/bookcover/36285720400859905?imageMogr2/thumbnail/600x&imageId=1782898805735",
-      "description": "# REVENGE # WEREWOLF # ALPHA # ANGST # HIDDENIDENTITIES # CEO # POORTORICH # FAKEIDENTITY # EX # CONTRACTMARRIAGE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": 0.0
-    },
-    {
       "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
       "title": "I Can Devour Monsters’ SSS Talents",
       "source": "WebNovel",
@@ -113,11 +113,29 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
+      "title": "Starting With an SSS-Rank Goddess Summon!",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
+      "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1785678698018",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 14.0,
+      "velocity": -0.07142857142857142
+    },
+    {
       "id": "webnovel-book-beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
       "title": "Beast Taming: I'm Really Not a Cultivation Master",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
+      "score": 10.0,
       "url": "https://www.webnovel.com/book/beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
       "image": "https://book-pic.webnovel.com/bookcover/35475727308556605?imageMogr2/thumbnail/600x&imageId=1779952174238",
       "description": "# SYSTEM # BEASTTAMING",
@@ -128,32 +146,32 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 11.0,
-      "velocity": 0.0
+      "velocity": -0.09090909090909091
     },
     {
-      "id": "webnovel-book-global-lords-starting-with-female-hero-fusion_35475540408549105",
-      "title": "Global Lords: Starting with Female Hero Fusion",
+      "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "title": "The Fake Luna: Marked By The Alpha King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/global-lords-starting-with-female-hero-fusion_35475540408549105",
-      "image": "https://book-pic.webnovel.com/bookcover/35475540408549105?imageMogr2/thumbnail/600x&imageId=1779948884429",
-      "description": "# SYSTEM # KINGDOMBUILDING",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "image": "https://book-pic.webnovel.com/bookcover/36285720400859905?imageMogr2/thumbnail/600x&imageId=1782898805735",
+      "description": "# REVENGE # WEREWOLF # ALPHA # ANGST # HIDDENIDENTITIES # CEO # POORTORICH # FAKEIDENTITY # EX # CONTRACTMARRIAGE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 10.0,
-      "velocity": 0.0
+      "previous_score": 13.0,
+      "velocity": -0.15384615384615385
     },
     {
       "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
       "title": "Sea Survival: My Luck is Off the Charts",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 9.0,
+      "score": 5.0,
       "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
       "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
       "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
@@ -164,86 +182,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 9.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "title": "The Heroines Can Hear My and the Protagonist’s Inner Voice!?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/the-heroines-can-hear-my-and-the-protagonist%E2%80%99s-inner-voice!_35792820500281205",
-      "image": "https://book-pic.webnovel.com/bookcover/35792820500281205?imageMogr2/thumbnail/600x&imageId=1781260011284",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # HAREM # TRANSMIGRATION # SLICEOFLIFE # VILLAIN",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 8.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
-      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1785680172360",
-      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "title": "Global Lords: My Territory Heart Is a World Tree",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-      "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
-      "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-breeder-to-the-brutal-alpha-king_35907539508318005",
-      "title": "Breeder To The Brutal Alpha King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/breeder-to-the-brutal-alpha-king_35907539508318005",
-      "image": "https://book-pic.webnovel.com/bookcover/35907539508318005?imageMogr2/thumbnail/600x&imageId=1781603514200",
-      "description": "# ROMANCE # R18 # TRAGEDY # REVENGE # SMUT # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # ABUSIVELOVE # REJECTED",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": 0.0
+      "velocity": -0.4444444444444444
     },
     {
       "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
       "title": "I Stopped Simping and the Heroines Lost Their Minds",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
+      "score": 2.0,
       "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
       "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
       "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
@@ -254,35 +200,89 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 4.0,
-      "velocity": 0.0
+      "velocity": -0.5
     },
     {
-      "id": "webnovel-book-rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "title": "Rich Parents Found Me After I Got a Tycoon System? Yeah, I'm Not Interested",
+      "id": "webnovel-book-my-accidental-billionaire-husband_36355415100011705",
+      "title": "My Accidental Billionaire Husband",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/rich-parents-found-me-after-i-got-a-tycoon-system-yeah-i'm-not-interested_35233871908252005",
-      "image": "https://book-pic.webnovel.com/bookcover/35233871908252005?imageMogr2/thumbnail/600x&imageId=1778555449119",
-      "description": "# SYSTEM # STRONGFL # POORTORICH # FEELINGGOOD",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/my-accidental-billionaire-husband_36355415100011705",
+      "image": "https://book-pic.webnovel.com/bookcover/36355415100011705?imageMogr2/thumbnail/600x&imageId=1783595755157",
+      "description": "# ABANDONED # PREGNANCY # FORBIDDENLOVE # CEO # EX # ONENIGHTSTAND # SECRETBABY # HIDDENIDENTITY # AMNESIA # ACCIDENTALMARRIAGE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
-      "velocity": -0.3333333333333333
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "webnovel-book-apocalypse-descends-i-win-effortlessly-by-turning-trash-into-treasure_35743503100582505",
-      "title": "Apocalypse Descends: I Win Effortlessly by Turning Trash into Treasure",
+      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "title": "SSS Awakening: I am the First Legendary Mage",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
+      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-infinite-cashback-my-god-tier-cashback-system_35976676508809105",
+      "title": "Infinite Cashback: My God-Tier Cashback System",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/infinite-cashback-my-god-tier-cashback-system_35976676508809105",
+      "image": "https://book-pic.webnovel.com/bookcover/35976676508809105?imageMogr2/thumbnail/600x&imageId=1785910294581",
+      "description": "# ROMANCE # SYSTEM # R18 # WEAKTOSTRONG # HAREM # SLICEOFLIFE # GENIUS # SMUT # CAMPUS # FACESLAPPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
+      "title": "Claimed by the Mad Lycan King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
+      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
+      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-reborn-one-week-before-the-apocalypse_35234512800305005",
+      "title": "Reborn One Week Before the Apocalypse",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/apocalypse-descends-i-win-effortlessly-by-turning-trash-into-treasure_35743503100582505",
-      "image": "https://book-pic.webnovel.com/bookcover/35743503100582505?imageMogr2/thumbnail/600x&imageId=1783332528202",
-      "description": "# SURVIVAL # APOCALYPSE # STRONGFL # SUPERPOWER",
+      "url": "https://www.webnovel.com/book/reborn-one-week-before-the-apocalypse_35234512800305005",
+      "image": "https://book-pic.webnovel.com/bookcover/35234512800305005?imageMogr2/thumbnail/600x&imageId=1781766587637",
+      "description": "# SUPERPOWERS # SURVIVAL # CAMPUS # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # COUNTERATTACK # SPACE # DISASTER # STORAGESPACE",
       "genres": [
         "Web Novel"
       ],
