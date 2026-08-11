@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-10T01:26:00Z",
-  "date": "2026-08-10",
+  "generated_at_utc": "2026-08-11T01:23:50Z",
+  "date": "2026-08-11",
   "category": "romance",
   "item_count": 30,
   "errors": [
@@ -22,24 +22,6 @@
     }
   ],
   "items": [
-    {
-      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-      "title": "The Pack's Doctor",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
-      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 12.0,
-      "velocity": 0.3333333333333333
-    },
     {
       "id": "dreame-1646404864",
       "title": "True Luna",
@@ -72,6 +54,24 @@
       ],
       "metadata": {
         "bid": 1231429376
+      },
+      "previous_score": 15.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
+      "title": "Meet My Brothers",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
+      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 15.0,
       "velocity": 0.0
@@ -455,32 +455,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
-      "title": "Reclaimed by My Alpha",
+      "id": "goodnovel-book-Married-at-First-Sight_31000384431",
+      "title": "Married at First Sight",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Reclaimed-by-My-Alpha_31001020267",
-      "image": "https://acf.goodnovel.com/book/202606/0812c9dda57558534540644e25f9b8237a5541b39e47856c33c9db66cb9083a6.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Natalia and Andrei’s marriage was originally a three-year contract. With only 30 days left until the contract ends, Natalia discovered that she’s pregnant. \nJust when she thought Andrei would reconsider divorcing her because of this, his deceased first mate, Lilith, returned. Feeling hopeless, Natalia decided to initiate the divorce. \nHowever, at their engagement party, Andrei received the news of Natalia’s car accident, along with the shocking discovery of her pregnancy test results...",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 13.0,
-      "velocity": -0.15384615384615385
-    },
-    {
-      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
-      "title": "Meet My Brothers",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
-      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/Married-at-First-Sight_31000384431",
+      "image": "https://acf.goodnovel.com/book/202208/Married-at-First-Sight/f0b5eb8152a5c2a3b57c993c0e60c9d94549f934a29d96cbecce2c282d8f4269.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Since the day Serenity got hitched to a stranger on their blind date, she had assumed married life would be ordinary but respectful and mundane. It never crossed her mind that her new husband would be clingy like a piece of gum stuck to the bottom of a shoe. To her utmost surprise, he could make her troubles disappear whenever she was in a fix. Despite her questioning, her husband would always pass it off as luck. Until one day, she watched an interview with a local billionaire known for fussing over his wife. That was when she noticed the uncanny resemblance of the billionaire to her husband. The wife whom he was showering attention on turned out to be her!",
       "genres": [
         "Romance"
       ],
@@ -491,14 +473,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Accidentally-Pregnant-By-My-Alpha-Best-friends_31001161201",
-      "title": "Accidentally Pregnant By My Alpha Best friends",
+      "id": "goodnovel-book-Beyond-the-Divorce_31000580640",
+      "title": "Beyond the Divorce",
       "source": "GoodNovel",
       "category": "romance",
       "score": 14.0,
-      "url": "https://www.goodnovel.com/book/Accidentally-Pregnant-By-My-Alpha-Best-friends_31001161201",
-      "image": "https://acf.goodnovel.com/book/202510/0e8080ab8be7851b7c7c59bc87f650793b58f626537930ae20369d8cc34cf66c.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "5 years ago: \r\n“I’m pregnant,” I stated. \r\n“It’s not my baby. You must have gotten pregnant by someone else. Abort it,” Alpha Baxter hissed.\r\n “Why would I make a baby with an omega like you? My beta mate will give me an heir,” Alpha Graham scoffed, his eyes cold. \r\n“And even if it is mine, give it up for adoption. I don’t want him calling me daddy,” Alpha Elgin sneered, wrinkling his nose. \r\n5 Years Later: \r\n“Please! Let me be a part of my baby’s life,” Alpha Baxter pleaded, his voice breaking. \r\n“My mate can’t conceive. I want my child to know me and to call me father.” Alpha Graham requested. \r\n“I would hate for my baby to call someone else daddy in front of me,” alpha Elgin whispered, choking back emotion. \r\n“Didn’t you say you wanted me to abort them? How can you claim them now?” I spat, locking eyes with them.\r\n .. \r\nLiving as an omega was never easy for Madeline, but she survived with the support of her three alpha best friends. They protected her, cared for her, and made her feel valued, until they discovered she found them attractive, which changed everything. \r\nDesire took over, and they claimed her, only to cast her aside once they had what they wanted. When Madeline learned she was pregnant, she turned to them, only to be rejected and told to end the pregnancy. \r\nBetrayed and heartbroken, she fled the pack to protect herself and her unborn children. Years later, Madeline stands strong, raising three children who carry the DNA of the alphas who abandoned her. Now the alphas regret the choices they made, but Madeline knows one thing for certain—her children will never call them “daddy.”",
+      "url": "https://www.goodnovel.com/book/Beyond-the-Divorce_31000580640",
+      "image": "https://acf.goodnovel.com/book/202507/02a088081cd63121dbfff3724d951f182720bf8dbe8d67d8642a123187c09f67.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Most people often see marriage as a reincarnation for women. So, countless foolish women jump into one without a second thought. Many people see my husband as the perfect husband. He cared for me and loved me in every way. Yet, he still cheated on me right under my nose. Faced with the hypocrisy and ugliness behind his facade as a perfect husband, I've decided to serve him karma on a silver platter!",
       "genres": [
         "Romance"
       ],
@@ -509,14 +491,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "title": "A Woman Worth Billions, Dated the Wrong Brother",
+      "id": "goodnovel-book-Too-Late-Alpha-The-Mate-He-Never-Wanted_31001277556",
+      "title": "Too Late, Alpha: The Mate He Never Wanted",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "image": "https://acf.goodnovel.com/book/202602/02b7e58fa0658d0583d5c4d6f1516f5d2e2dcb11c055c03375339c3dfcb0121d.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Amber built an empire she was never allowed to claim.\r\nBrilliant, strategic, and fiercely loyal, Amber was the mind behind a billion-dollar real estate empire—the woman who identified undervalued properties, structured acquisitions, and designed expansion projects that reshaped skylines. But when betrayal strikes, she’s fired, humiliated, and discarded by the man she helped rise to the top.\r\nShe walks away with nothing but her intelligence, her dignity… and the projects that were always hers.\r\nWhat her ex-fiancé never expects is his powerful half-brother.\r\nA billionaire real estate magnate in his own right, controlled, private, and raising two adopted children on his own, he offers Amber something unexpected: a contractual marriage. No romance. No lies. Just mutual benefit. A public wife to stabilize his corporate image—and a strategic partner who understands the business better than anyone.\r\nAmber accepts.\r\nShe takes her real estate projects with her—developments she sourced, designed, and negotiated from the ground up—and brings them into her new husband’s company. Entire portfolios shift overnight. Investments follow her. For the first time, her name is on the contracts, her voice dominates boardrooms, and her success is undeniable.\r\nAs Amber rises, the real estate empire she once built in silence begins to crumble. Deals collapse without her leadership. Bad investments surface. And the company her ex-fiancé claimed as his own crashes spectacularly—while Amber thrives, wealthier and more powerful than ever.\r\nBut what begins as a business arrangement slowly becomes something far more dangerous.\r\nBecause power is intoxicating. Trust is fragile. And love was never part of the contract.",
+      "url": "https://www.goodnovel.com/book/Too-Late-Alpha-The-Mate-He-Never-Wanted_31001277556",
+      "image": "https://acf.goodnovel.com/book/202506/b620f7ae06b0488b1833c384005b7a668efd465e483a068eb0a7b1564ca2017f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "He rejected his mate. He ignored their daughter. And by the time he learned the truth, it was too late.\r\n\r\nIris was the mate Alpha Eric never wanted. For years, she raised their daughter, Evie, alone, while Eric poured all his love into his ex, Zara, and her child.\r\nEvie died without ever feeling her father’s love.\r\nAnd Iris? She finally walked away.\r\nBut after her disappearance, Eric uncovers the painful truth he never saw coming: Iris was his true mate all along… and he was the one who destroyed everything.\r\nNow, another Alpha holds her heart.\r\n\r\nCan Eric win back the family he abandoned, or has he already lost everything that mattered?",
       "genres": [
         "Romance"
       ],
@@ -527,14 +509,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
-      "title": "Game Over, Mr. CEO: Your Wife Is Done",
+      "id": "goodnovel-book-His-Plump-Mate_31001222962",
+      "title": "His Plump Mate",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
-      "image": "https://acf.goodnovel.com/book/202603/bb8dfcd762cca3e1026220eb5baf5ed2f1849c1f7feb24cce7841362df18c2d1.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Like many women who refuse to give up until they hit a dead end, Winter Scott once tried to make a man like Chris Xander fall in love with her.\n\nBut after three years of marriage, they were nothing more than strangers.\n\nWhen she was brutally attacked and her life was hanging by a thread, Chris wasn’t with her. He was by the side of his former love.\n\nWinter forced herself to let go. Yet the powerful man she thought she had left behind refused to disappear from her life.\n\nStep by step, he closed in on her, cutting off any chance of a new romance in her life and blocking every path of retreat.\n\n“You’re the one who insisted on marrying me back then,” he said coldly. “As long as I don’t agree to a divorce, you’ll never be free of me.”\n\nWinter looked at him coldly. “Sorry, Mr. Xander. Game over. This marriage ends when I say it ends.”",
+      "url": "https://www.goodnovel.com/book/His-Plump-Mate_31001222962",
+      "image": "https://acf.goodnovel.com/book/202511/1f46a28711a8c933c5db6bdeb2f147a343bbb579207d302aa5a1e5d714ed7fed.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "“Let’s get this over with, I have things to do. Just so you understand, I need a strong and BEAUTIFUL Luna by my side. I, Alpha Cullen Niles, of the Ironclaw Pack, reject you, Rebel Lawson, as my mate and Luna.”  \r\n\r\nInstantly, my chest feels like it is ripped open and gutted. The pain is the worst I’ve ever felt. But I refuse to show pain in front of Alpha Cullen. I stay rigid and force my face not to react. Roxie is howling in desperation, because she wants her mate and he just rejected us, causing her immense pain too. The sooner I accept, the sooner we can move on. “I, Rebel Lawson, accept your rejection.” It was like a final death blow. I see Alpha Cullen grab his chest, taking deep breaths. Then after a couple of minutes he stood straight up. I still haven’t moved. Bearing all the pain until Roxie and I can be alone. “You will not mention this to anyone, do you understand?” As much pain as I was in, I couldn’t muster up the strength to say yes, so I just nodded. “Good, I can’t have people knowing I was mated to such a she-wolf.” With that, he turned and walked away.  \r\n\r\nI turned and went back to the lake, sat down next to my guitar and then the barriers crumbled. I held on to my chest and cried for hours. Roxie feeling weak from the rejection, retreated to the back of my mind. She was still talking to me, but it was much quieter. I felt so incredibly alone. Fated mates were supposed to love each other, no matter what. He was supposed to protect, cherish and love me. However, I never felt more unwanted and alone.",
       "genres": [
         "Romance"
       ],
@@ -545,14 +527,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-THREE-BROTHERS-ONE-MATE_31000203707",
-      "title": "THREE BROTHERS! ONE MATE!",
+      "id": "goodnovel-book-Rejected-and-Pregnant-I-Fled-The-Pack_31001557485",
+      "title": "Rejected and Pregnant I Fled The Pack",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 11.0,
+      "url": "https://www.goodnovel.com/book/Rejected-and-Pregnant-I-Fled-The-Pack_31001557485",
+      "image": "https://acf.goodnovel.com/book/202606/60d28bec07512cf21e7eb00d315a76a5f4c4164b60a152b10004d5445b908032.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "After a night with my mate, he rejected me for my best friend. Finding out I'm pregnant, I flee and try to start over. I miss my mate and I miss my pack but he hurt me.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
+      "title": "Second Chance for the Barren Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/THREE-BROTHERS-ONE-MATE_31000203707",
-      "image": "https://acf.goodnovel.com/book/202504/28a7809a5e4a79ae9bc6d7d7589daa38b1e3d0a267a4eb545735a74b22916a06.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "THREE BROTHERS! ONE MATE! is a Werewolf novel written by Lockness that covers Betrayal, Werewolf, Triplets. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/Second-Chance-for-the-Barren-Luna_31001064899",
+      "image": "https://acf.goodnovel.com/book/202658/28f6ca955614a0ab96b4d9765d3611118f31a5bb63ad1afd440e89588aa74276.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Second Chance for the Barren Luna is a Werewolf novel written by Judith GW that covers Fast-Paced Plot, Werewolf, Drama. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],

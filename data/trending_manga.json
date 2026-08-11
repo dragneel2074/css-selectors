@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-10T01:26:00Z",
-  "date": "2026-08-10",
+  "generated_at_utc": "2026-08-11T01:23:50Z",
+  "date": "2026-08-11",
   "category": "manga",
-  "item_count": 9,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,34 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
-      "source": "AniList",
-      "category": "manga",
-      "score": 107801.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 88,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 107751.0,
-      "velocity": 0.0004640328164007759
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230380.0,
+      "score": 230440.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -65,163 +42,30 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 230303.0,
-      "velocity": 0.00033434214925554597
+      "previous_score": 230380.0,
+      "velocity": 0.00026043927424255575
     },
     {
-      "id": "anilist-manga-125828",
-      "title": "Sakamoto Days",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 87787.0,
-      "url": "https://anilist.co/manga/125828",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
-      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
+      "score": 114773.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
-        "Comedy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-169355",
-      "title": "Kagurabachi",
-      "source": "AniList",
-      "category": "manga",
-      "score": 68202.0,
-      "url": "https://anilist.co/manga/169355",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png",
-      "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.\n<br><br>(Source: MANGA Plus)\n<br><br>\n<i>Note:<br>\n- Winner of the Tsugimanga 2024 Award in the Print Manga Category. <br>\n- Winner of the 4th Magademy Commitment Award. <br>\n- Nominee of the 70th Shogakukan Award. </i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150440",
-      "title": "RuriDragon",
-      "source": "AniList",
-      "category": "manga",
-      "score": 33751.0,
-      "url": "https://anilist.co/manga/150440",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg",
-      "description": "Well, a half dragon. Her mom admits Ruri inherited her draconic traits from her father, who, yes, is actually a dragon. As if dealing with curious classmates wasn’t already challenging enough, Ruri and her dragon genes literally turn up the heat in the middle of a lecture. Her ordinary life is about to be anything but!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Chapters 1-6 were published in Weekly Shounen Jump from June 13, 2022 until the series went on hiatus in August 2022 due to the author’s health. It resumed with five weekly chapters from March 4 to April 1, 2024, then switched on April 22, 2024 to a bi-weekly publication on the digital Weekly Shounen Jump and Shounen Jump+.<br>\n- Ranked 1st in the Nationwide Bookstore Staff Recommended Comics 2023.<br>\n- Nominated for the 2023 eBookJapan Manga Award.<br>\n- Ranked 9th in the Male Readers' division of Takarajimasha's Kono Manga ga Sugoi! 2024 guidebook.<br>\n- Ranked 2nd in the Web Manga category of the 2024 Next Manga Award.<br>\n- Winner of the Setting Award at the 4th Magademy Awards in 2025.</i>",
-      "genres": [
         "Comedy",
-        "Slice of Life",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-180752",
-      "title": "Ichi the Witch",
-      "source": "AniList",
-      "category": "manga",
-      "score": 28086.0,
-      "url": "https://anilist.co/manga/180752",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
-      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-87225",
-      "title": "Tsukimichi: Moonlit Fantasy",
-      "source": "AniList",
-      "category": "manga",
-      "score": 22106.0,
-      "url": "https://anilist.co/manga/87225",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87225-EYFJq2QMzHkk.jpg",
-      "description": "Misumi Makoto was just a normal high-school student... until the day he was summoned to another world because of an agreement his parents had made with a goddess. Except when he meets the only goddess in the world he's sent to, she insults him by calling him \"extremely unattractive\" and makes an arbitrary decision to banish him to a deserted wilderness. Makoto searches the desolate land to find other humans, but for some reason only finds creatures that are all nonhuman. Even the two pretty women who decide to follow him on his journey used to be a dragon and a giant spider. Along with two extremely eccentric characters (but really reliable in battles), so begins Makoto's unlucky adventure in the new world! A fantasy about a teenage boy who keeps getting hit by one problem after another!\n<br><br>\n(Source: Alpha Manga)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-176740",
-      "title": "Centuria",
-      "source": "AniList",
-      "category": "manga",
-      "score": 21222.0,
-      "url": "https://anilist.co/manga/176740",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176740-KD68EumxZV95.jpg",
-      "description": "Sold into slavery by his own mother, Julian has known nothing but pain and brutality. All that changes when, aboard a slave ship, he experiences the kindness and the tender touch of a loving person for the first time. But fate has plans for Julian in the blood awakening of an ancient god who strikes a cruel bargain: an innocent life in exchange for extraordinary powers—ones he must use to protect a helpless baby in a cruel and violent world!\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
         "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-214548",
-      "title": "Quit Laughing, Shijima",
-      "source": "AniList",
-      "category": "manga",
-      "score": 357.0,
-      "url": "https://anilist.co/manga/214548",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx214548-e2p84nYMgAUR.jpg",
-      "description": "Shijima is always happy and laughing. But what is her dark secret...?\n<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Note: Published in Weekly Shounen Jump 2026 issue 37/38</i>",
-      "genres": [
-        "Drama",
-        "Horror",
         "Romance",
+        "Sci-Fi",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": null,
+        "average_score": 82,
         "country_of_origin": "JP",
-        "format": "ONE_SHOT"
+        "format": "MANGA"
       },
       "previous_score": null,
       "velocity": null
