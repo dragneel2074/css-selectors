@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-11T01:23:50Z",
-  "date": "2026-08-11",
+  "generated_at_utc": "2026-08-12T01:32:39Z",
+  "date": "2026-08-12",
   "category": "manga",
-  "item_count": 2,
+  "item_count": 4,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,11 +23,36 @@
   ],
   "items": [
     {
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
+      "source": "AniList",
+      "category": "manga",
+      "score": 114852.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 114773.0,
+      "velocity": 0.0006883151960827024
+    },
+    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230440.0,
+      "score": 230509.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,28 +67,50 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 230380.0,
-      "velocity": 0.00026043927424255575
+      "previous_score": 230440.0,
+      "velocity": 0.00029942718278076725
     },
     {
-      "id": "anilist-manga-132029",
-      "title": "Dandadan",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 114773.0,
-      "url": "https://anilist.co/manga/132029",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
-      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
+      "score": 107887.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
+        "Adventure",
         "Comedy",
-        "Drama",
-        "Romance",
-        "Sci-Fi",
-        "Supernatural"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 88,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-125116",
+      "title": "Wistoria: Wand and Sword",
+      "source": "AniList",
+      "category": "manga",
+      "score": 18201.0,
+      "url": "https://anilist.co/manga/125116",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125116-ZfCpel1WOdmF.jpg",
+      "description": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard's Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren't enough, he finds himself putting his sword skills to the test against a bullying professor!\n<br><br>\n(Source: Kodansha USA)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
