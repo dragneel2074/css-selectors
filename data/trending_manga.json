@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-12T01:32:39Z",
-  "date": "2026-08-12",
+  "generated_at_utc": "2026-08-13T01:43:00Z",
+  "date": "2026-08-13",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,36 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-132029",
-      "title": "Dandadan",
-      "source": "AniList",
-      "category": "manga",
-      "score": 114852.0,
-      "url": "https://anilist.co/manga/132029",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
-      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 114773.0,
-      "velocity": 0.0006883151960827024
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230509.0,
+      "score": 230577.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -67,26 +42,25 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 230440.0,
-      "velocity": 0.00029942718278076725
+      "previous_score": 230509.0,
+      "velocity": 0.0002949993275750621
     },
     {
-      "id": "anilist-manga-30026",
-      "title": "Hunter x Hunter",
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
       "source": "AniList",
       "category": "manga",
-      "score": 107887.0,
-      "url": "https://anilist.co/manga/30026",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+      "score": 77518.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
       "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
-        "Fantasy"
+        "Drama",
+        "Romance"
       ],
       "metadata": {
-        "average_score": 88,
+        "average_score": 87,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -94,23 +68,67 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-125116",
-      "title": "Wistoria: Wand and Sword",
+      "id": "anilist-manga-99462",
+      "title": "Isekai Meikyuu de Harem wo",
       "source": "AniList",
       "category": "manga",
-      "score": 18201.0,
-      "url": "https://anilist.co/manga/125116",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125116-ZfCpel1WOdmF.jpg",
-      "description": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard's Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren't enough, he finds himself putting his sword skills to the test against a bullying professor!\n<br><br>\n(Source: Kodansha USA)",
+      "score": 17669.0,
+      "url": "https://anilist.co/manga/99462",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99462-zP6YMPTFodVl.jpg",
+      "description": "A man was about to commit suicide and decides to search for a way to die in the internet, but then he found an odd site that asked a lot of questions and had a point based system that allows you to create skills and abilities for a character. He took interest in it and when he finished setting his character he was asked \"You will now be transported to a world with the settings you choose, coming back is not possible, do you still accept.\" Then, without thinking much of it, he pressed \"Yes,\" and he found himself in another world with the skills and abilities he choose to have...\n",
       "genres": [
         "Action",
         "Adventure",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 67,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201773",
+      "title": "Haimiya Is Scary Cute",
+      "source": "AniList",
+      "category": "manga",
+      "score": 16411.0,
+      "url": "https://anilist.co/manga/201773",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
+      "genres": [
         "Comedy",
-        "Drama",
-        "Fantasy"
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
         "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-199999",
+      "title": "WITCHRIV",
+      "source": "AniList",
+      "category": "manga",
+      "score": 7210.0,
+      "url": "https://anilist.co/manga/199999",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199999-O8TW8Ufc3sXv.png",
+      "description": "A girl named Nona lives in plain sight among humans, hiding her true identity as a mage as she spends her days in peace with her best friend Lovi. But one day, Nona uses magic to fix Lovi's glasses and subsequently catches the attention of the Bureau of Magic Surveillance. A simple good deed becomes the trigger that sets Nona's destiny in motion...\n<br><br>\n(Source: MANGA Plus)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "metadata": {
+        "average_score": 72,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
