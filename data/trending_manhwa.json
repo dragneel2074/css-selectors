@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-13T01:43:00Z",
-  "date": "2026-08-13",
+  "generated_at_utc": "2026-08-14T01:33:21Z",
+  "date": "2026-08-14",
   "category": "manhwa",
-  "item_count": 10,
+  "item_count": 9,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,122 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-173020",
-      "title": "I Killed the Main Player",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 21475.0,
-      "url": "https://anilist.co/manga/173020",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173020-vqe5J7U1cizO.png",
-      "description": "Being a character of your favorite game is great! Sure, he’s just a minor NPC, but Corin knows this game like the back of his hand. With his knowledge and the main player Sihu’s abilities, everything’s going smoothly - until Corin discovers Sihu’s been murdering innocent NPCs and stealing their items. Horrified but powerless to stop him, Corin awaits the end of the game - only for Sihu to mysteriously fail at the last mission. Instantly, Corin travels three years back in time. Now, he’s determined to kill Sihu and take on his role - defeat the final boss and save the world.<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 21428.0,
-      "velocity": 0.0021933918237819674
-    },
-    {
-      "id": "anilist-manga-170400",
-      "title": "The Stellar Swordmaster",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 30170.0,
-      "url": "https://anilist.co/manga/170400",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg",
-      "description": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.<br>\n<br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 30110.0,
-      "velocity": 0.0019926934573231483
-    },
-    {
-      "id": "anilist-manga-132144",
-      "title": "Return of the Blossoming Blade",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 43221.0,
-      "url": "https://anilist.co/manga/132144",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
-      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 84,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 43162.0,
-      "velocity": 0.0013669431444326028
-    },
-    {
-      "id": "anilist-manga-159930",
-      "title": "The Infinite Mage",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 39087.0,
-      "url": "https://anilist.co/manga/159930",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
-      "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 39035.0,
-      "velocity": 0.0013321378250288204
-    },
-    {
-      "id": "anilist-manga-120980",
-      "title": "Nano Machine",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 46847.0,
-      "url": "https://anilist.co/manga/120980",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
-      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-159441",
       "title": "Pick Me Up",
       "source": "AniList",
       "category": "manhwa",
-      "score": 43004.0,
+      "score": 43074.0,
       "url": "https://anilist.co/manga/159441",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
       "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
@@ -152,24 +41,47 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
+      "previous_score": 43004.0,
+      "velocity": 0.0016277555576225467
+    },
+    {
+      "id": "anilist-manga-86848",
+      "title": "Lookism",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 45081.0,
+      "url": "https://anilist.co/manga/86848",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86848-4CSItSclJUvi.jpg",
+      "description": "Daniel is an unattractive loner who wakes up in a different body. Now tall, handsome, and cooler than ever in his new form, Daniel aims to achieve everything he couldn't before. How far will he go to keep his body... and his secrets?<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-184502",
-      "title": "The Academy’s Sashimi Sword Master",
+      "id": "anilist-manga-143056",
+      "title": "The Return of the Disaster-Class Hero",
       "source": "AniList",
       "category": "manhwa",
-      "score": 13685.0,
-      "url": "https://anilist.co/manga/184502",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184502-uu4QoBUwEfNH.jpg",
-      "description": "Chef Kim, Korea's legendary sashimi master, is transported into the world of Blessing M, a mobile game he once played. But instead of being a hero, he finds himself as Geomma Kang, a mere background extra. Forced into a new life, Geomma discovers a new power: the Blessing of the Blade God. Now, to survive in this game-like world, he must slice through challenges and enemies alike. Will his unmatched skills in the kitchen be enough to carve out a new destiny?\n<br><br>\n(Source: WEBTOON)",
+      "score": 37680.0,
+      "url": "https://anilist.co/manga/143056",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg",
+      "description": "Humans call them “calamities”—the unknown, destructive creatures that suddenly appeared on earth. To challenge these calamities, the zodiac gods awakened 12 humans known as saints. But there was one more that awoke—unchosen but the greatest hero of all: Geon Lee. His allies betrayed him and left him for dead, but now, 20 years later, he’s more powerful than ever and ready to teach his fellow “saints” a lesson they’ll never forget. <br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 75,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -177,21 +89,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-185816",
-      "title": "The Heavenly Demon Wants a Quiet Life",
+      "id": "anilist-manga-172619",
+      "title": "The Extra’s Academy Survival Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 6048.0,
-      "url": "https://anilist.co/manga/185816",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185816-DhnjJEpwiur1.jpg",
-      "description": "After a lifetime of bloodshed, the Heavenly Demon longs for peace. In his final moments, he uncovers the truth about his power and yearns for a different life. He wakes up in the body of Tae-San Byeok, the frail second son of a powerful merchant family, barely clinging to life. Using his knowledge from his life as the Heavenly Demon, Tae-San must navigate a world of temptation and corruption to survive. As his martial arts reputation grows, new enemies emerge to disrupt his quiet life. Yet, Tae-San is determined to live on his own terms, despite the chaos around him.<br><br>(Source: WEBTOON)",
+      "score": 29544.0,
+      "url": "https://anilist.co/manga/172619",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
+      "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
-        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 82,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -199,20 +110,19 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-211510",
-      "title": "The Otherworldly Family Man",
+      "id": "anilist-manga-166658",
+      "title": "The Top Dungeon Farmer",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2452.0,
-      "url": "https://anilist.co/manga/211510",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211510-6DsPrnzmNZSY.jpg",
-      "description": "Years after losing his parents, Ju-Hwan Kim has resigned himself to a life of loneliness. But on Christmas Eve, a mysterious man dressed as Santa grants his wish for a family of his own and transports him to another world. There, he finds an unlikely home with Lizzie, a traumatized widow, and her young stepdaughter. Determined to protect the family fate has given him, Ju-Hwan must learn how to hunt, master his newfound magical powers, and survive in a world where kindness is a rare luxury.<br><br>(Source: WEBTOON, edited)",
+      "score": 13153.0,
+      "url": "https://anilist.co/manga/166658",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166658-jbtqReVgxdqH.jpg",
+      "description": "Se-Jun, your average Seoul underdog, didn’t expect to grow tomatoes full-time when he stumbled into the mysterious dungeon full of monster quests and extravagant rewards. Yet, there he was, as a farmer growing and selling cash crops while clearing numerous quests that came his way. Will Se-Jun make it out of the dungeon with the plush rewards he hoped for? At least he has what it takes: optimism, resourcefulness, and a group of loyal furry friends.\n<br><br>\n(Source: WEBTOON, edited)",
       "genres": [
-        "Fantasy",
-        "Slice of Life"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 71,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -220,20 +130,83 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-204589",
-      "title": "May I Cry Now?",
+      "id": "anilist-manga-201009",
+      "title": "The Patron of Villains",
       "source": "AniList",
       "category": "manhwa",
-      "score": 1358.0,
-      "url": "https://anilist.co/manga/204589",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204589-7HnQog6J7Ttl.jpg",
-      "description": "Evie Alden wasn't supposed to be here. A girl from the poorhouse, she was admitted to the elite Imperial Gifted Center on a whim—hand-selected by a lonely emperor despite her humble beginnings. Now an outsider, Evie faces ruthless bullying from peers who want her gone. But she has a secret weapon... a genius so undeniable that even the most feared instructors can’t ignore it. As Evie proves she belongs, she unknowingly begins to heal the broken heart of the man who thought he’d lost everything.<br><br>(Source: Tapas)",
+      "score": 12645.0,
+      "url": "https://anilist.co/manga/201009",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
+      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
       "genres": [
-        "Fantasy",
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-189051",
+      "title": "What a Bountiful Harvest, Demon Lord!",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 8323.0,
+      "url": "https://anilist.co/manga/189051",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189051-ORxxDJZvMHxj.jpg",
+      "description": "Who was that guy that once said, “An army marches on its stomach”? When hapless agricultural science student Jangcheol Kim starts playing the fantasy MMORPG “Paladins of Blood” to escape the stress of school life, he never imagined he would end up inside the game, much less as its final boss. How can a ruthless demon overlord win over his subjects? Perhaps with potatoes.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-176025",
+      "title": "Childhood Friend Complex",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 6607.0,
+      "url": "https://anilist.co/manga/176025",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176025-R1dz2gtesNAv.png",
+      "description": "Ha-Neul and Mincheol have been childhood friends for all of their lives, but their relationship takes on a whole new dynamic when they undergo a series of unexpected events. Although they vowed that they'd never be romantically attracted to each other, they just might be proven wrong... especially when things start to escalate and neither can predict where they'll end up.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 75,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-202986",
+      "title": "Too Many Heroes for the Demon Lord",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 5873.0,
+      "url": "https://anilist.co/manga/202986",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202986-0wn84aV9jlHq.jpg",
+      "description": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
