@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-14T01:33:21Z",
-  "date": "2026-08-14",
+  "generated_at_utc": "2026-08-15T01:02:47Z",
+  "date": "2026-08-15",
   "category": "romance",
   "item_count": 30,
   "errors": [
@@ -23,11 +23,29 @@
   ],
   "items": [
     {
+      "id": "goodnovel-book-Married-at-First-Sight_31000384431",
+      "title": "Married at First Sight",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.goodnovel.com/book/Married-at-First-Sight_31000384431",
+      "image": "https://acf.goodnovel.com/book/202208/Married-at-First-Sight/f0b5eb8152a5c2a3b57c993c0e60c9d94549f934a29d96cbecce2c282d8f4269.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Since the day Serenity got hitched to a stranger on their blind date, she had assumed married life would be ordinary but respectful and mundane. It never crossed her mind that her new husband would be clingy like a piece of gum stuck to the bottom of a shoe. To her utmost surprise, he could make her troubles disappear whenever she was in a fix. Despite her questioning, her husband would always pass it off as luck. Until one day, she watched an interview with a local billionaire known for fussing over his wife. That was when she noticed the uncanny resemblance of the billionaire to her husband. The wife whom he was showering attention on turned out to be her!",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 11.0,
+      "velocity": 0.18181818181818182
+    },
+    {
       "id": "goodnovel-book-The-Breaking-Point-of-Love_31000893249",
       "title": "The Breaking Point of Love",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 15.0,
+      "score": 16.0,
       "url": "https://www.goodnovel.com/book/The-Breaking-Point-of-Love_31000893249",
       "image": "https://acf.goodnovel.com/book/202504/ac8abf363e3a771d0764f4ab5379c99432bb0c30b329a7573b345aac87b3ff83.jpg?v=1&p=1&w=1080&a=webp",
       "description": "Celeste Rodriguez and Trevor Fleming have been married for seven years. He treats her coldly throughout the marriage, but she faces it with a smile because she loves him deeply. She also believes she can melt his heart one day.\n\nHowever, all she gets is the news of him falling for another woman at first sight. He gives her all his care and concern, but Celeste stands strong.\n\nOn her birthday, she flies abroad to be with Trevor and their daughter, Jordyn Fleming. To her devastation, Trevor brings Jordyn to meet his true love. They leave Celeste to spend the day alone.\n\nShe finally gives up on him. She's also no longer hurt when Jordyn wants the woman to replace her as her mother.\n\nCeleste prepares a divorce agreement and gives up her custody rights. She leaves without another look back, cutting Trevor and Jordyn out of her life. All she needs to do now is wait for the divorce to be finalized.\n\nAfter giving up on her family and returning to the workplace, she easily makes a fortune. She shows the people who once looked down on her that she's better than they think.\n\nCeleste waits for her divorce certificate to arrive, but it never comes. She also notices that Trevor starts coming home more often when he's always refused in the past. He clings to her, too.\n\nWhen he learns that she wants a divorce, he drops his usual aloofness and pins her to the wall. \"A divorce? That's not happening.\"",
@@ -37,8 +55,8 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": 13.0,
-      "velocity": 0.15384615384615385
+      "previous_score": 15.0,
+      "velocity": 0.06666666666666667
     },
     {
       "id": "dreame-1646404864",
@@ -455,29 +473,11 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-The-Alpha-s-Unclaimed-Mate_31001165448",
-      "title": "The Alpha's Unclaimed Mate",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-s-Unclaimed-Mate_31001165448",
-      "image": "https://acf.goodnovel.com/book/202509/28269d86c0d19b2988e7b645f728612543beee5302c2ec3a6454eda18ce03127.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "When Laila got pregnant with the child of her adoptive brother Jason—the young Alpha of her pack—she thought she might finally have a reason to claim a place in his world. But when Jason returns home with his fated mate by his side, Laila learns that she was nothing in Jason’s eyes. Expelled with nothing but heartbreak and the tiny life growing inside her, Laila disappears into the human world, determined to protect her child in her own way.\r\nSix years later, Laila—now Vanessa Harper—is no longer the fragile, wolfless girl. She’s powerful, respected, and completely looks like a different person. She believed she could live her new life with her daughter Ava peacefully without seeing Jason ever again, until fate forces her back into Jason’s life. \r\nOld lies, pack politics, and the truth about her daughter all collide— and this time, Jason won’t let her walk away easily.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
       "title": "A Woman Worth Billions, Dated the Wrong Brother",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 14.0,
+      "score": 11.0,
       "url": "https://www.goodnovel.com/book/A-woman-worth-billions-dated-the-wrong-brother_31001292618",
       "image": "https://acf.goodnovel.com/book/202602/02b7e58fa0658d0583d5c4d6f1516f5d2e2dcb11c055c03375339c3dfcb0121d.jpg?v=1&p=1&w=1080&a=webp",
       "description": "Amber built an empire she was never allowed to claim.\r\nBrilliant, strategic, and fiercely loyal, Amber was the mind behind a billion-dollar real estate empire—the woman who identified undervalued properties, structured acquisitions, and designed expansion projects that reshaped skylines. But when betrayal strikes, she’s fired, humiliated, and discarded by the man she helped rise to the top.\r\nShe walks away with nothing but her intelligence, her dignity… and the projects that were always hers.\r\nWhat her ex-fiancé never expects is his powerful half-brother.\r\nA billionaire real estate magnate in his own right, controlled, private, and raising two adopted children on his own, he offers Amber something unexpected: a contractual marriage. No romance. No lies. Just mutual benefit. A public wife to stabilize his corporate image—and a strategic partner who understands the business better than anyone.\r\nAmber accepts.\r\nShe takes her real estate projects with her—developments she sourced, designed, and negotiated from the ground up—and brings them into her new husband’s company. Entire portfolios shift overnight. Investments follow her. For the first time, her name is on the contracts, her voice dominates boardrooms, and her success is undeniable.\r\nAs Amber rises, the real estate empire she once built in silence begins to crumble. Deals collapse without her leadership. Bad investments surface. And the company her ex-fiancé claimed as his own crashes spectacularly—while Amber thrives, wealthier and more powerful than ever.\r\nBut what begins as a business arrangement slowly becomes something far more dangerous.\r\nBecause power is intoxicating. Trust is fragile. And love was never part of the contract.",
@@ -487,18 +487,18 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 14.0,
+      "velocity": -0.21428571428571427
     },
     {
-      "id": "goodnovel-book-Rejected-and-Pregnant-I-Fled-The-Pack_31001557485",
-      "title": "Rejected and Pregnant I Fled The Pack",
+      "id": "goodnovel-book-Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
+      "title": "Five Years of Marriage to Mr. Bradford",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Rejected-and-Pregnant-I-Fled-The-Pack_31001557485",
-      "image": "https://acf.goodnovel.com/book/202606/60d28bec07512cf21e7eb00d315a76a5f4c4164b60a152b10004d5445b908032.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "After a night with my mate, he rejected me for my best friend. Finding out I'm pregnant, I flee and try to start over. I miss my mate and I miss my pack but he hurt me.",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
+      "image": "https://acf.goodnovel.com/book/202602/1984a25c4cf07a1c85ace7061de1848c2879fd4cc6e4bff9d8301dffc06cd17f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "On the fifth anniversary of Rebecca Perry's marriage to Vance Bradford, his first love returned to the country.\n\nThat night, she caught him in the bathroom, murmuring Catherine's name as he pleasured himself.\n\nThat was why, for five years, he had never touched her.\n\n\"Catherine is back; she's all alone. I'm just helping her as a friend.\"\n\n\"I understand.\"\n\n\"I promised her I'd accompany her to the island for her birthday. I'm just fulfilling it.\"\n\n\"Okay.\"\n\n\"This banquet requires a capable companion, and Catherine is more suitable than you.\"\n\n\"Okay, go ahead.\"\n\nWhen she stopped getting angry, stopped shedding tears, and stopped making a fuss, he grew puzzled. \"Rebecca, why aren't you angry?\"\n\nOf course, she wasn't angry anymore—because she was preparing to leave.\n\nWeary of this stagnant marriage, she had secretly learned a foreign language, taken the proficiency exam, and applied to study abroad.\n\nThe day her visa was approved, she presented him with the divorce agreement.\n\nVance froze. \"No joke. How are you gonna survive without me?\"\n\nRebecca turned away, bought a plane ticket, and flew to the European continent, vanishing without a trace.\n\nThe next time he saw news of her was in a viral video. Dressed in a flowing red gown, she danced against a foreign sky, igniting the internet with her performance.\n\nHe gritted his teeth. \"Rebecca, no matter where you hide, I will find you and bring you back!\"",
       "genres": [
         "Romance"
       ],
@@ -509,14 +509,32 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
-      "title": "Second Chance for the Barren Luna",
+      "id": "goodnovel-book-Accidentally-Pregnant-By-My-Alpha-Best-friends_31001161201",
+      "title": "Accidentally Pregnant By My Alpha Best friends",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/Accidentally-Pregnant-By-My-Alpha-Best-friends_31001161201",
+      "image": "https://acf.goodnovel.com/book/202510/0e8080ab8be7851b7c7c59bc87f650793b58f626537930ae20369d8cc34cf66c.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "5 years ago: \r\n“I’m pregnant,” I stated. \r\n“It’s not my baby. You must have gotten pregnant by someone else. Abort it,” Alpha Baxter hissed.\r\n “Why would I make a baby with an omega like you? My beta mate will give me an heir,” Alpha Graham scoffed, his eyes cold. \r\n“And even if it is mine, give it up for adoption. I don’t want him calling me daddy,” Alpha Elgin sneered, wrinkling his nose. \r\n5 Years Later: \r\n“Please! Let me be a part of my baby’s life,” Alpha Baxter pleaded, his voice breaking. \r\n“My mate can’t conceive. I want my child to know me and to call me father.” Alpha Graham requested. \r\n“I would hate for my baby to call someone else daddy in front of me,” alpha Elgin whispered, choking back emotion. \r\n“Didn’t you say you wanted me to abort them? How can you claim them now?” I spat, locking eyes with them.\r\n .. \r\nLiving as an omega was never easy for Madeline, but she survived with the support of her three alpha best friends. They protected her, cared for her, and made her feel valued, until they discovered she found them attractive, which changed everything. \r\nDesire took over, and they claimed her, only to cast her aside once they had what they wanted. When Madeline learned she was pregnant, she turned to them, only to be rejected and told to end the pregnancy. \r\nBetrayed and heartbroken, she fled the pack to protect herself and her unborn children. Years later, Madeline stands strong, raising three children who carry the DNA of the alphas who abandoned her. Now the alphas regret the choices they made, but Madeline knows one thing for certain—her children will never call them “daddy.”",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Beyond-the-Divorce_31000580640",
+      "title": "Beyond the Divorce",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/Second-Chance-for-the-Barren-Luna_31001064899",
-      "image": "https://acf.goodnovel.com/book/202658/28f6ca955614a0ab96b4d9765d3611118f31a5bb63ad1afd440e89588aa74276.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“If you can’t provide an heir, you’re a Luna in name only. I need more than a worthless, barren omega cosplaying as a Luna!”\n\nMy Alpha husband Jason’s words cut deeper than any silver blade. For three years, I have kept the truth from him. He thinks he married a weak omega. But the truth? I am the Alpha King’s daughter.\n\nI wait eagerly for his return from a victorious war, ready to reveal who I truly am. Only to find him walking back with his mistress, Viki, who has already carrying his pup.\n\n“You have two options,” Jason snarls, eyes cold. “Lose your status as Luna and go back to being a useless omega. Or stay for Viki and help raise my heir.”\n\nPushed to my breaking point, I accept his rejection and return to my father’s kingdom. I think my heart is dead but fate has led me to a dangerous second-chance mate. Worse, Jason can’t let me go that easily.",
+      "url": "https://www.goodnovel.com/book/Beyond-the-Divorce_31000580640",
+      "image": "https://acf.goodnovel.com/book/202507/02a088081cd63121dbfff3724d951f182720bf8dbe8d67d8642a123187c09f67.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Most people often see marriage as a reincarnation for women. So, countless foolish women jump into one without a second thought. Many people see my husband as the perfect husband. He cared for me and loved me in every way. Yet, he still cheated on me right under my nose. Faced with the hypocrisy and ugliness behind his facade as a perfect husband, I've decided to serve him karma on a silver platter!",
       "genres": [
         "Romance"
       ],
@@ -527,32 +545,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Married-at-First-Sight_31000384431",
-      "title": "Married at First Sight",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Married-at-First-Sight_31000384431",
-      "image": "https://acf.goodnovel.com/book/202208/Married-at-First-Sight/f0b5eb8152a5c2a3b57c993c0e60c9d94549f934a29d96cbecce2c282d8f4269.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Since the day Serenity got hitched to a stranger on their blind date, she had assumed married life would be ordinary but respectful and mundane. It never crossed her mind that her new husband would be clingy like a piece of gum stuck to the bottom of a shoe. To her utmost surprise, he could make her troubles disappear whenever she was in a fix. Despite her questioning, her husband would always pass it off as luck. Until one day, she watched an interview with a local billionaire known for fussing over his wife. That was when she noticed the uncanny resemblance of the billionaire to her husband. The wife whom he was showering attention on turned out to be her!",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-The-Alpha-King-s-Hated-Slave_31000021092",
-      "title": "The Alpha King's Hated Slave",
+      "id": "goodnovel-book-THROUGH-THE-EYES-OF-MY-ALPHA_31000280620",
+      "title": "THROUGH THE EYES OF MY ALPHA",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-King-s-Hated-Slave_31000021092",
-      "image": "https://acf.goodnovel.com/book/202311/The-Alpha-King-s-Hated-Slave/d9ff499b0faf6ac972c2bfb546f29cfb5b995ef7683a950333117876e0d3ccd8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The novel The Alpha Kings Hated Slave is a Werewolf stories books, telling a story of WARNING!!Matured Contents here! Matured book! This book is rated 18+ there are lots of séxual gratifications, slavery, violence and hate that might make you uncomfortable at every turn. Read at your own risk.",
+      "url": "https://www.goodnovel.com/book/THROUGH-THE-EYES-OF-MY-ALPHA_31000280620",
+      "image": "https://acf.goodnovel.com/book/202210/THROUGH-THE-EYES-OF-MY-ALPHA/611e792373f4a54a2392e4e0ca7c91059e6ac6bf3b660cf858a230d1b6ae1efe.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "THROUGH THE EYES OF MY ALPHA is a Werewolf novel written by Cassandra M that covers Betrayal, Adventurous, Alpha. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
