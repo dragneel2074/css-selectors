@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-15T01:02:47Z",
-  "date": "2026-08-15",
+  "generated_at_utc": "2026-08-16T01:06:39Z",
+  "date": "2026-08-16",
   "category": "manga",
   "item_count": 3,
   "errors": [
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230701.0,
+      "score": 230782.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,47 +42,45 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 230644.0,
-      "velocity": 0.0002471341114444772
+      "previous_score": 230701.0,
+      "velocity": 0.0003511038096930659
     },
     {
-      "id": "anilist-manga-74347",
-      "title": "One-Punch Man",
+      "id": "anilist-manga-172729",
+      "title": "They Are Still Being Shaken This Morning",
       "source": "AniList",
       "category": "manga",
-      "score": 172147.0,
-      "url": "https://anilist.co/manga/74347",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
-      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 85,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 172111.0,
-      "velocity": 0.00020916733968194944
-    },
-    {
-      "id": "anilist-manga-141658",
-      "title": "Kurai Ano Ko to Shitai Koto",
-      "source": "AniList",
-      "category": "manga",
-      "score": 3887.0,
-      "url": "https://anilist.co/manga/141658",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141658-9PHtRepCEmZ9.jpg",
-      "description": "Starting his second year of high school, Ren Tabata was determined to get over his loner past and make some new friends. The first person he approached was the girl next to him, Touko Sasaki, who seemed gloomy and a little intimidating at first, but he couldn't seem to take his eyes off her. A romantic comedy between two shy but cute people who don't want to be alone anymore! \n<BR><BR>\n(Source: DoraDora Sharp#, translated)",
+      "score": 11676.0,
+      "url": "https://anilist.co/manga/172729",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172729-1owQQ5lhCBog.jpg",
+      "description": "Every morning at 6:58, commuters hurry onto the train at Sakuranomiya Station. For the past few months, a tentative romance has been brewing between two students from different schools. The young man is easily flustered, always stealing a glance at the young woman, but never making a move—much to the disappointment of the other passengers, who have been cheering them on in secret. Will this budding love story ever blossom?\n<br><br>\n(Source: Seven Seas Entertainment)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 64,
+        "average_score": 80,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-172407",
+      "title": "Akanabe-sensei wa Tereshirazu",
+      "source": "AniList",
+      "category": "manga",
+      "score": 8315.0,
+      "url": "https://anilist.co/manga/172407",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172407-IPqqzVxU6Zm1.jpg",
+      "description": "Koki Sakieda is an assistant for Akira Akanebe, a manga artist he admires, who always tries to praise him in some way. Sakieda is worried that he will end up falling in love with her if this situation continues. Then Akanebe unexpectedly asks him to go out with her....... The story depicts the daily life of Akanebe-sensei, who lavishes praise on Sakieda without embarrassment, and Sakieda, who tries to accept it all gracefully.\n<BR><BR>\n(Source: Natalie, translated)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 72,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

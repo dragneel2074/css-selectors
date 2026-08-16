@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-15T01:02:47Z",
-  "date": "2026-08-15",
+  "generated_at_utc": "2026-08-16T01:06:39Z",
+  "date": "2026-08-16",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,14 +23,32 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "title": "Sea Survival: My Luck is Off the Charts",
+      "id": "webnovel-book-chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "title": "Chosen as the Cursed Alpha's Seventh Bride",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "image": "https://book-pic.webnovel.com/bookcover/36346200608775605?imageMogr2/thumbnail/600x&imageId=1783503607600",
+      "description": "# BETRAYAL # WEREWOLF # ENEMIESTOLOVERS # ALPHA # ABANDONED # HIDDENIDENTITIES # FORBIDDENLOVE # ARRANGEDMARRIAGE # FATEDMATE # SUPERPOWER",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 2.0
+    },
+    {
+      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
+      "title": "Claimed by the Mad Lycan King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
+      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
+      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
       "genres": [
         "Web Novel"
       ],
@@ -38,7 +56,7 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 6.0,
-      "velocity": 0.3333333333333333
+      "velocity": 0.16666666666666666
     },
     {
       "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
@@ -171,7 +189,7 @@
       "title": "My Magic Has No Upper Limit",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 9.0,
+      "score": 8.0,
       "url": "https://www.webnovel.com/book/my-magic-has-no-upper-limit_35744072008532305",
       "image": "https://book-pic.webnovel.com/bookcover/35744072008532305?imageMogr2/thumbnail/600x&imageId=1781162555185",
       "description": "# SYSTEM # TRANSMIGRATION # WIZARD",
@@ -182,14 +200,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 9.0,
-      "velocity": 0.0
+      "velocity": -0.1111111111111111
     },
     {
       "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "title": "Global Lords: My Territory Heart Is a World Tree",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 4.0,
       "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
       "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
@@ -200,14 +218,32 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 5.0,
-      "velocity": 0.0
+      "velocity": -0.2
+    },
+    {
+      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "title": "Sea Survival: My Luck is Off the Charts",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
+      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.25
     },
     {
       "id": "webnovel-book-my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
       "title": "My SSS-Rank Innate skill: Infinite Adaptation core",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
+      "score": 3.0,
       "url": "https://www.webnovel.com/book/my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
       "image": "https://book-pic.webnovel.com/bookcover/35995918508145305?imageMogr2/thumbnail/600x&imageId=1786263123568",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # OVERPOWERED # HAREM # TRANSMIGRATION",
@@ -218,32 +254,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 4.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "title": "I Stopped Simping and the Heroines Lost Their Minds",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
-      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 2.0,
-      "velocity": 0.0
+      "velocity": -0.25
     },
     {
       "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
       "title": "SSS Awakening: I am the First Legendary Mage",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
+      "score": 5.0,
       "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
       "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
       "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
@@ -253,36 +271,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": -0.125
-    },
-    {
-      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
-      "title": "Claimed by the Mad Lycan King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
-      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
-      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
       "previous_score": 7.0,
-      "velocity": -0.14285714285714285
+      "velocity": -0.2857142857142857
     },
     {
-      "id": "webnovel-book-chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
-      "title": "Chosen as the Cursed Alpha's Seventh Bride",
+      "id": "webnovel-book-beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
+      "title": "Beast Taming: I'm Really Not a Cultivation Master",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
-      "image": "https://book-pic.webnovel.com/bookcover/36346200608775605?imageMogr2/thumbnail/600x&imageId=1783503607600",
-      "description": "# BETRAYAL # WEREWOLF # ENEMIESTOLOVERS # ALPHA # ABANDONED # HIDDENIDENTITIES # FORBIDDENLOVE # ARRANGEDMARRIAGE # FATEDMATE # SUPERPOWER",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
+      "image": "https://book-pic.webnovel.com/bookcover/35475727308556605?imageMogr2/thumbnail/600x&imageId=1779952174238",
+      "description": "# SYSTEM # BEASTTAMING",
       "genres": [
         "Web Novel"
       ],
