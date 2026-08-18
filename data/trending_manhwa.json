@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-17T01:03:49Z",
-  "date": "2026-08-17",
+  "generated_at_utc": "2026-08-18T01:02:11Z",
+  "date": "2026-08-18",
   "category": "manhwa",
-  "item_count": 8,
+  "item_count": 10,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,54 +23,32 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-194523",
-      "title": "Reincarnation of the Fist King",
+      "id": "anilist-manga-151460",
+      "title": "Absolute Sword Sense",
       "source": "AniList",
       "category": "manhwa",
-      "score": 5992.0,
-      "url": "https://anilist.co/manga/194523",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194523-cLAK6gTAKNkM.jpg",
-      "description": "Wuseong Dan, the man who ruled over the martial world with his fists alone. After unexpectedly losing a duel against two practitioners of the Demonic Way, he’s reborn into the body of the wild child heir apparent of the affluent Silver River Merchants. Not one to leave debts unpaid, be they to his benefit or detriment, Wuseong sets out on his path of revenge in the body of Jineon Lee. Using his knowledge of martial arts from his past life and the wealth of his current life, he only has one goal: get stronger and kill those who killed him.<br><br>(Source: WEBTOON)",
+      "score": 16012.0,
+      "url": "https://anilist.co/manga/151460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
+      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 77,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 5964.0,
-      "velocity": 0.004694835680751174
-    },
-    {
-      "id": "anilist-manga-149332",
-      "title": "The Swordmaster's Son",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 42609.0,
-      "url": "https://anilist.co/manga/149332",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149332-adkSyOFY3c5U.jpg",
-      "description": "Jin Runcandel was destined to become the head of his swordmaster clan. But despite his best efforts, he's banished for his shoddy swordsmanship. Though Jin eventually makes a contract with the god Solderet and is freed from the curse that hindered his abilities, he meets a rather unfortunate end. In the next moment, however, he awakens as a baby, long before his tragedy began. Armed with a second chance and some new powers, Jin swears to fulfill his destiny and become the ultimate swordmaster. <br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 42558.0,
-      "velocity": 0.0011983645848019173
+      "previous_score": 15974.0,
+      "velocity": 0.0023788656566921247
     },
     {
       "id": "anilist-manga-163824",
       "title": "Revenge of the Baskerville Bloodhound",
       "source": "AniList",
       "category": "manhwa",
-      "score": 43725.0,
+      "score": 43789.0,
       "url": "https://anilist.co/manga/163824",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
       "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
@@ -83,15 +61,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 43725.0,
+      "velocity": 0.0014636935391652373
     },
     {
       "id": "anilist-manga-159441",
       "title": "Pick Me Up",
       "source": "AniList",
       "category": "manhwa",
-      "score": 43210.0,
+      "score": 43254.0,
       "url": "https://anilist.co/manga/159441",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
       "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
@@ -105,24 +83,25 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 43210.0,
+      "velocity": 0.0010182828049062718
     },
     {
-      "id": "anilist-manga-167649",
-      "title": "The Academy's Genius Swordsman",
+      "id": "anilist-manga-153284",
+      "title": "After Ten Millennia in Hell",
       "source": "AniList",
       "category": "manhwa",
-      "score": 28476.0,
-      "url": "https://anilist.co/manga/167649",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
-      "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
+      "score": 31373.0,
+      "url": "https://anilist.co/manga/153284",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153284-roAlRmlRM7Vs.png",
+      "description": "Oh Kangwoo the Demon King has had it with ruling over Hell and wants to return to Earth. But when he finally gets there, not only are his powers sealed, but the Earth he once knew has turned into an MMORPG free-for-all. Dimensional gates have appeared all over the world, and \"players\" enter them to make a living by hunting monsters. If Kangwoo wants to survive in this dangerous game, he's going to have to level up, and fast. But for this demon king, hell on earth might be worse than Hell itself! <br><br>(Source: Tapas)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 75,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -130,21 +109,63 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-130429",
-      "title": "I Shall Master this Family!",
+      "id": "anilist-manga-182066",
+      "title": "The Regressed Mercenary Has a Plan",
       "source": "AniList",
       "category": "manhwa",
-      "score": 24368.0,
-      "url": "https://anilist.co/manga/130429",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130429-m3PuqOmxBgoo.png",
-      "description": "The great Lombardi family was once at the top of the empire. After the death of its patriarch, the fate of the family and that of Firentia, born from a Lombardi and a peasant, fall to ruin at the hands of her useless and cruel cousins. But when she’s reincarnated as her seven-year-old self, she’ll work to protect the family’s honor, gain her grandpa Lulac’s favor, and prevent her own father’s death. In this lifetime, there’s only one way for her to win: become the head of their mighty household. <br>\n<br>\n(Source: Tapas)",
+      "score": 22717.0,
+      "url": "https://anilist.co/manga/182066",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
+      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
-        "Drama",
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-180891",
+      "title": "Absolute Regression",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 16964.0,
+      "url": "https://anilist.co/manga/180891",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg",
+      "description": "The past has changed, but like a fiery comet, he still comes. Mugi Hwa, the one without equal, slashed through Murim's skies with his sword, toppling every lord who dared to face him–even Cheonma, Mugeuk Geom’s father. But Mugeuk didn’t accept defeat. Instead, he turned to the forbidden: a time-bending ritual that hurled him into his own past. Now, retracing his steps, he races against the clock until Mugi emerges once again. But this time, it's not just about power, but mending old wounds and forging new bonds to unite his people and prepare for the bloodtide to come.<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-147586",
+      "title": "The Perks of Being an S-Class Heroine",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 11781.0,
+      "url": "https://anilist.co/manga/147586",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147586-nXOZKdOSvtDU.png",
+      "description": "On the outside, Ailette Rodeline is an adorable child prodigy. Cooking, brewing tea, alchemy; you name it, she can do it. But this little girl has a big secret: Ailette is a transmigrator! After dying prematurely in her past life, she becomes a character whose world is destined for destruction. With all odds stacked against her, Ailette must figure out how to survive before her life is ripped from her again. Fortunately for her, she finds her salvation in… an insurance package?\n<br><br>\n(Source: Tapas)",
+      "genres": [
+        "Action",
         "Fantasy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -152,20 +173,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-151460",
-      "title": "Absolute Sword Sense",
+      "id": "anilist-manga-208208",
+      "title": "The Shepherd Wizard",
       "source": "AniList",
       "category": "manhwa",
-      "score": 15974.0,
-      "url": "https://anilist.co/manga/151460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg",
-      "description": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger.\n<br><br>\n(Source: WEBTOON)",
+      "score": 5053.0,
+      "url": "https://anilist.co/manga/208208",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208208-azuHfUiSOUSZ.jpg",
+      "description": "Born into a world where divine power defines status, Turan hides his true strength to live as a simple shepherd. Descended from a line of wizards yet raised in secrecy, he avoids the attention of powerful nobles who would exploit him. But when a wandering knight recognizes his extraordinary potential, Turan is faced with a life-changing choice. Will he remain in hiding, or journey to the capital and embrace the destiny he was meant for?<Br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 76,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -173,21 +194,41 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-164122",
-      "title": "Gwihwanhaenneunde Ipdae Jeonnarida",
+      "id": "anilist-manga-188155",
+      "title": "The Genius Swordsman of Mount Hua",
       "source": "AniList",
       "category": "manhwa",
-      "score": 11321.0,
-      "url": "https://anilist.co/manga/164122",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164122-zdeLVK8DfxBt.jpg",
-      "description": "Min-Jun Kim, an ordinary high school senior in Korea, was suddenly summoned to another world, where he became a dark mage. Determined to return home, he overcame all sorts of hardships and saved the other world with black magic before leaving all his wealth and glory as a hero behind to return to Earth. However, before he could fully enjoy his life, a problem arose. A dungeon break had occurred and monsters came pouring out, threatening his comfortable days. Therefore, Min-Jun, who had just returned to earth, had no choice but to… enlist on the very next day!!!<br>\n<br>\n(Source: Naver, translated)",
+      "score": 4349.0,
+      "url": "https://anilist.co/manga/188155",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
+      "description": "After being ambushed by the Demonic Cult, Goheon Dok and Hyeonjo, his close friend from Mount Hua, are cornered and on the verge of losing their lives. Before they're both killed, Hyeonjo hands Goheon the Plum Blossom Spirit Beads, a sacred relic of Mount Hua that causes Goheon to take possession of the body of Muhwi, an apprentice of Hyeonjo. Now, as a Senior Disciple of Mount Hua, Goheon Dok must fight to protect Mount Hua and fulfill his friend's dying wish.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
-        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 69,
+        "average_score": 71,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-211510",
+      "title": "The Otherworldly Family Man",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 2605.0,
+      "url": "https://anilist.co/manga/211510",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211510-6DsPrnzmNZSY.jpg",
+      "description": "Years after losing his parents, Ju-Hwan Kim has resigned himself to a life of loneliness. But on Christmas Eve, a mysterious man dressed as Santa grants his wish for a family of his own and transports him to another world. There, he finds an unlikely home with Lizzie, a traumatized widow, and her young stepdaughter. Determined to protect the family fate has given him, Ju-Hwan must learn how to hunt, master his newfound magical powers, and survive in a world where kindness is a rare luxury.<br><br>(Source: WEBTOON, edited)",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 71,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

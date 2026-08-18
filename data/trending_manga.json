@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-17T01:03:49Z",
-  "date": "2026-08-17",
+  "generated_at_utc": "2026-08-18T01:02:11Z",
+  "date": "2026-08-18",
   "category": "manga",
-  "item_count": 6,
+  "item_count": 3,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 230861.0,
+      "score": 230945.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,21 +42,25 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 230782.0,
-      "velocity": 0.0003423143919369795
+      "previous_score": 230861.0,
+      "velocity": 0.0003638553068729669
     },
     {
-      "id": "anilist-manga-149544",
-      "title": "The Guy She Was Interested In Wasn't a Guy at All",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 50825.0,
-      "url": "https://anilist.co/manga/149544",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
-      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
+      "score": 115127.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
-        "Music",
-        "Romance"
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
       ],
       "metadata": {
         "average_score": 82,
@@ -67,86 +71,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-137513",
-      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
+      "id": "anilist-manga-191203",
+      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
       "source": "AniList",
       "category": "manga",
-      "score": 12906.0,
-      "url": "https://anilist.co/manga/137513",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137513-jUK9JOgBQ6QP.jpg",
-      "description": "A kid named Light is the only human member of the adventuring party Legion of Races, but humans are by far the weakest race in his world. When his comrades abandon him to the lowest levels of a dungeon, Light resorts to the gift of Infinite Gacha to create a harem of Lvl 9999 allies! With his powerful and beautiful new friends by his side, can Light escape the dungeon and exact vengeance upon the Legion of Races…and the entire world?\n<br><br>\n(Source: Seven Seas Entertainment)",
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 67,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-174315",
-      "title": "Ane no Tomodachi",
-      "source": "AniList",
-      "category": "manga",
-      "score": 10635.0,
-      "url": "https://anilist.co/manga/174315",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174315-ww59pBzOsNrM.jpg",
-      "description": "Hii-chan is my sister's friend, who likes to come by our house where my sister and I live together. She's absolutely gorgeous, but she has a strange sense of personal space, and it's got me, Asahi, all flustered. Is she just teasing me…? \n <br><br> (Source: Tonari no Young Jump, translated)",
+      "score": 12789.0,
+      "url": "https://anilist.co/manga/191203",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
+      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
       "genres": [
         "Comedy",
-        "Romance",
-        "Slice of Life"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 74,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-162941",
-      "title": "Dungeon ni Hisomu Yandere na Kanojo ni Ore wa Nandomo Korosareru",
-      "source": "AniList",
-      "category": "manga",
-      "score": 9109.0,
-      "url": "https://anilist.co/manga/162941",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162941-iPeWgPxpChos.jpg",
-      "description": "Kiska, a boy who was mistreated by the villagers, was able to get by thanks to his childhood friend, Namia, who was the only one who stood by him.\n<BR><BR>\nOne day, Namia is found murdered in the village. Kiska is framed for the murder by the other villagers, and banished to an inescapable S-class dungeon...?\n<BR><BR>\nThis is an otherworldly revenge fantasy that makes full use of the skill \"Save & Reset\" to get back on your feet no matter how many times you die!\n<BR><BR>\n(Source: Kadokawa, translated)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 67,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-150193",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "source": "AniList",
-      "category": "manga",
-      "score": 9088.0,
-      "url": "https://anilist.co/manga/150193",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150193-XBdISLm3IDr1.jpg",
-      "description": "<i>“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”</i>\n<br><br>\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n<br><br>\n(Source: K MANGA)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 69,
+        "average_score": 77,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
