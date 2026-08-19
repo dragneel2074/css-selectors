@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-18T01:02:11Z",
-  "date": "2026-08-18",
+  "generated_at_utc": "2026-08-19T01:02:55Z",
+  "date": "2026-08-19",
   "category": "manga",
-  "item_count": 3,
+  "item_count": 8,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,34 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 230945.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 230861.0,
-      "velocity": 0.0003638553068729669
-    },
-    {
       "id": "anilist-manga-132029",
       "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 115127.0,
+      "score": 115191.0,
       "url": "https://anilist.co/manga/132029",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
       "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
@@ -67,24 +44,160 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
+      "previous_score": 115127.0,
+      "velocity": 0.0005559078235340103
+    },
+    {
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
+      "source": "AniList",
+      "category": "manga",
+      "score": 122811.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-191203",
-      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "id": "anilist-manga-138072",
+      "title": "JoJo no Kimyou na Bouken: The JOJOLands",
       "source": "AniList",
       "category": "manga",
-      "score": 12789.0,
-      "url": "https://anilist.co/manga/191203",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
-      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
+      "score": 29044.0,
+      "url": "https://anilist.co/manga/138072",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138072-G9PrTnqb8CRI.jpg",
+      "description": "The stage is set on a volcanic island in the Pacific Ocean, Hawaii. Jodio Joestar, a young boy living on Oahu Island, harbors the ambition to become a great millionaire. The clue to his goal lies in reaching the pinnacle of the mechanisms of this world. What means will he choose to achieve his objective?",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-122063",
+      "title": "Shangri-La Frontier",
+      "source": "AniList",
+      "category": "manga",
+      "score": 22006.0,
+      "url": "https://anilist.co/manga/122063",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
+      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-169272",
+      "title": "Tune In to the Midnight Heart",
+      "source": "AniList",
+      "category": "manga",
+      "score": 17998.0,
+      "url": "https://anilist.co/manga/169272",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
+      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-173062",
+      "title": "Walking Home with You",
+      "source": "AniList",
+      "category": "manga",
+      "score": 9477.0,
+      "url": "https://anilist.co/manga/173062",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg",
+      "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-174233",
+      "title": "The Witch and the Mercenary",
+      "source": "AniList",
+      "category": "manga",
+      "score": 5879.0,
+      "url": "https://anilist.co/manga/174233",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b174233-VVAJkWx1XwCh.jpg",
+      "description": "Zig—a tall, broad-shouldered mercenary—participates in a witch hunt. Following a fierce duel with the deadly witch, he becomes privy to her desire. “I want you to protect me,” she requests, tired of having her life trivialized. Seeking a place to survive, the witch and the mercenary set their sights on an unknown continent!<br><br>(Source: K MANGA)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-211551",
+      "title": "Lilim Holic",
+      "source": "AniList",
+      "category": "manga",
+      "score": 1255.0,
+      "url": "https://anilist.co/manga/211551",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211551-raIHvkE0HM7I.jpg",
+      "description": "A society where humans and succubi coexist. The protagonist, Hayato Yui—an otaku—finds himself drawn to Emu Kato: a fellow classmate, a succubus, and a member of their class's highest social caste. \"It isn't lust; I've fallen for her as a person,\" the outwardly reserved Hayato tells himself. Meanwhile, the equally reserved Emu secretly harbors feelings for Hayato and is eager to bridge the distance between them. Their desires intertwine in this \"misguided romantic comedy\"!\n<br><br>(Source: Magazine Pocket, translated)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 61,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
