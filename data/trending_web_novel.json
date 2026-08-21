@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-20T01:02:49Z",
-  "date": "2026-08-20",
+  "generated_at_utc": "2026-08-21T01:06:31Z",
+  "date": "2026-08-21",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -27,7 +27,7 @@
       "title": "Claimed by the Mad Lycan King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
       "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
       "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
@@ -37,18 +37,36 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
-      "velocity": 0.6666666666666666
+      "previous_score": 5.0,
+      "velocity": 0.8
     },
     {
-      "id": "webnovel-book-bloodstar-system-infinite-evolution-through-beast-slaughter_36253904608989705",
-      "title": "Bloodstar System: Infinite Evolution Through Beast Slaughter",
+      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "title": "Sea Survival: My Luck is Off the Charts",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/bloodstar-system-infinite-evolution-through-beast-slaughter_36253904608989705",
-      "image": "https://book-pic.webnovel.com/bookcover/36253904608989705?imageMogr2/thumbnail/600x&imageId=1783488328695",
-      "description": "# ACTION # SYSTEM # WEAKTOSTRONG # OVERPOWERED # SURVIVAL # REVENGE # LEVELUP # EVOLUTION # NO-HAREM # BLOODPUMPING",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
+      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 0.3333333333333333
+    },
+    {
+      "id": "webnovel-book-my-magic-has-no-upper-limit_35744072008532305",
+      "title": "My Magic Has No Upper Limit",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/my-magic-has-no-upper-limit_35744072008532305",
+      "image": "https://book-pic.webnovel.com/bookcover/35744072008532305?imageMogr2/thumbnail/600x&imageId=1781162555185",
+      "description": "# SYSTEM # TRANSMIGRATION # WIZARD",
       "genres": [
         "Web Novel"
       ],
@@ -56,14 +74,14 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 4.0,
-      "velocity": 0.5
+      "velocity": 0.25
     },
     {
       "id": "webnovel-book-i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
       "title": "I Can Devour Monsters’ SSS Talents",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
+      "score": 14.0,
       "url": "https://www.webnovel.com/book/i-can-devour-monsters%E2%80%99-sss-talents_35979612700927105",
       "image": "https://book-pic.webnovel.com/bookcover/35979612700927105?imageMogr2/thumbnail/600x&imageId=1781356452657",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # OVERPOWERED # GENIUS # ANTIHERO",
@@ -73,51 +91,69 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
+      "previous_score": 12.0,
+      "velocity": 0.16666666666666666
+    },
+    {
+      "id": "webnovel-book-chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "title": "Chosen as the Cursed Alpha's Seventh Bride",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "image": "https://book-pic.webnovel.com/bookcover/36346200608775605?imageMogr2/thumbnail/600x&imageId=1783503607600",
+      "description": "# BETRAYAL # WEREWOLF # ENEMIESTOLOVERS # ALPHA # ABANDONED # HIDDENIDENTITIES # FORBIDDENLOVE # ARRANGEDMARRIAGE # FATEDMATE # SUPERPOWER",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": 0.1111111111111111
+    },
+    {
+      "id": "webnovel-book-my-accidental-billionaire-husband_36355415100011705",
+      "title": "My Accidental Billionaire Husband",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/my-accidental-billionaire-husband_36355415100011705",
+      "image": "https://book-pic.webnovel.com/bookcover/36355415100011705?imageMogr2/thumbnail/600x&imageId=1783595755157",
+      "description": "# ABANDONED # PREGNANCY # FORBIDDENLOVE # CEO # EX # ONENIGHTSTAND # SECRETBABY # HIDDENIDENTITY # AMNESIA # ACCIDENTALMARRIAGE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
       "previous_score": 10.0,
-      "velocity": 0.2
+      "velocity": 0.1
     },
     {
-      "id": "webnovel-book-every-mafia's-favorite-girl_35932764008926405",
-      "title": "Every Mafia's Favorite Girl",
+      "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "title": "The Fake Luna: Marked By The Alpha King",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 16.0,
-      "url": "https://www.webnovel.com/book/every-mafia's-favorite-girl_35932764008926405",
-      "image": "https://book-pic.webnovel.com/bookcover/35932764008926405?imageMogr2/thumbnail/600x&imageId=1786452048373",
-      "description": "# ROMANCE # R18 # COMEDY # DARK # TRANSMIGRATION # ISEKAI # POSSESSIVE # MAFIA # REVERSE HAREM",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/the-fake-luna-marked-by-the-alpha-king_36285720400859905",
+      "image": "https://book-pic.webnovel.com/bookcover/36285720400859905?imageMogr2/thumbnail/600x&imageId=1782898805735",
+      "description": "# REVENGE # WEREWOLF # ALPHA # HIDDENIDENTITIES # ANGST # CEO # POORTORICH # FAKEIDENTITY # EX # CONTRACTMARRIAGE",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 16.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-      "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-      "image": "https://book-pic.webnovel.com/bookcover/36191927408967005?imageMogr2/thumbnail/600x&imageId=1784894124889",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # URBAN # YANDERE # HERO # HOT",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 15.0,
-      "velocity": 0.0
+      "previous_score": 11.0,
+      "velocity": 0.09090909090909091
     },
     {
       "id": "webnovel-book-starting-with-an-sss-rank-goddess-summon!_35964974408530205",
       "title": "Starting With an SSS-Rank Goddess Summon!",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 14.0,
+      "score": 15.0,
       "url": "https://www.webnovel.com/book/starting-with-an-sss-rank-goddess-summon!_35964974408530205",
       "image": "https://book-pic.webnovel.com/bookcover/35964974408530205?imageMogr2/thumbnail/600x&imageId=1787085692412",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # OVERPOWERED # HAREM # SLICEOFLIFE",
@@ -128,7 +164,25 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 14.0,
-      "velocity": 0.0
+      "velocity": 0.07142857142857142
+    },
+    {
+      "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+      "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 16.0,
+      "url": "https://www.webnovel.com/book/investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+      "image": "https://book-pic.webnovel.com/bookcover/36191927408967005?imageMogr2/thumbnail/600x&imageId=1784894124889",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # URBAN # YANDERE # HERO # HOT",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 15.0,
+      "velocity": 0.06666666666666667
     },
     {
       "id": "webnovel-book-the-sss-rank-guide-doesn't-need-saving_36319482700433605",
@@ -146,24 +200,6 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 13.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
-      "title": "Chosen as the Cursed Alpha's Seventh Bride",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
-      "image": "https://book-pic.webnovel.com/bookcover/36346200608775605?imageMogr2/thumbnail/600x&imageId=1783503607600",
-      "description": "# BETRAYAL # WEREWOLF # ENEMIESTOLOVERS # ALPHA # ABANDONED # HIDDENIDENTITIES # FORBIDDENLOVE # ARRANGEDMARRIAGE # FATEDMATE # SUPERPOWER",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
       "velocity": 0.0
     },
     {
@@ -191,7 +227,7 @@
       "category": "web_novel",
       "score": 7.0,
       "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1787149690046",
+      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1787257431941",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
       "genres": [
         "Web Novel"
@@ -200,6 +236,24 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 7.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-bloodstar-system-infinite-evolution-through-beast-slaughter_36253904608989705",
+      "title": "Bloodstar System: Infinite Evolution Through Beast Slaughter",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/bloodstar-system-infinite-evolution-through-beast-slaughter_36253904608989705",
+      "image": "https://book-pic.webnovel.com/bookcover/36253904608989705?imageMogr2/thumbnail/600x&imageId=1783488328695",
+      "description": "# ACTION # SYSTEM # WEAKTOSTRONG # OVERPOWERED # SURVIVAL # REVENGE # LEVELUP # EVOLUTION # NO-HAREM # BLOODPUMPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
       "velocity": 0.0
     },
     {
@@ -221,76 +275,22 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-the-fake-luna-marked-by-the-alpha-king_36285720400859905",
-      "title": "The Fake Luna: Marked By The Alpha King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/the-fake-luna-marked-by-the-alpha-king_36285720400859905",
-      "image": "https://book-pic.webnovel.com/bookcover/36285720400859905?imageMogr2/thumbnail/600x&imageId=1782898805735",
-      "description": "# REVENGE # WEREWOLF # ALPHA # HIDDENIDENTITIES # ANGST # CEO # POORTORICH # FAKEIDENTITY # EX # CONTRACTMARRIAGE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": -0.08333333333333333
-    },
-    {
-      "id": "webnovel-book-my-accidental-billionaire-husband_36355415100011705",
-      "title": "My Accidental Billionaire Husband",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/my-accidental-billionaire-husband_36355415100011705",
-      "image": "https://book-pic.webnovel.com/bookcover/36355415100011705?imageMogr2/thumbnail/600x&imageId=1783595755157",
-      "description": "# ABANDONED # PREGNANCY # FORBIDDENLOVE # CEO # EX # ONENIGHTSTAND # SECRETBABY # HIDDENIDENTITY # AMNESIA # ACCIDENTALMARRIAGE",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": -0.09090909090909091
-    },
-    {
-      "id": "webnovel-book-my-magic-has-no-upper-limit_35744072008532305",
-      "title": "My Magic Has No Upper Limit",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/my-magic-has-no-upper-limit_35744072008532305",
-      "image": "https://book-pic.webnovel.com/bookcover/35744072008532305?imageMogr2/thumbnail/600x&imageId=1781162555185",
-      "description": "# SYSTEM # TRANSMIGRATION # WIZARD",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": -0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "title": "Sea Survival: My Luck is Off the Charts",
+      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1785680172360",
+      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": -0.4
+      "previous_score": null,
+      "velocity": null
     }
   ]
 }

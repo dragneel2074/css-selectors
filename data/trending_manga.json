@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-20T01:02:49Z",
-  "date": "2026-08-20",
+  "generated_at_utc": "2026-08-21T01:06:31Z",
+  "date": "2026-08-21",
   "category": "manga",
-  "item_count": 6,
+  "item_count": 4,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,33 +23,33 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
       "source": "AniList",
       "category": "manga",
-      "score": 122883.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
+      "score": 77956.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
       "genres": [
-        "Action",
+        "Comedy",
         "Drama",
-        "Sports"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 82,
+        "average_score": 87,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 122811.0,
-      "velocity": 0.0005862667024940763
+      "previous_score": 77873.0,
+      "velocity": 0.0010658379669461816
     },
     {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 231061.0,
+      "score": 231125.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -64,90 +64,47 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 231061.0,
+      "velocity": 0.0002769831343238366
     },
     {
-      "id": "anilist-manga-140475",
-      "title": "The Fragrant Flower Blooms With Dignity",
+      "id": "anilist-manga-30026",
+      "title": "Hunter x Hunter",
       "source": "AniList",
       "category": "manga",
-      "score": 77873.0,
-      "url": "https://anilist.co/manga/140475",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
-      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 87,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-199999",
-      "title": "WITCHRIV",
-      "source": "AniList",
-      "category": "manga",
-      "score": 7302.0,
-      "url": "https://anilist.co/manga/199999",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199999-O8TW8Ufc3sXv.png",
-      "description": "A girl named Nona lives in plain sight among humans, hiding her true identity as a mage as she spends her days in peace with her best friend Lovi. But one day, Nona uses magic to fix Lovi's glasses and subsequently catches the attention of the Bureau of Magic Surveillance. A simple good deed becomes the trigger that sets Nona's destiny in motion...\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Mystery"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-201855",
-      "title": "Futari Bus",
-      "source": "AniList",
-      "category": "manga",
-      "score": 3823.0,
-      "url": "https://anilist.co/manga/201855",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
-      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-202332",
-      "title": "Yotaka Futatabi",
-      "source": "AniList",
-      "category": "manga",
-      "score": 3578.0,
-      "url": "https://anilist.co/manga/202332",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202332-pWJdpDEKY8KP.jpg",
-      "description": "That woman is \"Yotaka.\" Once famous in the underworld as the strongest assassin, she is now a 33-year-old (and very unlucky) drug addict and alcoholic. She's enjoying her unemployed life in a rundown apartment. ♪ With her mind and body completely slack, Yotaka receives an invitation from her assassin friend, \"Kohai,\" to return to active duty...!!<br><br>\nWill she return to the battlefield once again?! Yotaka!!!<br><br>(Source: Kodansha, translated)",
+      "score": 108258.0,
+      "url": "https://anilist.co/manga/30026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
+      "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
+        "Adventure",
         "Comedy",
-        "Ecchi"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 67,
+        "average_score": 88,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
+      "source": "AniList",
+      "category": "manga",
+      "score": 37143.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 83,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

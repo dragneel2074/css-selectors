@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-20T01:02:49Z",
-  "date": "2026-08-20",
+  "generated_at_utc": "2026-08-21T01:06:31Z",
+  "date": "2026-08-21",
   "category": "romance",
   "item_count": 30,
   "errors": [
@@ -22,24 +22,6 @@
     }
   ],
   "items": [
-    {
-      "id": "goodnovel-book-The-Alpha-s-Unclaimed-Mate_31001165448",
-      "title": "The Alpha's Unclaimed Mate",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 13.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-s-Unclaimed-Mate_31001165448",
-      "image": "https://acf.goodnovel.com/book/202509/28269d86c0d19b2988e7b645f728612543beee5302c2ec3a6454eda18ce03127.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "When Laila got pregnant with the child of her adoptive brother Jason—the young Alpha of her pack—she thought she might finally have a reason to claim a place in his world. But when Jason returns home with his fated mate by his side, Laila learns that she was nothing in Jason’s eyes. Expelled with nothing but heartbreak and the tiny life growing inside her, Laila disappears into the human world, determined to protect her child in her own way.\r\nSix years later, Laila—now Vanessa Harper—is no longer the fragile, wolfless girl. She’s powerful, respected, and completely looks like a different person. She believed she could live her new life with her daughter Ava peacefully without seeing Jason ever again, until fate forces her back into Jason’s life. \r\nOld lies, pack politics, and the truth about her daughter all collide— and this time, Jason won’t let her walk away easily.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 11.0,
-      "velocity": 0.18181818181818182
-    },
     {
       "id": "dreame-1646404864",
       "title": "True Luna",
@@ -72,6 +54,24 @@
       ],
       "metadata": {
         "bid": 1231429376
+      },
+      "previous_score": 15.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "goodnovel-book-Beyond-the-Divorce_31000580640",
+      "title": "Beyond the Divorce",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/Beyond-the-Divorce_31000580640",
+      "image": "https://acf.goodnovel.com/book/202507/02a088081cd63121dbfff3724d951f182720bf8dbe8d67d8642a123187c09f67.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Most people often see marriage as a reincarnation for women. So, countless foolish women jump into one without a second thought. Many people see my husband as the perfect husband. He cared for me and loved me in every way. Yet, he still cheated on me right under my nose. Faced with the hypocrisy and ugliness behind his facade as a perfect husband, I've decided to serve him karma on a silver platter!",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
       },
       "previous_score": 15.0,
       "velocity": 0.0
@@ -455,65 +455,11 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "title": "A Woman Worth Billions, Dated the Wrong Brother",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 12.0,
-      "url": "https://www.goodnovel.com/book/A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "image": "https://acf.goodnovel.com/book/202602/02b7e58fa0658d0583d5c4d6f1516f5d2e2dcb11c055c03375339c3dfcb0121d.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Amber built an empire she was never allowed to claim.\r\nBrilliant, strategic, and fiercely loyal, Amber was the mind behind a billion-dollar real estate empire—the woman who identified undervalued properties, structured acquisitions, and designed expansion projects that reshaped skylines. But when betrayal strikes, she’s fired, humiliated, and discarded by the man she helped rise to the top.\r\nShe walks away with nothing but her intelligence, her dignity… and the projects that were always hers.\r\nWhat her ex-fiancé never expects is his powerful half-brother.\r\nA billionaire real estate magnate in his own right, controlled, private, and raising two adopted children on his own, he offers Amber something unexpected: a contractual marriage. No romance. No lies. Just mutual benefit. A public wife to stabilize his corporate image—and a strategic partner who understands the business better than anyone.\r\nAmber accepts.\r\nShe takes her real estate projects with her—developments she sourced, designed, and negotiated from the ground up—and brings them into her new husband’s company. Entire portfolios shift overnight. Investments follow her. For the first time, her name is on the contracts, her voice dominates boardrooms, and her success is undeniable.\r\nAs Amber rises, the real estate empire she once built in silence begins to crumble. Deals collapse without her leadership. Bad investments surface. And the company her ex-fiancé claimed as his own crashes spectacularly—while Amber thrives, wealthier and more powerful than ever.\r\nBut what begins as a business arrangement slowly becomes something far more dangerous.\r\nBecause power is intoxicating. Trust is fragile. And love was never part of the contract.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": 13.0,
-      "velocity": -0.07692307692307693
-    },
-    {
-      "id": "goodnovel-book-The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
-      "title": "The Unwanted Wife's Return (Ex-Husband Wants Me Back)",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
-      "image": "https://acf.goodnovel.com/book/202512/b5a07b6c9253fc5c06f64a13ed83c5e8aae2db0fa0b48c20a0fcdcca7769aafd.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Nineteen-year-old Hannah Jones has always been the unwanted daughter—overlooked, undervalued, and sacrificed for her family's sake. When her father's company faces bankruptcy, she's forced to marry billionaire Elijah Martinez in place of her spoiled younger sister, Janet.\r\n\r\nFramed by her own family as a jealous schemer, Hannah endures cold indifference from Elijah and cruelty from his family. Broken and alone, she finally escapes, leaving the country, her toxic family, and her loveless marriage behind.\r\n\r\n\r\n\r\nSeven years later, Hannah returns as a successful writer and designer with twin children and a fortune of her own. She's ready to divorce Elijah and close that painful chapter forever.\r\n\r\nBut Elijah, who spent years searching for her after uncovering the truth, refuses to let her go. He's determined to win the heart of the woman he once ignored even if she no longer needs him.\r\n\r\n\"You're still my wife, Hannah. You're not going anywhere.\"\r\n\r\n\"Your wife? I have more money than your entire family now, Elijah. I don't need you or your name anymore.\"",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Beyond-the-Divorce_31000580640",
-      "title": "Beyond the Divorce",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Beyond-the-Divorce_31000580640",
-      "image": "https://acf.goodnovel.com/book/202507/02a088081cd63121dbfff3724d951f182720bf8dbe8d67d8642a123187c09f67.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Most people often see marriage as a reincarnation for women. So, countless foolish women jump into one without a second thought. Many people see my husband as the perfect husband. He cared for me and loved me in every way. Yet, he still cheated on me right under my nose. Faced with the hypocrisy and ugliness behind his facade as a perfect husband, I've decided to serve him karma on a silver platter!",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "goodnovel-book-Reclaimed-by-My-Alpha_31001020267",
       "title": "Reclaimed by My Alpha",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 14.0,
+      "score": 11.0,
       "url": "https://www.goodnovel.com/book/Reclaimed-by-My-Alpha_31001020267",
       "image": "https://acf.goodnovel.com/book/202606/0812c9dda57558534540644e25f9b8237a5541b39e47856c33c9db66cb9083a6.jpg?v=1&p=1&w=1080&a=webp",
       "description": "Natalia and Andrei’s marriage was originally a three-year contract. With only 30 days left until the contract ends, Natalia discovered that she’s pregnant. \nJust when she thought Andrei would reconsider divorcing her because of this, his deceased first mate, Lilith, returned. Feeling hopeless, Natalia decided to initiate the divorce. \nHowever, at their engagement party, Andrei received the news of Natalia’s car accident, along with the shocking discovery of her pregnancy test results...",
@@ -523,18 +469,18 @@
       "metadata": {
         "ranking_page": "https://www.goodnovel.com/"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 14.0,
+      "velocity": -0.21428571428571427
     },
     {
-      "id": "goodnovel-book-Billionaire-s-Match_31001148338",
-      "title": "Billionaire's Match",
+      "id": "goodnovel-book-Too-Late-Alpha-The-Mate-He-Never-Wanted_31001277556",
+      "title": "Too Late, Alpha: The Mate He Never Wanted",
       "source": "GoodNovel",
       "category": "romance",
-      "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Billionaire-s-Match_31001148338",
-      "image": "https://acf.goodnovel.com/book/202512/483b3bc53d3d95d1d1dc8e8dc6346c35c2b245d28a13e1e7ee37fc4f31838ff2.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "After two years of marriage, Khloe Roswell went to reissue her marriage certificate—and discovered the document she'd cherished was a forgery.\n\nDetermined to confront her husband, Trey Fox, she instead overheard the devastating truth: the man who had tenderly cared for her for six years had, in fact, been married for five—to their university’s advisor, who was six years older than him.\n\nShe wasn't just his cover; he had branded her barren and forced her to raise his child with another woman.\n\nDisgusted, Khloe called the lawyer about her inheritance. Her declaration was simple and left no room for doubt. \"I am unmarried. I have no children. The assets are mine, and mine alone.\"\n\nWith that, she walked away without a backward glance. Trey, smug and convinced she had nowhere to go, waited for her to come crawling back.\n\nHe never imagined the day he'd see Khloe again in a marriage alliance broadcast to the nation. Now, she stood in the spotlight, commanding unimaginable wealth, side-by-side with a man at the pinnacle of power—basking in the world's envy.",
+      "score": 16.0,
+      "url": "https://www.goodnovel.com/book/Too-Late-Alpha-The-Mate-He-Never-Wanted_31001277556",
+      "image": "https://acf.goodnovel.com/book/202506/b620f7ae06b0488b1833c384005b7a668efd465e483a068eb0a7b1564ca2017f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "He rejected his mate. He ignored their daughter. And by the time he learned the truth, it was too late.\r\n\r\nIris was the mate Alpha Eric never wanted. For years, she raised their daughter, Evie, alone, while Eric poured all his love into his ex, Zara, and her child.\r\nEvie died without ever feeling her father’s love.\r\nAnd Iris? She finally walked away.\r\nBut after her disappearance, Eric uncovers the painful truth he never saw coming: Iris was his true mate all along… and he was the one who destroyed everything.\r\nNow, another Alpha holds her heart.\r\n\r\nCan Eric win back the family he abandoned, or has he already lost everything that mattered?",
       "genres": [
         "Romance"
       ],
@@ -545,14 +491,68 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Alpha-s-Second-Chance_31000715956",
-      "title": "Alpha's Second Chance",
+      "id": "goodnovel-book-My-Second-Chance-Mate-is-a-Barbarian_31001286107",
+      "title": "My Second Chance Mate is a Barbarian",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/My-Second-Chance-Mate-is-a-Barbarian_31001286107",
+      "image": "https://acf.goodnovel.com/book/202606/947f7849bbf86cb5c12a06648d52a18972394bb1883a87acbb6ba6b01bb457ed.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "For three years, Sera lived a lie. She traded her royal identity for the hope of a life with Kane, her fated mate and the Alpha of Blackwater. She endured the whispers and worked tirelessly for a pack that never wanted her, all for the promise that one day, she would be their Luna.\r\n\r\nBut when the ceremony finally arrives, the crown isn't placed on Sera’s head. Instead, Kane chooses a woman who can give the pack what an Omega like Sera cannot: an heir . Publicly rejected and humiliated, Sera is forced to return to the kingdom she fled and the father she failed .\r\n\r\nSera’s return isn't a sanctuary—it’s the fulfillment of a cold-blooded deal. To save her family’s alliance, she must marry a Volkov . But the \"reasonable\" man she was promised is dead, and in his place stands his brother: Fenris Volkov, the Alpha of Ironmaw.\r\n\r\nFenris is no southern prince. He is a giant of a man who rules a land of ice and brutal survival, where weakness is a death sentence . As Sera is dragged into his world, she must survive more than just the political schemes of a hostile pack and the jealous wrath of the Ironmaw elite . She has five days to prove she can be the Luna this barbarian needs, or she will be broken by the very protection he offers .\r\n\r\nIn a world where status is everything and love is a gamble, Sera must decide if her second chance is a blessing, or a beautiful, violent end.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "title": "Seducing My Ex's Father In Law",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 13.0,
+      "url": "https://www.goodnovel.com/book/Seducing-My-Ex-s-Father-In-Law_31000825294",
+      "image": "https://acf.goodnovel.com/book/202409/d6033d607d3ece71d9e6744824c3ec4bc7d3adad788298c39183af28c6211c5f.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Judy’s fated mate rejected her to marry the Lycan Chairman - Gavin’s daughter. As if that wasn’t bad enough, he ruined her family and tried to make her his secret mistress! \r\nJudy’s response? “I’d rather sleep with your father-in-law than ever be with you!”\r\nGavin is known for his power, wealth, and being the ultimate playboy who never sleeps with the same woman twice. \r\nBut Judy’s about to break all his rules… again and again.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
+      "title": "Once a Doormat, Now Untouchable",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 12.0,
+      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
+      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "goodnovel-book-Her-Destined-Alpha_31000204003",
+      "title": "Her Destined Alpha",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/Alpha-s-Second-Chance_31000715956",
-      "image": "https://acf.goodnovel.com/book/202529/141c8653b9cb549ac72fa248d218946cdde6aae7fa0366fecc9c2cb28a318861.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Alpha's Second Chance is a Werewolf novel written by Salani that covers Second Chance, Betrayal, Rogue. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/Her-Destined-Alpha_31000204003",
+      "image": "https://acf.goodnovel.com/book/202206/e551d07c286e1d7989204bb5b2a9d2452685e8684be20221337e9968a0a13294.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Her Destined Alpha is a Werewolf novel written by Moonlight Muse that covers Hidden Identity, Forbidden Love, Mystery. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
