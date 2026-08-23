@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-22T01:03:00Z",
-  "date": "2026-08-22",
+  "generated_at_utc": "2026-08-23T01:07:32Z",
+  "date": "2026-08-23",
   "category": "manhua",
   "item_count": 2,
   "errors": [
@@ -27,7 +27,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 27024.0,
+      "score": 27039.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -40,25 +40,25 @@
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": 27003.0,
-      "velocity": 0.0007776913676258194
+      "previous_score": 27024.0,
+      "velocity": 0.0005550621669626998
     },
     {
-      "id": "anilist-manga-154258",
-      "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
+      "id": "anilist-manga-160980",
+      "title": "Log Into The Future",
       "source": "AniList",
       "category": "manhua",
-      "score": 10160.0,
-      "url": "https://anilist.co/manga/154258",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg",
-      "description": "Reborn into a world of immortal cultivation, Han Jue found himself blessed with the Gacha System, able to re-roll for stats in cultivation and luck. To stay out of trouble, Han Jue cultivated on his own, and kept quiet about his special abilities. But when his sect faced destruction, he stepped up to defend it. A thousand years later, after many generations of cultivation, the immortals were planning to cleanse the mortal realm, and Han Jue was finally forced to act. That was when he discovered that even gods and immortals were not as powerful as he had imagined…\n<BR><BR>\n(Source: Tencent, translated)",
+      "score": 14643.0,
+      "url": "https://anilist.co/manga/160980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg",
+      "description": "300 years after mutated beasts ravaged the world, humanity began to lose ground, with only martial arts as their last line of defense. Lu Sheng mysteriously gains the power to journey 10,000 years into the future, only to find humanity has disappeared. However, he acquires the culminated martial arts wisdom to fight back against these monsters, honing his skills to the pinnacle. Armed with this new-found knowledge, can Lu Sheng emerge as the final beacon of hope for humanity's survival?\n<BR><BR>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
-        "Comedy",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 71,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
