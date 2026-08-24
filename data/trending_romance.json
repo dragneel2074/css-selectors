@@ -1,9 +1,17 @@
 {
-  "generated_at_utc": "2026-08-23T01:07:32Z",
-  "date": "2026-08-23",
+  "generated_at_utc": "2026-08-24T01:05:41Z",
+  "date": "2026-08-24",
   "category": "romance",
   "item_count": 30,
   "errors": [
+    {
+      "provider": "anilist_trending_anime",
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
+    },
+    {
+      "provider": "anilist_trending_manga",
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
+    },
     {
       "provider": "jikan_season_now",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
@@ -22,6 +30,42 @@
     }
   ],
   "items": [
+    {
+      "id": "goodnovel-book-FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
+      "title": "FORBIDDEN: HIS PLUS SIZE OBSESSION",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 15.0,
+      "url": "https://www.goodnovel.com/book/FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
+      "image": "https://acf.goodnovel.com/book/202607/0b8be4382ad5f2dcc36ed92fd4a11e0e6bc2cf842df9da1280cd6ade6677be83.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "“Look at you, Lena. You’ve let yourself go!\nI can’t even get hard seeing you naked anymore. \nI am a man with needs! What do you expect? That I fuck the wall?!”\r\n\r\n---\r\n\r\nLena's marriage was once a fairytale…\r\nUntil she became the part he no longer wanted.\r\n\r\nLena gave her husband everything—her love, her loyalty, her body. But when her weight began to change, so did the man who once loved her and called her beautiful.\r\n\r\nSoon, she became a woman begging for scraps of affection from a man who could barely stand the sight of her.\r\n\r\nStill… she stayed.\r\nStill… she believed she could earn his love back.\r\n\r\nUntil the past came knocking.\r\n\r\n“You said yes. That means you’re mine, Lena\".\r\n\r\nShe laughed it off at first—because how could she take him seriously?\r\n\r\nIt was a childish promise years ago.\r\nBesides she's a married woman now. It's forbidden!\r\n\r\nBut he isn’t joking.\r\nAnd unlike her husband…\r\nHe looks at her like she’s everything.\r\n\r\nDangerously obsessed.\r\nUnapologetically possessive.\r\nCompletely unwilling to let her go.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 11.0,
+      "velocity": 0.36363636363636365
+    },
+    {
+      "id": "goodnovel-book-The-Rejected-True-Heiress_31001032435",
+      "title": "The Rejected True Heiress",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/The-Rejected-True-Heiress_31001032435",
+      "image": "https://acf.goodnovel.com/book/202505/c311029bd8a663d6a8a0927ed33673a42da1dff4f004c7daf370c94b82ea4f4a.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "She is the only female Alpha in the world, the princess of the Royal Pack. To protect her, her father insisted on homeschooling her. She longed to go to school, but her father demanded she hide her Alpha powers. So, she pretended to be a wolfless— Until she met her destined mate. But he turned out to be the heir of the largest pack, and he rejected her?! “A worthless thing with no wolf, how dare she be my mate?” — He publicly rejected her and chose another fake. Until the homecoming... Her Royal Alpha King father appeared: “Who made my daughter cry?” The once proud heir knelt before her, his voice trembling: “I’m sorry… please come back.” She chuckled and raised her gaze: “Now you know to kneel?”",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 12.0,
+      "velocity": 0.16666666666666666
+    },
     {
       "id": "dreame-1646404864",
       "title": "True Luna",
@@ -437,14 +481,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-His-Plump-Mate_31001222962",
-      "title": "His Plump Mate",
+      "id": "goodnovel-book-Meet-My-Brothers_31000648022",
+      "title": "Meet My Brothers",
       "source": "GoodNovel",
       "category": "romance",
       "score": 16.0,
-      "url": "https://www.goodnovel.com/book/His-Plump-Mate_31001222962",
-      "image": "https://acf.goodnovel.com/book/202511/1f46a28711a8c933c5db6bdeb2f147a343bbb579207d302aa5a1e5d714ed7fed.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“Let’s get this over with, I have things to do. Just so you understand, I need a strong and BEAUTIFUL Luna by my side. I, Alpha Cullen Niles, of the Ironclaw Pack, reject you, Rebel Lawson, as my mate and Luna.”  \r\n\r\nInstantly, my chest feels like it is ripped open and gutted. The pain is the worst I’ve ever felt. But I refuse to show pain in front of Alpha Cullen. I stay rigid and force my face not to react. Roxie is howling in desperation, because she wants her mate and he just rejected us, causing her immense pain too. The sooner I accept, the sooner we can move on. “I, Rebel Lawson, accept your rejection.” It was like a final death blow. I see Alpha Cullen grab his chest, taking deep breaths. Then after a couple of minutes he stood straight up. I still haven’t moved. Bearing all the pain until Roxie and I can be alone. “You will not mention this to anyone, do you understand?” As much pain as I was in, I couldn’t muster up the strength to say yes, so I just nodded. “Good, I can’t have people knowing I was mated to such a she-wolf.” With that, he turned and walked away.  \r\n\r\nI turned and went back to the lake, sat down next to my guitar and then the barriers crumbled. I held on to my chest and cried for hours. Roxie feeling weak from the rejection, retreated to the back of my mind. She was still talking to me, but it was much quieter. I felt so incredibly alone. Fated mates were supposed to love each other, no matter what. He was supposed to protect, cherish and love me. However, I never felt more unwanted and alone.",
+      "url": "https://www.goodnovel.com/book/Meet-My-Brothers_31000648022",
+      "image": "https://acf.goodnovel.com/book/202503/0a55c37f90dc2b4dd0e105dbd5a1dac00e3f46286b3ba47a43cd1a419db17897.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Mia Bowen accidentally marries the heir to an affluent family. On the day that she finds out she's pregnant, he gives her a divorce agreement.The fake heiress takes over Mia's marital home, and her mother-in-law is disdainful of her for being poor and powerless.Then, six handsome and wealthy men descend from the heavens.The first is a real estate mogul who's determined to give her a hundred villas.The second is a scientist who researches artificial intelligence, and he gives her a limited-edition driverless car.The third is a renowned surgeon whose hands are the tools of his trade. He cooks for her daily.The fourth is a talented pianist who plays for her every day.The fifth is a well-known lawyer who takes the initiative to get rid of all her anti-fans.The sixth is an award-winning actor who publicly announces that she's the love of his life.The fake heiress boasts, \"These guys are my brothers and cousins.\"The six men refute her in unison, announcing, \"No, Mia is the true heiress of our family.\"Mia goes on to have a great life with her baby as she enjoys the boundless affection and doting of her six brothers and cousins.Yet a certain man gets anxious because of this. \"Mia, how about we remarry?\"She smirks. \"You should ask my brothers and cousins whether they agree.\"Four more gorgeous men descend from the heavens. \"No, there are ten of us!\"",
       "genres": [
         "Romance"
       ],
@@ -455,50 +499,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Billionaire-s-Match_31001148338",
-      "title": "Billionaire's Match",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 15.0,
-      "url": "https://www.goodnovel.com/book/Billionaire-s-Match_31001148338",
-      "image": "https://acf.goodnovel.com/book/202512/483b3bc53d3d95d1d1dc8e8dc6346c35c2b245d28a13e1e7ee37fc4f31838ff2.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "After two years of marriage, Khloe Roswell went to reissue her marriage certificate—and discovered the document she'd cherished was a forgery.\n\nDetermined to confront her husband, Trey Fox, she instead overheard the devastating truth: the man who had tenderly cared for her for six years had, in fact, been married for five—to their university’s advisor, who was six years older than him.\n\nShe wasn't just his cover; he had branded her barren and forced her to raise his child with another woman.\n\nDisgusted, Khloe called the lawyer about her inheritance. Her declaration was simple and left no room for doubt. \"I am unmarried. I have no children. The assets are mine, and mine alone.\"\n\nWith that, she walked away without a backward glance. Trey, smug and convinced she had nowhere to go, waited for her to come crawling back.\n\nHe never imagined the day he'd see Khloe again in a marriage alliance broadcast to the nation. Now, she stood in the spotlight, commanding unimaginable wealth, side-by-side with a man at the pinnacle of power—basking in the world's envy.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "title": "A Woman Worth Billions, Dated the Wrong Brother",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 14.0,
-      "url": "https://www.goodnovel.com/book/A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-      "image": "https://acf.goodnovel.com/book/202602/02b7e58fa0658d0583d5c4d6f1516f5d2e2dcb11c055c03375339c3dfcb0121d.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Amber built an empire she was never allowed to claim.\r\nBrilliant, strategic, and fiercely loyal, Amber was the mind behind a billion-dollar real estate empire—the woman who identified undervalued properties, structured acquisitions, and designed expansion projects that reshaped skylines. But when betrayal strikes, she’s fired, humiliated, and discarded by the man she helped rise to the top.\r\nShe walks away with nothing but her intelligence, her dignity… and the projects that were always hers.\r\nWhat her ex-fiancé never expects is his powerful half-brother.\r\nA billionaire real estate magnate in his own right, controlled, private, and raising two adopted children on his own, he offers Amber something unexpected: a contractual marriage. No romance. No lies. Just mutual benefit. A public wife to stabilize his corporate image—and a strategic partner who understands the business better than anyone.\r\nAmber accepts.\r\nShe takes her real estate projects with her—developments she sourced, designed, and negotiated from the ground up—and brings them into her new husband’s company. Entire portfolios shift overnight. Investments follow her. For the first time, her name is on the contracts, her voice dominates boardrooms, and her success is undeniable.\r\nAs Amber rises, the real estate empire she once built in silence begins to crumble. Deals collapse without her leadership. Bad investments surface. And the company her ex-fiancé claimed as his own crashes spectacularly—while Amber thrives, wealthier and more powerful than ever.\r\nBut what begins as a business arrangement slowly becomes something far more dangerous.\r\nBecause power is intoxicating. Trust is fragile. And love was never part of the contract.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Too-Late-To-Love-Me-I-Already-Left-With-His-Twins_31001338879",
-      "title": "Too Late To Love Me: I Already Left With His Twins",
+      "id": "goodnovel-book-Shifted-Fate_31000816846",
+      "title": "Shifted Fate",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Too-Late-To-Love-Me-I-Already-Left-With-His-Twins_31001338879",
-      "image": "https://acf.goodnovel.com/book/202603/f040eed288869347ab8dacd4376c029616ecd8ab10a9f954f849097aeb80a71e.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Five years ago, I left my husband a note. Three sentences. A returned bracelet. A door closing softly at 4am.\r\n\r\nHe told me to get rid of our baby. I got rid of him instead.\r\nNow he’s sitting across my boardroom table in the city I built for myself, looking for the woman he married.\r\n\r\nShe’s gone.\r\nWhat’s left is stronger.",
+      "url": "https://www.goodnovel.com/book/Shifted-Fate_31000816846",
+      "image": "https://acf.goodnovel.com/book/202440/70ba4b4fa11d6907ddeedb48eed6d276d8fc7d6bfb57d1d1e43f433a96665b0a.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Amy was the luna of her pack, growing a pup in her stomach when the alpha betrayed her and took her life, and that of her pup. When she woke up six years earlier she decided to change everything. Revenge would be something she focused on.",
       "genres": [
         "Romance"
       ],
@@ -509,14 +517,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Rejected-True-Heiress_31001032435",
-      "title": "The Rejected True Heiress",
+      "id": "goodnovel-book-Once-a-Doormat-Now-Untouchable_31001082710",
+      "title": "Once a Doormat, Now Untouchable",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/The-Rejected-True-Heiress_31001032435",
-      "image": "https://acf.goodnovel.com/book/202505/c311029bd8a663d6a8a0927ed33673a42da1dff4f004c7daf370c94b82ea4f4a.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "She is the only female Alpha in the world, the princess of the Royal Pack. To protect her, her father insisted on homeschooling her. She longed to go to school, but her father demanded she hide her Alpha powers. So, she pretended to be a wolfless— Until she met her destined mate. But he turned out to be the heir of the largest pack, and he rejected her?! “A worthless thing with no wolf, how dare she be my mate?” — He publicly rejected her and chose another fake. Until the homecoming... Her Royal Alpha King father appeared: “Who made my daughter cry?” The once proud heir knelt before her, his voice trembling: “I’m sorry… please come back.” She chuckled and raised her gaze: “Now you know to kneel?”",
+      "url": "https://www.goodnovel.com/book/Once-a-Doormat-Now-Untouchable_31001082710",
+      "image": "https://acf.goodnovel.com/book/202510/a502e1638708ce908ddec7d4bb8383b442ed50efa99638db63fe56e7ceccf9a9.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Three years into her marriage to Caleb Hampton, Sydney Wilson finally learned the truth: the woman he loved was his sister-in-law.\nOn the night his brother died, Sydney saw Caleb's true nature. At the funeral, she did not even flinch when Caleb took a slap meant for his sister-in-law.\nShe always knew he had married her because she was quiet, obedient, and easy to control. She proved it, even in the way she left him.\nNo dramatic fights. No tearful confrontations. Just a divorce quietly signed, sealed, and hidden.\nWhat Caleb didn't know was that they were already divorced. Sydney had stopped being quiet and was already seeing someone else.\nThe day Sydney's breakthrough cancer drug took the world by storm, she received accolades and glory.\nEveryone cheered—except Caleb, who dropped to one knee, his eyes bloodshot with desperation, begging for a second chance.\nBut a possessive arm wrapped around Sydney's waist, declaring to the world, \"Sorry, but she's getting married. To me.\"",
       "genres": [
         "Romance"
       ],
@@ -527,14 +535,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
-      "title": "FORBIDDEN: HIS PLUS SIZE OBSESSION",
+      "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+      "title": "Game Over, Mr. CEO: Your Wife Is Done",
       "source": "GoodNovel",
       "category": "romance",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/FORBIDDEN-HIS-PLUS-SIZE-OBSESSION_31001354847",
-      "image": "https://acf.goodnovel.com/book/202607/0b8be4382ad5f2dcc36ed92fd4a11e0e6bc2cf842df9da1280cd6ade6677be83.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“Look at you, Lena. You’ve let yourself go!\nI can’t even get hard seeing you naked anymore. \nI am a man with needs! What do you expect? That I fuck the wall?!”\r\n\r\n---\r\n\r\nLena's marriage was once a fairytale…\r\nUntil she became the part he no longer wanted.\r\n\r\nLena gave her husband everything—her love, her loyalty, her body. But when her weight began to change, so did the man who once loved her and called her beautiful.\r\n\r\nSoon, she became a woman begging for scraps of affection from a man who could barely stand the sight of her.\r\n\r\nStill… she stayed.\r\nStill… she believed she could earn his love back.\r\n\r\nUntil the past came knocking.\r\n\r\n“You said yes. That means you’re mine, Lena\".\r\n\r\nShe laughed it off at first—because how could she take him seriously?\r\n\r\nIt was a childish promise years ago.\r\nBesides she's a married woman now. It's forbidden!\r\n\r\nBut he isn’t joking.\r\nAnd unlike her husband…\r\nHe looks at her like she’s everything.\r\n\r\nDangerously obsessed.\r\nUnapologetically possessive.\r\nCompletely unwilling to let her go.",
+      "url": "https://www.goodnovel.com/book/Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+      "image": "https://acf.goodnovel.com/book/202603/bb8dfcd762cca3e1026220eb5baf5ed2f1849c1f7feb24cce7841362df18c2d1.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Like many women who refuse to give up until they hit a dead end, Winter Scott once tried to make a man like Chris Xander fall in love with her.\n\nBut after three years of marriage, they were nothing more than strangers.\n\nWhen she was brutally attacked and her life was hanging by a thread, Chris wasn’t with her. He was by the side of his former love.\n\nWinter forced herself to let go. Yet the powerful man she thought she had left behind refused to disappear from her life.\n\nStep by step, he closed in on her, cutting off any chance of a new romance in her life and blocking every path of retreat.\n\n“You’re the one who insisted on marrying me back then,” he said coldly. “As long as I don’t agree to a divorce, you’ll never be free of me.”\n\nWinter looked at him coldly. “Sorry, Mr. Xander. Game over. This marriage ends when I say it ends.”",
       "genres": [
         "Romance"
       ],
@@ -545,14 +553,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-THROUGH-THE-EYES-OF-MY-ALPHA_31000280620",
-      "title": "THROUGH THE EYES OF MY ALPHA",
+      "id": "goodnovel-book-Triplet-Alphas-Gifted-Luna_31000656761",
+      "title": "Triplet Alphas Gifted Luna",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/THROUGH-THE-EYES-OF-MY-ALPHA_31000280620",
-      "image": "https://acf.goodnovel.com/book/202210/THROUGH-THE-EYES-OF-MY-ALPHA/611e792373f4a54a2392e4e0ca7c91059e6ac6bf3b660cf858a230d1b6ae1efe.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "THROUGH THE EYES OF MY ALPHA is a Werewolf novel written by Cassandra M that covers Betrayal, Adventurous, Alpha. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/Triplet-Alphas-Gifted-Luna_31000656761",
+      "image": "https://acf.goodnovel.com/book/202312/Triplet-Alphas-Gifted-Luna/d3eddea16adf8b6ec56056b63971c732af993df476a1ffbf5dd6c8586f2b6ac5.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Triplet Alphas Gifted Luna is a Werewolf novel written by Samantha Doyle that covers Contemporary, Reverse Harem, Girl Power. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],
