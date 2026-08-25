@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-23T01:07:32Z",
-  "date": "2026-08-23",
+  "generated_at_utc": "2026-08-25T01:04:45Z",
+  "date": "2026-08-25",
   "category": "manga",
-  "item_count": 2,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 231212.0,
+      "score": 231424.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,28 +42,94 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 231212.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-106064",
-      "title": "Chained Soldier",
+      "id": "anilist-manga-132029",
+      "title": "Dandadan",
       "source": "AniList",
       "category": "manga",
-      "score": 54203.0,
-      "url": "https://anilist.co/manga/106064",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
-      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
+      "score": 115450.0,
+      "url": "https://anilist.co/manga/132029",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg",
+      "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
       "genres": [
         "Action",
-        "Adventure",
+        "Comedy",
         "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-169355",
+      "title": "Kagurabachi",
+      "source": "AniList",
+      "category": "manga",
+      "score": 68991.0,
+      "url": "https://anilist.co/manga/169355",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png",
+      "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.\n<br><br>(Source: MANGA Plus)\n<br><br>\n<i>Note:<br>\n- Winner of the Tsugimanga 2024 Award in the Print Manga Category. <br>\n- Winner of the 4th Magademy Commitment Award. <br>\n- Nominee of the 70th Shogakukan Award. </i>",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-101315",
+      "title": "Anjo the Mischievous Gal",
+      "source": "AniList",
+      "category": "manga",
+      "score": 29455.0,
+      "url": "https://anilist.co/manga/101315",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101315-8qNFN4mJRYO2.jpg",
+      "description": "Seto, a studious but unremarkable student, constantly finds himself in provocative situations with Anjo, the popular girl in his class who can't seem to stop teasing him. A heart-pounding teen rom-com bursting with youthful passion!\n<br><br>\n(Source: Emaqi)\n<br><br>\n<i>Note: This is a serialisation of the web comic originally self-published on Pixiv.</i>",
+      "genres": [
+        "Comedy",
         "Ecchi",
-        "Fantasy",
-        "Romance"
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
         "average_score": 74,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-152913",
+      "title": "Anta to Osananajimitte dake demo Iyananoni!: Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu",
+      "source": "AniList",
+      "category": "manga",
+      "score": 8110.0,
+      "url": "https://anilist.co/manga/152913",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152913-5EzfZeXchiSO.jpg",
+      "description": "Kazuma Suzuki was just your average high schooler—until his childhood friend, Rua Takayashiki, a beautiful, sharp-tongued girl who also happened to be the granddaughter of the school chairman and the nation’s top idol, cut all ties with him using a line straight out of a drama.\n<br><br>\nForced into submission for years as her so-called childhood friend, Kazuma decides it’s finally time for his first-ever rebellion. He’s done playing lapdog. This time, he’s taking back his freedom—and aiming for a normal school life.\n<br><br>\nEscaping a powerful beauty like her is easier said than done...\n<br><br>\n(Source: Square Enix)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 66,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

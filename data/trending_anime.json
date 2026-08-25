@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-23T01:07:32Z",
-  "date": "2026-08-23",
+  "generated_at_utc": "2026-08-25T01:04:45Z",
+  "date": "2026-08-25",
   "category": "anime",
   "item_count": 15,
   "errors": [
@@ -23,116 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-anime-199748",
-      "title": "I Became a Legend After My 10 Year-Long Last Stand",
-      "source": "AniList",
-      "category": "anime",
-      "score": 36277.0,
-      "url": "https://anilist.co/anime/199748",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-      "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>\n(Source: Crunchyroll)\n<br><br>\n\n<i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i>",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 63
-      },
-      "previous_score": 35842.0,
-      "velocity": 0.012136599520116064
-    },
-    {
-      "id": "anilist-anime-209983",
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "source": "AniList",
-      "category": "anime",
-      "score": 35182.0,
-      "url": "https://anilist.co/anime/209983",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-      "description": "The second season of <i>Hell Mode</i>.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 72
-      },
-      "previous_score": 34809.0,
-      "velocity": 0.010715619523686402
-    },
-    {
-      "id": "anilist-anime-196187",
-      "title": "Smoking Behind the Supermarket with You",
-      "source": "AniList",
-      "category": "anime",
-      "score": 109413.0,
-      "url": "https://anilist.co/anime/196187",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-      "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 10th, 2026.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 82
-      },
-      "previous_score": 108828.0,
-      "velocity": 0.005375454846179292
-    },
-    {
-      "id": "anilist-anime-182205",
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 128391.0,
-      "url": "https://anilist.co/anime/182205",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-      "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 83
-      },
-      "previous_score": 127927.0,
-      "velocity": 0.0036270685625395733
-    },
-    {
-      "id": "anilist-anime-189046",
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 132266.0,
-      "url": "https://anilist.co/anime/189046",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-      "description": "The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br>\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br>\n\n(Source: Crunchyroll News)\n\n<br><br>\n<i>Note: Lucca Comics & Games pre-screened episode 1 early on November 1, 2025, prior to the Japanese television broadcast on July 8th, 2026.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Psychological",
-        "Romance",
-        "Thriller"
-      ],
-      "metadata": {
-        "average_score": 90
-      },
-      "previous_score": 131943.0,
-      "velocity": 0.002448026799451278
-    },
-    {
       "id": "anilist-anime-21",
       "title": "ONE PIECE",
       "source": "AniList",
       "category": "anime",
-      "score": 743285.0,
+      "score": 744383.0,
       "url": "https://anilist.co/anime/21",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
       "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
@@ -146,15 +41,15 @@
       "metadata": {
         "average_score": 87
       },
-      "previous_score": 743285.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "anilist-anime-269",
       "title": "Bleach",
       "source": "AniList",
       "category": "anime",
-      "score": 513541.0,
+      "score": 514702.0,
       "url": "https://anilist.co/anime/269",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
       "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
@@ -166,15 +61,36 @@
       "metadata": {
         "average_score": 79
       },
-      "previous_score": 513541.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-178789",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 147093.0,
+      "url": "https://anilist.co/anime/178789",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+      "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 84
+      },
+      "previous_score": null,
+      "velocity": null
     },
     {
       "id": "anilist-anime-195600",
       "title": "Daemons of the Shadow Realm",
       "source": "AniList",
       "category": "anime",
-      "score": 129487.0,
+      "score": 130245.0,
       "url": "https://anilist.co/anime/195600",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
       "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
@@ -192,11 +108,32 @@
       "velocity": null
     },
     {
+      "id": "anilist-anime-182205",
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "source": "AniList",
+      "category": "anime",
+      "score": 129093.0,
+      "url": "https://anilist.co/anime/182205",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+      "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 83
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
       "id": "anilist-anime-185874",
       "title": "BLEACH: Thousand-Year Blood War - The Calamity",
       "source": "AniList",
       "category": "anime",
-      "score": 75258.0,
+      "score": 77561.0,
       "url": "https://anilist.co/anime/185874",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
       "description": "The fourth and final part of <i>BLEACH: Sennen Kessen-hen</i>. <br><br>\n\nDestruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms. \n<br><br>\nFierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n<br><br>\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?<br><br>\n\n(Source: VIZ Media, edited)",
@@ -206,45 +143,25 @@
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 88
+        "average_score": 89
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-187538",
-      "title": "BLACK TORCH",
+      "id": "anilist-anime-210031",
+      "title": "You and I Are Polar Opposites Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 61556.0,
-      "url": "https://anilist.co/anime/187538",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-      "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
+      "score": 54396.0,
+      "url": "https://anilist.co/anime/210031",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+      "description": "The second season of <i>Seihantai na Kimi to Boku</i>.",
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 71
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-190569",
-      "title": "Jaadugar: A Witch in Mongolia",
-      "source": "AniList",
-      "category": "anime",
-      "score": 38766.0,
-      "url": "https://anilist.co/anime/190569",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-      "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>\n(Source: Crunchyroll)",
-      "genres": [
-        "Adventure",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
         "average_score": 82
@@ -253,14 +170,93 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-201514",
-      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "id": "anilist-anime-185542",
+      "title": "Skeleton Knight in Another World Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 38262.0,
-      "url": "https://anilist.co/anime/201514",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-      "description": "Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…\n<br><br>\n(Source: Crunchyroll)",
+      "score": 45517.0,
+      "url": "https://anilist.co/anime/185542",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+      "description": "The second season of <i>Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu</i>.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 66
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-197754",
+      "title": "LIAR GAME",
+      "source": "AniList",
+      "category": "anime",
+      "score": 41398.0,
+      "url": "https://anilist.co/anime/197754",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+      "description": "Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of \"a foolishly honest girl\". This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "metadata": {
+        "average_score": 61
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-202269",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "source": "AniList",
+      "category": "anime",
+      "score": 39555.0,
+      "url": "https://anilist.co/anime/202269",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
+      "description": "Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 79
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-199111",
+      "title": "Grand Blue Dreaming Season 3",
+      "source": "AniList",
+      "category": "anime",
+      "score": 38324.0,
+      "url": "https://anilist.co/anime/199111",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
+      "description": "The third season of <i>Grand Blue</i>.",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Sports"
+      ],
+      "metadata": {
+        "average_score": 82
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-169583",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "source": "AniList",
+      "category": "anime",
+      "score": 36087.0,
+      "url": "https://anilist.co/anime/169583",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+      "description": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.\n<br><br>\n(Source: Crunchyroll)",
       "genres": [
         "Comedy",
         "Romance"
@@ -272,58 +268,58 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-171110",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "id": "anilist-anime-188139",
+      "title": "Though I Am an Inept Villainess",
       "source": "AniList",
       "category": "anime",
-      "score": 37506.0,
-      "url": "https://anilist.co/anime/171110",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-      "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club)",
+      "score": 35144.0,
+      "url": "https://anilist.co/anime/188139",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+      "description": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)",
       "genres": [
         "Drama",
-        "Fantasy",
-        "Slice of Life"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 76
+        "average_score": 77
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-199066",
-      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "id": "anilist-anime-169582",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
       "source": "AniList",
       "category": "anime",
-      "score": 21514.0,
-      "url": "https://anilist.co/anime/199066",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-      "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>\n(Source: Crunchyroll)",
+      "score": 22752.0,
+      "url": "https://anilist.co/anime/169582",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png",
+      "description": "To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.\n<br><br>\n(Source: Crunchyroll)",
       "genres": [
+        "Action",
         "Comedy",
-        "Romance",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 68
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-anime-194219",
-      "title": "The Ogre's Bride",
-      "source": "AniList",
-      "category": "anime",
-      "score": 19166.0,
-      "url": "https://anilist.co/anime/194219",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
-      "description": "A Japanese-style ayakashi Cinderella story! <i>\"You're the bride I've been searching for all this time.\"</i> The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! <i>\"Just be quiet and let me hold you.\"</i> The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!<br><br>\n(Source: MangaPlaza)",
-      "genres": [
         "Drama",
         "Fantasy",
         "Romance"
+      ],
+      "metadata": {
+        "average_score": 59
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-anime-199408",
+      "title": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "source": "AniList",
+      "category": "anime",
+      "score": 20400.0,
+      "url": "https://anilist.co/anime/199408",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "description": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)",
+      "genres": [
+        "Drama",
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 68

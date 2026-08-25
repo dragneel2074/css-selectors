@@ -1,17 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24T01:05:41Z",
-  "date": "2026-08-24",
+  "generated_at_utc": "2026-08-25T01:04:45Z",
+  "date": "2026-08-25",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
-    {
-      "provider": "anilist_trending_anime",
-      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
-    },
-    {
-      "provider": "anilist_trending_manga",
-      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
-    },
     {
       "provider": "jikan_season_now",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
@@ -31,58 +23,22 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
-      "title": "Beast Taming: I'm Really Not a Cultivation Master",
+      "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
+      "title": "Immortal Ascension Through Marriage: Investing in My Wife Get Returns",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/beast-taming-i'm-really-not-a-cultivation-master_35475727308556605",
-      "image": "https://book-pic.webnovel.com/bookcover/35475727308556605?imageMogr2/thumbnail/600x&imageId=1779952174238",
-      "description": "# SYSTEM # BEASTTAMING",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
+      "image": "https://book-pic.webnovel.com/bookcover/36389994900568305?imageMogr2/thumbnail/600x&imageId=1787502783999",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # OVERPOWERED # TRANSMIGRATION # CULTIVATION # GENIUS # IMMORTAL # XIANXIA",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 2.0,
-      "velocity": 1.5
-    },
-    {
-      "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "title": "Beast Taming: My Beasts Grind, Die, and Respawn",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1787257431941",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
-      "velocity": 0.42857142857142855
-    },
-    {
-      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
-      "title": "Claimed by the Mad Lycan King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
-      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
-      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": 0.2727272727272727
+      "previous_score": 6.0,
+      "velocity": 0.8333333333333334
     },
     {
       "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
@@ -121,6 +77,24 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
+      "title": "Claimed by the Mad Lycan King",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
+      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
+      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 14.0,
+      "velocity": 0.0
+    },
+    {
       "id": "webnovel-book-the-sss-rank-guide-doesn't-need-saving_36319482700433605",
       "title": "The SSS-rank Guide Doesn't Need Saving",
       "source": "WebNovel",
@@ -135,51 +109,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 13.0,
-      "velocity": -0.07692307692307693
+      "previous_score": 12.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "title": "I Stopped Simping and the Heroines Lost Their Minds",
+      "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
+      "title": "Beast Taming: My Beasts Grind, Die, and Respawn",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/i-stopped-simping-and-the-heroines-lost-their-minds_35973857300778005",
-      "image": "https://book-pic.webnovel.com/bookcover/35973857300778005?imageMogr2/thumbnail/600x&imageId=1781518906111",
-      "description": "# ACTION # ADVENTURE # MAGIC # R18 # WEAKTOSTRONG # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # SLICEOFLIFE",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
+      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1787257431941",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 9.0,
-      "velocity": -0.5555555555555556
-    },
-    {
-      "id": "webnovel-book-my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
-      "title": "My SSS-Rank Innate skill: Infinite Adaptation core",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
-      "image": "https://book-pic.webnovel.com/bookcover/35995918508145305?imageMogr2/thumbnail/600x&imageId=1787221961801",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # OVERPOWERED # HAREM # TRANSMIGRATION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 10.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
       "title": "Reincarnated As The Heroes Guide",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 11.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/reincarnated-as-the-heroes-guide_35794299300309005",
       "image": "https://book-pic.webnovel.com/bookcover/35794299300309005?imageMogr2/thumbnail/600x&imageId=1785176541102",
       "description": "# SYSTEM # MAGIC # SURVIVAL # TRANSMIGRATION # KINGDOMBUILDING # ACADEMY # APOCALYPSE # EVOLUTION # ADVANCEDTECHNOLOGY # STRONGFEMALELEAD",
@@ -189,90 +145,36 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 11.0,
+      "velocity": -0.18181818181818182
     },
     {
-      "id": "webnovel-book-re-lord-of-time_36227421208552405",
-      "title": "RE: LORD OF TIME",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/re-lord-of-time_36227421208552405",
-      "image": "https://book-pic.webnovel.com/bookcover/36227421208552405?imageMogr2/thumbnail/600x&imageId=1787420718066",
-      "description": "# ACTION # ROMANCE # ADVENTURE # MAGIC # OVERPOWERED # GENIUS # ACADEMY # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-true-incubus-the-demon-with-no-limits_35902685600283805",
-      "title": "True Incubus: The Demon with No Limits",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/true-incubus-the-demon-with-no-limits_35902685600283805",
-      "image": "https://book-pic.webnovel.com/bookcover/35902685600283805?imageMogr2/thumbnail/600x&imageId=1787204822950",
-      "description": "# ACTION # ROMANCE # R18 # COMEDY # MYSTERY # SUPERPOWERS # OVERPOWERED # HAREM # REVENGE # DEVIL",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-i-read-their-tragic-fates-and-my-family-reads-my-mind_35475243408541905",
-      "title": "I Read Their Tragic Fates, and My Family Reads My Mind?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/i-read-their-tragic-fates-and-my-family-reads-my-mind_35475243408541905",
-      "image": "https://book-pic.webnovel.com/bookcover/35475243408541905?imageMogr2/thumbnail/600x&imageId=1779765196266",
-      "description": "# DRAMATIC # COUNTERATTACK # SUPERPOWER # HEARTTHROB",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
-      "title": "Immortal Ascension Through Marriage: Investing in My Wife Get Returns",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
-      "image": "https://book-pic.webnovel.com/bookcover/36389994900568305?imageMogr2/thumbnail/600x&imageId=1787502783999",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # OVERPOWERED # TRANSMIGRATION # CULTIVATION # GENIUS # IMMORTAL # XIANXIA",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-rebirth-my-ceo-husband's-thoughts-are-too-shameless_36246536500954105",
-      "title": "Rebirth: My CEO Husband's Thoughts Are Too Shameless",
+      "id": "webnovel-book-my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
+      "title": "My SSS-Rank Innate skill: Infinite Adaptation core",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/rebirth-my-ceo-husband's-thoughts-are-too-shameless_36246536500954105",
-      "image": "https://book-pic.webnovel.com/bookcover/36246536500954105?imageMogr2/thumbnail/600x&imageId=1782570749154",
-      "description": "# ROMANCE # R18 # SLICEOFLIFE # REVENGE # REBIRTH # POWERFULCOUPLE # FACESLAPPING",
+      "url": "https://www.webnovel.com/book/my-sss-rank-innate-skill-infinite-adaptation-core_35995918508145305",
+      "image": "https://book-pic.webnovel.com/bookcover/35995918508145305?imageMogr2/thumbnail/600x&imageId=1787221961801",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # OVERPOWERED # HAREM # TRANSMIGRATION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 13.0,
+      "velocity": -0.7692307692307693
+    },
+    {
+      "id": "webnovel-book-apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "title": "Apocalypse Rebirth: Making Billions With My Fortune-Telling Skill",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/apocalypse-rebirth-making-billions-with-my-fortune-telling-skill_35987585608987005",
+      "image": "https://book-pic.webnovel.com/bookcover/35987585608987005?imageMogr2/thumbnail/600x&imageId=1787601143058",
+      "description": "# ROMANCE # SYSTEM # WEAKTOSTRONG # SURVIVAL # POSSESSIVE # APOCALYPSE # REBIRTH # STRONGFEMALELEAD # REVERSE HAREM # GROUPPAMPERING",
       "genres": [
         "Web Novel"
       ],
@@ -283,14 +185,104 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-reborn-rich-prices-dropped-my-savings-didn't_35743602700584405",
-      "title": "Reborn Rich: Prices Dropped, My Savings Didn't",
+      "id": "webnovel-book-cultivation-i-can-solidify-equipment-attributes_35743936500589505",
+      "title": "Cultivation: I Can Solidify Equipment Attributes",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/cultivation-i-can-solidify-equipment-attributes_35743936500589505",
+      "image": "https://book-pic.webnovel.com/bookcover/35743936500589505?imageMogr2/thumbnail/600x&imageId=1781679857377",
+      "description": "# SYSTEM # WEAKTOSTRONG",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-the-wolf-god%E2%80%99s-unwanted-luna_36218471300476605",
+      "title": "The Wolf God’s Unwanted Luna",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/the-wolf-god%E2%80%99s-unwanted-luna_36218471300476605",
+      "image": "https://book-pic.webnovel.com/bookcover/36218471300476605?imageMogr2/thumbnail/600x&imageId=1785411226003",
+      "description": "# ROMANCE # R18 # DARK # DRAMATIC # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # POWERFULCOUPLE # ALPHA # LUNA",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
+      "title": "Evolution Online: My 10,000× Reward System Multiplies Everything",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
+      "image": "https://book-pic.webnovel.com/bookcover/36276991400653805?imageMogr2/thumbnail/600x&imageId=1783626828540",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # HAREM # SURVIVAL # KINGDOMBUILDING # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-reborn-as-a-pirate-captain-%E2%80%93-my-journey-to-build-a-pirate-republic_36138921000163805",
+      "title": "Reborn as a Pirate Captain – My Journey to Build a Pirate Republic",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/reborn-as-a-pirate-captain-%E2%80%93-my-journey-to-build-a-pirate-republic_36138921000163805",
+      "image": "https://book-pic.webnovel.com/bookcover/36138921000163805?imageMogr2/thumbnail/600x&imageId=1783381908236",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # COMEDY # HAREM # TRANSMIGRATION # KINGDOMBUILDING # HISTORICAL # HEROIC",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "title": "Chosen as the Cursed Alpha's Seventh Bride",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/chosen-as-the-cursed-alpha's-seventh-bride_36346200608775605",
+      "image": "https://book-pic.webnovel.com/bookcover/36346200608775605?imageMogr2/thumbnail/600x&imageId=1783503607600",
+      "description": "# BETRAYAL # WEREWOLF # ENEMIESTOLOVERS # ALPHA # ABANDONED # HIDDENIDENTITIES # FORBIDDENLOVE # ARRANGEDMARRIAGE # FATEDMATE # SUPERPOWER",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-divorced-dad's-gourmet-shop_35743847700588705",
+      "title": "Divorced Dad's Gourmet Shop",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/reborn-rich-prices-dropped-my-savings-didn't_35743602700584405",
-      "image": "https://book-pic.webnovel.com/bookcover/35743602700584405?imageMogr2/thumbnail/600x&imageId=1784532868477",
-      "description": "# COMEDY # REBIRTH # STRONGFL # POORTORICH",
+      "url": "https://www.webnovel.com/book/divorced-dad's-gourmet-shop_35743847700588705",
+      "image": "https://book-pic.webnovel.com/bookcover/35743847700588705?imageMogr2/thumbnail/600x&imageId=1780470862943",
+      "description": "# SYSTEM # URBAN # WARM # FOOD",
       "genres": [
         "Web Novel"
       ],
