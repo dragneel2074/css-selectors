@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-28T08:51:31Z",
-  "date": "2026-08-28",
+  "generated_at_utc": "2026-08-29T05:28:25Z",
+  "date": "2026-08-29",
   "category": "manhwa",
-  "item_count": 12,
+  "item_count": 10,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,11 +23,32 @@
   ],
   "items": [
     {
+      "id": "anilist-manga-201009",
+      "title": "The Patron of Villains",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 13309.0,
+      "url": "https://anilist.co/manga/201009",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
+      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 13248.0,
+      "velocity": 0.004604468599033816
+    },
+    {
       "id": "anilist-manga-164857",
       "title": "Surviving the Game as a Barbarian",
       "source": "AniList",
       "category": "manhwa",
-      "score": 19796.0,
+      "score": 19881.0,
       "url": "https://anilist.co/manga/164857",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164857-MVeV0leMZb0m.jpg",
       "description": "After spending nine years on Dungeon and Stone, the role-playing game that no player has ever beaten, Han-Su Lee finally reaches the dungeon of the final boss. As soon as he opens the gate, however, he suddenly sees a message that says his tutorial has been completed and finds himself in the body of Bjorn Yandel, a real barbarian within the game. An exciting adventure awaits him as he endeavors to abide by the laws of the fictional world!\n<br><br>\n(Source: WEBTOON, edited)",
@@ -41,102 +62,15 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 19696.0,
-      "velocity": 0.005077173030056864
-    },
-    {
-      "id": "anilist-manga-159441",
-      "title": "Pick Me Up",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 43660.0,
-      "url": "https://anilist.co/manga/159441",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
-      "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 84,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 43596.0,
-      "velocity": 0.0014680245894118727
-    },
-    {
-      "id": "anilist-manga-120980",
-      "title": "Nano Machine",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 47338.0,
-      "url": "https://anilist.co/manga/120980",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
-      "description": "Nanotechnology meets martial arts at the Mashin Academy. Yeo-Un’s mother may not be one of the High Priest’s six official wives, but his father’s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?\n<br><br>\n(Source: WEBTOON)\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 47281.0,
-      "velocity": 0.0012055582580740678
-    },
-    {
-      "id": "anilist-manga-137280",
-      "title": "I’m the Max-Level Newbie",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 49864.0,
-      "url": "https://anilist.co/manga/137280",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137280-juUL79K7f9s7.png",
-      "description": "Kang Jin-Hyeok, a gaming streamer, and content creator is the only person who has cleared the game, [Tower of Trials]. However, as the game’s popularity declines, it becomes increasingly difficult for him to continue making a living as a content creator. Jinhyeok prepares to end his 11-year-long relationship with the game and say goodbye to his humble group of subscribers. But on that very day, the Tower of Trials appears in reality with a message saying that humanity will perish unless all players clear each floor within 90 days. Jin-Hyeok, who knows the game better than anyone, decides to use his knowledge to his advantage and dominate the tower. It’s time to show everyone what a hardcore gamer can do!\n<br><br>\n(Source: Tappytoon, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-143056",
-      "title": "The Return of the Disaster-Class Hero",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 37984.0,
-      "url": "https://anilist.co/manga/143056",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg",
-      "description": "Humans call them “calamities”—the unknown, destructive creatures that suddenly appeared on earth. To challenge these calamities, the zodiac gods awakened 12 humans known as saints. But there was one more that awoke—unchosen but the greatest hero of all: Geon Lee. His allies betrayed him and left him for dead, but now, 20 years later, he’s more powerful than ever and ready to teach his fellow “saints” a lesson they’ll never forget. <br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 75,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 19796.0,
+      "velocity": 0.004293796726611437
     },
     {
       "id": "anilist-manga-172619",
       "title": "The Extra’s Academy Survival Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 30106.0,
+      "score": 30174.0,
       "url": "https://anilist.co/manga/172619",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
       "description": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?<br><br>(Source: WEBTOON)",
@@ -149,87 +83,89 @@
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 30106.0,
+      "velocity": 0.0022586859762173655
     },
     {
-      "id": "anilist-manga-165182",
-      "title": "Time-Limited Genius Dark Knight",
+      "id": "anilist-manga-117460",
+      "title": "Overgeared",
       "source": "AniList",
       "category": "manhwa",
-      "score": 18801.0,
-      "url": "https://anilist.co/manga/165182",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg",
-      "description": "When there is no way out, the way is in. Doomed to die next month, our terminally ill protagonist Chan is too frail and defeated to try anything at all. No wonder he chooses to plunge himself into an RPG world he is only too familiar with. Why should this run be any different? Well, other than the fact that he will wake up inside the game and get struck with an existential epiphany that will make him fight tooth and nail to give Nox, his equally ill-fated RPG persona, a better chance? Maybe, it’s not over until it’s over.\n<br><br>(Source: WEBTOON)",
+      "score": 37820.0,
+      "url": "https://anilist.co/manga/117460",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
+      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 71,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-201009",
-      "title": "The Patron of Villains",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 13248.0,
-      "url": "https://anilist.co/manga/201009",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201009-jTY2arWw21sc.jpg",
-      "description": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 78,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-184347",
-      "title": "Bad Born Blood",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 10769.0,
-      "url": "https://anilist.co/manga/184347",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184347-lDVGEttgQHbY.jpg",
-      "description": "All this is for the Empire. Luca had never once questioned his dream of joining Accretia’s Imperial Guard. Not until he met Ilay, that is. The most unexpected of friends, Ilay’s personality and family background are nothing like Luca’s. However, it is through their differences that the two friends will begin to shape not only each other, but even the very planet on which they live.<br><br>(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sci-Fi"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-189051",
-      "title": "What a Bountiful Harvest, Demon Lord!",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 8614.0,
-      "url": "https://anilist.co/manga/189051",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189051-ORxxDJZvMHxj.jpg",
-      "description": "Who was that guy that once said, “An army marches on its stomach”? When hapless agricultural science student Jangcheol Kim starts playing the fantasy MMORPG “Paladins of Blood” to escape the stress of school life, he never imagined he would end up inside the game, much less as its final boss. How can a ruthless demon overlord win over his subjects? Perhaps with potatoes.<br><br>(Source: WEBTOON)",
-      "genres": [
+        "Adventure",
         "Comedy",
         "Fantasy"
       ],
       "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-135325",
+      "title": "The Lazy Lord Masters the Sword",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 33167.0,
+      "url": "https://anilist.co/manga/135325",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+      "description": "After witnessing the shocking death of his mother, young Airen Farreira uses sleep to escape his painful reality, earning him the nickname, “the lazy lord”. Yet, in spite of others’ jeers and whispers, Airen has no intention of changing his ways. But when he awakens one day from a dream about a mysterious swordsman, his life’s trajectory takes a complete turn...\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-155485",
+      "title": "Dungeon Odyssey",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 20324.0,
+      "url": "https://anilist.co/manga/155485",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155485-YlWPkBFvWG3v.jpg",
+      "description": "When the war between the aboveground and underground ended, humanity was joined by so-called \"dungeon babies,\" those gifted with supernatural abilities and an obsession with the labyrinths below ground. Despite being a dungeon baby, Kim Jin-U suppressed his instincts, choosing to live an ordinary life as a guide and caring for his family. But when an expedition goes wrong and he somehow ends up becoming the new owner of a labyrinth, he discovers that he cannot ignore his instincts forever...\n<br><br>\n(Source: Tapas, edited)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-187427",
+      "title": "The Villain's Survival Route",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 14002.0,
+      "url": "https://anilist.co/manga/187427",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187427-7A225QIPaIU3.png",
+      "description": "Fresh out of a breakup, game developer Woo-Jin has little going for him. So when he hears that the middle boss of their game is based on him, he can't resist adding a few traits to make his virtual alter ego a tad more noble. Little did he know, he would soon end up trapped in said villain's skin! With a 1 in 1,000 chance of survival, Woo-Jin now has to navigate the countless variables leading him to his impending doom. Will the tweaks he made to the character tip the scales in his favor?<br><br>(Source: Tapas)",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "metadata": {
         "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
@@ -238,14 +174,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-202986",
-      "title": "Too Many Heroes for the Demon Lord",
+      "id": "anilist-manga-164222",
+      "title": "Chronicles of the Demon Faction",
       "source": "AniList",
       "category": "manhwa",
-      "score": 6248.0,
-      "url": "https://anilist.co/manga/202986",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202986-0wn84aV9jlHq.jpg",
-      "description": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!<br><br>(Source: WEBTOON)",
+      "score": 13704.0,
+      "url": "https://anilist.co/manga/164222",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164222-9wzDZENmjYtc.jpg",
+      "description": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.<br><br>(Source: WEBTOON, edited)",
       "genres": [
         "Action",
         "Fantasy"
@@ -259,20 +195,44 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-211928",
-      "title": "The Necromancer of the Renowned Swordmaster Family",
+      "id": "anilist-manga-212562",
+      "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
       "source": "AniList",
       "category": "manhwa",
-      "score": 1996.0,
-      "url": "https://anilist.co/manga/211928",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211928-MlgZbdTLKt3H.jpg",
-      "description": "<i>“I, Archimonde, summon the wardens of darkness and all their servants and soldiers! Heed my command!”</i><br><br>\nWith this incantation, Archimonde the necromancer unleashed hordes of the undead upon the continent. For a decade, they ravaged the land until the necromancer was killed by the hero Birkel Reinrandt. Two centuries and eight generations later, an infant born into House Reinrandt screams the very incantation Archimonde had once uttered. The necromancer has returned in the form of a baby, but will he survive the house of his once-mortal enemy this time?<br><br>(Source: WEBTOON)",
+      "score": 4796.0,
+      "url": "https://anilist.co/manga/212562",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212562-huzVxCEUCcfM.jpg",
+      "description": "I sacrificed my precious vacation to attend a pop-up event of a certain modern fantasy I loved so much. And on that very day, I got transported into that fantasy world. As none other than a newly hired employee at a renowned major corporation! A dream workplace with tons of benefits, a high salary, and kind, competent supervisors. Using my knowledge of the world, I quickly climb the corporate ladder!\n<br><br>\nBut am I happy, you ask? Please, let me go back home.\n<br><br>\n(Source: KakaoPage, translated)",
       "genres": [
-        "Action",
-        "Fantasy"
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 64,
+        "average_score": 83,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-211413",
+      "title": "Aridorok",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 1963.0,
+      "url": "https://anilist.co/manga/211413",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211413-m8Ht9WXUW3SG.jpg",
+      "description": "My first love, Ju A-Rin, whom I met again after five years. Why has she changed so much?<br><br>(Source: Naver, translated)",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 74,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
