@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-29T05:28:25Z",
-  "date": "2026-08-29",
+  "generated_at_utc": "2026-08-30T03:23:45Z",
+  "date": "2026-08-30",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,45 +23,21 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
+      "id": "anilist-manga-137714",
+      "title": "Are You a Landmine, Chihara-san?",
       "source": "AniList",
       "category": "manga",
-      "score": 231667.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-114416",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "source": "AniList",
-      "category": "manga",
-      "score": 38733.0,
-      "url": "https://anilist.co/manga/114416",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg",
-      "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br/>\n<i>Note: Won second place of Tsugimanga 2020 Award in the Manga Category<i/>\n",
+      "score": 16159.0,
+      "url": "https://anilist.co/manga/137714",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137714-L9dXZ1uhfVBz.jpg",
+      "description": "It’s the start of a new semester, and high school junior Kuroki finds himself seated beside the girl everyone whispers about: Mai Chihara. With her gothic fashion, jet-black hair, and intense stare, Chihara is said to be a “landmine” girl or jirai-kei, the hyper-feminine, dark aesthetic often associated with yandere tendencies and unstable personalities. But when Kuroki accidentally draws Chihara’s attention, he discovers she isn’t nearly as unstable as people claim. Beneath the intimidating aura is a surprisingly sweet girl… if a little weird.\n<br><br>\nHesitantly, Kuroki begins to learn more about Chihara and her strange quirks. Is there more to her than her volatile reputation? Or is all the dark clothing just a red flag in disguise?\n<br><br>\n(Source: Seven Seas Entertainment)",
       "genres": [
         "Comedy",
-        "Ecchi",
         "Romance",
         "Slice of Life"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 71,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -69,43 +45,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-87225",
-      "title": "Tsukimichi: Moonlit Fantasy",
+      "id": "anilist-manga-203593",
+      "title": "Streaming My Second Life",
       "source": "AniList",
       "category": "manga",
-      "score": 22310.0,
-      "url": "https://anilist.co/manga/87225",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87225-EYFJq2QMzHkk.jpg",
-      "description": "Misumi Makoto was just a normal high-school student... until the day he was summoned to another world because of an agreement his parents had made with a goddess. Except when he meets the only goddess in the world he's sent to, she insults him by calling him \"extremely unattractive\" and makes an arbitrary decision to banish him to a deserted wilderness. Makoto searches the desolate land to find other humans, but for some reason only finds creatures that are all nonhuman. Even the two pretty women who decide to follow him on his journey used to be a dragon and a giant spider. Along with two extremely eccentric characters (but really reliable in battles), so begins Makoto's unlucky adventure in the new world! A fantasy about a teenage boy who keeps getting hit by one problem after another!\n<br><br>\n(Source: Alpha Manga)",
+      "score": 3841.0,
+      "url": "https://anilist.co/manga/203593",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203593-L46M3wKxLkc2.jpg",
+      "description": "Twenty years ago, legendary player Lee Suhyeok was killed by a trusted friend during a tower raid. Now he’s back, reincarnated in a much weaker body and forced to restart from level one. Fueled by vengeance, he begins the climb again, but without money or his former abilities, there’s no way he can get his revenge… until he starts streaming. As his stats rise with his view count, Suhyeok turns his revenge into a viral spectacle that no one, not even his killer, will ever see coming.<br><br>(Source: Tapas)",
       "genres": [
         "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 76,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-200345",
-      "title": "Mob Shisai Dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine o Ikusei Shimasu",
-      "source": "AniList",
-      "category": "manga",
-      "score": 1058.0,
-      "url": "https://anilist.co/manga/200345",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx200345-6lafzhMu34cx.jpg",
-      "description": "<i>\"Priest...may I pray?\"</i><br>\n<br>\nThe girl who came to church was Saint Reina Laurel, the one who would one day save the world. Reincarnated as Clael Byrne, a mob priest in the world of an otome game, I met her at a temple in a rural town. Her emaciated body and shabby clothes—to save Reina from the oppression of the game's harsh scenario, I decided to become her surrogate parent. I fed her, bathed her, bought her clothes, and showed her the love of a surrogate parent...<br>\n<br>\n(Source: Kadokawa, translated)",
-      "genres": [
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 56,
+        "average_score": 73,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

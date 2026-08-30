@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-29T05:28:25Z",
-  "date": "2026-08-29",
+  "generated_at_utc": "2026-08-30T03:23:45Z",
+  "date": "2026-08-30",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,40 +23,58 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-apocalypse-arrives-i-become-a-powerhouse-by-scavenging_35743504308522905",
-      "title": "Apocalypse Arrives: I Become a Powerhouse by Scavenging",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 15.0,
-      "url": "https://www.webnovel.com/book/apocalypse-arrives-i-become-a-powerhouse-by-scavenging_35743504308522905",
-      "image": "https://book-pic.webnovel.com/bookcover/35743504308522905?imageMogr2/thumbnail/600x&imageId=1783072738228",
-      "description": "# WEAKTOSTRONG # SURVIVAL # APOCALYPSE # STRONGFL",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 3.0,
-      "velocity": 4.0
-    },
-    {
-      "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
-      "title": "Starting as the Baron of the Lonely Island",
+      "id": "webnovel-book-the-ocean's-little-tyrant-a-mermaid-baby-conquers-the-80s_35742867608513005",
+      "title": "The Ocean's Little Tyrant: A Mermaid Baby Conquers the 80s",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 9.0,
-      "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
-      "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
-      "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
+      "url": "https://www.webnovel.com/book/the-ocean's-little-tyrant-a-mermaid-baby-conquers-the-80s_35742867608513005",
+      "image": "https://book-pic.webnovel.com/bookcover/35742867608513005?imageMogr2/thumbnail/600x&imageId=1783398629372",
+      "description": "# SLICEOFLIFE # REBIRTH # STRONGFL # FACESLAPPING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": 0.125
+      "previous_score": 2.0,
+      "velocity": 3.5
+    },
+    {
+      "id": "webnovel-book-reborn-in-the-80s-and-remarrying-an-officer-let-the-ungrateful-cry!_35743676800586005",
+      "title": "Reborn in the 80s and Remarrying an Officer, Let the Ungrateful Cry!",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/reborn-in-the-80s-and-remarrying-an-officer-let-the-ungrateful-cry!_35743676800586005",
+      "image": "https://book-pic.webnovel.com/bookcover/35743676800586005?imageMogr2/thumbnail/600x&imageId=1782458756018",
+      "description": "# SWEETLOVE # STRONGFL # FACESLAPPING # COUNTERATTACK",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
+      "velocity": 0.6666666666666666
+    },
+    {
+      "id": "webnovel-book-the-sss-rank-guide-doesn't-need-saving_36319482700433605",
+      "title": "The SSS-rank Guide Doesn't Need Saving",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/the-sss-rank-guide-doesn't-need-saving_36319482700433605",
+      "image": "https://book-pic.webnovel.com/bookcover/36319482700433605?imageMogr2/thumbnail/600x&imageId=1787926891783",
+      "description": "# R18 # TRANSMIGRATION # CAMPUS # DRAMATIC # APOCALYPSE # ENEMIESTOLOVERS # STRONGFL # POWERFULCOUPLE # FACESLAPPING # REVERSE HAREM",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 12.0,
+      "velocity": 0.08333333333333333
     },
     {
       "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
@@ -77,39 +95,21 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-the-sss-rank-guide-doesn't-need-saving_36319482700433605",
-      "title": "The SSS-rank Guide Doesn't Need Saving",
+      "id": "webnovel-book-apocalypse-arrives-i-become-a-powerhouse-by-scavenging_35743504308522905",
+      "title": "Apocalypse Arrives: I Become a Powerhouse by Scavenging",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/the-sss-rank-guide-doesn't-need-saving_36319482700433605",
-      "image": "https://book-pic.webnovel.com/bookcover/36319482700433605?imageMogr2/thumbnail/600x&imageId=1787926891783",
-      "description": "# R18 # TRANSMIGRATION # CAMPUS # DRAMATIC # APOCALYPSE # ENEMIESTOLOVERS # STRONGFL # POWERFULCOUPLE # FACESLAPPING # REVERSE HAREM",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/apocalypse-arrives-i-become-a-powerhouse-by-scavenging_35743504308522905",
+      "image": "https://book-pic.webnovel.com/bookcover/35743504308522905?imageMogr2/thumbnail/600x&imageId=1783072738228",
+      "description": "# WEAKTOSTRONG # SURVIVAL # APOCALYPSE # STRONGFL",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 12.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "title": "Sea Survival: My Luck is Off the Charts",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
-      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
+      "previous_score": 15.0,
       "velocity": 0.0
     },
     {
@@ -117,7 +117,7 @@
       "title": "Cultivation: I Can Solidify Equipment Attributes",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 14.0,
+      "score": 12.0,
       "url": "https://www.webnovel.com/book/cultivation-i-can-solidify-equipment-attributes_35743936500589505",
       "image": "https://book-pic.webnovel.com/bookcover/35743936500589505?imageMogr2/thumbnail/600x&imageId=1781679857377",
       "description": "# SYSTEM # WEAKTOSTRONG",
@@ -127,72 +127,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 15.0,
-      "velocity": -0.06666666666666667
+      "previous_score": 14.0,
+      "velocity": -0.14285714285714285
     },
     {
       "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "title": "Global Lords: My Territory Heart Is a World Tree",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 13.0,
+      "score": 11.0,
       "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
       "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 14.0,
-      "velocity": -0.07142857142857142
-    },
-    {
-      "id": "webnovel-book-building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
-      "title": "Building a Martial Dao Celestial Family by Laying Low",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
-      "image": "https://book-pic.webnovel.com/bookcover/35744276700593205?imageMogr2/thumbnail/600x&imageId=1782372212126",
-      "description": "# SYSTEM # WEAKTOSTRONG # TRANSMIGRATION # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": -0.09090909090909091
-    },
-    {
-      "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
-      "title": "Reincarnated As The Heroes Guide",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/reincarnated-as-the-heroes-guide_35794299300309005",
-      "image": "https://book-pic.webnovel.com/bookcover/35794299300309005?imageMogr2/thumbnail/600x&imageId=1785176541102",
-      "description": "# SYSTEM # MAGIC # SURVIVAL # TRANSMIGRATION # KINGDOMBUILDING # ACADEMY # APOCALYPSE # EVOLUTION # STRONGFEMALELEAD # ADVANCEDTECHNOLOGY",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": -0.1111111111111111
-    },
-    {
-      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
-      "title": "Claimed by the Mad Lycan King",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
-      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
-      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
       "genres": [
         "Web Novel"
       ],
@@ -203,32 +149,14 @@
       "velocity": -0.15384615384615385
     },
     {
-      "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "title": "Beast Taming: My Beasts Grind, Die, and Respawn",
+      "id": "webnovel-book-building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
+      "title": "Building a Martial Dao Celestial Family by Laying Low",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1787902228645",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": -0.2
-    },
-    {
-      "id": "webnovel-book-apocalypse-descends-i-win-effortlessly-by-turning-trash-into-treasure_35743503100582505",
-      "title": "Apocalypse Descends: I Win Effortlessly by Turning Trash into Treasure",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/apocalypse-descends-i-win-effortlessly-by-turning-trash-into-treasure_35743503100582505",
-      "image": "https://book-pic.webnovel.com/bookcover/35743503100582505?imageMogr2/thumbnail/600x&imageId=1783332528202",
-      "description": "# SURVIVAL # APOCALYPSE # STRONGFL # SUPERPOWER",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
+      "image": "https://book-pic.webnovel.com/bookcover/35744276700593205?imageMogr2/thumbnail/600x&imageId=1782372212126",
+      "description": "# SYSTEM # WEAKTOSTRONG # TRANSMIGRATION # KINGDOMBUILDING",
       "genres": [
         "Web Novel"
       ],
@@ -236,35 +164,89 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 10.0,
-      "velocity": -0.5
+      "velocity": -0.2
     },
     {
-      "id": "webnovel-book-the-wolf-god%E2%80%99s-unwanted-luna_36218471300476605",
-      "title": "The Wolf God’s Unwanted Luna",
+      "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "title": "Starting as the Baron of the Lonely Island",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/the-wolf-god%E2%80%99s-unwanted-luna_36218471300476605",
-      "image": "https://book-pic.webnovel.com/bookcover/36218471300476605?imageMogr2/thumbnail/600x&imageId=1785411226003",
-      "description": "# ROMANCE # R18 # DARK # DRAMATIC # WEREWOLF # ENEMIESTOLOVERS # FATEDLOVE # POWERFULCOUPLE # ALPHA # LUNA",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
+      "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 6.0,
-      "velocity": -0.5
+      "previous_score": 9.0,
+      "velocity": -0.4444444444444444
     },
     {
-      "id": "webnovel-book-reborn-in-the-80s-and-remarrying-an-officer-let-the-ungrateful-cry!_35743676800586005",
-      "title": "Reborn in the 80s and Remarrying an Officer, Let the Ungrateful Cry!",
+      "id": "webnovel-book-claimed-by-the-mad-lycan-king_36321912608400505",
+      "title": "Claimed by the Mad Lycan King",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 6.0,
-      "url": "https://www.webnovel.com/book/reborn-in-the-80s-and-remarrying-an-officer-let-the-ungrateful-cry!_35743676800586005",
-      "image": "https://book-pic.webnovel.com/bookcover/35743676800586005?imageMogr2/thumbnail/600x&imageId=1782458756018",
-      "description": "# SWEETLOVE # STRONGFL # FACESLAPPING # COUNTERATTACK",
+      "url": "https://www.webnovel.com/book/claimed-by-the-mad-lycan-king_36321912608400505",
+      "image": "https://book-pic.webnovel.com/bookcover/36321912608400505?imageMogr2/thumbnail/600x&imageId=1785567688060",
+      "description": "# R18 # DARK # VILLAIN # BETRAYAL # POSSESSIVE # WEREWOLF # ALPHA # SWEET # ABUSEDFL # GROVELLINGEX",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": -0.45454545454545453
+    },
+    {
+      "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
+      "title": "Reincarnated As The Heroes Guide",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/reincarnated-as-the-heroes-guide_35794299300309005",
+      "image": "https://book-pic.webnovel.com/bookcover/35794299300309005?imageMogr2/thumbnail/600x&imageId=1785176541102",
+      "description": "# SYSTEM # MAGIC # SURVIVAL # TRANSMIGRATION # KINGDOMBUILDING # ACADEMY # APOCALYPSE # EVOLUTION # STRONGFEMALELEAD # ADVANCEDTECHNOLOGY",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.5
+    },
+    {
+      "id": "webnovel-book-sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "title": "Sea Survival: My Luck is Off the Charts",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/sea-survival-my-luck-is-off-the-charts_35479914100667205",
+      "image": "https://book-pic.webnovel.com/bookcover/35479914100667205?imageMogr2/thumbnail/600x&imageId=1781766587102",
+      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # GENIUS # FAMILY # COUNTERATTACK # BOOKTRANSMIGRATION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 7.0,
+      "velocity": -0.5714285714285714
+    },
+    {
+      "id": "webnovel-book-limitless-evolution-as-a-snake_36341643300794205",
+      "title": "Limitless Evolution As a Snake",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/limitless-evolution-as-a-snake_36341643300794205",
+      "image": "https://book-pic.webnovel.com/bookcover/36341643300794205?imageMogr2/thumbnail/600x&imageId=1787577154320",
+      "description": "# ROMANCE # ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # HAREM # TRANSMIGRATION # ANTIHERO # SMUT # URBAN",
       "genres": [
         "Web Novel"
       ],
@@ -275,14 +257,32 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-the-ocean's-little-tyrant-a-mermaid-baby-conquers-the-80s_35742867608513005",
-      "title": "The Ocean's Little Tyrant: A Mermaid Baby Conquers the 80s",
+      "id": "webnovel-book-the-abandoned-daughter's-second-chance_34992140408557605",
+      "title": "The Abandoned Daughter's Second Chance",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/the-abandoned-daughter's-second-chance_34992140408557605",
+      "image": "https://book-pic.webnovel.com/bookcover/34992140408557605?imageMogr2/thumbnail/600x&imageId=1780366561449",
+      "description": "# REBIRTH # STRONGFL # POORTORICH # STORAGESPACE",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "title": "SSS Awakening: I am the First Legendary Mage",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/the-ocean's-little-tyrant-a-mermaid-baby-conquers-the-80s_35742867608513005",
-      "image": "https://book-pic.webnovel.com/bookcover/35742867608513005?imageMogr2/thumbnail/600x&imageId=1783398629372",
-      "description": "# SLICEOFLIFE # REBIRTH # STRONGFL # FACESLAPPING",
+      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
+      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
       "genres": [
         "Web Novel"
       ],
