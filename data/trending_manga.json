@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-01T03:22:58Z",
-  "date": "2026-09-01",
+  "generated_at_utc": "2026-09-02T02:40:53Z",
+  "date": "2026-09-02",
   "category": "manga",
   "item_count": 5,
   "errors": [
@@ -23,85 +23,18 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-169355",
-      "title": "Kagurabachi",
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 69341.0,
-      "url": "https://anilist.co/manga/169355",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png",
-      "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.\n<br><br>(Source: MANGA Plus)\n<br><br>\n<i>Note:<br>\n- Winner of the Tsugimanga 2024 Award in the Print Manga Category. <br>\n- Winner of the 4th Magademy Commitment Award. <br>\n- Nominee of the 70th Shogakukan Award. </i>",
+      "score": 123509.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
       "genres": [
         "Action",
         "Drama",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 69269.0,
-      "velocity": 0.0010394260058612078
-    },
-    {
-      "id": "anilist-manga-108556",
-      "title": "SPY x FAMILY",
-      "source": "AniList",
-      "category": "manga",
-      "score": 159011.0,
-      "url": "https://anilist.co/manga/108556",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg",
-      "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Slice of Life",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 158951.0,
-      "velocity": 0.0003774748192839303
-    },
-    {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 231839.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 231771.0,
-      "velocity": 0.0002933930474476962
-    },
-    {
-      "id": "anilist-manga-149544",
-      "title": "The Guy She Was Interested In Wasn't a Guy at All",
-      "source": "AniList",
-      "category": "manga",
-      "score": 51426.0,
-      "url": "https://anilist.co/manga/149544",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
-      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
-      "genres": [
-        "Music",
-        "Romance"
+        "Sports"
       ],
       "metadata": {
         "average_score": 82,
@@ -112,14 +45,78 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-191203",
-      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "id": "anilist-manga-169272",
+      "title": "Tune In to the Midnight Heart",
       "source": "AniList",
       "category": "manga",
-      "score": 13265.0,
-      "url": "https://anilist.co/manga/191203",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
-      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
+      "score": 18317.0,
+      "url": "https://anilist.co/manga/169272",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
+      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-180422",
+      "title": "Akira Failing in Love",
+      "source": "AniList",
+      "category": "manga",
+      "score": 15377.0,
+      "url": "https://anilist.co/manga/180422",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
+      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 75,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-169904",
+      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
+      "source": "AniList",
+      "category": "manga",
+      "score": 14542.0,
+      "url": "https://anilist.co/manga/169904",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
+      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 78,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-143719",
+      "title": "Dealing with Mikadono Sisters Is a Breeze",
+      "source": "AniList",
+      "category": "manga",
+      "score": 12856.0,
+      "url": "https://anilist.co/manga/143719",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143719-u5c2HrIY4ITW.jpg",
+      "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
       "genres": [
         "Comedy",
         "Romance"
