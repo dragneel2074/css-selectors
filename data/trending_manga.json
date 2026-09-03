@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-02T02:40:53Z",
-  "date": "2026-09-02",
+  "generated_at_utc": "2026-09-03T02:47:11Z",
+  "date": "2026-09-03",
   "category": "manga",
-  "item_count": 5,
+  "item_count": 6,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,11 +23,32 @@
   ],
   "items": [
     {
+      "id": "anilist-manga-180422",
+      "title": "Akira Failing in Love",
+      "source": "AniList",
+      "category": "manga",
+      "score": 15410.0,
+      "url": "https://anilist.co/manga/180422",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
+      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 75,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": 15377.0,
+      "velocity": 0.002146062300838915
+    },
+    {
       "id": "anilist-manga-106130",
       "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 123509.0,
+      "score": 123575.0,
       "url": "https://anilist.co/manga/106130",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
       "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
@@ -41,24 +62,26 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 123509.0,
+      "velocity": 0.0005343740132298052
     },
     {
-      "id": "anilist-manga-169272",
-      "title": "Tune In to the Midnight Heart",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 18317.0,
-      "url": "https://anilist.co/manga/169272",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg",
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out?\n<br><br>\n(Source: K MANGA)",
+      "score": 231972.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
-        "Romance"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 91,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -66,20 +89,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-180422",
-      "title": "Akira Failing in Love",
+      "id": "anilist-manga-140475",
+      "title": "The Fragrant Flower Blooms With Dignity",
       "source": "AniList",
       "category": "manga",
-      "score": 15377.0,
-      "url": "https://anilist.co/manga/180422",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180422-dRRQ8aeSAYum.jpg",
-      "description": "Akira returns to the countryside for high school with a plan to win the heart of her childhood crush! They're both fools in love… because she's too dense to figure out he likes her back!<br><br>(Source: VIZ Media)",
+      "score": 78543.0,
+      "url": "https://anilist.co/manga/140475",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
+      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
       "genres": [
         "Comedy",
+        "Drama",
         "Romance"
       ],
       "metadata": {
-        "average_score": 75,
+        "average_score": 86,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -87,21 +111,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-169904",
-      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
+      "id": "anilist-manga-201773",
+      "title": "Haimiya Is Scary Cute",
       "source": "AniList",
       "category": "manga",
-      "score": 14542.0,
-      "url": "https://anilist.co/manga/169904",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169904-6gvkXMNpq66N.jpg",
-      "description": "Yutaka Shinso is constantly worried about what other people think of him. Hoping to turn over a new leaf, he changes high schools, but there’s something strange afoot: vampires, ogres, and all manner of supernatural beings walk the halls! Yutaka is particularly drawn to Tsumiki Ogami, a confident and popular werewolf. Will Tsumiki be the one to help Yutaka overcome his insecurities?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note:<br>\n- Placed third in the Tsugimanga 2024 Award in the Print Manga Category.</i>",
+      "score": 17888.0,
+      "url": "https://anilist.co/manga/201773",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
       "genres": [
         "Comedy",
         "Romance",
-        "Supernatural"
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 78,
+        "average_score": 79,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -109,20 +133,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-143719",
-      "title": "Dealing with Mikadono Sisters Is a Breeze",
+      "id": "anilist-manga-183545",
+      "title": "Danjohi 1:5 no Sekai demo Futsu ni Ikirareru to Omotta? Geki Juu Kanjou na Kanojotachi ga Mujikaku Danshi ni Honrousaretara",
       "source": "AniList",
       "category": "manga",
-      "score": 12856.0,
-      "url": "https://anilist.co/manga/143719",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143719-u5c2HrIY4ITW.jpg",
-      "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
+      "score": 4452.0,
+      "url": "https://anilist.co/manga/183545",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183545-N4ZHuRjL6h9z.jpg",
+      "description": "Having arrived in a world where the male-to-female ratio is 1:5, the man Shoto tries to live an ordinary life as he did in his previous world. However, he unknowingly causes many women to fall in love with him this way, and the women develop intense feelings for him.\n<BR><BR>\n(Source: Natalie, translated)",
       "genres": [
         "Comedy",
         "Romance"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 68,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
