@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-04T02:44:32Z",
-  "date": "2026-09-04",
+  "generated_at_utc": "2026-09-05T02:46:03Z",
+  "date": "2026-09-05",
   "category": "manga",
   "item_count": 5,
   "errors": [
@@ -23,55 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-201773",
-      "title": "Haimiya Is Scary Cute",
-      "source": "AniList",
-      "category": "manga",
-      "score": 18011.0,
-      "url": "https://anilist.co/manga/201773",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
-      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 17888.0,
-      "velocity": 0.006876118067978533
-    },
-    {
-      "id": "anilist-manga-140475",
-      "title": "The Fragrant Flower Blooms With Dignity",
-      "source": "AniList",
-      "category": "manga",
-      "score": 78637.0,
-      "url": "https://anilist.co/manga/140475",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
-      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 86,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 78543.0,
-      "velocity": 0.0011967966591548578
-    },
-    {
       "id": "anilist-manga-30013",
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 232027.0,
+      "score": 232113.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -86,25 +42,26 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 231972.0,
-      "velocity": 0.0002370975807425034
+      "previous_score": 232027.0,
+      "velocity": 0.00037064651958608263
     },
     {
-      "id": "anilist-manga-150378",
-      "title": "Gokurakugai",
+      "id": "anilist-manga-74347",
+      "title": "One-Punch Man",
       "source": "AniList",
       "category": "manga",
-      "score": 43801.0,
-      "url": "https://anilist.co/manga/150378",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg",
-      "description": "Gokurakugai, a bright and bustling working class district with a hidden dark side. In this area without order, Tao and Alma work as troubleshooters for hire. Their missions involve helping a young boy find his lost friend, a person who dissapears without a trace, and disfigured animal corpses. All the while, the evil spirits who live in the shadows bring out a different side to these troubleshooters!\n<br><br>\n(Source: MANGA Plus)",
+      "score": 172950.0,
+      "url": "https://anilist.co/manga/74347",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
+      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
-        "Fantasy",
+        "Comedy",
+        "Sci-Fi",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 76,
+        "average_score": 85,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -112,20 +69,70 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
+      "id": "anilist-manga-106064",
+      "title": "Chained Soldier",
       "source": "AniList",
       "category": "manga",
-      "score": 37418.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "score": 54560.0,
+      "url": "https://anilist.co/manga/106064",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
+      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 74,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-101557",
+      "title": "The Dangers in My Heart",
+      "source": "AniList",
+      "category": "manga",
+      "score": 35642.0,
+      "url": "https://anilist.co/manga/101557",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
+      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-200366",
+      "title": "Yamiochi Last Boss Reijou no Osananajimi ni Tensei Shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] Shitemasen ka?",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3059.0,
+      "url": "https://anilist.co/manga/200366",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx200366-Q7vcs76vWxjP.jpg",
+      "description": "<i>\"If you were to disappear... I might just lose myself.\"</i>\n<br><br>\nArcs is reborn into the world of the wildly popular otome game Celestia Kingdom. He thought he was just a background character—until it's revealed he's actually the childhood friend of the final boss! Determined to avoid the bad ending, he throws himself into his daily life as her servant. But it seems the true cause of her descent into darkness is... her childhood friend!?\n<br><br>\nAn unpredictable tale of master and servant, between a slightly (maybe more than slightly?) yandere heroine and an obliviously overpowered protagonist, begins...!\n<br><br>\n(Source: Hifumi Shobo, translated)",
+      "genres": [
+        "Action",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 65,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
