@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-05T02:46:03Z",
-  "date": "2026-09-05",
+  "generated_at_utc": "2026-09-06T02:43:28Z",
+  "date": "2026-09-06",
   "category": "manga",
-  "item_count": 5,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 232113.0,
+      "score": 232169.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,97 +42,24 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 232027.0,
-      "velocity": 0.00037064651958608263
+      "previous_score": 232113.0,
+      "velocity": 0.0002412617992098676
     },
     {
-      "id": "anilist-manga-74347",
-      "title": "One-Punch Man",
+      "id": "anilist-manga-203593",
+      "title": "Streaming My Second Life",
       "source": "AniList",
       "category": "manga",
-      "score": 172950.0,
-      "url": "https://anilist.co/manga/74347",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
-      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
+      "score": 3976.0,
+      "url": "https://anilist.co/manga/203593",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203593-L46M3wKxLkc2.jpg",
+      "description": "Twenty years ago, legendary player Lee Suhyeok was killed by a trusted friend during a tower raid. Now he’s back, reincarnated in a much weaker body and forced to restart from level one. Fueled by vengeance, he begins the climb again, but without money or his former abilities, there’s no way he can get his revenge… until he starts streaming. As his stats rise with his view count, Suhyeok turns his revenge into a viral spectacle that no one, not even his killer, will ever see coming.<br><br>(Source: Tapas)",
       "genres": [
         "Action",
-        "Comedy",
-        "Sci-Fi",
-        "Supernatural"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 85,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-106064",
-      "title": "Chained Soldier",
-      "source": "AniList",
-      "category": "manga",
-      "score": 54560.0,
-      "url": "https://anilist.co/manga/106064",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
-      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 74,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-101557",
-      "title": "The Dangers in My Heart",
-      "source": "AniList",
-      "category": "manga",
-      "score": 35642.0,
-      "url": "https://anilist.co/manga/101557",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
-      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 81,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-200366",
-      "title": "Yamiochi Last Boss Reijou no Osananajimi ni Tensei Shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] Shitemasen ka?",
-      "source": "AniList",
-      "category": "manga",
-      "score": 3059.0,
-      "url": "https://anilist.co/manga/200366",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx200366-Q7vcs76vWxjP.jpg",
-      "description": "<i>\"If you were to disappear... I might just lose myself.\"</i>\n<br><br>\nArcs is reborn into the world of the wildly popular otome game Celestia Kingdom. He thought he was just a background character—until it's revealed he's actually the childhood friend of the final boss! Determined to avoid the bad ending, he throws himself into his daily life as her servant. But it seems the true cause of her descent into darkness is... her childhood friend!?\n<br><br>\nAn unpredictable tale of master and servant, between a slightly (maybe more than slightly?) yandere heroine and an obliviously overpowered protagonist, begins...!\n<br><br>\n(Source: Hifumi Shobo, translated)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 65,
+        "average_score": 73,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
