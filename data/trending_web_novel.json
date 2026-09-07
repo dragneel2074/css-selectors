@@ -1,9 +1,17 @@
 {
-  "generated_at_utc": "2026-09-06T02:43:28Z",
-  "date": "2026-09-06",
+  "generated_at_utc": "2026-09-07T02:40:58Z",
+  "date": "2026-09-07",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
+    {
+      "provider": "anilist_trending_anime",
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
+    },
+    {
+      "provider": "anilist_trending_manga",
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
+    },
     {
       "provider": "jikan_season_now",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
@@ -23,6 +31,78 @@
   ],
   "items": [
     {
+      "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
+      "title": "Who Says I'm Not a Proper Adventurer?",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/who-says-i'm-not-a-proper-adventurer_36279671308685605",
+      "image": "https://book-pic.webnovel.com/bookcover/36279671308685605?imageMogr2/thumbnail/600x&imageId=1785830459949",
+      "description": "# ADVENTURE # TRANSMIGRATION # LEVELUP",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 3.0,
+      "velocity": 3.3333333333333335
+    },
+    {
+      "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
+      "title": "Beast Taming: My Beasts Grind, Die, and Respawn",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
+      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1788721431092",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": 0.2222222222222222
+    },
+    {
+      "id": "webnovel-book-investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
+      "title": "Investing in My Harem in the Apocalypse Makes Me Stronger",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
+      "image": "https://book-pic.webnovel.com/bookcover/36470169100262605?imageMogr2/thumbnail/600x&imageId=1787580106051",
+      "description": "# ACTION # ADVENTURE # SYSTEM # R18 # SUPERPOWERS # OVERPOWERED # HAREM # SLICEOFLIFE # APOCALYPSE # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 13.0,
+      "velocity": 0.07692307692307693
+    },
+    {
+      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "title": "SSS Awakening: I am the First Legendary Mage",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 15.0,
+      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
+      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 14.0,
+      "velocity": 0.07142857142857142
+    },
+    {
       "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
       "title": "Investing In My Three Crippled Wives Get 10,000x Times Return",
       "source": "WebNovel",
@@ -41,78 +121,6 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
-      "title": "SSS Awakening: I am the First Legendary Mage",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
-      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
-      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 15.0,
-      "velocity": -0.06666666666666667
-    },
-    {
-      "id": "webnovel-book-investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
-      "title": "Investing in My Harem in the Apocalypse Makes Me Stronger",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
-      "image": "https://book-pic.webnovel.com/bookcover/36470169100262605?imageMogr2/thumbnail/600x&imageId=1787580106051",
-      "description": "# ACTION # ADVENTURE # SYSTEM # R18 # SUPERPOWERS # OVERPOWERED # HAREM # SLICEOFLIFE # APOCALYPSE # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 14.0,
-      "velocity": -0.07142857142857142
-    },
-    {
-      "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "title": "Beast Taming: My Beasts Grind, Die, and Respawn",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-      "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1788511752662",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
-      "velocity": -0.25
-    },
-    {
-      "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
-      "title": "Reincarnated As The Heroes Guide",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/reincarnated-as-the-heroes-guide_35794299300309005",
-      "image": "https://book-pic.webnovel.com/bookcover/35794299300309005?imageMogr2/thumbnail/600x&imageId=1785176541102",
-      "description": "# SYSTEM # MAGIC # SURVIVAL # TRANSMIGRATION # KINGDOMBUILDING # ACADEMY # APOCALYPSE # EVOLUTION # STRONGFEMALELEAD # ADVANCEDTECHNOLOGY",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": -0.38461538461538464
-    },
-    {
       "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
       "title": "Immortal Ascension Through Marriage: Investing in My Wife Get Returns",
       "source": "WebNovel",
@@ -127,33 +135,33 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": -0.5
+      "previous_score": 4.0,
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-sss-talent-my-undead-evolve-without-limits_36208184608216405",
-      "title": "SSS Talent: My Undead Evolve Without Limits",
+      "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
+      "title": "Reincarnated As The Heroes Guide",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 2.0,
-      "url": "https://www.webnovel.com/book/sss-talent-my-undead-evolve-without-limits_36208184608216405",
-      "image": "https://book-pic.webnovel.com/bookcover/36208184608216405?imageMogr2/thumbnail/600x&imageId=1785372606859",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # MAGIC # WEAKTOSTRONG # OVERPOWERED # CULTIVATION # UNDEAD",
+      "score": 7.0,
+      "url": "https://www.webnovel.com/book/reincarnated-as-the-heroes-guide_35794299300309005",
+      "image": "https://book-pic.webnovel.com/bookcover/35794299300309005?imageMogr2/thumbnail/600x&imageId=1785176541102",
+      "description": "# SYSTEM # MAGIC # SURVIVAL # TRANSMIGRATION # KINGDOMBUILDING # ACADEMY # APOCALYPSE # EVOLUTION # STRONGFEMALELEAD # ADVANCEDTECHNOLOGY",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 9.0,
-      "velocity": -0.7777777777777778
+      "previous_score": 8.0,
+      "velocity": -0.125
     },
     {
       "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
       "title": "Starting as the Baron of the Lonely Island",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 15.0,
+      "score": 12.0,
       "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
       "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
       "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
@@ -163,15 +171,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 15.0,
+      "velocity": -0.2
     },
     {
       "id": "webnovel-book-my-magic-has-no-upper-limit_35744072008532305",
       "title": "My Magic Has No Upper Limit",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 12.0,
+      "score": 9.0,
       "url": "https://www.webnovel.com/book/my-magic-has-no-upper-limit_35744072008532305",
       "image": "https://book-pic.webnovel.com/bookcover/35744072008532305?imageMogr2/thumbnail/600x&imageId=1781162555185",
       "description": "# SYSTEM # TRANSMIGRATION # WIZARD",
@@ -181,33 +189,15 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "webnovel-book-building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
-      "title": "Building a Martial Dao Celestial Family by Laying Low",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
-      "image": "https://book-pic.webnovel.com/bookcover/35744276700593205?imageMogr2/thumbnail/600x&imageId=1782372212126",
-      "description": "# SYSTEM # WEAKTOSTRONG # TRANSMIGRATION # KINGDOMBUILDING",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 12.0,
+      "velocity": -0.25
     },
     {
       "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "title": "Global Lords: My Territory Heart Is a World Tree",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
+      "score": 3.0,
       "url": "https://www.webnovel.com/book/global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
       "image": "https://book-pic.webnovel.com/bookcover/35475570008550305?imageMogr2/thumbnail/600x&imageId=1781161763329",
       "description": "# WEAKTOSTRONG # KINGDOMBUILDING # INTERSTELLAR # GOLDENFINGER",
@@ -217,18 +207,18 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 10.0,
+      "velocity": -0.7
     },
     {
-      "id": "webnovel-book-watching-the-mountain_36021062300652005",
-      "title": "Watching the Mountain",
+      "id": "webnovel-book-the-wizard-has-a-biochip_36282748808729505",
+      "title": "The Wizard Has A Biochip",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/watching-the-mountain_36021062300652005",
-      "image": "https://book-pic.webnovel.com/bookcover/36021062300652005?imageMogr2/thumbnail/600x&imageId=1782975961930",
-      "description": "# SYSTEM # LONGEVITY",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/the-wizard-has-a-biochip_36282748808729505",
+      "image": "https://book-pic.webnovel.com/bookcover/36282748808729505?imageMogr2/thumbnail/600x&imageId=1782908469736",
+      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # WEAKTOSTRONG # SUPERPOWERS # OVERPOWERED # HAREM # WIZARDS",
       "genres": [
         "Web Novel"
       ],
@@ -239,14 +229,32 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-i-tame-beasts-by-feeding_35742918800571605",
-      "title": "I Tame Beasts by Feeding",
+      "id": "webnovel-book-my-iq-increases-year-by-year_36021118300653005",
+      "title": "My IQ Increases Year by Year",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/my-iq-increases-year-by-year_36021118300653005",
+      "image": "https://book-pic.webnovel.com/bookcover/36021118300653005?imageMogr2/thumbnail/600x&imageId=1784184955386",
+      "description": "# GENIUS # CAMPUS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-succubus-world---start-with-incubus-system_36452382100861105",
+      "title": "Succubus World - Start with Incubus System",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 6.0,
-      "url": "https://www.webnovel.com/book/i-tame-beasts-by-feeding_35742918800571605",
-      "image": "https://book-pic.webnovel.com/bookcover/35742918800571605?imageMogr2/thumbnail/600x&imageId=1781679800796",
-      "description": "# CULTIVATION # BEAST TAMING",
+      "url": "https://www.webnovel.com/book/succubus-world---start-with-incubus-system_36452382100861105",
+      "image": "https://book-pic.webnovel.com/bookcover/36452382100861105?imageMogr2/thumbnail/600x&imageId=1784644952422",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # SLICEOFLIFE # CULTIVATION # LEVELUP # EVOLUTION",
       "genres": [
         "Web Novel"
       ],
@@ -257,14 +265,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-high-martial-arts-grinding-for-the-supreme-talent_35744375400594505",
-      "title": "High Martial Arts: Grinding for the Supreme Talent",
+      "id": "webnovel-book-perverted-step-dad-system_36234485800744405",
+      "title": "Perverted Step-Dad System",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 5.0,
-      "url": "https://www.webnovel.com/book/high-martial-arts-grinding-for-the-supreme-talent_35744375400594505",
-      "image": "https://book-pic.webnovel.com/bookcover/35744375400594505?imageMogr2/thumbnail/600x&imageId=1782372286905",
-      "description": "# LEVELUP # ACADEMY # MARTIALARTS",
+      "url": "https://www.webnovel.com/book/perverted-step-dad-system_36234485800744405",
+      "image": "https://book-pic.webnovel.com/bookcover/36234485800744405?imageMogr2/thumbnail/600x&imageId=1787910379058",
+      "description": "# ROMANCE # ADVENTURE # SYSTEM # R18 # DARK # SUPERPOWERS # OVERPOWERED # HAREM # SLICEOFLIFE",
       "genres": [
         "Web Novel"
       ],
@@ -275,14 +283,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
-      "title": "Who Says I'm Not a Proper Adventurer?",
+      "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "title": "Investing In My Wives And Get 10,000x to 100,000x Rewards",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/who-says-i'm-not-a-proper-adventurer_36279671308685605",
-      "image": "https://book-pic.webnovel.com/bookcover/36279671308685605?imageMogr2/thumbnail/600x&imageId=1785830459949",
-      "description": "# ADVENTURE # TRANSMIGRATION # LEVELUP",
+      "score": 2.0,
+      "url": "https://www.webnovel.com/book/investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "image": "https://book-pic.webnovel.com/bookcover/36460679408969605?imageMogr2/thumbnail/600x&imageId=1785979519042",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # URBAN # INVINCIBLE # ORIGINAL # FACESLAPPING",
       "genres": [
         "Web Novel"
       ],
