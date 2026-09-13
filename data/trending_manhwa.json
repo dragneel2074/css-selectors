@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-06T02:43:28Z",
-  "date": "2026-09-06",
+  "generated_at_utc": "2026-09-13T02:56:51Z",
+  "date": "2026-09-13",
   "category": "manhwa",
-  "item_count": 12,
+  "item_count": 11,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,32 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-155485",
-      "title": "Dungeon Odyssey",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 20572.0,
-      "url": "https://anilist.co/manga/155485",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155485-YlWPkBFvWG3v.jpg",
-      "description": "When the war between the aboveground and underground ended, humanity was joined by so-called \"dungeon babies,\" those gifted with supernatural abilities and an obsession with the labyrinths below ground. Despite being a dungeon baby, Kim Jin-U suppressed his instincts, choosing to live an ordinary life as a guide and caring for his family. But when an expedition goes wrong and he somehow ends up becoming the new owner of a labyrinth, he discovers that he cannot ignore his instincts forever...\n<br><br>\n(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": 20531.0,
-      "velocity": 0.0019969801763187376
-    },
-    {
       "id": "anilist-manga-149332",
       "title": "The Swordmaster's Son",
       "source": "AniList",
       "category": "manhwa",
-      "score": 43243.0,
+      "score": 43453.0,
       "url": "https://anilist.co/manga/149332",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149332-adkSyOFY3c5U.jpg",
       "description": "Jin Runcandel was destined to become the head of his swordmaster clan. But despite his best efforts, he's banished for his shoddy swordsmanship. Though Jin eventually makes a contract with the god Solderet and is freed from the curse that hindered his abilities, he meets a rather unfortunate end. In the next moment, however, he awakens as a baby, long before his tragedy began. Armed with a second chance and some new powers, Jin swears to fulfill his destiny and become the ultimate swordmaster. <br><br>(Source: Tapas)",
@@ -66,34 +45,11 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-117460",
-      "title": "Overgeared",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 37938.0,
-      "url": "https://anilist.co/manga/117460",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg",
-      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n<br><br>\n(Source: Tapas, edited)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 77,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-167649",
       "title": "The Academy's Genius Swordsman",
       "source": "AniList",
       "category": "manhwa",
-      "score": 28953.0,
+      "score": 29099.0,
       "url": "https://anilist.co/manga/167649",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png",
       "description": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!\n<br><br>(Source: WEBTOON)",
@@ -110,20 +66,41 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-185979",
-      "title": "The Legendary Hero is an Academy Honors Student",
+      "id": "anilist-manga-137304",
+      "title": "Return of the Mad Demon",
       "source": "AniList",
       "category": "manhwa",
-      "score": 9894.0,
-      "url": "https://anilist.co/manga/185979",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185979-0PIJkgbfPZhZ.jpg",
-      "description": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?<br><br>(Source: Tapas)",
+      "score": 27239.0,
+      "url": "https://anilist.co/manga/137304",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png",
+      "description": "The Mad Demon, Ja-Ha Lee, dreams of becoming the God of Martial Arts. Unfortunately, his dreams are dashed after he falls off a cliff while running from the Demonic Cult for stealing the Jade of Heaven. Yet this is not the end for Ja-Ha -- he awakens from the fall to find himself back in his 20s. With his knowledge of the future and of martial arts, he now has a chance at revenge and at getting life right this time. Will he be able to fulfill his dream this time around, or is he doomed to face the same fate yet again?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 79,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-164222",
+      "title": "Chronicles of the Demon Faction",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 13936.0,
+      "url": "https://anilist.co/manga/164222",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164222-9wzDZENmjYtc.jpg",
+      "description": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.<br><br>(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 76,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -135,7 +112,7 @@
       "title": "Chronicles of the Lazy Sovereign",
       "source": "AniList",
       "category": "manhwa",
-      "score": 6036.0,
+      "score": 6139.0,
       "url": "https://anilist.co/manga/195914",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195914-6lub8mSgYhuf.jpg",
       "description": "The path to greatness begins… tomorrow! It’s always a day too early for a great procrastinator like Yeonho Wi to start training. So how did someone as lazy as him become a great warrior renowned for his virtue, benevolence, and might? Follow the historian’s journey to uncover the hidden secrets of the lazy master of martial arts.<br><br>(Source: WEBTOON)",
@@ -157,7 +134,7 @@
       "title": "There's No Such Thing as a Bad Lady",
       "source": "AniList",
       "category": "manhwa",
-      "score": 5499.0,
+      "score": 5659.0,
       "url": "https://anilist.co/manga/206766",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx206766-W5A0TIH5RM0a.jpg",
       "description": "Raised in the slums of Ebelstein, Derek knows all too well that magic cannot bridge social divides. Through harsh lessons and hard-earned discipline, he rises to become a second-tier mage, scraping by as a mercenary. Life takes a different turn when he is appointed as a magical tutor to Diella Duplain-- the temperamental youngest daughter of a noble house, unable to wield magic despite her lineage. Though Derek is her last resort before exile to a convent, Diella clashes with him from the start. Together, will they be able to prove that there’s no such thing as a “bad” lady?<br><br>(Source: WEBTOON)",
@@ -178,7 +155,7 @@
       "title": "The Legend of Enxue",
       "source": "AniList",
       "category": "manhwa",
-      "score": 5100.0,
+      "score": 5190.0,
       "url": "https://anilist.co/manga/198931",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198931-O804U3UqOoX8.jpg",
       "description": "When his grandfather is suddenly brutally murdered by a member of the Demonic Martial Alliance, Fu Enxue vows that he will stop at nothing to avenge his death. To find the perpetrator, he infiltrates the alliance armed only with his wits and thirst for vengeance. There, he catches the attention of the demonic masters, as his overwhelming bloodlust makes him a prodigy in the demonic arts. But will this thirst for blood help him in his pursuit of revenge, or will that same power be his undoing?<br><br>(Source: Tapas)",
@@ -199,7 +176,7 @@
       "title": "Dungeon-eul Geurineun Hwaga",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3628.0,
+      "score": 3927.0,
       "url": "https://anilist.co/manga/213942",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx213942-bmqafwT9feOb.jpg",
       "description": "In a world forever changed by the Great Cataclysm that reshaped the entire globe... Seo Jio, an ordinary art teacher, dies in a sudden fire, only to awaken trapped inside a portrait as a painting himself. Within the world of the portrait, Jio gains omnipotent abilities. He can create life and even open gateways to other dimensions. As he travels across countless dimensions, Jio encounters people bound by fate and uses his newfound abilities to help them overcome the trials before them. But with every dimension he crosses and every incident he resolves, he draws closer to uncovering the truth shrouding his own death…<br><br>(Source: Ridibooks, translated)",
@@ -221,7 +198,7 @@
       "title": "A Wimp’s Tower Strategy Guide",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3520.0,
+      "score": 3653.0,
       "url": "https://anilist.co/manga/203958",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203958-AZVqS2yRXfiN.jpg",
       "description": "Mysterious black towers have appeared all over the world. Inside them are monsters, danger, and the promise of power and fame. Only a select few are chosen to enter as players. Everyone calls it a once-in-a-lifetime opportunity, but 25-year-old Ju-Hyeok Bong calls it a death sentence. He is a timid, anxious self-proclaimed “wimp,” perfectly content with staying under the radar… That is, until he is named as a player. Will he risk everything by entering the tower, or keep running from the one chance that could change his life?<br><br>(Source: WEBTOON)",
@@ -242,7 +219,7 @@
       "title": "Prologue-eseo 30-nyeoni Heulleotda",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2781.0,
+      "score": 3048.0,
       "url": "https://anilist.co/manga/214453",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx214453-dBlfhFxso8j7.jpg",
       "description": "I \"transmigrated\" into a world I'd never seen before. For thirty years, I believed I was living in a classic fantasy RPG. I became a war hero, retired, and thought I was finally about to see the ending. But... Those thirty years were only the prologue. It turns out the real story is about an academy?<br><br>(Source: Naver, translated)",
@@ -263,7 +240,7 @@
       "title": "The Martial Genius Who Remembers Everything",
       "source": "AniList",
       "category": "manhwa",
-      "score": 2035.0,
+      "score": 2167.0,
       "url": "https://anilist.co/manga/211415",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211415-48bZCBa6uZd9.jpg",
       "description": "So-un Jin, a third-rate martial artist with an exceptional memory, awakens 30 years in the past, just before the return of the Demonic Cult. He's been given a second chance, but that's where divine intervention ends. With no innate talent for martial arts, no legendary master to guide him, and only a small, powerless sect to call home, his future seems just as bleak as before. Can So-un use his knowledge of the future to change the course of fate?\n\n<br><br>(Source: WEBTOON)",
@@ -272,7 +249,7 @@
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 67,
+        "average_score": 68,
         "country_of_origin": "KR",
         "format": "MANGA"
       },

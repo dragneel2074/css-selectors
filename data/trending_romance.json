@@ -1,17 +1,9 @@
 {
-  "generated_at_utc": "2026-09-12T02:57:52Z",
-  "date": "2026-09-12",
+  "generated_at_utc": "2026-09-13T02:56:51Z",
+  "date": "2026-09-13",
   "category": "romance",
   "item_count": 30,
   "errors": [
-    {
-      "provider": "anilist_trending_anime",
-      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
-    },
-    {
-      "provider": "anilist_trending_manga",
-      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
-    },
     {
       "provider": "jikan_season_now",
       "error": "504 Server Error: Gateway Time-out for url: https://api.jikan.moe/v4/seasons/now?limit=15"
@@ -30,6 +22,24 @@
     }
   ],
   "items": [
+    {
+      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
+      "title": "The Pack's Doctor",
+      "source": "GoodNovel",
+      "category": "romance",
+      "score": 14.0,
+      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
+      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
+      "genres": [
+        "Romance"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.goodnovel.com/"
+      },
+      "previous_score": 12.0,
+      "velocity": 0.16666666666666666
+    },
     {
       "id": "dreame-1646404864",
       "title": "True Luna",
@@ -445,14 +455,14 @@
       "velocity": 0.0
     },
     {
-      "id": "goodnovel-book-The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
-      "title": "The Alpha Slipped Inside The Wrong Sister",
+      "id": "goodnovel-book-The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
+      "title": "The Unwanted Wife's Return (Ex-Husband Wants Me Back)",
       "source": "GoodNovel",
       "category": "romance",
       "score": 16.0,
-      "url": "https://www.goodnovel.com/book/The-Alpha-Slipped-Inside-The-Wrong-Sister_31001351136",
-      "image": "https://acf.goodnovel.com/book/202604/9b7dc8042fbb49a32220b24faf50b6c8045408426824655a82fa674c53672efa.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "The bed was wet beneath me, soaked by the juices that flowed from between my thighs. A grunt, one so husky brushed against my ear as he moved in and out of me.\r\n\r\n\"Don't tell Kimberly,\" Alpha Ryan groaned as he pushes his cock deeper until the tip brushed a tender spot. I shudder beneath him. Kimberly was his future Luna. She was also my sister.\r\n\r\nI looked up at him beneath my lashes. \"Don't tell my sister you slipped inside the wrong one?\"",
+      "url": "https://www.goodnovel.com/book/The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
+      "image": "https://acf.goodnovel.com/book/202512/b5a07b6c9253fc5c06f64a13ed83c5e8aae2db0fa0b48c20a0fcdcca7769aafd.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Nineteen-year-old Hannah Jones has always been the unwanted daughter—overlooked, undervalued, and sacrificed for her family's sake. When her father's company faces bankruptcy, she's forced to marry billionaire Elijah Martinez in place of her spoiled younger sister, Janet.\r\n\r\nFramed by her own family as a jealous schemer, Hannah endures cold indifference from Elijah and cruelty from his family. Broken and alone, she finally escapes, leaving the country, her toxic family, and her loveless marriage behind.\r\n\r\n\r\n\r\nSeven years later, Hannah returns as a successful writer and designer with twin children and a fortune of her own. She's ready to divorce Elijah and close that painful chapter forever.\r\n\r\nBut Elijah, who spent years searching for her after uncovering the truth, refuses to let her go. He's determined to win the heart of the woman he once ignored even if she no longer needs him.\r\n\r\n\"You're still my wife, Hannah. You're not going anywhere.\"\r\n\r\n\"Your wife? I have more money than your entire family now, Elijah. I don't need you or your name anymore.\"",
       "genres": [
         "Romance"
       ],
@@ -463,14 +473,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
-      "title": "HIS REGRET (Ex-Husband wants Me Back)",
+      "id": "goodnovel-book-The-Luna-Queen-s-Rebirth_31001062738",
+      "title": "The Luna Queen's Rebirth",
       "source": "GoodNovel",
       "category": "romance",
       "score": 15.0,
-      "url": "https://www.goodnovel.com/book/HIS-REGRET-Ex-Husband-wants-Me-Back_31001085593",
-      "image": "https://acf.goodnovel.com/book/202508/0ed1f25214c536829cc8930834e8d9d307748b862f0b3fd50c3bdcd623171491.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“Let me be your real wife for just one month, Daven.”\r\nIt was a simple request—one that sounded like the last plea of a heartbroken woman. But to Althea Grayson, it was her pride. The price she asked for the love she had given, yet never once received in return.\r\nShe had known from the start: their marriage was never about love. Daven Callister had married her out of duty, pressured by his grandmother. There were no tender embraces, no loving glances—only cold silence and an empty house that never felt like home.\r\nStill, Althea held on. She tried to be a good wife, clinging to the hope that one day, Daven’s heart might soften. But her hope was shattered by betrayal—Daven wanted to marry someone else. The woman he truly loved. With or without Althea’s consent. And his entire family stood behind his decision.\r\nHeartbroken and disillusioned, Althea made one final request: one month of being loved like a real wife. One month... before she walked away forever.\r\nDaven thought it was a desperate move—pathetic, even. But that single month changed everything. The way Althea smiled, the way she loved so fully. Even the way she left—left something behind that lingered in Daven’s heart.\r\nAnd now, Daven was lost.\r\nWhen the love he had never once recognized finally revealed itself... was it already too late?\r\nOr should he fight against everything—just for one more chance?",
+      "url": "https://www.goodnovel.com/book/The-Luna-Queen-s-Rebirth_31001062738",
+      "image": "https://acf.goodnovel.com/book/202605/c583d12c47ddad768cb15734207a14100174145ba47d9d4d6994f55de1d6b4cb.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "On her deathbed, Ellie found out that her powerful Alpha King husband, Dominic, wanted her stepsister Vivian instead of her ever since they were teenagers. Not only had he betrayed her love, but he had eagerly crowned Vivian as his Luna Queen even before her death.\nBut fate decided to give Ellie a second chance.\nReborn at eighteen, Ellie is done being the stupid girl who always chased after Dominic.\nHowever, she didn't expect that Dominic would also change, and it seems that what happened in her past life was not that simple.....",
       "genres": [
         "Romance"
       ],
@@ -481,32 +491,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-She-Was-Never-Just-the-Billionaire-s-Wife_31001329056",
-      "title": "She Was Never Just the Billionaire’s Wife",
-      "source": "GoodNovel",
-      "category": "romance",
-      "score": 14.0,
-      "url": "https://www.goodnovel.com/book/She-Was-Never-Just-the-Billionaire-s-Wife_31001329056",
-      "image": "https://acf.goodnovel.com/book/202637/c66a2a138ee75b0c62316620c47361b5cdd442d877d31339dc8b676647f131c2.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Eight months pregnant, Natasha walked into the hospital alone. She saw her husband standing beside another woman, signing papers for her, looking at her with a tenderness Natasha had never received. When the woman asked who Natasha was, Chase didn't even hesitate: “I don't know her.” \r\nThat was the moment Natasha finally gave up.\r\nShe had been Chase's most brilliant employee—the woman who could challenge him in a boardroom and win. Then one reckless night changed everything. She got pregnant, married him, and gave up her career for their family.\r\nTo Chase, however, their marriage was a mistake. Their unborn child was leverage. And his mistress was the woman he truly wanted.\r\nFine. If he wanted a divorce, she'd give him one.\r\nBut Natasha wasn't going to leave as the abandoned wife everyone pitied.\r\nWhen Natasha walks into a major business gala on another man's arm, Chase finally realizes the quiet, obedient wife he thought he knew is gone. The woman standing before him is the brilliant strategist he once couldn't live without.\r\nAnd this time, Chase may have to fight to become part of her life again.",
-      "genres": [
-        "Romance"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.goodnovel.com/"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "goodnovel-book-Seducing-My-Ex-s-Father-In-Law_31000825294",
-      "title": "Seducing My Ex's Father In Law",
+      "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+      "title": "Game Over, Mr. CEO: Your Wife Is Done",
       "source": "GoodNovel",
       "category": "romance",
       "score": 13.0,
-      "url": "https://www.goodnovel.com/book/Seducing-My-Ex-s-Father-In-Law_31000825294",
-      "image": "https://acf.goodnovel.com/book/202409/d6033d607d3ece71d9e6744824c3ec4bc7d3adad788298c39183af28c6211c5f.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Judy’s fated mate rejected her to marry the Lycan Chairman - Gavin’s daughter. As if that wasn’t bad enough, he ruined her family and tried to make her his secret mistress! \r\nJudy’s response? “I’d rather sleep with your father-in-law than ever be with you!”\r\nGavin is known for his power, wealth, and being the ultimate playboy who never sleeps with the same woman twice. \r\nBut Judy’s about to break all his rules… again and again.",
+      "url": "https://www.goodnovel.com/book/Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+      "image": "https://acf.goodnovel.com/book/202603/bb8dfcd762cca3e1026220eb5baf5ed2f1849c1f7feb24cce7841362df18c2d1.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "Like many women who refuse to give up until they hit a dead end, Winter Scott once tried to make a man like Chris Xander fall in love with her.\n\nBut after three years of marriage, they were nothing more than strangers.\n\nWhen she was brutally attacked and her life was hanging by a thread, Chris wasn’t with her. He was by the side of his former love.\n\nWinter forced herself to let go. Yet the powerful man she thought she had left behind refused to disappear from her life.\n\nStep by step, he closed in on her, cutting off any chance of a new romance in her life and blocking every path of retreat.\n\n“You’re the one who insisted on marrying me back then,” he said coldly. “As long as I don’t agree to a divorce, you’ll never be free of me.”\n\nWinter looked at him coldly. “Sorry, Mr. Xander. Game over. This marriage ends when I say it ends.”",
       "genres": [
         "Romance"
       ],
@@ -517,14 +509,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
-      "title": "The Pack's Doctor",
+      "id": "goodnovel-book-Surrogate-for-the-Alpha-Prince-in-a-Coma_31001331110",
+      "title": "Surrogate for the Alpha Prince in a Coma",
       "source": "GoodNovel",
       "category": "romance",
       "score": 12.0,
-      "url": "https://www.goodnovel.com/book/The-Pack-s-Doctor_31001115067",
-      "image": "https://acf.goodnovel.com/book/202410/4411c774a16e7e2b1a226795ab4397633b16d4b99a000a7ee29454ecc2b6d6e8.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Yara Ellis is a medical student, hiding in a human university while she studies to become a doctor. Unlike most, Yara is majoring in human medicine, veterinary medicine, and minoring in zoology. Since the packs are constantly at war, there are never enough doctors to help injured pack members. She’s been on her own for several years now, escaping from her previous pack and making her own way in the world, hoping to one day return to her roots and become the premier doctor of the packs.\r\nWarren Hill is an Alpha, caught up in the constant wars that abound between the packs and the battles that are never-ending. He’s a strong and powerful Alpha, but because of the constant fighting between the packs, he’s never been able to find his mate.\r\nOne day when Yara is letting her wolf run, she comes across Alpha Warren, caught in a bear trap. She’s heard of this, packs leaving traps so that other pack’s members will get caught and either die a slow death or are easily killed.\r\nWarren is in his wolf form, unable to shift without ripping his leg off. Yara carefully springs the trap, releasing him from his metal capture. However, Warren recognizes her as his mate and when his pack arrives, he’s unwilling to leave her behind.\r\nYara doesn’t want to return to Warren’s pack but is unable to fight against the Alpha and his warriors. When she hears that the one who desperately wants her, the one she ran to get away from, is now Alpha of his pack, she realizes that the safest place for her may be with Alpha Warren, even if he is her mate and even if he is unwilling to ever let her go.",
+      "url": "https://www.goodnovel.com/book/Surrogate-for-the-Alpha-Prince-in-a-Coma_31001331110",
+      "image": "https://acf.goodnovel.com/book/202603/200948e4208cfba244cbb657d68cf77ac95f128e3934d4c33fa5b815ec47af59.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "My father sold me. My boyfriend betrayed me. And now I belong to the Alpha Prince in a coma. Lillian is sent to the royal palace as a surrogate candidate for Prince Grayson, the kingdom’s unconscious heir. Every other girl is rejected by his deadly inner wolf — until Lillian steps forward, and the beast chooses her. Overnight, she goes from discarded pack girl to Luna Princess. But her new title comes with a dangerous price. Her ex wants to use her to steal the throne. The palace is crawling with enemies. And the prince everyone thinks is sleeping may be hiding a secret powerful enough to destroy them all. He is dangerous. He is watching. And he may be the only one who can save her.",
       "genres": [
         "Romance"
       ],
@@ -535,14 +527,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
-      "title": "Second Chance for the Barren Luna",
+      "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
+      "title": "Your Uncle’s My Husband Now—Back Off, Ex!",
       "source": "GoodNovel",
       "category": "romance",
       "score": 11.0,
-      "url": "https://www.goodnovel.com/book/Second-Chance-for-the-Barren-Luna_31001064899",
-      "image": "https://acf.goodnovel.com/book/202658/28f6ca955614a0ab96b4d9765d3611118f31a5bb63ad1afd440e89588aa74276.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "“If you can’t provide an heir, you’re a Luna in name only. I need more than a worthless, barren omega cosplaying as a Luna!”\n\nMy Alpha husband Jason’s words cut deeper than any silver blade. For three years, I have kept the truth from him. He thinks he married a weak omega. But the truth? I am the Alpha King’s daughter.\n\nI wait eagerly for his return from a victorious war, ready to reveal who I truly am. Only to find him walking back with his mistress, Viki, who has already carrying his pup.\n\n“You have two options,” Jason snarls, eyes cold. “Lose your status as Luna and go back to being a useless omega. Or stay for Viki and help raise my heir.”\n\nPushed to my breaking point, I accept his rejection and return to my father’s kingdom. I think my heart is dead but fate has led me to a dangerous second-chance mate. Worse, Jason can’t let me go that easily.",
+      "url": "https://www.goodnovel.com/book/Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
+      "image": "https://acf.goodnovel.com/book/202512/dd9d70146d0aaa2148e999644f7156f157f3e358313156cefe661f8c6e6ada9d.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "On their third wedding anniversary, Clark Summer gifted his wife a diamond necklace named \"Love Nyla,\" broadcasting his devotion to the world. But while the public swooned, Nyla sat alone in their empty home, staring at a photo sent by a stranger: her husband’s new secretary, Jordyn, wearing that same necklace, tangled in Clark’s arms.\nFor three years, Nyla had been the perfect, submissive wife. In return, she received betrayal, humiliation from her mother-in-law, and Clark’s sickening justification that his affair was merely a \"physical necessity\" while he still loved her. He believed Nyla was trapped, tethered to him by her father’s astronomical medical bills. He thought she would swallow the insults and raise his mistress's child.\nHe was wrong.\nSelling their mansion, gathering evidence, and delivering irrefutable proof of her infidelity… Nera turned and left, donning a white lab coat instead of an apron, transforming overnight into a top-tier pharmaceutical researcher who had astonished the industry. \nWhen Clark, with belated repentance and red-eyed pleading for her return, saw his icy ex-wife being gently embraced by his uncle Damon, he saw the aloof man before him. The superior man coldly glanced at his nephew, his voice low and dangerous: \"What are you calling 'wife'? Call her 'auntie'.\"",
       "genres": [
         "Romance"
       ],
@@ -553,14 +545,14 @@
       "velocity": null
     },
     {
-      "id": "goodnovel-book-Mine-The-Alpha-s-Possession_31000666029",
-      "title": "Mine - The Alpha's Possession",
+      "id": "goodnovel-book-My-Alpha-s-Mark_31000053030",
+      "title": "My Alpha's Mark",
       "source": "GoodNovel",
       "category": "romance",
       "score": 2.0,
-      "url": "https://www.goodnovel.com/book/Mine-The-Alpha-s-Possession_31000666029",
-      "image": "https://acf.goodnovel.com/book/202303/Mine-The-Alpha-s-Possession/676f98ce759ff3c3fb773511aefcbc8d5230c4ce4faa086923df56dc03719863.jpg?v=1&p=1&w=1080&a=webp",
-      "description": "Mine - The Alpha's Possession is a Werewolf novel written by Kylie that covers Revenge, Girl Power, Betrayal. Read full chapters of this story online on GoodNovel.",
+      "url": "https://www.goodnovel.com/book/My-Alpha-s-Mark_31000053030",
+      "image": "https://acf.goodnovel.com/book/202308/My-Alpha-s-Mark/70065f512ceef661130f835e7c457f143d6ed0d160c410276fbc2c9a76543679.jpg?v=1&p=1&w=1080&a=webp",
+      "description": "My Alpha's Mark is a Werewolf novel written by JP Sina that covers Revenge, Forbidden Love, Fast-Paced Plot. Read full chapters of this story online on GoodNovel.",
       "genres": [
         "Romance"
       ],

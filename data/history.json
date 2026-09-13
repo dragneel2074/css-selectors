@@ -1,311 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-06",
-      "items": [
-        {
-          "id": "anilist-anime-209983",
-          "score": 37918.0
-        },
-        {
-          "id": "anilist-anime-196187",
-          "score": 115797.0
-        },
-        {
-          "id": "anilist-anime-182205",
-          "score": 132388.0
-        },
-        {
-          "id": "anilist-anime-189046",
-          "score": 136865.0
-        },
-        {
-          "id": "anilist-manga-155485",
-          "score": 20572.0
-        },
-        {
-          "id": "anilist-manga-116353",
-          "score": 27312.0
-        },
-        {
-          "id": "anilist-anime-269",
-          "score": 518691.0
-        },
-        {
-          "id": "anilist-anime-21",
-          "score": 748080.0
-        },
-        {
-          "id": "anilist-manga-30013",
-          "score": 232169.0
-        },
-        {
-          "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
-          "score": 16.0
-        },
-        {
-          "id": "dreame-1646404864",
-          "score": 16.0
-        },
-        {
-          "id": "dreame-1231429376",
-          "score": 15.0
-        },
-        {
-          "id": "dreame-742663424",
-          "score": 14.0
-        },
-        {
-          "id": "dreame-2880119808",
-          "score": 13.0
-        },
-        {
-          "id": "dreame-1570579456",
-          "score": 12.0
-        },
-        {
-          "id": "dreame-20390912",
-          "score": 11.0
-        },
-        {
-          "id": "dreame-1411916544",
-          "score": 10.0
-        },
-        {
-          "id": "goodnovel-book-Two-Can-Play_31001626203",
-          "score": 10.0
-        },
-        {
-          "id": "dreame-1737958400",
-          "score": 9.0
-        },
-        {
-          "id": "goodnovel-book-Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
-          "score": 9.0
-        },
-        {
-          "id": "dreame-3391824640",
-          "score": 8.0
-        },
-        {
-          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
-          "score": 8.0
-        },
-        {
-          "id": "dreame-696460032",
-          "score": 7.0
-        },
-        {
-          "id": "goodnovel-book-TEMPORARY-MATES-PERMANENT-CRAVINGS_31001246334",
-          "score": 7.0
-        },
-        {
-          "id": "dreame-1094329344",
-          "score": 6.0
-        },
-        {
-          "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
-          "score": 6.0
-        },
-        {
-          "id": "dreame-2235114496",
-          "score": 5.0
-        },
-        {
-          "id": "goodnovel-book-The-Alpha-King-s-Mind-Reading-Maid_31001248739",
-          "score": 5.0
-        },
-        {
-          "id": "dreame-1317150208",
-          "score": 4.0
-        },
-        {
-          "id": "goodnovel-book-My-Stepbrother-s-Dirty-Little-Secret_31001418978",
-          "score": 4.0
-        },
-        {
-          "id": "dreame-850797312",
-          "score": 3.0
-        },
-        {
-          "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
-          "score": 3.0
-        },
-        {
-          "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
-          "score": 14.0
-        },
-        {
-          "id": "webnovel-book-investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
-          "score": 13.0
-        },
-        {
-          "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
-          "score": 9.0
-        },
-        {
-          "id": "webnovel-book-reincarnated-as-the-heroes-guide_35794299300309005",
-          "score": 8.0
-        },
-        {
-          "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
-          "score": 4.0
-        },
-        {
-          "id": "webnovel-book-sss-talent-my-undead-evolve-without-limits_36208184608216405",
-          "score": 2.0
-        },
-        {
-          "id": "anilist-anime-195600",
-          "score": 132926.0
-        },
-        {
-          "id": "anilist-anime-185874",
-          "score": 82887.0
-        },
-        {
-          "id": "anilist-anime-187538",
-          "score": 65373.0
-        },
-        {
-          "id": "anilist-manga-149332",
-          "score": 43243.0
-        },
-        {
-          "id": "anilist-anime-201514",
-          "score": 40983.0
-        },
-        {
-          "id": "anilist-anime-190569",
-          "score": 40881.0
-        },
-        {
-          "id": "anilist-anime-184492",
-          "score": 40657.0
-        },
-        {
-          "id": "anilist-anime-171110",
-          "score": 38196.0
-        },
-        {
-          "id": "anilist-manga-117460",
-          "score": 37938.0
-        },
-        {
-          "id": "anilist-manga-167649",
-          "score": 28953.0
-        },
-        {
-          "id": "anilist-anime-199066",
-          "score": 23348.0
-        },
-        {
-          "id": "anilist-anime-194219",
-          "score": 20772.0
-        },
-        {
-          "id": "anilist-manga-185979",
-          "score": 9894.0
-        },
-        {
-          "id": "anilist-manga-195914",
-          "score": 6036.0
-        },
-        {
-          "id": "anilist-manga-206766",
-          "score": 5499.0
-        },
-        {
-          "id": "anilist-manga-198931",
-          "score": 5100.0
-        },
-        {
-          "id": "anilist-manga-203593",
-          "score": 3976.0
-        },
-        {
-          "id": "anilist-manga-213942",
-          "score": 3628.0
-        },
-        {
-          "id": "anilist-manga-203958",
-          "score": 3520.0
-        },
-        {
-          "id": "anilist-manga-214453",
-          "score": 2781.0
-        },
-        {
-          "id": "anilist-manga-211415",
-          "score": 2035.0
-        },
-        {
-          "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
-          "score": 16.0
-        },
-        {
-          "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
-          "score": 15.0
-        },
-        {
-          "id": "goodnovel-book-One-Night-Stand-With-My-Boss_31000654418",
-          "score": 15.0
-        },
-        {
-          "id": "goodnovel-book-She-Was-Never-Just-the-Billionaire-s-Wife_31001329056",
-          "score": 14.0
-        },
-        {
-          "id": "goodnovel-book-Second-Chance-for-the-Barren-Luna_31001064899",
-          "score": 13.0
-        },
-        {
-          "id": "webnovel-book-my-magic-has-no-upper-limit_35744072008532305",
-          "score": 12.0
-        },
-        {
-          "id": "goodnovel-book-Billionaire-s-Match_31001148338",
-          "score": 12.0
-        },
-        {
-          "id": "webnovel-book-building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
-          "score": 11.0
-        },
-        {
-          "id": "goodnovel-book-The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
-          "score": 11.0
-        },
-        {
-          "id": "webnovel-book-global-lords-my-territory-heart-is-a-world-tree_35475570008550305",
-          "score": 10.0
-        },
-        {
-          "id": "webnovel-book-watching-the-mountain_36021062300652005",
-          "score": 7.0
-        },
-        {
-          "id": "webnovel-book-i-tame-beasts-by-feeding_35742918800571605",
-          "score": 6.0
-        },
-        {
-          "id": "webnovel-book-high-martial-arts-grinding-for-the-supreme-talent_35744375400594505",
-          "score": 5.0
-        },
-        {
-          "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
-          "score": 3.0
-        },
-        {
-          "id": "dreame-2727435264",
-          "score": 2.0
-        },
-        {
-          "id": "goodnovel-book-Her-Forbidden-Alpha_31000056452",
-          "score": 2.0
-        }
-      ]
-    },
-    {
       "date": "2026-09-07",
       "items": [
         {
@@ -1411,6 +1106,311 @@
         },
         {
           "id": "goodnovel-book-Mine-The-Alpha-s-Possession_31000666029",
+          "score": 2.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
+          "score": 8.0
+        },
+        {
+          "id": "webnovel-book-comprehending-myriad-techniques-as-woodcutter_35744410708535405",
+          "score": 5.0
+        },
+        {
+          "id": "goodnovel-book-The-Pack-s-Doctor_31001115067",
+          "score": 14.0
+        },
+        {
+          "id": "webnovel-book-sss-talent-my-undead-evolve-without-limits_36208184608216405",
+          "score": 10.0
+        },
+        {
+          "id": "webnovel-book-perverted-step-dad-system_36234485800744405",
+          "score": 13.0
+        },
+        {
+          "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
+          "score": 16.0
+        },
+        {
+          "id": "dreame-1646404864",
+          "score": 16.0
+        },
+        {
+          "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+          "score": 15.0
+        },
+        {
+          "id": "dreame-1231429376",
+          "score": 15.0
+        },
+        {
+          "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
+          "score": 14.0
+        },
+        {
+          "id": "dreame-742663424",
+          "score": 14.0
+        },
+        {
+          "id": "dreame-2880119808",
+          "score": 13.0
+        },
+        {
+          "id": "dreame-1570579456",
+          "score": 12.0
+        },
+        {
+          "id": "webnovel-book-beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
+          "score": 11.0
+        },
+        {
+          "id": "dreame-20390912",
+          "score": 11.0
+        },
+        {
+          "id": "dreame-1411916544",
+          "score": 10.0
+        },
+        {
+          "id": "goodnovel-book-Two-Can-Play_31001626203",
+          "score": 10.0
+        },
+        {
+          "id": "dreame-1737958400",
+          "score": 9.0
+        },
+        {
+          "id": "goodnovel-book-Five-Years-of-Marriage-to-Mr-Bradford_31001218698",
+          "score": 9.0
+        },
+        {
+          "id": "dreame-3391824640",
+          "score": 8.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Unwanted-Luna_31001153954",
+          "score": 8.0
+        },
+        {
+          "id": "dreame-696460032",
+          "score": 7.0
+        },
+        {
+          "id": "goodnovel-book-TEMPORARY-MATES-PERMANENT-CRAVINGS_31001246334",
+          "score": 7.0
+        },
+        {
+          "id": "dreame-1094329344",
+          "score": 6.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-s-Contract_31000725726",
+          "score": 6.0
+        },
+        {
+          "id": "dreame-2235114496",
+          "score": 5.0
+        },
+        {
+          "id": "goodnovel-book-The-Alpha-King-s-Mind-Reading-Maid_31001248739",
+          "score": 5.0
+        },
+        {
+          "id": "dreame-1317150208",
+          "score": 4.0
+        },
+        {
+          "id": "goodnovel-book-My-Stepbrother-s-Dirty-Little-Secret_31001418978",
+          "score": 4.0
+        },
+        {
+          "id": "dreame-850797312",
+          "score": 3.0
+        },
+        {
+          "id": "goodnovel-book-A-woman-worth-billions-dated-the-wrong-brother_31001292618",
+          "score": 3.0
+        },
+        {
+          "id": "dreame-2727435264",
+          "score": 2.0
+        },
+        {
+          "id": "webnovel-book-investing-in-my-harem-in-the-apocalypse-makes-me-stronger_36470169100262605",
+          "score": 12.0
+        },
+        {
+          "id": "webnovel-book-high-martial-arts-grinding-for-the-supreme-talent_35744375400594505",
+          "score": 9.0
+        },
+        {
+          "id": "webnovel-book-building-a-martial-dao-celestial-family-by-laying-low_35744276700593205",
+          "score": 7.0
+        },
+        {
+          "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
+          "score": 6.0
+        },
+        {
+          "id": "webnovel-book-my-study-chat-group-is-full-of-real-big-shots_36020892100649505",
+          "score": 3.0
+        },
+        {
+          "id": "anilist-anime-21",
+          "score": 750071.0
+        },
+        {
+          "id": "anilist-anime-269",
+          "score": 520686.0
+        },
+        {
+          "id": "anilist-manga-30013",
+          "score": 232676.0
+        },
+        {
+          "id": "anilist-anime-178789",
+          "score": 154916.0
+        },
+        {
+          "id": "anilist-anime-189046",
+          "score": 139242.0
+        },
+        {
+          "id": "anilist-anime-195600",
+          "score": 134564.0
+        },
+        {
+          "id": "anilist-anime-182205",
+          "score": 134333.0
+        },
+        {
+          "id": "anilist-anime-196187",
+          "score": 118952.0
+        },
+        {
+          "id": "anilist-anime-185874",
+          "score": 85448.0
+        },
+        {
+          "id": "anilist-anime-187538",
+          "score": 67469.0
+        },
+        {
+          "id": "anilist-manga-149332",
+          "score": 43453.0
+        },
+        {
+          "id": "anilist-anime-201514",
+          "score": 42053.0
+        },
+        {
+          "id": "anilist-anime-190569",
+          "score": 41843.0
+        },
+        {
+          "id": "anilist-anime-184492",
+          "score": 41097.0
+        },
+        {
+          "id": "anilist-anime-171110",
+          "score": 38530.0
+        },
+        {
+          "id": "anilist-manga-167649",
+          "score": 29099.0
+        },
+        {
+          "id": "anilist-manga-116353",
+          "score": 27416.0
+        },
+        {
+          "id": "anilist-manga-137304",
+          "score": 27239.0
+        },
+        {
+          "id": "anilist-anime-199066",
+          "score": 24160.0
+        },
+        {
+          "id": "anilist-manga-87225",
+          "score": 22478.0
+        },
+        {
+          "id": "anilist-anime-194219",
+          "score": 21613.0
+        },
+        {
+          "id": "anilist-manga-169922",
+          "score": 15833.0
+        },
+        {
+          "id": "anilist-manga-164222",
+          "score": 13936.0
+        },
+        {
+          "id": "anilist-manga-195914",
+          "score": 6139.0
+        },
+        {
+          "id": "anilist-manga-206766",
+          "score": 5659.0
+        },
+        {
+          "id": "anilist-manga-198931",
+          "score": 5190.0
+        },
+        {
+          "id": "anilist-manga-213942",
+          "score": 3927.0
+        },
+        {
+          "id": "anilist-manga-203958",
+          "score": 3653.0
+        },
+        {
+          "id": "anilist-manga-214453",
+          "score": 3048.0
+        },
+        {
+          "id": "anilist-manga-211415",
+          "score": 2167.0
+        },
+        {
+          "id": "goodnovel-book-The-Unwanted-Wife-s-Return-Ex-Husband-Wants-Me-Back_31001215672",
+          "score": 16.0
+        },
+        {
+          "id": "goodnovel-book-The-Luna-Queen-s-Rebirth_31001062738",
+          "score": 15.0
+        },
+        {
+          "id": "goodnovel-book-Game-Over-Mr-CEO-Your-Wife-Is-Done_31001263201",
+          "score": 13.0
+        },
+        {
+          "id": "goodnovel-book-Surrogate-for-the-Alpha-Prince-in-a-Coma_31001331110",
+          "score": 12.0
+        },
+        {
+          "id": "goodnovel-book-Your-Uncle-s-My-Husband-Now-Back-Off-Ex_31001200284",
+          "score": 11.0
+        },
+        {
+          "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+          "score": 4.0
+        },
+        {
+          "id": "webnovel-book-taboo-online_36197302000146005",
+          "score": 2.0
+        },
+        {
+          "id": "goodnovel-book-My-Alpha-s-Mark_31000053030",
           "score": 2.0
         }
       ]
