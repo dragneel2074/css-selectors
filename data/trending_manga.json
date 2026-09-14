@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-13T02:56:51Z",
-  "date": "2026-09-13",
+  "generated_at_utc": "2026-09-14T03:10:52Z",
+  "date": "2026-09-14",
   "category": "manga",
-  "item_count": 3,
+  "item_count": 9,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 232676.0,
+      "score": 232766.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,24 +42,108 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
+      "previous_score": 232676.0,
+      "velocity": 0.0003868039677491447
+    },
+    {
+      "id": "anilist-manga-125828",
+      "title": "Sakamoto Days",
+      "source": "AniList",
+      "category": "manga",
+      "score": 88751.0,
+      "url": "https://anilist.co/manga/125828",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
+      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-87225",
-      "title": "Tsukimichi: Moonlit Fantasy",
+      "id": "anilist-manga-149544",
+      "title": "The Guy She Was Interested In Wasn't a Guy at All",
       "source": "AniList",
       "category": "manga",
-      "score": 22478.0,
-      "url": "https://anilist.co/manga/87225",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87225-EYFJq2QMzHkk.jpg",
-      "description": "Misumi Makoto was just a normal high-school student... until the day he was summoned to another world because of an agreement his parents had made with a goddess. Except when he meets the only goddess in the world he's sent to, she insults him by calling him \"extremely unattractive\" and makes an arbitrary decision to banish him to a deserted wilderness. Makoto searches the desolate land to find other humans, but for some reason only finds creatures that are all nonhuman. Even the two pretty women who decide to follow him on his journey used to be a dragon and a giant spider. Along with two extremely eccentric characters (but really reliable in battles), so begins Makoto's unlucky adventure in the new world! A fantasy about a teenage boy who keeps getting hit by one problem after another!\n<br><br>\n(Source: Alpha Manga)",
+      "score": 51827.0,
+      "url": "https://anilist.co/manga/149544",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
+      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 82,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-180752",
+      "title": "Ichi the Witch",
+      "source": "AniList",
+      "category": "manga",
+      "score": 29114.0,
+      "url": "https://anilist.co/manga/180752",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
+      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
       "genres": [
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy",
-        "Supernatural"
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-144866",
+      "title": "Akane-banashi",
+      "source": "AniList",
+      "category": "manga",
+      "score": 25228.0,
+      "url": "https://anilist.co/manga/144866",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144866-ummLIg6x419I.jpg",
+      "description": "Rakugo--the ultimate form of storytelling, where everything in a story is expressed with just your body and words. Shinta and his daughter Akane have been seduced by this wonderful form of classical entertainment. Having observed her father strive to pass the shin'uchi rakugo test, Akane will take her own steps into this unique world!\n<br><br>\n(Source: MANGA Plus)\n<br><br>\n<i>Notes:<br>\n- Ranked 3rd in the 8th Next Manga Awards print manga category in 2022.<br>\n- Ranked 4th in the Kono Manga ga Sugoi! 2023 guidebook for male readers.<br>\n- Ranked 3rd in the Nationwide Bookstore Employees' Recommended Comics of 2023.<br>\n- Ranked 2nd in the 16th Manga Taisho in 2023.<br>\n- Nominated for the 47th Kodansha Manga Award in the shounen category in 2023.<br>\n- Included in the New York Public Library's 2023 Best Books for Teens.<br>\n- Included in YALSA's 2024 Great Graphic Novels for Teens.</i>",
+      "genres": [
+        "Drama"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-176740",
+      "title": "Centuria",
+      "source": "AniList",
+      "category": "manga",
+      "score": 22045.0,
+      "url": "https://anilist.co/manga/176740",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176740-KD68EumxZV95.jpg",
+      "description": "Sold into slavery by his own mother, Julian has known nothing but pain and brutality. All that changes when, aboard a slave ship, he experiences the kindness and the tender touch of a loving person for the first time. But fate has plans for Julian in the blood awakening of an ancient god who strikes a cruel bargain: an innocent life in exchange for extraordinary powers—ones he must use to protect a helpless baby in a cruel and violent world!\n<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
       ],
       "metadata": {
         "average_score": 76,
@@ -70,20 +154,67 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-169922",
-      "title": "Hope You're Happy, Lemon",
+      "id": "anilist-manga-177096",
+      "title": "The Mortifying Ordeal of Being Seen",
       "source": "AniList",
       "category": "manga",
-      "score": 15833.0,
-      "url": "https://anilist.co/manga/169922",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169922-kd2WNbRBJqWA.jpg",
-      "description": "Sunao Akiyoshi thought he’d left heartbreak behind after swearing off love in junior high. His first love, Lemon Nishikawa, shattered his trust by admitting to cheating on him with multiple guys. Now in university, Sunao is finally ready to try again, thanks to his crush on the sweet and down-to-earth Natsumi Kogahara from his film club. But just as he’s about to take a chance on love, fate throws him a curveball: he runs into Lemon again, and one fateful night under a shooting star, he wakes up in her body!\n<br><br>\nNow stuck in the ultimate awkward situation, Sunao has to navigate Lemon’s life—and his growing feelings for Natsumi—while figuring out how to switch back. To make matters worse, Lemon and Natsumi are roommates, leading to hilarious misunderstandings and shocking revelations. In this gender-bending, body-swap romcom, Sunao must face his past, survive his present, and somehow come out of it all with his heart intact.\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "score": 14272.0,
+      "url": "https://anilist.co/manga/177096",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177096-C1K0hAL8p1w9.png",
+      "description": "Being sexy can be mortifying, so who will be the first to tap out in this battle of flirtatious gazes between smitten seatmates Eguchi and Ikezawa?\n<BR><BR>\n(Source: VIZ Media)\n<BR><BR>\n<i>Note: Originally self-published, the manga got licensed by Shogakukan and started being published on Sunday Webry since June 17th, 2024. The original first chapter was republished with some changes, the subsequent chapters are being published without changes.</i>",
       "genres": [
         "Comedy",
+        "Ecchi",
         "Romance"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 75,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-148026",
+      "title": "Let’s Run an Inn on Dungeon Island! (In a World Ruled by Women)",
+      "source": "AniList",
+      "category": "manga",
+      "score": 6381.0,
+      "url": "https://anilist.co/manga/148026",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx148026-9RA2JpyOAE4y.jpg",
+      "description": "Sanada Shirou thought escaping his dead-end corporate job would mean peace at last—until he wakes up in a world where women rule the battlefield and men are treated like fragile treasures. Gifted with creation magic, Shirou figures the smart move is to open a cozy inn and live the slow life he’s always wanted. But “slow” doesn’t last long when the fiercest fighters and boldest beauties of this matriarchal world start checking in…and checking him out! Between building the perfect inn and surviving as the entertainment for his rowdy residents, Shirou’s new life is shaping up to be anything but ordinary in this sexy isekai romp.\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 65,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-182330",
+      "title": "Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.",
+      "source": "AniList",
+      "category": "manga",
+      "score": 3918.0,
+      "url": "https://anilist.co/manga/182330",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182330-S2qhO53rC4X5.jpg",
+      "description": "Harusho Ootsuki lost his parents when he was young, and his grandmother took him in and taught him housework and cooking. Harusho uses his skills to start a part-time job as a housekeeper during the summer vacation of his second year in high school. The story begins when his first client turns out to be the home of the most beautiful girl in school.\n<BR><BR>\n(Source: Natalie, translated)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 70,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
