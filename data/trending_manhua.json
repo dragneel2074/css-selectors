@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-14T03:10:52Z",
-  "date": "2026-09-14",
+  "generated_at_utc": "2026-09-15T03:12:49Z",
+  "date": "2026-09-15",
   "category": "manhua",
   "item_count": 1,
   "errors": [
@@ -23,22 +23,21 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-167372",
-      "title": "Necromancer, the Ultimate Scourge!",
+      "id": "anilist-manga-160980",
+      "title": "Log Into The Future",
       "source": "AniList",
       "category": "manhua",
-      "score": 11012.0,
-      "url": "https://anilist.co/manga/167372",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
-      "description": "In a world where magic and monsters exist, Lin Moyu has hit the age of acquiring his very own profession. While most would be lucky just to obtain a high-level combat class, Moyu becomes the ultrarare necromancer! Being the first and only one of his kind, he has no idea of the potential he possesses on his journey to level up and face great challenges. What new heights will Moyu achieve with his unique army of undead?\n<BR><BR>\n(Source: Tappytoon)",
+      "score": 14881.0,
+      "url": "https://anilist.co/manga/160980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg",
+      "description": "300 years after mutated beasts ravaged the world, humanity began to lose ground, with only martial arts as their last line of defense. Lu Sheng mysteriously gains the power to journey 10,000 years into the future, only to find humanity has disappeared. However, he acquires the culminated martial arts wisdom to fight back against these monsters, honing his skills to the pinnacle. Armed with this new-found knowledge, can Lu Sheng emerge as the final beacon of hope for humanity's survival?\n<BR><BR>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
-        "Adventure",
         "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 72,
+        "average_score": 71,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
