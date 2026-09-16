@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-15T03:12:49Z",
-  "date": "2026-09-15",
+  "generated_at_utc": "2026-09-16T03:09:11Z",
+  "date": "2026-09-16",
   "category": "manhwa",
-  "item_count": 11,
+  "item_count": 10,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,42 +23,63 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-163824",
-      "title": "Revenge of the Baskerville Bloodhound",
+      "id": "anilist-manga-175946",
+      "title": "Myst, Might, Mayhem",
       "source": "AniList",
       "category": "manhwa",
-      "score": 44772.0,
-      "url": "https://anilist.co/manga/163824",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
-      "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
+      "score": 18999.0,
+      "url": "https://anilist.co/manga/175946",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175946-rx6eIfakvWYV.jpg",
+      "description": "All Jeong wants is a second chance – for revenge! His grandfather’s gruesome death has transformed him into the bloodthirsty and ruthless Scythe Demon. He will stop at nothing until he has killed the man responsible. Yet rage and determination alone are not enough. He must train in martial arts if he ever wants to stand a chance against such a formidable foe. Will he succeed in his revenge on the murderer of his grandfather?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 83,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
-      "previous_score": 44707.0,
-      "velocity": 0.0014539110206455365
+      "previous_score": 18750.0,
+      "velocity": 0.01328
     },
     {
-      "id": "anilist-manga-149332",
-      "title": "The Swordmaster's Son",
+      "id": "anilist-manga-182066",
+      "title": "The Regressed Mercenary Has a Plan",
       "source": "AniList",
       "category": "manhwa",
-      "score": 43548.0,
-      "url": "https://anilist.co/manga/149332",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149332-adkSyOFY3c5U.jpg",
-      "description": "Jin Runcandel was destined to become the head of his swordmaster clan. But despite his best efforts, he's banished for his shoddy swordsmanship. Though Jin eventually makes a contract with the god Solderet and is freed from the curse that hindered his abilities, he meets a rather unfortunate end. In the next moment, however, he awakens as a baby, long before his tragedy began. Armed with a second chance and some new powers, Jin swears to fulfill his destiny and become the ultimate swordmaster. <br><br>(Source: Tapas)",
+      "score": 23811.0,
+      "url": "https://anilist.co/manga/182066",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
+      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
       "genres": [
         "Action",
-        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 79,
+        "average_score": 81,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": 23761.0,
+      "velocity": 0.0021042885400446108
+    },
+    {
+      "id": "anilist-manga-106929",
+      "title": "Eleceed",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 46146.0,
+      "url": "https://anilist.co/manga/106929",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg",
+      "description": "Ji-U is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Ji-U’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 85,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -66,14 +87,36 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-152128",
-      "title": "The Novel's Extra",
+      "id": "anilist-manga-132144",
+      "title": "Return of the Blossoming Blade",
       "source": "AniList",
       "category": "manhwa",
-      "score": 29601.0,
-      "url": "https://anilist.co/manga/152128",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png",
-      "description": "Wouldn’t it be a dream to wake up in a world of your own creation? For Kim Hajin, it’s nothing short of a nightmare. With no clue how or why he’s been transported into his web novel — as a mere extra, no less! — Hajin has little choice but to see his story through until the end. Lucky for him, as the author, he knows this perilous world like the back of his hand. But when discrepancies in the plot begin popping up left and right, Hajin soon realizes that things aren’t quite so simple, after all…<br><br>(Source: Tapas)",
+      "score": 44381.0,
+      "url": "https://anilist.co/manga/132144",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png",
+      "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 84,
+        "country_of_origin": "KR",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-159930",
+      "title": "The Infinite Mage",
+      "source": "AniList",
+      "category": "manhwa",
+      "score": 40323.0,
+      "url": "https://anilist.co/manga/159930",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg",
+      "description": "After Sirone was abandoned in a stable, he was found by a family of hunters and raised in a loving home. Despite the hardships of the peasant life, he learned how to read from a young age and became obsessed with books, especially ones on the history of magic. One day, he has an unlikely encounter with a mage and learns how to enter the \"spirit zone,\" the first step to learning how to use magic. Although they say only nobles can be mages, will Sirone be able to prove his infinite potential?\n<br><br>\n(Source: Tapas)",
       "genres": [
         "Action",
         "Adventure",
@@ -81,7 +124,7 @@
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 77,
+        "average_score": 78,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -89,14 +132,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-182066",
-      "title": "The Regressed Mercenary Has a Plan",
+      "id": "anilist-manga-180891",
+      "title": "Absolute Regression",
       "source": "AniList",
       "category": "manhwa",
-      "score": 23761.0,
-      "url": "https://anilist.co/manga/182066",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg",
-      "description": "Cecil Perdium, the Mercenary King, was killed in battle before he could avenge his family. As he faces death, he learns that Duke Delphine, the man who caused the downfall of his family, didn't work alone. Suddenly waking up as his teenage self, Cecil must work to both overcome his poor reputation and build up his strength to save his family. With their soldiers and knights defecting due to the harsh conditions they must endure, he has his work cut out for him. Can Cecil become the mighty warrior he once was and avert his family's fate?\n<br><br>\n(Source: WEBTOON)",
+      "score": 18066.0,
+      "url": "https://anilist.co/manga/180891",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg",
+      "description": "The past has changed, but like a fiery comet, he still comes. Mugi Hwa, the one without equal, slashed through Murim's skies with his sword, toppling every lord who dared to face him–even Cheonma, Mugeuk Geom’s father. But Mugeuk didn’t accept defeat. Instead, he turned to the forbidden: a time-bending ritual that hurled him into his own past. Now, retracing his steps, he races against the clock until Mugi emerges once again. But this time, it's not just about power, but mending old wounds and forging new bonds to unite his people and prepare for the bloodtide to come.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
         "Fantasy"
@@ -110,56 +153,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-175262",
-      "title": "The Reborn Young Lord is an Assassin",
+      "id": "anilist-manga-204974",
+      "title": "Psychopath in Murim",
       "source": "AniList",
       "category": "manhwa",
-      "score": 23656.0,
-      "url": "https://anilist.co/manga/175262",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg",
-      "description": "Cyan Vert, illegitimate son of the Duke and the empire's greatest assassin, is betrayed by the righteous brother whose shadow he's always lived in. But just before the fatal blow strikes his throat, Cyan awakes to find he's just a boy again. The young lord has been reborn, and this time, he's not going to live in anyone's shadow!\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-175946",
-      "title": "Myst, Might, Mayhem",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 18750.0,
-      "url": "https://anilist.co/manga/175946",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175946-rx6eIfakvWYV.jpg",
-      "description": "All Jeong wants is a second chance – for revenge! His grandfather’s gruesome death has transformed him into the bloodthirsty and ruthless Scythe Demon. He will stop at nothing until he has killed the man responsible. Yet rage and determination alone are not enough. He must train in martial arts if he ever wants to stand a chance against such a formidable foe. Will he succeed in his revenge on the murderer of his grandfather?\n<br><br>\n(Source: WEBTOON)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-208208",
-      "title": "The Shepherd Wizard",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 5849.0,
-      "url": "https://anilist.co/manga/208208",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208208-azuHfUiSOUSZ.jpg",
-      "description": "Born into a world where divine power defines status, Turan hides his true strength to live as a simple shepherd. Descended from a line of wizards yet raised in secrecy, he avoids the attention of powerful nobles who would exploit him. But when a wandering knight recognizes his extraordinary potential, Turan is faced with a life-changing choice. Will he remain in hiding, or journey to the capital and embrace the destiny he was meant for?<Br><br>(Source: WEBTOON)",
+      "score": 5710.0,
+      "url": "https://anilist.co/manga/204974",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx204974-SZoqdyhxoLRH.jpg",
+      "description": "<i>[Welcome to Murim Online, the world where the strongest reside.]<br><br>\n[Your device has malfunctioned, and logging out failed.]<br><br>\n[Would you like to attempt to disconnect once more?]<br><br>\n[Yes or No]</i><br><br>\nWhen he tried returning to virtual reality, the place he logged into was instead the “real Murim.” A once-in-an-era psychopath fell into the Murim due to the Grim Reaper’s mistake. Dong Bongsu's merciless fangs cast a shadow over Murim, which is rife with schemes and malice.<br><br>(Source: Naver, translated)",
       "genres": [
         "Action",
         "Fantasy"
@@ -173,20 +174,21 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-202718",
-      "title": "Bangnanggisaro Saraganeun Beop",
+      "id": "anilist-manga-182139",
+      "title": "My Avatars’ Path to Greatness",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3438.0,
-      "url": "https://anilist.co/manga/202718",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx202718-AkkO9OkIYbiw.jpg",
-      "description": "After dying due to an unexpected accident, Kim Yohan reincarnated as Johann Aitz of the prestigious Aitz Family. He may have been born a noble, but Johann Aitz ranks at the very bottom of the family hierarchy. To make matters worse, this world revolves around a ruthless medieval society. “The only person you can trust is yourself.” In a world ruled by the law of the strong, survival requires only two things: money and power. While training relentlessly using the knowledge he gained in his modern life, Johann ends up encountering Kaegal, the Master of Poison of the Empire’s greatest assassination guild, the Nesos Guild. This is the fierce struggle of Johann, who refuses to become just another prey of this brutal era.<br><br>(Source: Naver, translated)",
+      "score": 5663.0,
+      "url": "https://anilist.co/manga/182139",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182139-2skHo9YMWUk0.jpg",
+      "description": "Seonghyeon Han is a victim of a violent crime that left him with impaired legs and a fear of the outside world. Now, he faces an even greater challenge: while he gained the power to create clones, he has just 24 hours before being sent to another dimension. As the countdown ticks down, Seonghyeon makes a desperate move -- he sends his clone through the interdimensional portal, and discovers his real body can remain safe at home. Thus begins the epic tale of Seonghyeon's... clones.<br><br>(Source: WEBTOON)",
       "genres": [
         "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 74,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
@@ -194,14 +196,14 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-214050",
-      "title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
+      "id": "anilist-manga-207089",
+      "title": "Became the Lout First Prince",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3253.0,
-      "url": "https://anilist.co/manga/214050",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx214050-8wo2aoqt2oC4.jpg",
-      "description": "The pinnacle of magic was the 9th Circle, a realm said to be that of a demigod. The final key to reaching it was the heart of the Crimson Dragon, Valdrova.<br><br>\n<i>“I never imagined my own fiancé would come to kill me.”</i><br><br>\nYet for some reason, Valdrova offered up her heart without putting up any resistance.<br><br>\n<i>“…What is this feeling? Why does this leave such a bitter taste?”</i><br><br>\nThen I faced it—a despair far older and deeper than the hatred I had carried.<br><br>(Source: Naver, translated)",
+      "score": 4850.0,
+      "url": "https://anilist.co/manga/207089",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx207089-BhTVeCdo6oOX.jpg",
+      "description": "The dark blade Gruhorn, constant companion to heroes throughout the ages. Knights, rebels, and slayers—all became legend wielding this sentient blade. But, centuries after being claimed by the first hero, Gruhorn winds up in the clutches of his descendant: a greedy, greasy, bratty lout of a first prince. Even worse: when the prince falls onto the blade, Gruhorn becomes him! But is this new body a prison, or a chance for the legendary blade to become a hero himself?<br><br>(Source: Tapas)",
       "genres": [
         "Action",
         "Fantasy"
@@ -215,42 +217,20 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-211510",
-      "title": "The Otherworldly Family Man",
+      "id": "anilist-manga-188155",
+      "title": "The Genius Swordsman of Mount Hua",
       "source": "AniList",
       "category": "manhwa",
-      "score": 3128.0,
-      "url": "https://anilist.co/manga/211510",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx211510-6DsPrnzmNZSY.jpg",
-      "description": "Years after losing his parents, Ju-Hwan Kim has resigned himself to a life of loneliness. But on Christmas Eve, a mysterious man dressed as Santa grants his wish for a family of his own and transports him to another world. There, he finds an unlikely home with Lizzie, a traumatized widow, and her young stepdaughter. Determined to protect the family fate has given him, Ju-Hwan must learn how to hunt, master his newfound magical powers, and survive in a world where kindness is a rare luxury.<br><br>(Source: WEBTOON, edited)",
+      "score": 4573.0,
+      "url": "https://anilist.co/manga/188155",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
+      "description": "After being ambushed by the Demonic Cult, Goheon Dok and Hyeonjo, his close friend from Mount Hua, are cornered and on the verge of losing their lives. Before they're both killed, Hyeonjo hands Goheon the Plum Blossom Spirit Beads, a sacred relic of Mount Hua that causes Goheon to take possession of the body of Muhwi, an apprentice of Hyeonjo. Now, as a Senior Disciple of Mount Hua, Goheon Dok must fight to protect Mount Hua and fulfill his friend's dying wish.<br><br>(Source: WEBTOON)",
       "genres": [
-        "Fantasy",
-        "Slice of Life"
+        "Action",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 72,
-        "country_of_origin": "KR",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-215080",
-      "title": "Teto X Egen",
-      "source": "AniList",
-      "category": "manhwa",
-      "score": 805.0,
-      "url": "https://anilist.co/manga/215080",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx215080-UTv9b1ZfChyn.png",
-      "description": "Ha-Seon, a “workaholic” for whom her company and job are her whole life, and Seon-Ho, a “homebody” whose world consists only of his home and his cat. These two seemed as unlikely to cross paths as parallel lines. But not only are they assigned to the same task force, it turns out they’re actually neighbors, and their daily lives begin to get tangled up. Just when things are getting complicated, Seon-Ho’s first love shows up…!\n<br><br>\nWhat will become of this precarious yet strangely thrilling relationship between two people who lived in completely different worlds?\n<br><br>(Source: Millie, translated)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 69,
+        "average_score": 71,
         "country_of_origin": "KR",
         "format": "MANGA"
       },
