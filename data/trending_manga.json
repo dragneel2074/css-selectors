@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-17T03:13:38Z",
-  "date": "2026-09-17",
+  "generated_at_utc": "2026-09-18T03:00:45Z",
+  "date": "2026-09-18",
   "category": "manga",
-  "item_count": 8,
+  "item_count": 4,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,56 +23,11 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-106130",
-      "title": "Blue Lock",
-      "source": "AniList",
-      "category": "manga",
-      "score": 124207.0,
-      "url": "https://anilist.co/manga/106130",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
-      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sports"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 124147.0,
-      "velocity": 0.0004832980257275649
-    },
-    {
-      "id": "anilist-manga-30013",
-      "title": "One Piece",
-      "source": "AniList",
-      "category": "manga",
-      "score": 232982.0,
-      "url": "https://anilist.co/manga/30013",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
-      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 91,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
       "id": "anilist-manga-140475",
       "title": "The Fragrant Flower Blooms With Dignity",
       "source": "AniList",
       "category": "manga",
-      "score": 79197.0,
+      "score": 79267.0,
       "url": "https://anilist.co/manga/140475",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
       "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
@@ -86,115 +41,68 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
+      "previous_score": 79197.0,
+      "velocity": 0.000883871863833226
+    },
+    {
+      "id": "anilist-manga-46765",
+      "title": "Kingdom",
+      "source": "AniList",
+      "category": "manga",
+      "score": 76295.0,
+      "url": "https://anilist.co/manga/46765",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png",
+      "description": "Xin is a war orphan in a poor village in the kingdom of Qin. He has big dreams of becoming a great general, and when his best friend’s life is cut short by political machinations, Xin sets off to find a deposed ruler and help restore his place on the throne, while working his way up through the ranks of the Qin kingdom’s army to do what no one has ever done before—unify China.\n<br><br>\n(Source: VIZ Media)",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "metadata": {
+        "average_score": 89,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-manga-125528",
-      "title": "Rosen Garten Saga",
+      "id": "anilist-manga-99324",
+      "title": "Welcome to Demon School! Iruma-kun",
       "source": "AniList",
       "category": "manga",
-      "score": 13115.0,
-      "url": "https://anilist.co/manga/125528",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125528-BOF55llKv2d7.jpg",
-      "description": "“Clench your ass, girl! Playtime's over!”\n<BR><BR>\nMeet Rin, a gorgeous virgin who just can't seem to get laid. But her village getting decimated by raiders doesn't keep her down in the dumps for long! Picking up a sword that happens to be housing an extraordinary perver-… Er, the former prince, she sets off on an epic journey of revenge with various degenerat-… Ahem, heroes!\n<BR><BR>\n(Source: Comikey)",
+      "score": 37672.0,
+      "url": "https://anilist.co/manga/99324",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 83,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-168468",
+      "title": "Boruto: Two Blue Vortex",
+      "source": "AniList",
+      "category": "manga",
+      "score": 22586.0,
+      "url": "https://anilist.co/manga/168468",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168468-FEo5x1ZZyWj4.png",
+      "description": "With everyone's memories having been altered, Boruto finds himself being hunted by his own village. After escaping with Sasuke, what future awaits Boruto...?\n<br><br>\n(Source: MANGA Plus)",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
-        "Drama",
-        "Ecchi",
         "Fantasy",
         "Supernatural"
       ],
       "metadata": {
         "average_score": 75,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-174315",
-      "title": "My Sister's Best Friend",
-      "source": "AniList",
-      "category": "manga",
-      "score": 11090.0,
-      "url": "https://anilist.co/manga/174315",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174315-ww59pBzOsNrM.jpg",
-      "description": "Hina, Asahi's older sister's best friend, is always hanging around the house he shares with his sister. She's unbelievably beautiful, irresistibly cute... and has absolutely no sense of personal space. Before he knows it, Asahi—a nerdy high school boy—is completely swept up into her antics. A gorgeous trendy girl with no concept of boundaries and a dependable, doting high school boy... They're both hopelessly in love with each other, yet neither can bring themselves to confess in this sweet, frustratingly adorable romance!<br><br>(Source: MANGA MILLION)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 74,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-199999",
-      "title": "WITCHRIV",
-      "source": "AniList",
-      "category": "manga",
-      "score": 7614.0,
-      "url": "https://anilist.co/manga/199999",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199999-O8TW8Ufc3sXv.png",
-      "description": "A girl named Nona lives in plain sight among humans, hiding her true identity as a mage as she spends her days in peace with her best friend Lovi. But one day, Nona uses magic to fix Lovi's glasses and subsequently catches the attention of the Bureau of Magic Surveillance. A simple good deed becomes the trigger that sets Nona's destiny in motion...\n<br><br>\n(Source: MANGA Plus)",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Mystery"
-      ],
-      "metadata": {
-        "average_score": 72,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-177188",
-      "title": "My Girlfriend Is a Colossal Cutie",
-      "source": "AniList",
-      "category": "manga",
-      "score": 6563.0,
-      "url": "https://anilist.co/manga/177188",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177188-nRhcfhOSCGXo.png",
-      "description": "Who says a short king can’t find love? In fact, not only does Amane have an adorably cute girlfriend with a smile that lights up the whole world, she also happens to be the tallest person in class! It may be a challenge for these two goofballs to work around their height differences—especially since they’re keeping it on the down-low to avoid being teased about it—but with a positive attitude and a lotta love, this height-gap romantic comedy will leave you wanting more!\n<br><br>\n(Source: Yen Press)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 73,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-201855",
-      "title": "Futari Bus",
-      "source": "AniList",
-      "category": "manga",
-      "score": 4123.0,
-      "url": "https://anilist.co/manga/201855",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
-      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 76,
         "country_of_origin": "JP",
         "format": "MANGA"
       },

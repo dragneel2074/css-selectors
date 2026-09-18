@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17T03:13:38Z",
-  "date": "2026-09-17",
+  "generated_at_utc": "2026-09-18T03:00:45Z",
+  "date": "2026-09-18",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -23,112 +23,22 @@
   ],
   "items": [
     {
-      "id": "webnovel-book-delayed-for-four-lifetimes-i-awaken-by-investing-in-my-crippled-wife_36649175400835705",
-      "title": "Delayed For Four Lifetimes: I Awaken By Investing In My Crippled Wife",
+      "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "title": "Investing In My Wives And Get 10,000x to 100,000x Rewards",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 9.0,
-      "url": "https://www.webnovel.com/book/delayed-for-four-lifetimes-i-awaken-by-investing-in-my-crippled-wife_36649175400835705",
-      "image": "https://book-pic.webnovel.com/bookcover/36649175400835705?imageMogr2/thumbnail/600x&imageId=1789321050959",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # SLICEOFLIFE # CULTIVATION # GENIUS # APOCALYPSE # NO-HAREM",
+      "url": "https://www.webnovel.com/book/investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "image": "https://book-pic.webnovel.com/bookcover/36460679408969605?imageMogr2/thumbnail/600x&imageId=1789050120837",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # URBAN # INVINCIBLE # ORIGINAL # FACESLAPPING",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 3.0,
-      "velocity": 2.0
-    },
-    {
-      "id": "webnovel-book-taboo-online_36197302000146005",
-      "title": "Taboo Online",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 5.0,
-      "url": "https://www.webnovel.com/book/taboo-online_36197302000146005",
-      "image": "https://book-pic.webnovel.com/bookcover/36197302000146005?imageMogr2/thumbnail/600x&imageId=1788491762099",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # SUPERPOWERS # HAREM # 18",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 2.0,
-      "velocity": 1.5
-    },
-    {
-      "id": "webnovel-book-10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
-      "title": "10,000x Rebate System: Every Return Makes Me Stronger",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 11.0,
-      "url": "https://www.webnovel.com/book/10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
-      "image": "https://book-pic.webnovel.com/bookcover/36638711008579005?imageMogr2/thumbnail/600x&imageId=1788032934192",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # POORTORICH",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
-      "velocity": 0.5714285714285714
-    },
-    {
-      "id": "webnovel-book-succubus-world---start-with-incubus-system_36452382100861105",
-      "title": "Succubus World - Start with Incubus System",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/succubus-world---start-with-incubus-system_36452382100861105",
-      "image": "https://book-pic.webnovel.com/bookcover/36452382100861105?imageMogr2/thumbnail/600x&imageId=1784644952422",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # SLICEOFLIFE # CULTIVATION # LEVELUP # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": 0.3333333333333333
-    },
-    {
-      "id": "webnovel-book-my-planet-is-infested-with-goblins_36530379008569205",
-      "title": "My planet is infested with Goblins",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/my-planet-is-infested-with-goblins_36530379008569205",
-      "image": "https://book-pic.webnovel.com/bookcover/36530379008569205?imageMogr2/thumbnail/600x&imageId=1786977303307",
-      "description": "# DARK # OVERPOWERED # REVENGE # GENIUS # KINGDOMBUILDING # ACADEMY",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 11.0,
-      "velocity": 0.18181818181818182
-    },
-    {
-      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
-      "title": "SSS Awakening: I am the First Legendary Mage",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 14.0,
-      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
-      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
-      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": 0.07692307692307693
+      "previous_score": 6.0,
+      "velocity": 0.5
     },
     {
       "id": "webnovel-book-investing-in-my-three-crippled-wives-get-10-000x-times-return_36191927408967005",
@@ -167,11 +77,101 @@
       "velocity": 0.0
     },
     {
+      "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "title": "SSS Awakening: I am the First Legendary Mage",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 14.0,
+      "url": "https://www.webnovel.com/book/sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
+      "image": "https://book-pic.webnovel.com/bookcover/36357645008976005?imageMogr2/thumbnail/600x&imageId=1783669203859",
+      "description": "# ACTION # ADVENTURE # SYSTEM # MAGIC # R18 # COMEDY # OVERPOWERED # LEVELUP # APOCALYPSE # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 14.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-my-planet-is-infested-with-goblins_36530379008569205",
+      "title": "My planet is infested with Goblins",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/my-planet-is-infested-with-goblins_36530379008569205",
+      "image": "https://book-pic.webnovel.com/bookcover/36530379008569205?imageMogr2/thumbnail/600x&imageId=1786977303307",
+      "description": "# DARK # OVERPOWERED # REVENGE # GENIUS # KINGDOMBUILDING # ACADEMY",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 13.0,
+      "velocity": -0.07692307692307693
+    },
+    {
+      "id": "webnovel-book-delayed-for-four-lifetimes-i-awaken-by-investing-in-my-crippled-wife_36649175400835705",
+      "title": "Delayed For Four Lifetimes: I Awaken By Investing In My Crippled Wife",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/delayed-for-four-lifetimes-i-awaken-by-investing-in-my-crippled-wife_36649175400835705",
+      "image": "https://book-pic.webnovel.com/bookcover/36649175400835705?imageMogr2/thumbnail/600x&imageId=1789321050959",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # SLICEOFLIFE # CULTIVATION # GENIUS # APOCALYPSE # NO-HAREM",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 9.0,
+      "velocity": -0.1111111111111111
+    },
+    {
+      "id": "webnovel-book-succubus-world---start-with-incubus-system_36452382100861105",
+      "title": "Succubus World - Start with Incubus System",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/succubus-world---start-with-incubus-system_36452382100861105",
+      "image": "https://book-pic.webnovel.com/bookcover/36452382100861105?imageMogr2/thumbnail/600x&imageId=1784644952422",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # HAREM # SLICEOFLIFE # CULTIVATION # LEVELUP # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 12.0,
+      "velocity": -0.16666666666666666
+    },
+    {
+      "id": "webnovel-book-10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
+      "title": "10,000x Rebate System: Every Return Makes Me Stronger",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
+      "image": "https://book-pic.webnovel.com/bookcover/36638711008579005?imageMogr2/thumbnail/600x&imageId=1788032934192",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # POORTORICH",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 11.0,
+      "velocity": -0.45454545454545453
+    },
+    {
       "id": "webnovel-book-sss-talent-my-undead-evolve-without-limits_36208184608216405",
       "title": "SSS Talent: My Undead Evolve Without Limits",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 10.0,
+      "score": 4.0,
       "url": "https://www.webnovel.com/book/sss-talent-my-undead-evolve-without-limits_36208184608216405",
       "image": "https://book-pic.webnovel.com/bookcover/36208184608216405?imageMogr2/thumbnail/600x&imageId=1785372606859",
       "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # MAGIC # WEAKTOSTRONG # OVERPOWERED # CULTIVATION # UNDEAD",
@@ -182,53 +182,53 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 10.0,
-      "velocity": 0.0
+      "velocity": -0.6
     },
     {
-      "id": "webnovel-book-i'm-the-only-magus-in-this-witch-world_36650786200865305",
-      "title": "I'm the Only Magus in This Witch World",
+      "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "title": "Starting as the Baron of the Lonely Island",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
+      "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-global-flood-i-survive-on-duckweed_36021691308567905",
+      "title": "Global Flood: I Survive on Duckweed",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 11.0,
+      "url": "https://www.webnovel.com/book/global-flood-i-survive-on-duckweed_36021691308567905",
+      "image": "https://book-pic.webnovel.com/bookcover/36021691308567905?imageMogr2/thumbnail/600x&imageId=1784773380765",
+      "description": "# SYSTEM # SURVIVAL # KINGDOMBUILDING # APOCALYPSE # GLOBAL",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "webnovel-book-i'm-just-a-beast-tamer_36280065808695305",
+      "title": "I'm Just a Beast Tamer",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 7.0,
-      "url": "https://www.webnovel.com/book/i'm-the-only-magus-in-this-witch-world_36650786200865305",
-      "image": "https://book-pic.webnovel.com/bookcover/36650786200865305?imageMogr2/thumbnail/600x&imageId=1789231735290",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # MYSTERY # HAREM # ANTIHERO",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 8.0,
-      "velocity": -0.125
-    },
-    {
-      "id": "webnovel-book-immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
-      "title": "Immortal Ascension Through Marriage: Investing in My Wife Get Returns",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/immortal-ascension-through-marriage-investing-in-my-wife-get-returns_36389994900568305",
-      "image": "https://book-pic.webnovel.com/bookcover/36389994900568305?imageMogr2/thumbnail/600x&imageId=1788852848765",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # OVERPOWERED # TRANSMIGRATION # CULTIVATION # IMMORTAL # NO-HAREM # XIANXIA",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 5.0,
-      "velocity": -0.2
-    },
-    {
-      "id": "webnovel-book-global-pvp-tower-i-can-infinitely-merge-my-units_36586212908539105",
-      "title": "Global PvP Tower: I Can Infinitely Merge My Units",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/global-pvp-tower-i-can-infinitely-merge-my-units_36586212908539105",
-      "image": "https://book-pic.webnovel.com/bookcover/36586212908539105?imageMogr2/thumbnail/600x&imageId=1789028898875",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # MAGIC # R18 # WEAKTOSTRONG # COMEDY # MYSTERY # OVERPOWERED",
+      "url": "https://www.webnovel.com/book/i'm-just-a-beast-tamer_36280065808695305",
+      "image": "https://book-pic.webnovel.com/bookcover/36280065808695305?imageMogr2/thumbnail/600x&imageId=1786586497960",
+      "description": "# WEAKTOSTRONG # TRANSMIGRATION # LEVELUP # GOLDENFINGER # BEAST TAMING",
       "genres": [
         "Web Novel"
       ],
@@ -239,14 +239,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
-      "title": "Investing In My Wives And Get 10,000x to 100,000x Rewards",
+      "id": "webnovel-book-comprehending-myriad-techniques-as-woodcutter_35744410708535405",
+      "title": "Comprehending Myriad Techniques as Woodcutter",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
-      "image": "https://book-pic.webnovel.com/bookcover/36460679408969605?imageMogr2/thumbnail/600x&imageId=1789050120837",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # URBAN # INVINCIBLE # ORIGINAL # FACESLAPPING",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/comprehending-myriad-techniques-as-woodcutter_35744410708535405",
+      "image": "https://book-pic.webnovel.com/bookcover/35744410708535405?imageMogr2/thumbnail/600x&imageId=1782372376930",
+      "description": "# SYSTEM # WEAKTOSTRONG # TRANSMIGRATION",
       "genres": [
         "Web Novel"
       ],
@@ -257,14 +257,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-re-lord-of-time_36227421208552405",
-      "title": "RE: LORD OF TIME",
+      "id": "webnovel-book-turns-out-i'm-the-real-monster-!_36279869108690005",
+      "title": "Turns Out I'm the Real Monster?!",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 3.0,
-      "url": "https://www.webnovel.com/book/re-lord-of-time_36227421208552405",
-      "image": "https://book-pic.webnovel.com/bookcover/36227421208552405?imageMogr2/thumbnail/600x&imageId=1789375149085",
-      "description": "# ACTION # ROMANCE # ADVENTURE # MAGIC # OVERPOWERED # GENIUS # ACADEMY # EVOLUTION",
+      "url": "https://www.webnovel.com/book/turns-out-i'm-the-real-monster-!_36279869108690005",
+      "image": "https://book-pic.webnovel.com/bookcover/36279869108690005?imageMogr2/thumbnail/600x&imageId=1786599859920",
+      "description": "# CULTIVATION # SUSPENSE",
       "genres": [
         "Web Novel"
       ],
@@ -275,14 +275,14 @@
       "velocity": null
     },
     {
-      "id": "webnovel-book-primordial-red-goblin_36226469500609005",
-      "title": "Primordial Red Goblin",
+      "id": "webnovel-book-my-iq-increases-year-by-year_36021118300653005",
+      "title": "My IQ Increases Year by Year",
       "source": "WebNovel",
       "category": "web_novel",
       "score": 2.0,
-      "url": "https://www.webnovel.com/book/primordial-red-goblin_36226469500609005",
-      "image": "https://book-pic.webnovel.com/bookcover/36226469500609005?imageMogr2/thumbnail/600x&imageId=1782533439715",
-      "description": "# ADVENTURE # SYSTEM # R18 # HAREM # SURVIVAL # ISEKAI # SMUT # KINGDOMBUILDING # IMMORTAL # LITRPG",
+      "url": "https://www.webnovel.com/book/my-iq-increases-year-by-year_36021118300653005",
+      "image": "https://book-pic.webnovel.com/bookcover/36021118300653005?imageMogr2/thumbnail/600x&imageId=1784184955386",
+      "description": "# GENIUS # CAMPUS",
       "genres": [
         "Web Novel"
       ],
