@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-18T03:00:45Z",
-  "date": "2026-09-18",
+  "generated_at_utc": "2026-09-19T02:58:39Z",
+  "date": "2026-09-19",
   "category": "manhua",
-  "item_count": 1,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 27489.0,
+      "score": 27508.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -37,6 +37,27 @@
       ],
       "metadata": {
         "average_score": 82,
+        "country_of_origin": "CN",
+        "format": "MANGA"
+      },
+      "previous_score": 27489.0,
+      "velocity": 0.0006911855651351449
+    },
+    {
+      "id": "anilist-manga-197224",
+      "title": "All-Class Awakening: God Slayer",
+      "source": "AniList",
+      "category": "manhua",
+      "score": 3919.0,
+      "url": "https://anilist.co/manga/197224",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b197224-Pvwfb85Sswpl.jpg",
+      "description": "Elias Bai, Captain of God's Legion, stood as the world's strongest Awakener until a brutal betrayal claimed his entire squad. Dying as a mere pawn of the ruling elite, he suddenly wakes up twenty years in the past—back in middle school, long before his awakening. With his loved ones still alive, Elias refuses to let history repeat itself. To save his team, exact vengeance on the traitor, and overthrow the corrupt system, he must walk a lonely road to unrivaled power.\n<br><br>\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 67,
         "country_of_origin": "CN",
         "format": "MANGA"
       },

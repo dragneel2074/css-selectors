@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-18T03:00:45Z",
-  "date": "2026-09-18",
+  "generated_at_utc": "2026-09-19T02:58:39Z",
+  "date": "2026-09-19",
   "category": "manga",
-  "item_count": 4,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,86 +23,46 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-140475",
-      "title": "The Fragrant Flower Blooms With Dignity",
+      "id": "anilist-manga-106064",
+      "title": "Chained Soldier",
       "source": "AniList",
       "category": "manga",
-      "score": 79267.0,
-      "url": "https://anilist.co/manga/140475",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg",
-      "description": "This story takes place in a particular town with two infamous schools in constant dispute: Chidori High, a boys' school predominantly attended by low-class students with damning grades, and its neighbor Kikyo Girls' High, with most of its female students coming from wealthy and prestigious families. One day, high school second-year Rintaro Tsumugi, a fierce-looking but gentle-minded student at Chidori, is helping at his family's patisserie when he encounters a female customer by the name of Kaoruko Waguri. Rintaro enjoys his time with Kaoruko, as she doesn't judge him for his appearance, but this blissful peace is quickly disturbed when Rintaro makes the discovery that Kaoruko is actually a student at Kikyo. This revelation marks the beginning of the two's strenuous tale, as they fight against the limitations placed upon them by their schools and surroundings in an attempt to find their own path!\n<br><br>\n(Source: K Manga)",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 86,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 79197.0,
-      "velocity": 0.000883871863833226
-    },
-    {
-      "id": "anilist-manga-46765",
-      "title": "Kingdom",
-      "source": "AniList",
-      "category": "manga",
-      "score": 76295.0,
-      "url": "https://anilist.co/manga/46765",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png",
-      "description": "Xin is a war orphan in a poor village in the kingdom of Qin. He has big dreams of becoming a great general, and when his best friend’s life is cut short by political machinations, Xin sets off to find a deposed ruler and help restore his place on the throne, while working his way up through the ranks of the Qin kingdom’s army to do what no one has ever done before—unify China.\n<br><br>\n(Source: VIZ Media)",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "metadata": {
-        "average_score": 89,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
-      "source": "AniList",
-      "category": "manga",
-      "score": 37672.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 83,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-168468",
-      "title": "Boruto: Two Blue Vortex",
-      "source": "AniList",
-      "category": "manga",
-      "score": 22586.0,
-      "url": "https://anilist.co/manga/168468",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168468-FEo5x1ZZyWj4.png",
-      "description": "With everyone's memories having been altered, Boruto finds himself being hunted by his own village. After escaping with Sasuke, what future awaits Boruto...?\n<br><br>\n(Source: MANGA Plus)",
+      "score": 54950.0,
+      "url": "https://anilist.co/manga/106064",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
+      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
       "genres": [
         "Action",
         "Adventure",
+        "Drama",
+        "Ecchi",
         "Fantasy",
-        "Supernatural"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 75,
+        "average_score": 74,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-188841",
+      "title": "Lazy Girl Momogusa",
+      "source": "AniList",
+      "category": "manga",
+      "score": 2414.0,
+      "url": "https://anilist.co/manga/188841",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188841-6nwtfhW2afnr.jpg",
+      "description": "Souji Hataki is an ordinary high school boy who has just landed the perfect new part-time job as a housekeeper for the house of Momogusa. What’s so significant about that? It just so happens to be the home of the most beautiful girl in school! Perfect, pretty, and popular, Momogusa-san is amazing at everything she does and now Hataki will have a chance to see her in her element. But, he quickly learns something shocking: Momogusa is incredibly lazy at home! The moment she’s home from school, she seems to transform into a totally different version of herself and even expects to be pampered! Somehow she grows fond of Hataki and even begins to let him pamper her. Could this be the start of some sort of relationship or is Hataki just a glorified manservant?\n<br>\n<br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 58,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
