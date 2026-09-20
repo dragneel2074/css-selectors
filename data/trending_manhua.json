@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-19T02:58:39Z",
-  "date": "2026-09-19",
+  "generated_at_utc": "2026-09-20T03:11:11Z",
+  "date": "2026-09-20",
   "category": "manhua",
   "item_count": 2,
   "errors": [
@@ -40,24 +40,25 @@
         "country_of_origin": "CN",
         "format": "MANGA"
       },
-      "previous_score": 27489.0,
-      "velocity": 0.0006911855651351449
+      "previous_score": 27508.0,
+      "velocity": 0.0
     },
     {
-      "id": "anilist-manga-197224",
-      "title": "All-Class Awakening: God Slayer",
+      "id": "anilist-manga-160980",
+      "title": "Log Into The Future",
       "source": "AniList",
       "category": "manhua",
-      "score": 3919.0,
-      "url": "https://anilist.co/manga/197224",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b197224-Pvwfb85Sswpl.jpg",
-      "description": "Elias Bai, Captain of God's Legion, stood as the world's strongest Awakener until a brutal betrayal claimed his entire squad. Dying as a mere pawn of the ruling elite, he suddenly wakes up twenty years in the past—back in middle school, long before his awakening. With his loved ones still alive, Elias refuses to let history repeat itself. To save his team, exact vengeance on the traitor, and overthrow the corrupt system, he must walk a lonely road to unrivaled power.\n<br><br>\n(Source: WEBTOON)",
+      "score": 14940.0,
+      "url": "https://anilist.co/manga/160980",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg",
+      "description": "300 years after mutated beasts ravaged the world, humanity began to lose ground, with only martial arts as their last line of defense. Lu Sheng mysteriously gains the power to journey 10,000 years into the future, only to find humanity has disappeared. However, he acquires the culminated martial arts wisdom to fight back against these monsters, honing his skills to the pinnacle. Armed with this new-found knowledge, can Lu Sheng emerge as the final beacon of hope for humanity's survival?\n<BR><BR>\n(Source: Tapas, edited)",
       "genres": [
         "Action",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 67,
+        "average_score": 71,
         "country_of_origin": "CN",
         "format": "MANGA"
       },
