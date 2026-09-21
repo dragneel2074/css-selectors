@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-20T03:11:11Z",
-  "date": "2026-09-20",
+  "generated_at_utc": "2026-09-21T03:08:04Z",
+  "date": "2026-09-21",
   "category": "manga",
-  "item_count": 2,
+  "item_count": 3,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,45 +23,65 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-106064",
-      "title": "Chained Soldier",
+      "id": "anilist-manga-149544",
+      "title": "The Guy She Was Interested In Wasn't a Guy at All",
       "source": "AniList",
       "category": "manga",
-      "score": 54950.0,
-      "url": "https://anilist.co/manga/106064",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106064-WBMhTOo7UQ20.png",
-      "description": "Decades ago, gates to an otherworldly and dangerous dimension known as Mato—the “Demon City”—appeared across Japan. Those who partook in the “peaches” growing there gained unique abilities—but only if they’re girls. When down-in-the-dumps high school boy Yuuki Wakura finds himself caught up in a gate, he’s saved by Kyouka Uzen, the beautiful commander of the 7th squad of the Demon Defense Force, who…orders him to become her slave?!\n<BR><BR>\n(Source: Yen Press)",
+      "score": 52049.0,
+      "url": "https://anilist.co/manga/149544",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
+      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Ecchi",
-        "Fantasy",
+        "Music",
         "Romance"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 54950.0,
-      "velocity": 0.0
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-203593",
-      "title": "Streaming My Second Life",
+      "id": "anilist-manga-101557",
+      "title": "The Dangers in My Heart",
       "source": "AniList",
       "category": "manga",
-      "score": 4286.0,
-      "url": "https://anilist.co/manga/203593",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203593-L46M3wKxLkc2.jpg",
-      "description": "Twenty years ago, legendary player Lee Suhyeok was killed by a trusted friend during a tower raid. Now he’s back, reincarnated in a much weaker body and forced to restart from level one. Fueled by vengeance, he begins the climb again, but without money or his former abilities, there’s no way he can get his revenge… until he starts streaming. As his stats rise with his view count, Suhyeok turns his revenge into a viral spectacle that no one, not even his killer, will ever see coming.<br><br>(Source: Tapas)",
+      "score": 35935.0,
+      "url": "https://anilist.co/manga/101557",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
+      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
       "genres": [
-        "Action",
-        "Fantasy"
+        "Comedy",
+        "Romance",
+        "Slice of Life"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-167423",
+      "title": "Noa-senpai wa Tomodachi.",
+      "source": "AniList",
+      "category": "manga",
+      "score": 9651.0,
+      "url": "https://anilist.co/manga/167423",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
+      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 70,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
