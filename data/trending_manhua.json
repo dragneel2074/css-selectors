@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-21T03:08:04Z",
-  "date": "2026-09-21",
+  "generated_at_utc": "2026-09-22T03:07:36Z",
+  "date": "2026-09-22",
   "category": "manhua",
-  "item_count": 2,
+  "item_count": 1,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -23,39 +23,18 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-116353",
-      "title": "The Devil Butler",
+      "id": "anilist-manga-142287",
+      "title": "I Am The Fated Villain",
       "source": "AniList",
       "category": "manhua",
-      "score": 27539.0,
-      "url": "https://anilist.co/manga/116353",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
-      "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "CN",
-        "format": "MANGA"
-      },
-      "previous_score": 27508.0,
-      "velocity": 0.0011269448887596335
-    },
-    {
-      "id": "anilist-manga-138726",
-      "title": "Rebirth Of The Ultimate Master",
-      "source": "AniList",
-      "category": "manhua",
-      "score": 10556.0,
-      "url": "https://anilist.co/manga/138726",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138726-ysRy6zaQMWT8.jpg",
-      "description": "What happens when a former martial emperor gets reborn into a complete loser's body? Gu Feiyang, a legendary martial artist who was ranked third-strongest in the continent, finds himself in this predicament when he wakes up in the body of 15-year-old Li Yunxiao. Li Yunxiao was once a failure who had yet to open a single chakra portal in his body, but now he's morphed into a genius martial artist overnight and becomes the talk (and target) of the town. Armed with the expertise of his former life, Li Yunxiao is on a mission to complete the ultimate incantation that killed him in the first place - all while wiping the floor with his former bullies at school. Will he be able to exceed the accomplishments of his previous life? One thing's for certain: no one will ever call him a loser again!\n<br><br>\n(Source: Tappytoon, edited)\n<br><br>\n<i>\nNote: The title of the manhua changed from 万古至尊 to 这一世我要当至尊 starting from Ch. 14.\n</i>",
+      "score": 15628.0,
+      "url": "https://anilist.co/manga/142287",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg",
+      "description": "A transmigrator awoke in the world of martial arts and became the villain named Gu Changge. His goal is to harvest the luck of those called \"the Son of Fate\" in order to become the strongest. With the Sons of Fate as his deranged enemies, he changes the destiny of being a villain.<br><br>(Source: INKR)",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {

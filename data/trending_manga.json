@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-21T03:08:04Z",
-  "date": "2026-09-21",
+  "generated_at_utc": "2026-09-22T03:07:36Z",
+  "date": "2026-09-22",
   "category": "manga",
   "item_count": 3,
   "errors": [
@@ -23,42 +23,22 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-149544",
-      "title": "The Guy She Was Interested In Wasn't a Guy at All",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 52049.0,
-      "url": "https://anilist.co/manga/149544",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg",
-      "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
+      "score": 233242.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
-        "Music",
-        "Romance"
-      ],
-      "metadata": {
-        "average_score": 82,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": null,
-      "velocity": null
-    },
-    {
-      "id": "anilist-manga-101557",
-      "title": "The Dangers in My Heart",
-      "source": "AniList",
-      "category": "manga",
-      "score": 35935.0,
-      "url": "https://anilist.co/manga/101557",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg",
-      "description": "Ichikawa Kyoutarou, a boy barely clinging to the bottom rung of his school’s social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates’ peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro’s not nearly the troubled teen he pretends to be…and it turns out Anna’s a bit odd herself!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Notes:<br>\n- Winner of the Tsugi ni Kuru Web Manga 2020 Award.<br>\n- Nominee for the 2020 Manga Taisho Award.</i>",
-      "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
-        "Romance",
-        "Slice of Life"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 81,
+        "average_score": 91,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -66,22 +46,43 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-167423",
-      "title": "Noa-senpai wa Tomodachi.",
+      "id": "anilist-manga-107540",
+      "title": "Loner Life in Another World",
       "source": "AniList",
       "category": "manga",
-      "score": 9651.0,
-      "url": "https://anilist.co/manga/167423",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
-      "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
+      "score": 18605.0,
+      "url": "https://anilist.co/manga/107540",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107540-vjzxizt1PVLS.jpg",
+      "description": "IS ONE REALLY THE LONELIEST NUMBER?<br>\n<br>\nHaruka is just your average high school loner, minding his own business and keeping to himself as he makes it through his high school career, until one day—he's suddenly sent to another world alongside the rest of his class!<br>\n<br>\nBefore he knows it, he’s face-to-face with the god of this new world, who presents him with a list of cheat skills to choose from…but there’s a catch. It’s first come first served, and his classmates have already beaten him to the punch.<br>\n<br>\nHaruka has to make do with what he can get as he navigates his way through this brave new world, all while flying solo!<br>\n<br>\n(Source: Kaiten Books)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 64,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-188841",
+      "title": "Lazy Girl Momogusa",
+      "source": "AniList",
+      "category": "manga",
+      "score": 2440.0,
+      "url": "https://anilist.co/manga/188841",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188841-6nwtfhW2afnr.jpg",
+      "description": "Souji Hataki is an ordinary high school boy who has just landed the perfect new part-time job as a housekeeper for the house of Momogusa. What’s so significant about that? It just so happens to be the home of the most beautiful girl in school! Perfect, pretty, and popular, Momogusa-san is amazing at everything she does and now Hataki will have a chance to see her in her element. But, he quickly learns something shocking: Momogusa is incredibly lazy at home! The moment she’s home from school, she seems to transform into a totally different version of herself and even expects to be pampered! Somehow she grows fond of Hataki and even begins to let him pamper her. Could this be the start of some sort of relationship or is Hataki just a glorified manservant?\n<br>\n<br>\n(Source: Seven Seas Entertainment)",
       "genres": [
         "Comedy",
         "Ecchi",
-        "Romance",
-        "Slice of Life"
+        "Romance"
       ],
       "metadata": {
-        "average_score": 70,
+        "average_score": 58,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
