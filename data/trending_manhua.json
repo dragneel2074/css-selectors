@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-25T03:15:19Z",
-  "date": "2026-09-25",
+  "generated_at_utc": "2026-09-26T03:19:34Z",
+  "date": "2026-09-26",
   "category": "manhua",
-  "item_count": 1,
+  "item_count": 2,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "The Devil Butler",
       "source": "AniList",
       "category": "manhua",
-      "score": 27612.0,
+      "score": 27639.0,
       "url": "https://anilist.co/manga/116353",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116353-DYuIigXuPwpZ.jpg",
       "description": "As the Demon King, Yifan Zhuo uses his knowledge and power, collected over millennia, to defeat all foes, until the day he is betrayed. With his last breath, the demon king manages to reincarnate... but into the body of a puny young servant! To Yifan's dismay, the servant has a spirit bond with his mistress, Lady Luo. Yifan, now known as Fan, finds himself inexplicably drawn to Lady Luo and links his fate to her family. With Lady Luo at his side, will he regain his place as the Demon King?\n<br><br>\n(Source: Tapas)",
@@ -37,6 +37,27 @@
       ],
       "metadata": {
         "average_score": 82,
+        "country_of_origin": "CN",
+        "format": "MANGA"
+      },
+      "previous_score": 27612.0,
+      "velocity": 0.0009778357235984355
+    },
+    {
+      "id": "anilist-manga-207022",
+      "title": "The Glutton: Devourer of Kings",
+      "source": "AniList",
+      "category": "manhua",
+      "score": 2578.0,
+      "url": "https://anilist.co/manga/207022",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx207022-dFIFztWf4cZX.png",
+      "description": "Humanity's world was destroyed by the Demon Kings. Stripped of everything, Awakener Ash Si sacrificed himself in a devastating explosion to drag Demon King Voralune, The Glutton, down to hell. Instead of death, he opens his eyes ten years in the past, long before the tragedy occurred. He discovers his powers have awakened early, and surprisingly, he also possesses Voralune’s power of Gluttony. Armed with this advantage, Ash decides to act in advance. With his return, everything in the world seems to be changing...<br><bR>(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 72,
         "country_of_origin": "CN",
         "format": "MANGA"
       },

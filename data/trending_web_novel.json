@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-25T03:15:19Z",
-  "date": "2026-09-25",
+  "generated_at_utc": "2026-09-26T03:19:34Z",
+  "date": "2026-09-26",
   "category": "web_novel",
   "item_count": 15,
   "errors": [
@@ -27,7 +27,7 @@
       "title": "My Study Chat Group is Full of Real Big Shots",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 5.0,
+      "score": 7.0,
       "url": "https://www.webnovel.com/book/my-study-chat-group-is-full-of-real-big-shots_36020892100649505",
       "image": "https://book-pic.webnovel.com/bookcover/36020892100649505?imageMogr2/thumbnail/600x&imageId=1783499225495",
       "description": "# GENIUS # GOLDENFINGER",
@@ -37,62 +37,62 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
+      "previous_score": 5.0,
+      "velocity": 0.4
+    },
+    {
+      "id": "webnovel-book-evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
+      "title": "Evolution Online: My 10,000× Reward System Multiplies Everything",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 4.0,
+      "url": "https://www.webnovel.com/book/evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
+      "image": "https://book-pic.webnovel.com/bookcover/36276991400653805?imageMogr2/thumbnail/600x&imageId=1783626828540",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # SURVIVAL # HAREM # KINGDOMBUILDING # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
       "previous_score": 3.0,
-      "velocity": 0.6666666666666666
+      "velocity": 0.3333333333333333
     },
     {
-      "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
-      "title": "Investing In My Wives And Get 10,000x to 100,000x Rewards",
+      "id": "webnovel-book-10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
+      "title": "10,000x Rebate System: Every Return Makes Me Stronger",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 6.0,
-      "url": "https://www.webnovel.com/book/investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
-      "image": "https://book-pic.webnovel.com/bookcover/36460679408969605?imageMogr2/thumbnail/600x&imageId=1789050120837",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # URBAN # INVINCIBLE # ORIGINAL # FACESLAPPING",
+      "score": 8.0,
+      "url": "https://www.webnovel.com/book/10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
+      "image": "https://book-pic.webnovel.com/bookcover/36638711008579005?imageMogr2/thumbnail/600x&imageId=1788032934192",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # POORTORICH",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 4.0,
-      "velocity": 0.5
+      "previous_score": 7.0,
+      "velocity": 0.14285714285714285
     },
     {
-      "id": "webnovel-book-my-planet-is-infested-with-goblins_36530379008569205",
-      "title": "My planet is infested with Goblins",
+      "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
+      "title": "Who Says I'm Not a Proper Adventurer?",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 9.0,
-      "url": "https://www.webnovel.com/book/my-planet-is-infested-with-goblins_36530379008569205",
-      "image": "https://book-pic.webnovel.com/bookcover/36530379008569205?imageMogr2/thumbnail/600x&imageId=1786977303307",
-      "description": "# DARK # OVERPOWERED # REVENGE # GENIUS # KINGDOMBUILDING # ACADEMY",
+      "score": 13.0,
+      "url": "https://www.webnovel.com/book/who-says-i'm-not-a-proper-adventurer_36279671308685605",
+      "image": "https://book-pic.webnovel.com/bookcover/36279671308685605?imageMogr2/thumbnail/600x&imageId=1785830459949",
+      "description": "# ADVENTURE # TRANSMIGRATION # LEVELUP",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 8.0,
-      "velocity": 0.125
-    },
-    {
-      "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
-      "title": "Starting as the Baron of the Lonely Island",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 10.0,
-      "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
-      "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
-      "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 9.0,
-      "velocity": 0.1111111111111111
+      "previous_score": 12.0,
+      "velocity": 0.08333333333333333
     },
     {
       "id": "webnovel-book-sss-awakening-i-am-the-first-legendary-mage_36357645008976005",
@@ -138,7 +138,7 @@
       "score": 14.0,
       "url": "https://www.webnovel.com/book/beast-taming-my-beasts-grind-die-and-respawn_36342869900809405",
       "image": "https://book-pic.webnovel.com/bookcover/36342869900809405?imageMogr2/thumbnail/600x&imageId=1790288069276",
-      "description": "# SYSTEM # SURVIVAL # TRANSMIGRATION # ACTION # ADVENTURE # ROMANCE # WEAKTOSTRONG # COMEDY # BEAST TAMING # VIDEOGAME",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # WEAKTOSTRONG # COMEDY # SURVIVAL # TRANSMIGRATION # VIDEOGAME # BEAST TAMING",
       "genres": [
         "Web Novel"
       ],
@@ -146,42 +146,6 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 14.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-grinding-to-martial-emperor-from-the-border-army_36280023400781905",
-      "title": "Grinding to Martial Emperor from the Border Army",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 13.0,
-      "url": "https://www.webnovel.com/book/grinding-to-martial-emperor-from-the-border-army_36280023400781905",
-      "image": "https://book-pic.webnovel.com/bookcover/36280023400781905?imageMogr2/thumbnail/600x&imageId=1787122953856",
-      "description": "# TRANSMIGRATION # LEVELUP # MARTIALARTS",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 13.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-who-says-i'm-not-a-proper-adventurer_36279671308685605",
-      "title": "Who Says I'm Not a Proper Adventurer?",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 12.0,
-      "url": "https://www.webnovel.com/book/who-says-i'm-not-a-proper-adventurer_36279671308685605",
-      "image": "https://book-pic.webnovel.com/bookcover/36279671308685605?imageMogr2/thumbnail/600x&imageId=1785830459949",
-      "description": "# ADVENTURE # TRANSMIGRATION # LEVELUP",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 12.0,
       "velocity": 0.0
     },
     {
@@ -203,32 +167,14 @@
       "velocity": 0.0
     },
     {
-      "id": "webnovel-book-10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
-      "title": "10,000x Rebate System: Every Return Makes Me Stronger",
+      "id": "webnovel-book-starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "title": "Starting as the Baron of the Lonely Island",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 7.0,
-      "url": "https://www.webnovel.com/book/10-000x-rebate-system-every-return-makes-me-stronger_36638711008579005",
-      "image": "https://book-pic.webnovel.com/bookcover/36638711008579005?imageMogr2/thumbnail/600x&imageId=1788032934192",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # COMEDY # OVERPOWERED # HAREM # TRANSMIGRATION # POORTORICH",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 7.0,
-      "velocity": 0.0
-    },
-    {
-      "id": "webnovel-book-my-reconstruction-talent-is-too-op!!!_36335808808612805",
-      "title": "My Reconstruction Talent is too OP!!!",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 8.0,
-      "url": "https://www.webnovel.com/book/my-reconstruction-talent-is-too-op!!!_36335808808612805",
-      "image": "https://book-pic.webnovel.com/bookcover/36335808808612805?imageMogr2/thumbnail/600x&imageId=1787639398201",
-      "description": "# ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # MYSTERY # OVERPOWERED # HAREM # GENIUS # ACADEMY # EVOLUTION",
+      "score": 10.0,
+      "url": "https://www.webnovel.com/book/starting-as-the-baron-of-the-lonely-island_35744294008534205",
+      "image": "https://book-pic.webnovel.com/bookcover/35744294008534205?imageMogr2/thumbnail/600x&imageId=1782974529744",
+      "description": "# SYSTEM # KINGDOMBUILDING # SWORDANDMAGIC",
       "genres": [
         "Web Novel"
       ],
@@ -236,43 +182,25 @@
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
       "previous_score": 10.0,
-      "velocity": -0.2
+      "velocity": 0.0
     },
     {
-      "id": "webnovel-book-i'm-the-only-magus-in-this-witch-world_36650786200865305",
-      "title": "I'm the Only Magus in This Witch World",
+      "id": "webnovel-book-my-planet-is-infested-with-goblins_36530379008569205",
+      "title": "My planet is infested with Goblins",
       "source": "WebNovel",
       "category": "web_novel",
-      "score": 4.0,
-      "url": "https://www.webnovel.com/book/i'm-the-only-magus-in-this-witch-world_36650786200865305",
-      "image": "https://book-pic.webnovel.com/bookcover/36650786200865305?imageMogr2/thumbnail/600x&imageId=1790284806535",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # MYSTERY # HAREM # ANTIHERO",
+      "score": 9.0,
+      "url": "https://www.webnovel.com/book/my-planet-is-infested-with-goblins_36530379008569205",
+      "image": "https://book-pic.webnovel.com/bookcover/36530379008569205?imageMogr2/thumbnail/600x&imageId=1786977303307",
+      "description": "# DARK # OVERPOWERED # REVENGE # GENIUS # KINGDOMBUILDING # ACADEMY",
       "genres": [
         "Web Novel"
       ],
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": 5.0,
-      "velocity": -0.2
-    },
-    {
-      "id": "webnovel-book-evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
-      "title": "Evolution Online: My 10,000× Reward System Multiplies Everything",
-      "source": "WebNovel",
-      "category": "web_novel",
-      "score": 3.0,
-      "url": "https://www.webnovel.com/book/evolution-online-my-10-000%C3%97-reward-system-multiplies-everything_36276991400653805",
-      "image": "https://book-pic.webnovel.com/bookcover/36276991400653805?imageMogr2/thumbnail/600x&imageId=1783626828540",
-      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # SURVIVAL # HAREM # KINGDOMBUILDING # EVOLUTION",
-      "genres": [
-        "Web Novel"
-      ],
-      "metadata": {
-        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
-      },
-      "previous_score": 6.0,
-      "velocity": -0.5
+      "previous_score": 9.0,
+      "velocity": 0.0
     },
     {
       "id": "webnovel-book-pampering-discarded-heroines-triggers-my-10-000x-rebate-system_36622541008282405",
@@ -289,8 +217,80 @@
       "metadata": {
         "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
       },
-      "previous_score": null,
-      "velocity": null
+      "previous_score": 2.0,
+      "velocity": 0.0
+    },
+    {
+      "id": "webnovel-book-grinding-to-martial-emperor-from-the-border-army_36280023400781905",
+      "title": "Grinding to Martial Emperor from the Border Army",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 12.0,
+      "url": "https://www.webnovel.com/book/grinding-to-martial-emperor-from-the-border-army_36280023400781905",
+      "image": "https://book-pic.webnovel.com/bookcover/36280023400781905?imageMogr2/thumbnail/600x&imageId=1787122953856",
+      "description": "# TRANSMIGRATION # LEVELUP # MARTIALARTS",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 13.0,
+      "velocity": -0.07692307692307693
+    },
+    {
+      "id": "webnovel-book-investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "title": "Investing In My Wives And Get 10,000x to 100,000x Rewards",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 5.0,
+      "url": "https://www.webnovel.com/book/investing-in-my-wives-and-get-10-000x-to-100-000x-rewards_36460679408969605",
+      "image": "https://book-pic.webnovel.com/bookcover/36460679408969605?imageMogr2/thumbnail/600x&imageId=1789050120837",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # R18 # OVERPOWERED # URBAN # INVINCIBLE # ORIGINAL # FACESLAPPING",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 6.0,
+      "velocity": -0.16666666666666666
+    },
+    {
+      "id": "webnovel-book-my-reconstruction-talent-is-too-op!!!_36335808808612805",
+      "title": "My Reconstruction Talent is too OP!!!",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 6.0,
+      "url": "https://www.webnovel.com/book/my-reconstruction-talent-is-too-op!!!_36335808808612805",
+      "image": "https://book-pic.webnovel.com/bookcover/36335808808612805?imageMogr2/thumbnail/600x&imageId=1787639398201",
+      "description": "# ADVENTURE # SYSTEM # R18 # WEAKTOSTRONG # MYSTERY # OVERPOWERED # HAREM # GENIUS # ACADEMY # EVOLUTION",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 8.0,
+      "velocity": -0.25
+    },
+    {
+      "id": "webnovel-book-i'm-the-only-magus-in-this-witch-world_36650786200865305",
+      "title": "I'm the Only Magus in This Witch World",
+      "source": "WebNovel",
+      "category": "web_novel",
+      "score": 3.0,
+      "url": "https://www.webnovel.com/book/i'm-the-only-magus-in-this-witch-world_36650786200865305",
+      "image": "https://book-pic.webnovel.com/bookcover/36650786200865305?imageMogr2/thumbnail/600x&imageId=1790284806535",
+      "description": "# ACTION # ROMANCE # ADVENTURE # SYSTEM # REINCARNATION # MAGIC # R18 # MYSTERY # HAREM # ANTIHERO",
+      "genres": [
+        "Web Novel"
+      ],
+      "metadata": {
+        "ranking_page": "https://www.webnovel.com/ranking/novel/season/best_sellers"
+      },
+      "previous_score": 4.0,
+      "velocity": -0.25
     }
   ]
 }
