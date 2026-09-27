@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-26T03:19:34Z",
-  "date": "2026-09-26",
+  "generated_at_utc": "2026-09-27T03:27:05Z",
+  "date": "2026-09-27",
   "category": "anime",
   "item_count": 15,
   "errors": [
@@ -23,32 +23,73 @@
   ],
   "items": [
     {
-      "id": "anilist-anime-194829",
-      "title": "From Old Country Bumpkin to Master Swordsman II",
+      "id": "anilist-anime-210482",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "source": "AniList",
       "category": "anime",
-      "score": 45677.0,
-      "url": "https://anilist.co/anime/194829",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-      "description": "Beryl Gardenant, a swordmaster from the countryside, is settling into his new life as a special instructor for the Royal Order of Knights and the guardian of an orphan. A peaceful life is not in the cards, however, and Beryl is confronted with new obstacles. At the magic institute, in his hometown, at the kingdom's border, away in a foreign land... It's time for Beryl to face new battles.\n<br><br>\n(Source: Prime Video)",
+      "score": 29237.0,
+      "url": "https://anilist.co/anime/210482",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
+      "description": "The second and third race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide.. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 85
+      },
+      "previous_score": 25690.0,
+      "velocity": 0.1380692876605683
+    },
+    {
+      "id": "anilist-anime-209983",
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "source": "AniList",
+      "category": "anime",
+      "score": 41919.0,
+      "url": "https://anilist.co/anime/209983",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+      "description": "The second season of <i>Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Surue</i>.",
+      "genres": [
+        "Action",
+        "Adventure",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 71
+        "average_score": 72
       },
-      "previous_score": 45304.0,
-      "velocity": 0.00823326858555536
+      "previous_score": 41502.0,
+      "velocity": 0.010047708544166546
+    },
+    {
+      "id": "anilist-anime-207141",
+      "title": "Chainsmoker Cat",
+      "source": "AniList",
+      "category": "anime",
+      "score": 76657.0,
+      "url": "https://anilist.co/anime/207141",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 69
+      },
+      "previous_score": 76015.0,
+      "velocity": 0.008445701506281655
     },
     {
       "id": "anilist-anime-196187",
       "title": "Smoking Behind the Supermarket with You",
       "source": "AniList",
       "category": "anime",
-      "score": 124676.0,
+      "score": 125474.0,
       "url": "https://anilist.co/anime/196187",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
       "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 10th, 2026.</i>",
@@ -60,15 +101,15 @@
       "metadata": {
         "average_score": 82
       },
-      "previous_score": 123722.0,
-      "velocity": 0.007710835583000598
+      "previous_score": 124676.0,
+      "velocity": 0.006400590330135712
     },
     {
       "id": "anilist-anime-180136",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
       "source": "AniList",
       "category": "anime",
-      "score": 64387.0,
+      "score": 64736.0,
       "url": "https://anilist.co/anime/180136",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
       "description": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br>\n<br>\n(Source: Crunchyroll)",
@@ -79,35 +120,36 @@
       "metadata": {
         "average_score": 67
       },
-      "previous_score": 63984.0,
-      "velocity": 0.006298449612403101
+      "previous_score": 64387.0,
+      "velocity": 0.0054203488281796015
     },
     {
-      "id": "anilist-anime-207141",
-      "title": "Chainsmoker Cat",
+      "id": "anilist-anime-182205",
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 76015.0,
-      "url": "https://anilist.co/anime/207141",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-      "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "score": 138405.0,
+      "url": "https://anilist.co/anime/182205",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+      "description": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
       "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
-        "Ecchi",
-        "Slice of Life"
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 68
+        "average_score": 83
       },
-      "previous_score": 75661.0,
-      "velocity": 0.00467876448897054
+      "previous_score": 137745.0,
+      "velocity": 0.00479146248502668
     },
     {
       "id": "anilist-anime-178789",
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
       "source": "AniList",
       "category": "anime",
-      "score": 161248.0,
+      "score": 161682.0,
       "url": "https://anilist.co/anime/178789",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
       "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
@@ -120,15 +162,34 @@
       "metadata": {
         "average_score": 85
       },
-      "previous_score": 160775.0,
-      "velocity": 0.0029419996890063752
+      "previous_score": 161248.0,
+      "velocity": 0.0026915062512403256
+    },
+    {
+      "id": "anilist-anime-135865",
+      "title": "Saga of Tanya the Evil Season 2",
+      "source": "AniList",
+      "category": "anime",
+      "score": 94822.0,
+      "url": "https://anilist.co/anime/135865",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+      "description": "The second season of <i>Youjo Senki</i>.",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 80
+      },
+      "previous_score": 94580.0,
+      "velocity": 0.002558680482131529
     },
     {
       "id": "anilist-anime-189046",
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 143444.0,
+      "score": 143745.0,
       "url": "https://anilist.co/anime/189046",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
       "description": "In the deadly battle at Priestella, Subaru and his allies emerged victorious, but at great cost. As Subaru searches for a way to save Rem, Crusch, and Julius, he learns of a \"wise woman,\" Shaula, an all-seeing being said to possess every form of knowledge, who resides at the Pleiades Watchtower. Subaru and his crew must brave the uncharted Auguria Dunes to reclaim what was lost.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Lucca Comics & Games pre-screened episode 1 early on November 1, 2025, prior to the Japanese television broadcast on July 8th, 2026.",
@@ -144,34 +205,15 @@
       "metadata": {
         "average_score": 90
       },
-      "previous_score": 143048.0,
-      "velocity": 0.0027683015491303618
-    },
-    {
-      "id": "anilist-anime-135865",
-      "title": "Saga of Tanya the Evil Season 2",
-      "source": "AniList",
-      "category": "anime",
-      "score": 94580.0,
-      "url": "https://anilist.co/anime/135865",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
-      "description": "The second season of <i>Youjo Senki</i>.",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 80
-      },
-      "previous_score": 94320.0,
-      "velocity": 0.00275657336726039
+      "previous_score": 143444.0,
+      "velocity": 0.002098379855553387
     },
     {
       "id": "anilist-anime-195600",
       "title": "Daemons of the Shadow Realm",
       "source": "AniList",
       "category": "anime",
-      "score": 138117.0,
+      "score": 138347.0,
       "url": "https://anilist.co/anime/195600",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
       "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
@@ -185,56 +227,15 @@
       "metadata": {
         "average_score": 78
       },
-      "previous_score": 137888.0,
-      "velocity": 0.0016607681596658157
-    },
-    {
-      "id": "anilist-anime-182205",
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "source": "AniList",
-      "category": "anime",
-      "score": 137745.0,
-      "url": "https://anilist.co/anime/182205",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-      "description": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "metadata": {
-        "average_score": 83
-      },
-      "previous_score": 137524.0,
-      "velocity": 0.0016069922340827783
-    },
-    {
-      "id": "anilist-anime-269",
-      "title": "Bleach",
-      "source": "AniList",
-      "category": "anime",
-      "score": 524086.0,
-      "url": "https://anilist.co/anime/269",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-      "description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Supernatural"
-      ],
-      "metadata": {
-        "average_score": 79
-      },
-      "previous_score": 523823.0,
-      "velocity": 0.0005020779919934788
+      "previous_score": 138117.0,
+      "velocity": 0.0016652548201886806
     },
     {
       "id": "anilist-anime-21",
       "title": "ONE PIECE",
       "source": "AniList",
       "category": "anime",
-      "score": 753962.0,
+      "score": 754267.0,
       "url": "https://anilist.co/anime/21",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
       "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
@@ -248,41 +249,42 @@
       "metadata": {
         "average_score": 87
       },
-      "previous_score": 753667.0,
-      "velocity": 0.0003914195526671594
+      "previous_score": 753962.0,
+      "velocity": 0.00040452967125664157
     },
     {
-      "id": "anilist-anime-209983",
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "id": "anilist-anime-184492",
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
       "source": "AniList",
       "category": "anime",
-      "score": 41502.0,
-      "url": "https://anilist.co/anime/209983",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-      "description": "The second season of <i>Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Surue</i>.",
+      "score": 42055.0,
+      "url": "https://anilist.co/anime/184492",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+      "description": "Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n<br><br>\n(Source: Crunchyroll News)",
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 71
+        "average_score": 80
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-182616",
-      "title": "The Elusive Samurai Season 2",
+      "id": "anilist-anime-171110",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "source": "AniList",
       "category": "anime",
-      "score": 27556.0,
-      "url": "https://anilist.co/anime/182616",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-DymJCBpkR4qs.jpg",
-      "description": "The second season of <i>Nige Jouzu no Wakagimi</i>.",
+      "score": 39261.0,
+      "url": "https://anilist.co/anime/171110",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+      "description": "Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!<br>\n<br>\n(Source: J-Novel Club)",
       "genres": [
-        "Action",
-        "Adventure"
+        "Drama",
+        "Fantasy",
+        "Slice of Life"
       ],
       "metadata": {
         "average_score": 76
@@ -291,42 +293,41 @@
       "velocity": null
     },
     {
-      "id": "anilist-anime-210482",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "id": "anilist-anime-199066",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
       "source": "AniList",
       "category": "anime",
-      "score": 25690.0,
-      "url": "https://anilist.co/anime/210482",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
-      "description": "The second and third race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide.. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
+      "score": 25818.0,
+      "url": "https://anilist.co/anime/199066",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+      "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>\n(Source: Crunchyroll)",
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Mystery",
+        "Comedy",
+        "Romance",
         "Supernatural"
       ],
       "metadata": {
-        "average_score": 84
+        "average_score": 69
       },
       "previous_score": null,
       "velocity": null
     },
     {
-      "id": "anilist-anime-188525",
-      "title": "Draw This, Then Die!",
+      "id": "anilist-anime-204389",
+      "title": "A Wild Last Boss Appeared! Season 2",
       "source": "AniList",
       "category": "anime",
-      "score": 11611.0,
-      "url": "https://anilist.co/anime/188525",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
-      "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br>\n<br>\n(Source: Crunchyroll)",
+      "score": 10688.0,
+      "url": "https://anilist.co/anime/204389",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+      "description": "The second season of <i>Yasei no Last Boss ga Arawareta!</i>",
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
       "metadata": {
-        "average_score": 78
+        "average_score": null
       },
       "previous_score": null,
       "velocity": null
