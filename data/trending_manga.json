@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-27T03:27:05Z",
-  "date": "2026-09-27",
+  "generated_at_utc": "2026-09-28T03:24:47Z",
+  "date": "2026-09-28",
   "category": "manga",
-  "item_count": 2,
+  "item_count": 9,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 233630.0,
+      "score": 233721.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,24 +42,181 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 233526.0,
-      "velocity": 0.00044534655670032457
+      "previous_score": 233630.0,
+      "velocity": 0.00038950477250353124
     },
     {
-      "id": "anilist-manga-203593",
-      "title": "Streaming My Second Life",
+      "id": "anilist-manga-74347",
+      "title": "One-Punch Man",
       "source": "AniList",
       "category": "manga",
-      "score": 4436.0,
-      "url": "https://anilist.co/manga/203593",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203593-L46M3wKxLkc2.jpg",
-      "description": "Twenty years ago, legendary player Lee Suhyeok was killed by a trusted friend during a tower raid. Now he’s back, reincarnated in a much weaker body and forced to restart from level one. Fueled by vengeance, he begins the climb again, but without money or his former abilities, there’s no way he can get his revenge… until he starts streaming. As his stats rise with his view count, Suhyeok turns his revenge into a viral spectacle that no one, not even his killer, will ever see coming.<br><br>(Source: Tapas)",
+      "score": 173950.0,
+      "url": "https://anilist.co/manga/74347",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-sZpmNJ5xLwRK.jpg",
+      "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,&rdquo; from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n<br><br>\n(Source: VIZ Media)",
       "genres": [
         "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 85,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-125828",
+      "title": "Sakamoto Days",
+      "source": "AniList",
+      "category": "manga",
+      "score": 89160.0,
+      "url": "https://anilist.co/manga/125828",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg",
+      "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-169355",
+      "title": "Kagurabachi",
+      "source": "AniList",
+      "category": "manga",
+      "score": 70575.0,
+      "url": "https://anilist.co/manga/169355",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png",
+      "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.\n<br><br>(Source: MANGA Plus)\n<br><br>\n<i>Note:<br>\n- Winner of the Tsugimanga 2024 Award in the Print Manga Category. <br>\n- Winner of the 4th Magademy Commitment Award. <br>\n- Nominee of the 70th Shogakukan Award. </i>",
+      "genres": [
+        "Action",
+        "Drama",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 73,
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-106758",
+      "title": "The Eminence in Shadow",
+      "source": "AniList",
+      "category": "manga",
+      "score": 47619.0,
+      "url": "https://anilist.co/manga/106758",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg",
+      "description": "One big fat lie and a few twisted truths.\n<br><br>\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!\n<br><br>\n(Source: Yen Press)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 80,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-180752",
+      "title": "Ichi the Witch",
+      "source": "AniList",
+      "category": "manga",
+      "score": 29525.0,
+      "url": "https://anilist.co/manga/180752",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180752-13CVO310XiEs.jpg",
+      "description": "Magic is alive and well in the world, inside beings known as Majiks. By completing a Majik’s trial, a Witch can gain its power. However, only women can become Witches or use magical items. All that changes one day when a young man named Ichi turns the world on its head by defeating an infamous Majik and gaining its magical powers!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 2025 Next Manga Award in the Print Manga Category.<br>\n- Ranked 11th in Da Vinci's 2025 Book of the Year ranking.<br>\n- Ranked 4th in the Men's Division of Takarajimasha's Kono Manga ga Sugoi! 2026 guidebook.<br>\n- Ranked 10th in the 19th Manga Taisho in 2026.<br>\n- Nominated for the 50th Kodansha Manga Award in the Shounen Category in 2026.</i>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-107120",
+      "title": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "source": "AniList",
+      "category": "manga",
+      "score": 21379.0,
+      "url": "https://anilist.co/manga/107120",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107120-uyam0WZ4523d.jpg",
+      "description": "Banaza, a humble merchant, is summoned to another world as a hero candidate, in the hopes that he has what it takes to defeat the demon army. When his summoners discover that he possesses no special skills, Banaza is summarily dismissed…but something goes wrong, and he can’t go back home. Now he must find a way to survive in this new kingdom. Luckily, Banaza might be more powerful than anyone–including Banaza himself–realized!\n<br><br>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Supernatural"
+      ],
+      "metadata": {
+        "average_score": 70,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-191203",
+      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "source": "AniList",
+      "category": "manga",
+      "score": 14155.0,
+      "url": "https://anilist.co/manga/191203",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191203-WKfUJ9rlqz7A.jpg",
+      "description": "A high school guy who doesn't trust girls anymore has been tricked too many times by girls who just wanted to get close to his good-looking older brother. After all that, he decides he’ll never trust a girl again.\n<br><br>\nBut then, a pretty girl in his class suddenly starts talking to him a lot. Is she just trying to get to his brother too…? Or does she actually mean something else?\n<br><br> (Source: Manga Park, translated)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 77,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-192834",
+      "title": "Me and the Prez, Drinking Under the Stars",
+      "source": "AniList",
+      "category": "manga",
+      "score": 4129.0,
+      "url": "https://anilist.co/manga/192834",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192834-AbRptlf1Q2uV.jpg",
+      "description": "At 24, Reina Izutsu has recently become the new president of Izutsu Printing after taking over for her late father. Young and not quite experienced, Reina wants to do her best but unfortunately comes across as harsh with her employees. Stressed and feeling lost, Reina spends an evening drowning her sorrows in beer at an empty park. She rants and vents out loud to the starry sky that she wants to give up and quit being president, just letting off steam. Except, she fails to realize that her subordinate, 37-year-old section chief Kenichi Ishizumi, heard her drunken ramblings! But rather than use this against her, Kenichi finds himself charmed by the young woman. He vows then and there to support her and help her find her way as company president, no matter what! \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 68,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
