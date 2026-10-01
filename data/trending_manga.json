@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-29T04:01:39Z",
-  "date": "2026-09-29",
+  "generated_at_utc": "2026-10-01T03:55:54Z",
+  "date": "2026-10-01",
   "category": "manga",
-  "item_count": 3,
+  "item_count": 5,
   "errors": [
     {
       "provider": "jikan_season_now",
@@ -27,7 +27,7 @@
       "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 233789.0,
+      "score": 233920.0,
       "url": "https://anilist.co/manga/30013",
       "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
       "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
@@ -42,26 +42,25 @@
         "country_of_origin": "JP",
         "format": "MANGA"
       },
-      "previous_score": 233721.0,
-      "velocity": 0.0002909451867825313
+      "previous_score": null,
+      "velocity": null
     },
     {
-      "id": "anilist-manga-101315",
-      "title": "Anjo the Mischievous Gal",
+      "id": "anilist-manga-106130",
+      "title": "Blue Lock",
       "source": "AniList",
       "category": "manga",
-      "score": 29766.0,
-      "url": "https://anilist.co/manga/101315",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101315-8qNFN4mJRYO2.jpg",
-      "description": "Seto, a studious but unremarkable student, constantly finds himself in provocative situations with Anjo, the popular girl in his class who can't seem to stop teasing him. A heart-pounding teen rom-com bursting with youthful passion!\n<br><br>\n(Source: Emaqi)\n<br><br>\n<i>Note: This is a serialisation of the web comic originally self-published on Pixiv.</i>",
+      "score": 124909.0,
+      "url": "https://anilist.co/manga/106130",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+      "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
+        "Action",
+        "Drama",
+        "Sports"
       ],
       "metadata": {
-        "average_score": 74,
+        "average_score": 82,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -69,14 +68,60 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-138380",
-      "title": "Gals Can’t Be Kind to Otaku!?",
+      "id": "anilist-manga-122063",
+      "title": "Shangri-La Frontier",
       "source": "AniList",
       "category": "manga",
-      "score": 13407.0,
-      "url": "https://anilist.co/manga/138380",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138380-7h0RN7XRiwxg.jpg",
-      "description": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n<br><br>\n(Source: Yen Press)",
+      "score": 22893.0,
+      "url": "https://anilist.co/manga/122063",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg",
+      "description": "Second year high school student Rakuro Hizutome is interested in one thing only: finding \"shitty games\" and beating the crap out of them. His gaming skills are second to none, and no game is too bad for him to enjoy. So when he's introduced to the new VR game Shangri-La Frontier, he does what he does best—min-maxes and skips the prologue to jump straight into the action. But can even an expert gamer like Rakuro discover all the secrets that Shangri-La Frontier hides...?\n<br><br>\n(Source: Kodansha USA)\n<br/>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "metadata": {
+        "average_score": 81,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201773",
+      "title": "Haimiya Is Scary Cute",
+      "source": "AniList",
+      "category": "manga",
+      "score": 19760.0,
+      "url": "https://anilist.co/manga/201773",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "metadata": {
+        "average_score": 79,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-201855",
+      "title": "Futari Bus",
+      "source": "AniList",
+      "category": "manga",
+      "score": 4308.0,
+      "url": "https://anilist.co/manga/201855",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201855-7dEgpKSZhWsH.jpg",
+      "description": "Shunpei lives in a rural town of barely 3,000 people. Every day, he rides the same bus as his classmate An Takayagawa, the only one who went off to a private middle school. The two haven’t really talked since elementary school... until one day, something gives them a reason to.\n<br><br>\nA soft, sky-blue not-quite-love comedy, born on a bus for two.<br>\n<br>\n(Source: Shogakukan, translated)",
       "genres": [
         "Comedy",
         "Romance"
