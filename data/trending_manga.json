@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-02T03:53:29Z",
-  "date": "2026-10-02",
+  "generated_at_utc": "2026-10-03T03:38:02Z",
+  "date": "2026-10-03",
   "category": "manga",
   "item_count": 3,
   "errors": [
@@ -23,42 +23,23 @@
   ],
   "items": [
     {
-      "id": "anilist-manga-201773",
-      "title": "Haimiya Is Scary Cute",
+      "id": "anilist-manga-105778",
+      "title": "Chainsaw Man",
       "source": "AniList",
       "category": "manga",
-      "score": 19894.0,
-      "url": "https://anilist.co/manga/201773",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
-      "description": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n<BR><BR>\n(Source: Manga UP!)",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
-      ],
-      "metadata": {
-        "average_score": 79,
-        "country_of_origin": "JP",
-        "format": "MANGA"
-      },
-      "previous_score": 19760.0,
-      "velocity": 0.006781376518218624
-    },
-    {
-      "id": "anilist-manga-46765",
-      "title": "Kingdom",
-      "source": "AniList",
-      "category": "manga",
-      "score": 76625.0,
-      "url": "https://anilist.co/manga/46765",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png",
-      "description": "Xin is a war orphan in a poor village in the kingdom of Qin. He has big dreams of becoming a great general, and when his best friend’s life is cut short by political machinations, Xin sets off to find a deposed ruler and help restore his place on the throne, while working his way up through the ranks of the Qin kingdom’s army to do what no one has ever done before—unify China.\n<br><br>\n(Source: VIZ Media)",
+      "score": 333705.0,
+      "url": "https://anilist.co/manga/105778",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105778-euxXZEIfDY2u.png",
+      "description": "The name says it all! Denji's life of poverty is changed forever when he merges with his pet chainsaw dog, Pochita! Now he's living in the big city and an official Devil Hunter. But he's got a lot to learn about his new job and chainsaw powers!<br>\n<br>\n(Source: MANGA Plus)<br>\n<br>\n<i>Notes:<br>\n- Nominated for the 2020 Manga Taisho Award.<br>\n- Winner of the 2021 Kono Manga ga Sugoi Award.<br>\n- Winner of the 66th Shogakukan Manga Award in the shounen category.<br>\n- Winner of the 2021 and 2022 Harvey Award for Best Manga.<br>\n- Chapters 1-97 were released in Weekly Shounen Jump from Dec 3, 2018 to Dec 13, 2020. The series resumed from Ch. 98 in Shounen Jump+ on July 12, 2022</i>",
       "genres": [
         "Action",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Supernatural"
       ],
       "metadata": {
-        "average_score": 89,
+        "average_score": 84,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
@@ -66,20 +47,43 @@
       "velocity": null
     },
     {
-      "id": "anilist-manga-99324",
-      "title": "Welcome to Demon School! Iruma-kun",
+      "id": "anilist-manga-30013",
+      "title": "One Piece",
       "source": "AniList",
       "category": "manga",
-      "score": 37988.0,
-      "url": "https://anilist.co/manga/99324",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
-      "description": "Iruma Suzuki has always been eager to please, even at the cost of his well-being. Worst yet, he's the son of two selfish parents who end up selling him to a demon. Thanks to their totally irresponsible actions, Iruma has found himself living in the Netherworld, where he must live and attend school as the grandson of an older demon. Luckily, his new, doting grandfather is there to help, but Iruma will have to figure out how to blend in with his demonic classmates or risk getting eaten. All he needs to do is subjugate rival classmates, summon familiars, and do other typical demon things while never revealing that he's human… Piece of cake, right?",
+      "score": 234026.0,
+      "url": "https://anilist.co/manga/30013",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+      "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
       "genres": [
+        "Action",
+        "Adventure",
         "Comedy",
         "Fantasy"
       ],
       "metadata": {
-        "average_score": 83,
+        "average_score": 91,
+        "country_of_origin": "JP",
+        "format": "MANGA"
+      },
+      "previous_score": null,
+      "velocity": null
+    },
+    {
+      "id": "anilist-manga-159655",
+      "title": "Kusunoki’s Flunking Her High School Glow-Up",
+      "source": "AniList",
+      "category": "manga",
+      "score": 11069.0,
+      "url": "https://anilist.co/manga/159655",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159655-Kv58QINz1rXm.jpg",
+      "description": "Keisuke Shizuki and Shizuka Kusunoki are taking high school by storm with their good looks, but they share a dark secret: they were both total outcasts in middle school! While Shizuki has succeeded in making himself over inside and out, clearing the slate of his past life, Kusunoki is still struggling to develop social skills to match her new appearance. She’s eager for Shizuki’s help, if only he could get over his phobia of pretty girls…\n<BR><BR>\n(Source: Kodansha USA)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "metadata": {
+        "average_score": 68,
         "country_of_origin": "JP",
         "format": "MANGA"
       },
